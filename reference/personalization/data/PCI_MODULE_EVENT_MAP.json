@@ -1,0 +1,230 @@
+{
+  "modules": [
+    {
+      "name": "Personal Command Center",
+      "topics": [
+        "program",
+        "goal",
+        "practice",
+        "review"
+      ],
+      "consumes_event_types": [
+        "activity.completed",
+        "activity.skipped",
+        "exercise.reviewed",
+        "goal.created",
+        "goal.updated",
+        "program.day_completed",
+        "program.day_skipped",
+        "program.paused",
+        "program.resumed",
+        "rehearsal.completed",
+        "scenario.completed"
+      ]
+    },
+    {
+      "name": "Self-Image Intelligence Lab",
+      "topics": [
+        "belief",
+        "identity",
+        "activity"
+      ],
+      "consumes_event_types": [
+        "activity.completed",
+        "belief.created"
+      ]
+    },
+    {
+      "name": "Belief Reconstruction Studio",
+      "topics": [
+        "belief",
+        "evidence",
+        "experiment"
+      ],
+      "consumes_event_types": [
+        "belief.created",
+        "belief.revised",
+        "experiment.outcome_recorded"
+      ]
+    },
+    {
+      "name": "Theater of the Mind",
+      "topics": [
+        "rehearsal",
+        "practice"
+      ],
+      "consumes_event_types": [
+        "rehearsal.completed"
+      ]
+    },
+    {
+      "name": "Success Mechanism & Feedback Lab",
+      "topics": [
+        "goal",
+        "experiment",
+        "feedback"
+      ],
+      "consumes_event_types": [
+        "experiment.outcome_recorded",
+        "goal.created",
+        "goal.updated"
+      ]
+    },
+    {
+      "name": "Mental Conditioning Lab",
+      "topics": [
+        "practice",
+        "review"
+      ],
+      "consumes_event_types": [
+        "activity.completed",
+        "exercise.reviewed"
+      ]
+    },
+    {
+      "name": "Real-Life Scenario Simulator",
+      "topics": [
+        "scenario",
+        "decision"
+      ],
+      "consumes_event_types": [
+        "scenario.completed"
+      ]
+    },
+    {
+      "name": "Psycho-Cybernetics Knowledge Vault",
+      "topics": [
+        "bookmark",
+        "review"
+      ],
+      "consumes_event_types": [
+        "bookmark.saved",
+        "exercise.reviewed"
+      ]
+    },
+    {
+      "name": "Mental Mastery Academy",
+      "topics": [
+        "review",
+        "program",
+        "assessment"
+      ],
+      "consumes_event_types": [
+        "activity.completed",
+        "exercise.reviewed",
+        "program.day_completed",
+        "review.undone"
+      ]
+    },
+    {
+      "name": "Personal Evolution Archive",
+      "topics": [
+        "reflection",
+        "timeline",
+        "backup"
+      ],
+      "consumes_event_types": [
+        "activity.completed",
+        "activity.skipped",
+        "belief.created",
+        "belief.revised",
+        "bookmark.saved",
+        "experiment.outcome_recorded",
+        "goal.updated",
+        "journal.saved",
+        "program.day_completed",
+        "program.day_skipped",
+        "rehearsal.completed",
+        "review.undone",
+        "scenario.completed"
+      ]
+    }
+  ],
+  "event_to_modules": {
+    "belief.created": [
+      "Belief Reconstruction Studio",
+      "Self-Image Intelligence Lab",
+      "Personal Evolution Archive"
+    ],
+    "belief.revised": [
+      "Belief Reconstruction Studio",
+      "Personal Evolution Archive"
+    ],
+    "goal.created": [
+      "Personal Command Center",
+      "Success Mechanism & Feedback Lab"
+    ],
+    "goal.updated": [
+      "Personal Command Center",
+      "Success Mechanism & Feedback Lab",
+      "Personal Evolution Archive"
+    ],
+    "rehearsal.completed": [
+      "Theater of the Mind",
+      "Personal Command Center",
+      "Personal Evolution Archive"
+    ],
+    "scenario.completed": [
+      "Real-Life Scenario Simulator",
+      "Personal Command Center",
+      "Personal Evolution Archive"
+    ],
+    "activity.completed": [
+      "Self-Image Intelligence Lab",
+      "Mental Mastery Academy",
+      "Personal Command Center",
+      "Personal Evolution Archive",
+      "Mental Conditioning Lab"
+    ],
+    "activity.skipped": [
+      "Personal Command Center",
+      "Personal Evolution Archive"
+    ],
+    "exercise.reviewed": [
+      "Mental Mastery Academy",
+      "Psycho-Cybernetics Knowledge Vault",
+      "Personal Command Center",
+      "Mental Conditioning Lab"
+    ],
+    "review.undone": [
+      "Mental Mastery Academy",
+      "Personal Evolution Archive"
+    ],
+    "experiment.outcome_recorded": [
+      "Success Mechanism & Feedback Lab",
+      "Belief Reconstruction Studio",
+      "Personal Evolution Archive"
+    ],
+    "journal.saved": [
+      "Personal Evolution Archive"
+    ],
+    "program.day_completed": [
+      "Personal Command Center",
+      "Mental Mastery Academy",
+      "Personal Evolution Archive"
+    ],
+    "program.day_skipped": [
+      "Personal Command Center",
+      "Personal Evolution Archive"
+    ],
+    "program.paused": [
+      "Personal Command Center"
+    ],
+    "program.resumed": [
+      "Personal Command Center"
+    ],
+    "bookmark.saved": [
+      "Psycho-Cybernetics Knowledge Vault",
+      "Personal Evolution Archive"
+    ]
+  },
+  "derived_metrics": {
+    "completed_sessions": "distinct session_id values from activity.completed and rehearsal.completed events; no repeated session counts",
+    "scenarios_explored": "distinct session_id values from scenario.completed",
+    "review_due": "review schedule computed from non-undone review events, never from guessed trait values",
+    "observed_actions": "explicit user-entered experiment outcome events, not predicted effects",
+    "program_days_completed": "distinct day target IDs with user completion acknowledgement",
+    "no_data": "render empty state and a useful next action; zero never means clinical deficiency"
+  },
+  "all_private_events_local": true
+}

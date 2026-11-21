@@ -1,0 +1,499 @@
+[
+  {
+    "id": "PCI-R-0074",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional scars are a protective analogy ↔ Self-image as working self-description",
+    "content": "The emotional scar metaphor elaborates the opening self-image-as-blueprint premise.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-001",
+    "to_id": "PCI-C-CH01-001",
+    "relationship_type": "complements",
+    "rationale": "The emotional scar metaphor elaborates the opening self-image-as-blueprint premise.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-001": {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-001": {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0075",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Avoidance spreads beyond the original context ↔ Imagined social rejection",
+    "content": "The book’s imagined social danger is revisited through avoidance and interpreted threat.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-193",
+        "pdf_page": 193,
+        "printed_page": 183,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-003",
+    "to_id": "PCI-C-CH03-001",
+    "relationship_type": "qualifies",
+    "rationale": "The book’s imagined social danger is revisited through avoidance and interpreted threat.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-193",
+        "pdf_page": 193,
+        "printed_page": 183,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-003": {
+        "source_id": "PCI-SRC-PDF-193",
+        "pdf_page": 193,
+        "printed_page": 183,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-001": {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0076",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Putty rather than plaster self-image ↔ Belief revision requires testing the premise",
+    "content": "Putty imagery reinforces the earlier challenge to fixed self-beliefs.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-004",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "complements",
+    "rationale": "Putty imagery reinforces the earlier challenge to fixed self-beliefs.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-004": {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-001": {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0077",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Overprotection can restrict connection ↔ Loneliness and social participation",
+    "content": "Protection against harm must be distinguished from general-purpose social withdrawal.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-005",
+    "to_id": "PCI-C-CH09-009",
+    "relationship_type": "qualifies",
+    "rationale": "Protection against harm must be distinguished from general-purpose social withdrawal.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-176",
+        "pdf_page": 176,
+        "printed_page": 166,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-005": {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH09-009": {
+        "source_id": "PCI-SRC-PDF-176",
+        "pdf_page": 176,
+        "printed_page": 166,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0078",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-reliance without isolation ↔ Mental-state medical claims require boundaries",
+    "content": "Relational self-reliance extends the chapter about choosing a happier response.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-009",
+    "to_id": "PCI-C-CH07-002",
+    "relationship_type": "complements",
+    "rationale": "Relational self-reliance extends the chapter about choosing a happier response.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-009": {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH07-002": {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0079",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Relaxation as a response option, not immunity ↔ Preparation and execution require different attention",
+    "content": "Relaxation as optional support for social hurts is adjacent to Chapter 6’s relaxing practices.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-202",
+        "pdf_page": 202,
+        "printed_page": 192,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-010",
+    "to_id": "PCI-C-CH06-001",
+    "relationship_type": "complements",
+    "rationale": "Relaxation as optional support for social hurts is adjacent to Chapter 6’s relaxing practices.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-202",
+        "pdf_page": 202,
+        "printed_page": 192,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-010": {
+        "source_id": "PCI-SRC-PDF-202",
+        "pdf_page": 202,
+        "printed_page": 192,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH06-001": {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0080",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-forgiveness and responsibility ↔ Reasoned interpretation as an input to habit",
+    "content": "Accountability plus self-forgiveness relates to testing global judgments rationally.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH10-012",
+    "to_id": "PCI-C-CH05-001",
+    "relationship_type": "complements",
+    "rationale": "Accountability plus self-forgiveness relates to testing global judgments rationally.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH10-012": {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-001": {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  }
+]

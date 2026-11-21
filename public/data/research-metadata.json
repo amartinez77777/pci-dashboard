@@ -1,0 +1,14 @@
+{
+  "edition": "PCI-ED-001",
+  "source_pdf_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "concept_count": 201,
+  "chapter_count": 16,
+  "practice_count": 70,
+  "activity_count": 32,
+  "scenario_count": 16,
+  "rehearsal_count": 12,
+  "curriculum_days": 21,
+  "source_excluded": true,
+  "research_schema": "1.0.0",
+  "private_schema": "2.0.0"
+}

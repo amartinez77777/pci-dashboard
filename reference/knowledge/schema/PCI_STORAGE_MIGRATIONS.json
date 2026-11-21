@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "database_name": "pci-private-v1",
+  "private_stores": [
+    {
+      "name": "journal_entries",
+      "key_path": "id",
+      "access": "device_local"
+    },
+    {
+      "name": "identity_notes",
+      "key_path": "id",
+      "access": "device_local"
+    },
+    {
+      "name": "belief_tests",
+      "key_path": "id",
+      "access": "device_local"
+    },
+    {
+      "name": "rehearsals",
+      "key_path": "id",
+      "access": "device_local"
+    },
+    {
+      "name": "goal_metrics",
+      "key_path": "id",
+      "access": "device_local"
+    },
+    {
+      "name": "quiz_attempts",
+      "key_path": "id",
+      "access": "device_local"
+    }
+  ],
+  "migrations": [
+    {
+      "id": "PCI-MIG-001",
+      "from": "uninitialized",
+      "to": "1.0.0",
+      "status": "specified_not_implemented"
+    }
+  ],
+  "import": "dry run, validate, conflict report, atomic transaction; reject unknown future schemas",
+  "encryption": "not promised; backup files are user-managed"
+}

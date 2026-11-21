@@ -1,0 +1,7 @@
+PCI STAGE 12 — LEAN STARTING CHECKPOINT (PACKAGING ONLY)
+This archive was created from user-supplied PCI_APP_STAGE12_FULL.zip without changing application logic, code, canonical IDs, data or tests.
+Removed (a) full nested historical rollback ZIPs and (b) screenshot image evidence in audit/. Preserved the nonproduction dist-static test harness, which existing Node tests require. Replaced full rollback ZIPs with much smaller authentic, pruned original-content baseline ZIPs at the same expected paths solely because inherited validators compare against those files; these baseline ZIPs are NOT complete rollback copies. Original complete source remains available in the user's original Stage12 ZIP.
+All source directories, public/data, reference packs, existing scripts, tests, schemas, root manifests, relevant text audit logs and handoff are retained.
+Regenerated this package's FILE_INVENTORY.json and CHECKSUMS.sha256 to match its contents. The older root README may describe an earlier version; use PCI_STAGE_12_HANDOFF.md as authoritative.
+This lean archive is NOT a repaired Stage 13 app. Prompt 1 must implement timing/dirty-route fixes.
+Do not repackage previous ZIPs into the next checkpoint.

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": true,
+  "title": "Observed outcome private store separate from prediction",
+  "required": [
+    "feedback_contract_version",
+    "experiment_id",
+    "goal_id",
+    "observed",
+    "actual_date",
+    "revision_history"
+  ],
+  "properties": {
+    "experiment_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "goal_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "observed": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "external_factors": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "comparison": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "adjustment": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "next_action": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "actual_date": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "recorded_at": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "feedback_contract_version": {
+      "const": "1.0.0"
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

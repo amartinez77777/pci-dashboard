@@ -1,0 +1,734 @@
+[
+  {
+    "id": "PCI-C-CH06-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Preparation and execution require different attention",
+    "content": "The chapter contrasts careful decision-making before action with relaxed execution after a decision. Over-monitoring a trained task is portrayed as interfering with fluent performance; the authors stress preparatory reasoning first.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter contrasts careful decision-making before action with relaxed execution after a decision.",
+    "terms": {
+      "primary": "Preparation and execution require different attention",
+      "definition": "The chapter contrasts careful decision-making before action with relaxed execution after a decision."
+    },
+    "author_mechanism": "Over-monitoring a trained task is portrayed as interfering with fluent performance; the authors stress preparatory reasoning first.",
+    "conditions_and_limits": "Reassess when important new information arrives; “let go” is not an excuse for irreversible unreviewed choices.",
+    "application": "Allocate a preparation window, decide on the next action, then redirect attention to observable task cues.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Attention switching and overcontrol offer plausible explanations without a mechanical subconscious operator.",
+    "ethical_clinical_cautions": "Reassess when important new information arrives; “let go” is not an excuse for irreversible unreviewed choices.",
+    "substantive_paraphrase": "The chapter contrasts careful decision-making before action with relaxed execution after a decision. As presented in Chapter 6, Over-monitoring a trained task is portrayed as interfering with fluent performance; the authors stress preparatory reasoning first. The text illustrates this idea through william James is cited for relaxing after a considered decision. A limited, realistic application is to allocate a preparation window, decide on the next action, then redirect attention to observable task cues. However, reassess when important new information arrives; “let go” is not an excuse for irreversible unreviewed choices. An alternative interpretation is that attention switching and overcontrol offer plausible explanations without a mechanical subconscious operator. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "William James is cited for relaxing after a considered decision.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-013"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-015",
+      "PCI-EA-016"
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative incubation follows engagement",
+    "content": "The book says solutions sometimes surface during a break after deep factual study rather than during continued forced effort. An incubation metaphor ties conscious preparation to later idea emergence; the text extrapolates from anecdotes to a broad creative process.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book says solutions sometimes surface during a break after deep factual study rather than during continued forced effort.",
+    "terms": {
+      "primary": "Creative incubation follows engagement",
+      "definition": "The book says solutions sometimes surface during a break after deep factual study rather than during continued forced effort."
+    },
+    "author_mechanism": "An incubation metaphor ties conscious preparation to later idea emergence; the text extrapolates from anecdotes to a broad creative process.",
+    "conditions_and_limits": "Insights during sleep or rest must be evaluated; no supernatural search engine has been established.",
+    "application": "Define the problem, study inputs, take a bounded break and check the proposed solution against constraints.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Memory recombination and reduced fixation may explain idea emergence.",
+    "ethical_clinical_cautions": "Insights during sleep or rest must be evaluated; no supernatural search engine has been established.",
+    "substantive_paraphrase": "The book says solutions sometimes surface during a break after deep factual study rather than during continued forced effort. As presented in Chapter 6, An incubation metaphor ties conscious preparation to later idea emergence; the text extrapolates from anecdotes to a broad creative process. The text illustrates this idea through napoleon Hill is said to wake with the book-title idea after earlier unsuccessful searching. A limited, realistic application is to define the problem, study inputs, take a bounded break and check the proposed solution against constraints. However, insights during sleep or rest must be evaluated; no supernatural search engine has been established. An alternative interpretation is that memory recombination and reduced fixation may explain idea emergence. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Napoleon Hill is said to wake with the book-title idea after earlier unsuccessful searching.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-001",
+      "PCI-EX-CH06-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-007"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-015",
+      "PCI-EA-016"
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Russell’s leave-it-underground writing routine",
+    "content": "A quoted writer describes studying a difficult problem intensely and intentionally returning to it after a period away. Stepping away allows other activity instead of intrusive worry; the book equates that with unconscious work.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-114",
+        "pdf_page": 114,
+        "printed_page": 104,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A quoted writer describes studying a difficult problem intensely and intentionally returning to it after a period away.",
+    "terms": {
+      "primary": "Russell’s leave-it-underground writing routine",
+      "definition": "A quoted writer describes studying a difficult problem intensely and intentionally returning to it after a period away."
+    },
+    "author_mechanism": "Stepping away allows other activity instead of intrusive worry; the book equates that with unconscious work.",
+    "conditions_and_limits": "The example spans months for Russell, not a mandatory waiting period for readers.",
+    "application": "After drafting a thorny argument, write the open question, pause, and return later to test what changed.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Delayed retrieval, shifting attention and new knowledge can all contribute.",
+    "ethical_clinical_cautions": "The example spans months for Russell, not a mandatory waiting period for readers.",
+    "substantive_paraphrase": "A quoted writer describes studying a difficult problem intensely and intentionally returning to it after a period away. As presented in Chapter 6, Stepping away allows other activity instead of intrusive worry; the book equates that with unconscious work. The text illustrates this idea through russell recounts setting work aside after hours or days of focus and revisiting it months later. A limited, realistic application is to after drafting a thorny argument, write the open question, pause, and return later to test what changed. However, the example spans months for Russell, not a mandatory waiting period for readers. An alternative interpretation is that delayed retrieval, shifting attention and new knowledge can all contribute. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Russell recounts setting work aside after hours or days of focus and revisiting it months later.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-001",
+      "PCI-EX-CH06-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-016"
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative work extends beyond artistic professions",
+    "content": "The chapter broadens creativity to selling, teaching, cooking, studying and everyday problem solving. Ordinary decisions can involve generating alternatives and evaluating feedback, independent of a special genius faculty.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-115",
+        "pdf_page": 115,
+        "printed_page": 105,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter broadens creativity to selling, teaching, cooking, studying and everyday problem solving.",
+    "terms": {
+      "primary": "Creative work extends beyond artistic professions",
+      "definition": "The chapter broadens creativity to selling, teaching, cooking, studying and everyday problem solving."
+    },
+    "author_mechanism": "Ordinary decisions can involve generating alternatives and evaluating feedback, independent of a special genius faculty.",
+    "conditions_and_limits": "The chapter’s universal-genius assertion is rhetorical and does not establish equal capacity or outcome.",
+    "application": "Choose one routine problem; brainstorm 3 strategies and test one small change.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Problem-solving skill, expertise and environmental freedom vary across domains.",
+    "ethical_clinical_cautions": "The chapter’s universal-genius assertion is rhetorical and does not establish equal capacity or outcome.",
+    "substantive_paraphrase": "The chapter broadens creativity to selling, teaching, cooking, studying and everyday problem solving. As presented in Chapter 6, Ordinary decisions can involve generating alternatives and evaluating feedback, independent of a special genius faculty. The text illustrates this idea through work by writers, an NBC executive, and a GE researcher is presented as illustrative. A limited, realistic application is to choose one routine problem; brainstorm 3 strategies and test one small change. However, the chapter’s universal-genius assertion is rhetorical and does not establish equal capacity or outcome. An alternative interpretation is that problem-solving skill, expertise and environmental freedom vary across domains. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Work by writers, an NBC executive, and a GE researcher is presented as illustrative.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-002",
+      "PCI-EX-CH06-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-003"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Spontaneous skill and overcontrol",
+    "content": "Fluent performance can become awkward when performers monitor every micro-action. The text distinguishes consciously learned competence from moment-to-moment micromanagement, linking inhibition to anxiety.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Fluent performance can become awkward when performers monitor every micro-action.",
+    "terms": {
+      "primary": "Spontaneous skill and overcontrol",
+      "definition": "Fluent performance can become awkward when performers monitor every micro-action."
+    },
+    "author_mechanism": "The text distinguishes consciously learned competence from moment-to-moment micromanagement, linking inhibition to anxiety.",
+    "conditions_and_limits": "Novice skills, complex safety procedures and rehabilitation may need explicit monitoring.",
+    "application": "For a familiar skill, rehearse the setup once, then focus on the external task rather than continuously checking technique.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Attentional focus, expertise and stress may explain the pattern.",
+    "ethical_clinical_cautions": "Novice skills, complex safety procedures and rehabilitation may need explicit monitoring.",
+    "substantive_paraphrase": "Fluent performance can become awkward when performers monitor every micro-action. As presented in Chapter 6, The text distinguishes consciously learned competence from moment-to-moment micromanagement, linking inhibition to anxiety. The text illustrates this idea through the author contrasts natural athletic, piano and social performance with calculated self-monitoring. A limited, realistic application is to for a familiar skill, rehearse the setup once, then focus on the external task rather than continuously checking technique. However, novice skills, complex safety procedures and rehabilitation may need explicit monitoring. An alternative interpretation is that attentional focus, expertise and stress may explain the pattern. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The author contrasts natural athletic, piano and social performance with calculated self-monitoring.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-005"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-005"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Decision finality as a context-sensitive habit",
+    "content": "Once a reversible choice is made, persistent reconsideration can impose costs without producing better action. The gambler analogy distinguishes risk review before the wheel spins from anxiety after no further control is possible.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Once a reversible choice is made, persistent reconsideration can impose costs without producing better action.",
+    "terms": {
+      "primary": "Decision finality as a context-sensitive habit",
+      "definition": "Once a reversible choice is made, persistent reconsideration can impose costs without producing better action."
+    },
+    "author_mechanism": "The gambler analogy distinguishes risk review before the wheel spins from anxiety after no further control is possible.",
+    "conditions_and_limits": "This analogy is not a recommendation to gamble or to avoid checking high-risk decisions.",
+    "application": "For low-stakes choices set a decision deadline and revisit only on new information.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Reducing rumination and using decision rules can save attention.",
+    "ethical_clinical_cautions": "This analogy is not a recommendation to gamble or to avoid checking high-risk decisions.",
+    "substantive_paraphrase": "Once a reversible choice is made, persistent reconsideration can impose costs without producing better action. As presented in Chapter 6, The gambler analogy distinguishes risk review before the wheel spins from anxiety after no further control is possible. The text illustrates this idea through a business executive recounts realizing he worries most after decisions instead of before them. A limited, realistic application is to for low-stakes choices set a decision deadline and revisit only on new information. However, this analogy is not a recommendation to gamble or to avoid checking high-risk decisions. An alternative interpretation is that reducing rumination and using decision rules can save attention. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A business executive recounts realizing he worries most after decisions instead of before them.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-013"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Lock-box decision visualization",
+    "content": "The revised book prescribes an imagined filing routine to symbolically set aside completed decisions. The mental movie acts as a cue to stop looping over options after a choice and turn toward implementation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The revised book prescribes an imagined filing routine to symbolically set aside completed decisions.",
+    "terms": {
+      "primary": "Lock-box decision visualization",
+      "definition": "The revised book prescribes an imagined filing routine to symbolically set aside completed decisions."
+    },
+    "author_mechanism": "The mental movie acts as a cue to stop looping over options after a choice and turn toward implementation.",
+    "conditions_and_limits": "Imagining a lockbox does not make choices irrevocable or relieve accountability.",
+    "application": "For a harmless settled decision, picture filing it away, then state the next step out loud.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "A completion ritual and attentional cue may suffice without any subconscious mechanism.",
+    "ethical_clinical_cautions": "Imagining a lockbox does not make choices irrevocable or relieve accountability.",
+    "substantive_paraphrase": "The revised book prescribes an imagined filing routine to symbolically set aside completed decisions. As presented in Chapter 6, The mental movie acts as a cue to stop looping over options after a choice and turn toward implementation. The text illustrates this idea through the exercise references a locked box and a dated “Done” envelope as imagery. A limited, realistic application is to for a harmless settled decision, picture filing it away, then state the next step out loud. However, imagining a lockbox does not make choices irrevocable or relieve accountability. An alternative interpretation is that a completion ritual and attentional cue may suffice without any subconscious mechanism. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The exercise references a locked box and a dated “Done” envelope as imagery.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-004",
+      "PCI-EX-CH06-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-001",
+      "PCI-AP-CH06-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH06-006"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Present-moment responsiveness",
+    "content": "The book recommends reserving planning for planning times and attending to current sensory information during activity. The active task can then use actual feedback rather than simulated future events or past regrets.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book recommends reserving planning for planning times and attending to current sensory information during activity.",
+    "terms": {
+      "primary": "Present-moment responsiveness",
+      "definition": "The book recommends reserving planning for planning times and attending to current sensory information during activity."
+    },
+    "author_mechanism": "The active task can then use actual feedback rather than simulated future events or past regrets.",
+    "conditions_and_limits": "Present focus is not refusal to plan or prepare for hazards.",
+    "application": "During a meal or conversation notice concrete details, then return to planned future tasks afterward.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Task attention and less divided attention may contribute to effective action.",
+    "ethical_clinical_cautions": "Present focus is not refusal to plan or prepare for hazards.",
+    "substantive_paraphrase": "The book recommends reserving planning for planning times and attending to current sensory information during activity. As presented in Chapter 6, The active task can then use actual feedback rather than simulated future events or past regrets. The text illustrates this idea through a hurried executive is depicted missing the flavor of an expensive meal. A limited, realistic application is to during a meal or conversation notice concrete details, then return to planned future tasks afterward. However, present focus is not refusal to plan or prepare for hazards. An alternative interpretation is that task attention and less divided attention may contribute to effective action. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A hurried executive is depicted missing the flavor of an expensive meal.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-001",
+      "PCI-AP-CH06-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-013"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Observation memory as an attentional exercise",
+    "content": "The reader is asked to recall fine environmental details after leaving a place. The recall challenge is meant to increase attention during later visits, not to yield a standardized cognition score.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The reader is asked to recall fine environmental details after leaving a place.",
+    "terms": {
+      "primary": "Observation memory as an attentional exercise",
+      "definition": "The reader is asked to recall fine environmental details after leaving a place."
+    },
+    "author_mechanism": "The recall challenge is meant to increase attention during later visits, not to yield a standardized cognition score.",
+    "conditions_and_limits": "Never collect identifiable details about unsuspecting people or use surveillance framing.",
+    "application": "After a safe visit reconstruct 5 details and check only what can be verified.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Deliberate noticing may alter recall; memory is not infallible.",
+    "ethical_clinical_cautions": "Never collect identifiable details about unsuspecting people or use surveillance framing.",
+    "substantive_paraphrase": "The reader is asked to recall fine environmental details after leaving a place. As presented in Chapter 6, The recall challenge is meant to increase attention during later visits, not to yield a standardized cognition score. The text illustrates this idea through the source invokes Sherlock Holmes and his observational training. A limited, realistic application is to after a safe visit reconstruct 5 details and check only what can be verified. However, never collect identifiable details about unsuspecting people or use surveillance framing. An alternative interpretation is that deliberate noticing may alter recall; memory is not infallible. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The source invokes Sherlock Holmes and his observational training.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-003",
+      "PCI-AP-CH06-004"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Hourglass and single-task working",
+    "content": "The hourglass is used to represent handling one task unit at a time amid a large workload. Reducing simultaneous task goals may lessen perceived overload and support clearer action, according to the text.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The hourglass is used to represent handling one task unit at a time amid a large workload.",
+    "terms": {
+      "primary": "Hourglass and single-task working",
+      "definition": "The hourglass is used to represent handling one task unit at a time amid a large workload."
+    },
+    "author_mechanism": "Reducing simultaneous task goals may lessen perceived overload and support clearer action, according to the text.",
+    "conditions_and_limits": "Some environments require safe monitoring of multiple inputs; do not ignore emergencies or responsibilities.",
+    "application": "Place an hourglass or one-task reminder near the workspace; complete one 15-minute work block without multitasking.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Task-switching and workload design can matter independently of any built-in machine.",
+    "ethical_clinical_cautions": "Some environments require safe monitoring of multiple inputs; do not ignore emergencies or responsibilities.",
+    "substantive_paraphrase": "The hourglass is used to represent handling one task unit at a time amid a large workload. As presented in Chapter 6, Reducing simultaneous task goals may lessen perceived overload and support clearer action, according to the text. The text illustrates this idea through james Gordon Gilkey’s hourglass sermon is cited as a model for emotional poise. A limited, realistic application is to place an hourglass or one-task reminder near the workspace; complete one 15-minute work block without multitasking. However, some environments require safe monitoring of multiple inputs; do not ignore emergencies or responsibilities. An alternative interpretation is that task-switching and workload design can matter independently of any built-in machine. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "James Gordon Gilkey’s hourglass sermon is cited as a model for emotional poise.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-006",
+      "PCI-EX-CH06-007"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-005",
+      "PCI-AP-CH06-006"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH02-005"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Sleep-on-it without magical guarantees",
+    "content": "For a stubborn problem, the book advises stepping away or sleeping after preparatory thought. The alleged subconscious work is framed as improving creative solutions while consciousness rests.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "For a stubborn problem, the book advises stepping away or sleeping after preparatory thought.",
+    "terms": {
+      "primary": "Sleep-on-it without magical guarantees",
+      "definition": "For a stubborn problem, the book advises stepping away or sleeping after preparatory thought."
+    },
+    "author_mechanism": "The alleged subconscious work is framed as improving creative solutions while consciousness rests.",
+    "conditions_and_limits": "Do not delay urgent care, safety decisions or deadlines expecting sleep to supply an answer.",
+    "application": "Write a specific unresolved question, pause overnight if time permits, and assess any new idea in daylight.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Rest, reduced fatigue and fresh perspective may explain an improvement.",
+    "ethical_clinical_cautions": "Do not delay urgent care, safety decisions or deadlines expecting sleep to supply an answer.",
+    "substantive_paraphrase": "For a stubborn problem, the book advises stepping away or sleeping after preparatory thought. As presented in Chapter 6, The alleged subconscious work is framed as improving creative solutions while consciousness rests. The text illustrates this idea through edison’s naps and Beecher’s overnight preparation are cited as anecdotes. A limited, realistic application is to write a specific unresolved question, pause overnight if time permits, and assess any new idea in daylight. However, do not delay urgent care, safety decisions or deadlines expecting sleep to supply an answer. An alternative interpretation is that rest, reduced fatigue and fresh perspective may explain an improvement. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Edison’s naps and Beecher’s overnight preparation are cited as anecdotes.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-011"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-006",
+      "PCI-EX-CH06-007"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-005",
+      "PCI-AP-CH06-006"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH06-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall relaxation during work",
+    "content": "The book recommends remembering the sensations of prior rest and briefly invoking them during activity. An imagined relaxed body may cue a lower-tension response as a learned association, but the strong fatigue claims are untested.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-125",
+        "pdf_page": 125,
+        "printed_page": 115,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book recommends remembering the sensations of prior rest and briefly invoking them during activity.",
+    "terms": {
+      "primary": "Recall relaxation during work",
+      "definition": "The book recommends remembering the sensations of prior rest and briefly invoking them during activity."
+    },
+    "author_mechanism": "An imagined relaxed body may cue a lower-tension response as a learned association, but the strong fatigue claims are untested.",
+    "conditions_and_limits": "Do not force slow breathing, suppress necessary alertness or promise medical benefit.",
+    "application": "In a comfortable pause recall loosened shoulders and steady breathing, and resume the task attentively.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Ordinary rest breaks, muscular release and reduced arousal may explain some benefit.",
+    "ethical_clinical_cautions": "Do not force slow breathing, suppress necessary alertness or promise medical benefit.",
+    "substantive_paraphrase": "The book recommends remembering the sensations of prior rest and briefly invoking them during activity. As presented in Chapter 6, An imagined relaxed body may cue a lower-tension response as a learned association, but the strong fatigue claims are untested. The text illustrates this idea through the chapter refers back to Chapter 4 relaxation and asks readers to practice brief recollection several times daily. A limited, realistic application is to in a comfortable pause recall loosened shoulders and steady breathing, and resume the task attentively. However, do not force slow breathing, suppress necessary alertness or promise medical benefit. An alternative interpretation is that ordinary rest breaks, muscular release and reduced arousal may explain some benefit. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The chapter refers back to Chapter 4 relaxation and asks readers to practice brief recollection several times daily.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH06-012"
+    ],
+    "case_ids": [
+      "PCI-EX-CH06-007"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH06-006",
+      "PCI-AP-CH06-007"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-009"
+    ],
+    "evidence_assessment_ids": []
+  }
+]

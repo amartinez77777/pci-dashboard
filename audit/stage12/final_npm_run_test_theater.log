@@ -1,0 +1,137 @@
+$ npm run test:theater
+
+> psycho-cybernetics-intelligence@0.12.0 test:theater
+> node --test tests/theater_model_repo.test.mjs
+
+TAP version 13
+# Subtest: all 12 canonical PCI adaptations have validated phase plans
+ok 1 - all 12 canonical PCI adaptations have validated phase plans
+  ---
+  duration_ms: 1.505192
+  type: 'test'
+  ...
+# Subtest: 70 inherited source-practices retain ambiguous editor attribution
+ok 2 - 70 inherited source-practices retain ambiguous editor attribution
+  ---
+  duration_ms: 0.23165
+  type: 'test'
+  ...
+# Subtest: 5m / 60s / no timer budgets are app-only
+ok 3 - 5m / 60s / no timer budgets are app-only
+  ---
+  duration_ms: 0.222716
+  type: 'test'
+  ...
+# Subtest: custom session length rejects out-of-range durations
+ok 4 - custom session length rejects out-of-range durations
+  ---
+  duration_ms: 0.319542
+  type: 'test'
+  ...
+# Subtest: start, pause, resume exclude paused wall time and count background wall time
+ok 5 - start, pause, resume exclude paused wall time and count background wall time
+  ---
+  duration_ms: 0.676362
+  type: 'test'
+  ...
+# Subtest: background tab catches up multiple phase boundaries without counting interval callbacks
+ok 6 - background tab catches up multiple phase boundaries without counting interval callbacks
+  ---
+  duration_ms: 0.116887
+  type: 'test'
+  ...
+# Subtest: elapsed beyond final timer pauses for review, never auto-completes
+ok 7 - elapsed beyond final timer pauses for review, never auto-completes
+  ---
+  duration_ms: 0.144989
+  type: 'test'
+  ...
+# Subtest: manual skip flags exactly the skipped phase, with rewind and reset
+ok 8 - manual skip flags exactly the skipped phase, with rewind and reset
+  ---
+  duration_ms: 0.217849
+  type: 'test'
+  ...
+# Subtest: an interrupted saved active timer opens paused without counting closed-browser time
+ok 9 - an interrupted saved active timer opens paused without counting closed-browser time
+  ---
+  duration_ms: 0.2846
+  type: 'test'
+  ...
+# Subtest: explicit early stop cannot be misreported as completed
+ok 10 - explicit early stop cannot be misreported as completed
+  ---
+  duration_ms: 0.388897
+  type: 'test'
+  ...
+# Subtest: completion is an explicit transition and never a predicted outcome
+ok 11 - completion is an explicit transition and never a predicted outcome
+  ---
+  duration_ms: 0.1525
+  type: 'test'
+  ...
+# Subtest: scene validation enforces title, source template, text limits
+ok 12 - scene validation enforces title, source template, text limits
+  ---
+  duration_ms: 0.288616
+  type: 'test'
+  ...
+# Subtest: synthetic database retains the inherited v2 stores
+ok 13 - synthetic database retains the inherited v2 stores
+  ---
+  duration_ms: 6.705043
+  type: 'test'
+  ...
+# Subtest: private scene save/update/duplicate/delete work; separate user records
+ok 14 - private scene save/update/duplicate/delete work; separate user records
+  ---
+  duration_ms: 12.632752
+  type: 'test'
+  ...
+# Subtest: sensitive scene storage requires consent; redacted backup excludes it
+ok 15 - sensitive scene storage requires consent; redacted backup excludes it
+  ---
+  duration_ms: 128.198959
+  type: 'test'
+  ...
+# Subtest: started session stored with exactly one idempotency-key event
+ok 16 - started session stored with exactly one idempotency-key event
+  ---
+  duration_ms: 7.746154
+  type: 'test'
+  ...
+# Subtest: pause/resume, saved draft includes actual time and scene link only
+ok 17 - pause/resume, saved draft includes actual time and scene link only
+  ---
+  duration_ms: 5.976503
+  type: 'test'
+  ...
+# Subtest: repeated explicit completion produces one event and stable result
+ok 18 - repeated explicit completion produces one event and stable result
+  ---
+  duration_ms: 3.981521
+  type: 'test'
+  ...
+# Subtest: session history deletion also removes its own minimal events, not the scene
+ok 19 - session history deletion also removes its own minimal events, not the scene
+  ---
+  duration_ms: 8.353993
+  type: 'test'
+  ...
+# Subtest: no source template or source practice is mutated by user events
+ok 20 - no source template or source practice is mutated by user events
+  ---
+  duration_ms: 0.106601
+  type: 'test'
+  ...
+1..20
+# tests 20
+# suites 0
+# pass 20
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 237.162849
+
+EXIT_CODE=0

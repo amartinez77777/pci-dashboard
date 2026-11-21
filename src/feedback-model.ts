@@ -1,0 +1,13 @@
+/** PCI feedback model: behavioral observations, not evidence of subconscious mechanisms. */
+export interface GoalDraft {title:string;context:string;next_action:string;concept_id:string;belief_id:string;practice_id:string}
+export interface IterationDraft {action:string;prediction:string;indicator:string;review_date:string;rehearsal_session_id:string}
+export interface ObservationDraft {observed:string;external_factors:string;comparison:string;adjustment:string;next_action:string;actual_date:string}
+export const blankGoal:GoalDraft={title:'',context:'',next_action:'',concept_id:'',belief_id:'',practice_id:''};
+export const blankIteration:IterationDraft={action:'',prediction:'',indicator:'',review_date:'',rehearsal_session_id:''};
+export const blankObservation:ObservationDraft={observed:'',external_factors:'',comparison:'',adjustment:'',next_action:'',actual_date:''};
+export function localISODate(now=new Date()):string {const n=(v:number)=>String(v).padStart(2,'0');return `${now.getFullYear()}-${n(now.getMonth()+1)}-${n(now.getDate())}`}
+export function dateIsValid(date:string):boolean{return /^\d{4}-\d{2}-\d{2}$/.test(date)&&!Number.isNaN(Date.parse(date+'T12:00:00Z'))&&new Date(date+'T12:00:00Z').toISOString().slice(0,10)===date}
+export function checkGoal(d:GoalDraft):string[]{const errors:string[]=[];if(!d.title.trim())errors.push('Give your goal a name.');if(!d.next_action.trim())errors.push('Describe 1 observable action.');for(const [k,v] of Object.entries(d))if(v.length>(k==='context'?3000:k==='next_action'?1000:300))errors.push(k+' exceeds text limit.');return errors}
+export function checkIteration(d:IterationDraft):string[]{const e:string[]=[];if(!d.action.trim())e.push('Enter an observable action.');if(!d.prediction.trim())e.push('Describe an expectation before recording an observation.');if(!d.indicator.trim())e.push('Describe what you could observe.');if(d.review_date&&!dateIsValid(d.review_date))e.push('Invalid local review date.');for(const [k,v] of Object.entries(d))if(v.length>(k==='prediction'||k==='action'?2000:1000))e.push(k+' is too long.');return e}
+export function checkObservation(d:ObservationDraft):string[]{const e:string[]=[];if(!d.observed.trim())e.push('Describe what actually happened, including an unsuccessful or incomplete attempt.');if(d.actual_date&&!dateIsValid(d.actual_date))e.push('Invalid observation date.');for(const [k,v] of Object.entries(d))if(v.length>3000)e.push(k+' exceeds the text limit.');return e}
+export function outcomeSummary(prediction:string,observation:string):string {return `Expected: ${prediction || 'Not recorded'}\nObserved: ${observation || 'Pending observation'}`}

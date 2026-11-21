@@ -1,0 +1,66 @@
+{
+  "PCI-CH-01": [
+    "PCI-EDU-CH01-001",
+    "PCI-EDU-CH01-002"
+  ],
+  "PCI-CH-02": [
+    "PCI-EDU-CH02-001",
+    "PCI-EDU-CH02-002"
+  ],
+  "PCI-CH-03": [
+    "PCI-EDU-CH03-001",
+    "PCI-EDU-CH03-002"
+  ],
+  "PCI-CH-04": [
+    "PCI-EDU-CH04-001",
+    "PCI-EDU-CH04-002"
+  ],
+  "PCI-CH-05": [
+    "PCI-EDU-CH05-001",
+    "PCI-EDU-CH05-002"
+  ],
+  "PCI-CH-06": [
+    "PCI-EDU-CH06-001",
+    "PCI-EDU-CH06-002"
+  ],
+  "PCI-CH-07": [
+    "PCI-EDU-CH07-001",
+    "PCI-EDU-CH07-002"
+  ],
+  "PCI-CH-08": [
+    "PCI-EDU-CH08-001",
+    "PCI-EDU-CH08-002"
+  ],
+  "PCI-CH-09": [
+    "PCI-EDU-CH09-001",
+    "PCI-EDU-CH09-002"
+  ],
+  "PCI-CH-10": [
+    "PCI-EDU-CH10-001",
+    "PCI-EDU-CH10-002"
+  ],
+  "PCI-CH-11": [
+    "PCI-EDU-CH11-001",
+    "PCI-EDU-CH11-002"
+  ],
+  "PCI-CH-12": [
+    "PCI-EDU-CH12-001",
+    "PCI-EDU-CH12-002"
+  ],
+  "PCI-CH-13": [
+    "PCI-EDU-CH13-001",
+    "PCI-EDU-CH13-002"
+  ],
+  "PCI-CH-14": [
+    "PCI-EDU-CH14-001",
+    "PCI-EDU-CH14-002"
+  ],
+  "PCI-CH-15": [
+    "PCI-EDU-CH15-001",
+    "PCI-EDU-CH15-002"
+  ],
+  "PCI-CH-16": [
+    "PCI-EDU-CH16-001",
+    "PCI-EDU-CH16-002"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stage01_original": {
+    "status": "PASS",
+    "pass_count": 11
+  },
+  "stage02_original": {
+    "status": "PASS",
+    "pass_count": 39
+  },
+  "stage03_original": {
+    "status": "PASS",
+    "pass_count": 44
+  },
+  "stage04_original": {
+    "status": "PASS",
+    "pass_count": 26
+  },
+  "stage05_canonical": {
+    "status": "PASS",
+    "pass_count": 25
+  },
+  "typescript": {
+    "status": "PASS",
+    "exit_code": 0
+  },
+  "external_empirical_efficacy": {
+    "status": "PARTIAL"
+  },
+  "browser": {
+    "status": "NOT_TESTED"
+  },
+  "IndexedDB": {
+    "status": "NOT_TESTED"
+  }
+}

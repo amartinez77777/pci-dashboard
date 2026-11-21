@@ -1,0 +1,795 @@
+[
+  {
+    "id": "PCI-C-CH09-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Negative emotions as warning lights",
+    "content": "The chapter treats difficult emotions as signals warranting attention rather than identities or moral failings. A pressure-gauge analogy suggests noticing repeated frustration, anxiety or resentment and using that information to adjust action instead of becoming preoccupied with symptoms.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter treats difficult emotions as signals warranting attention rather than identities or moral failings.",
+    "terms": {
+      "primary": "Negative emotions as warning lights",
+      "definition": "The chapter treats difficult emotions as signals warranting attention rather than identities or moral failings."
+    },
+    "author_mechanism": "A pressure-gauge analogy suggests noticing repeated frustration, anxiety or resentment and using that information to adjust action instead of becoming preoccupied with symptoms.",
+    "conditions_and_limits": "Emotions are multifactorial, sometimes adaptive, and persistent depression or anxiety is not simply a broken internal gauge.",
+    "application": "Notice one feeling, describe its context and identify a concrete need or boundary.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Emotions are multifactorial, sometimes adaptive, and persistent depression or anxiety is not simply a broken internal gauge.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of negative emotions as warning lights to the author’s broader account of self-image and feedback. Its central claim is that the chapter treats difficult emotions as signals warranting attention rather than identities or moral failings. The argument proceeds by stating that a pressure-gauge analogy suggests noticing repeated frustration, anxiety or resentment and using that information to adjust action instead of becoming preoccupied with symptoms. The source’s concrete illustration is: The opening compares pressure gauges, body symptoms and the purported automatic failure mechanism. A bounded learning application is: Notice one feeling, describe its context and identify a concrete need or boundary. The important qualification is: Emotions are multifactorial, sometimes adaptive, and persistent depression or anxiety is not simply a broken internal gauge. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The opening compares pressure gauges, body symptoms and the purported automatic failure mechanism.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-005"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "FAILURE as a mnemonic, not a diagnosis",
+    "content": "The seven-letter list collects frustration, aggression, insecurity, loneliness, uncertainty, resentment and emptiness as the author’s warning categories. By naming a recurring pattern, the reader is urged to switch to constructive choices; the framework is instructional classification, not a psychometrically validated syndrome.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-167",
+        "pdf_page": 167,
+        "printed_page": 157,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The seven-letter list collects frustration, aggression, insecurity, loneliness, uncertainty, resentment and emptiness as the author’s warning categories.",
+    "terms": {
+      "primary": "FAILURE as a mnemonic, not a diagnosis",
+      "definition": "The seven-letter list collects frustration, aggression, insecurity, loneliness, uncertainty, resentment and emptiness as the author’s warning categories."
+    },
+    "author_mechanism": "By naming a recurring pattern, the reader is urged to switch to constructive choices; the framework is instructional classification, not a psychometrically validated syndrome.",
+    "conditions_and_limits": "The list is neither exhaustive nor diagnostic; some feelings can signal structural stress, social exclusion or illness.",
+    "application": "Use the labels only as prompts for observation, not for labeling another person.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "The list is neither exhaustive nor diagnostic; some feelings can signal structural stress, social exclusion or illness.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of failure as a mnemonic, not a diagnosis to the author’s broader account of self-image and feedback. Its central claim is that the seven-letter list collects frustration, aggression, insecurity, loneliness, uncertainty, resentment and emptiness as the author’s warning categories. The argument proceeds by stating that by naming a recurring pattern, the reader is urged to switch to constructive choices; the framework is instructional classification, not a psychometrically validated syndrome. The source’s concrete illustration is: The printed page supplies F-A-I-L-U-R-E and explains how habits once seemed useful. A bounded learning application is: Use the labels only as prompts for observation, not for labeling another person. The important qualification is: The list is neither exhaustive nor diagnostic; some feelings can signal structural stress, social exclusion or illness. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The printed page supplies F-A-I-L-U-R-E and explains how habits once seemed useful.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH08-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Frustration versus perfectionism",
+    "content": "The text distinguishes inevitable goal frustration from chronic distress reinforced by all-or-nothing standards. The author proposes flexible achievable targets and sufficient rather than perfect outcomes to reduce the emotional load of pursuing goals.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-168",
+        "pdf_page": 168,
+        "printed_page": 158,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text distinguishes inevitable goal frustration from chronic distress reinforced by all-or-nothing standards.",
+    "terms": {
+      "primary": "Frustration versus perfectionism",
+      "definition": "The text distinguishes inevitable goal frustration from chronic distress reinforced by all-or-nothing standards."
+    },
+    "author_mechanism": "The author proposes flexible achievable targets and sufficient rather than perfect outcomes to reduce the emotional load of pursuing goals.",
+    "conditions_and_limits": "Some goals require precise safety standards; perfectionism is not the sole cause of distress.",
+    "application": "Choose a realistic performance band before an activity and record what worked.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Some goals require precise safety standards; perfectionism is not the sole cause of distress.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of frustration versus perfectionism to the author’s broader account of self-image and feedback. Its central claim is that the text distinguishes inevitable goal frustration from chronic distress reinforced by all-or-nothing standards. The argument proceeds by stating that the author proposes flexible achievable targets and sufficient rather than perfect outcomes to reduce the emotional load of pursuing goals. The source’s concrete illustration is: Jim S. experiences chronic dissatisfaction despite professional and family successes. A bounded learning application is: Choose a realistic performance band before an activity and record what worked. The important qualification is: Some goals require precise safety standards; perfectionism is not the sole cause of distress. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Jim S. experiences chronic dissatisfaction despite professional and family successes.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-003"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Failure expectations and self-confirming behavior",
+    "content": "The author associates repeated missed opportunities with a belief that success is undeserved. An identity expectation allegedly shifts attention and avoidance behavior, making setbacks appear to verify inferiority.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-169",
+        "pdf_page": 169,
+        "printed_page": 159,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author associates repeated missed opportunities with a belief that success is undeserved.",
+    "terms": {
+      "primary": "Failure expectations and self-confirming behavior",
+      "definition": "The author associates repeated missed opportunities with a belief that success is undeserved."
+    },
+    "author_mechanism": "An identity expectation allegedly shifts attention and avoidance behavior, making setbacks appear to verify inferiority.",
+    "conditions_and_limits": "Causal attribution is anecdotal; labor markets, relationships, timing and luck may explain outcomes.",
+    "application": "Write the observable decision chain before assigning an identity-based explanation.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Causal attribution is anecdotal; labor markets, relationships, timing and luck may explain outcomes.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of failure expectations and self-confirming behavior to the author’s broader account of self-image and feedback. Its central claim is that the author associates repeated missed opportunities with a belief that success is undeserved. The argument proceeds by stating that an identity expectation allegedly shifts attention and avoidance behavior, making setbacks appear to verify inferiority. The source’s concrete illustration is: Harry N. repeatedly loses opportunities and interprets them through a self-defeating identity. A bounded learning application is: Write the observable decision chain before assigning an identity-based explanation. The important qualification is: Causal attribution is anecdotal; labor markets, relationships, timing and luck may explain outcomes. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Harry N. repeatedly loses opportunities and interprets them through a self-defeating identity.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Misdirected aggressiveness",
+    "content": "The chapter interprets hostility as goal energy diverted when obstacles block progress. Aggression is portrayed as a response to blocked aims that should be redirected toward solving the underlying problem rather than attacking people.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-170",
+        "pdf_page": 170,
+        "printed_page": 160,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter interprets hostility as goal energy diverted when obstacles block progress.",
+    "terms": {
+      "primary": "Misdirected aggressiveness",
+      "definition": "The chapter interprets hostility as goal energy diverted when obstacles block progress."
+    },
+    "author_mechanism": "Aggression is portrayed as a response to blocked aims that should be redirected toward solving the underlying problem rather than attacking people.",
+    "conditions_and_limits": "Aggression can involve safety risks; this analogy does not explain violence or justify aggression.",
+    "application": "If angry, delay interpersonal response and identify one non-harmful obstacle-solving step.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Aggression can involve safety risks; this analogy does not explain violence or justify aggression.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of misdirected aggressiveness to the author’s broader account of self-image and feedback. Its central claim is that the chapter interprets hostility as goal energy diverted when obstacles block progress. The argument proceeds by stating that aggression is portrayed as a response to blocked aims that should be redirected toward solving the underlying problem rather than attacking people. The source’s concrete illustration is: The section introduces aggressiveness and discusses frustration escalating into displaced anger. A bounded learning application is: If angry, delay interpersonal response and identify one non-harmful obstacle-solving step. The important qualification is: Aggression can involve safety risks; this analogy does not explain violence or justify aggression. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The section introduces aggressiveness and discusses frustration escalating into displaced anger.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH06-005"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Direct problem-solving instead of displacement",
+    "content": "Understanding an emotional trigger is presented as a way to redirect energy toward the relevant goal. The author invokes safety-valve imagery and recommends constructive alternatives when a direct target is blocked.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-172",
+        "pdf_page": 172,
+        "printed_page": 162,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Understanding an emotional trigger is presented as a way to redirect energy toward the relevant goal.",
+    "terms": {
+      "primary": "Direct problem-solving instead of displacement",
+      "definition": "Understanding an emotional trigger is presented as a way to redirect energy toward the relevant goal."
+    },
+    "author_mechanism": "The author invokes safety-valve imagery and recommends constructive alternatives when a direct target is blocked.",
+    "conditions_and_limits": "External circumstances and legitimate injustice cannot be fixed by emotional redirection alone.",
+    "application": "Identify one issue you can influence and one action that does not harm others.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "External circumstances and legitimate injustice cannot be fixed by emotional redirection alone.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of direct problem-solving instead of displacement to the author’s broader account of self-image and feedback. Its central claim is that understanding an emotional trigger is presented as a way to redirect energy toward the relevant goal. The argument proceeds by stating that the author invokes safety-valve imagery and recommends constructive alternatives when a direct target is blocked. The source’s concrete illustration is: The sections on concentrating fire and emotional steam contrast attacking an unrelated target with addressing the cause. A bounded learning application is: Identify one issue you can influence and one action that does not harm others. The important qualification is: External circumstances and legitimate injustice cannot be fixed by emotional redirection alone. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The sections on concentrating fire and emotional steam contrast attacking an unrelated target with addressing the cause.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-026"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Insecurity and conditional competence",
+    "content": "An insecure self-evaluation is described as vulnerable to comparisons and uncertainty. The author frames insecurity as repeated checking of whether one measures up, which diverts attention from acting competently.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-173",
+        "pdf_page": 173,
+        "printed_page": 163,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "An insecure self-evaluation is described as vulnerable to comparisons and uncertainty.",
+    "terms": {
+      "primary": "Insecurity and conditional competence",
+      "definition": "An insecure self-evaluation is described as vulnerable to comparisons and uncertainty."
+    },
+    "author_mechanism": "The author frames insecurity as repeated checking of whether one measures up, which diverts attention from acting competently.",
+    "conditions_and_limits": "Insecurity may reflect actual power imbalance or unsafe work settings, not merely mistaken thinking.",
+    "application": "Separate role-specific skill gaps from global worth; request one relevant feedback item.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Insecurity may reflect actual power imbalance or unsafe work settings, not merely mistaken thinking.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of insecurity and conditional competence to the author’s broader account of self-image and feedback. Its central claim is that an insecure self-evaluation is described as vulnerable to comparisons and uncertainty. The argument proceeds by stating that the author frames insecurity as repeated checking of whether one measures up, which diverts attention from acting competently. The source’s concrete illustration is: The discussion invokes promotion, comparative ability and the Peter Principle. A bounded learning application is: Separate role-specific skill gaps from global worth; request one relevant feedback item. The important qualification is: Insecurity may reflect actual power imbalance or unsafe work settings, not merely mistaken thinking. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The discussion invokes promotion, comparative ability and the Peter Principle.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Recalibration rather than absolute superiority",
+    "content": "The book advises replacing impossible demands for universal superiority with attainable, situation-specific standards. Adjusting the target supposedly restores more effective performance than defending a globally superior identity.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-175",
+        "pdf_page": 175,
+        "printed_page": 165,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book advises replacing impossible demands for universal superiority with attainable, situation-specific standards.",
+    "terms": {
+      "primary": "Recalibration rather than absolute superiority",
+      "definition": "The book advises replacing impossible demands for universal superiority with attainable, situation-specific standards."
+    },
+    "author_mechanism": "Adjusting the target supposedly restores more effective performance than defending a globally superior identity.",
+    "conditions_and_limits": "Confidence alone does not confer competence and skill building still requires resources and feedback.",
+    "application": "Specify the skill needed for this situation and one way to practice it.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Confidence alone does not confer competence and skill building still requires resources and feedback.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of recalibration rather than absolute superiority to the author’s broader account of self-image and feedback. Its central claim is that the book advises replacing impossible demands for universal superiority with attainable, situation-specific standards. The argument proceeds by stating that adjusting the target supposedly restores more effective performance than defending a globally superior identity. The source’s concrete illustration is: The text discusses the need to keep ones feet on solid ground rather than proving superiority. A bounded learning application is: Specify the skill needed for this situation and one way to practice it. The important qualification is: Confidence alone does not confer competence and skill building still requires resources and feedback. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The text discusses the need to keep ones feet on solid ground rather than proving superiority.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Loneliness and social participation",
+    "content": "Loneliness is framed as disconnection from meaningful participation, not solely physical solitude. The argument proposes outward interest and active contribution to shared purposes as a corrective to self-absorbed withdrawal.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-176",
+        "pdf_page": 176,
+        "printed_page": 166,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Loneliness is framed as disconnection from meaningful participation, not solely physical solitude.",
+    "terms": {
+      "primary": "Loneliness and social participation",
+      "definition": "Loneliness is framed as disconnection from meaningful participation, not solely physical solitude."
+    },
+    "author_mechanism": "The argument proposes outward interest and active contribution to shared purposes as a corrective to self-absorbed withdrawal.",
+    "conditions_and_limits": "Solitude can be healthy; loneliness also reflects access, discrimination, geography and relationships.",
+    "application": "Choose a low-pressure invitation, group contribution or message to a trusted contact.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Solitude can be healthy; loneliness also reflects access, discrimination, geography and relationships.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of loneliness and social participation to the author’s broader account of self-image and feedback. Its central claim is that loneliness is framed as disconnection from meaningful participation, not solely physical solitude. The argument proceeds by stating that the argument proposes outward interest and active contribution to shared purposes as a corrective to self-absorbed withdrawal. The source’s concrete illustration is: Loneliness and its lack of oneness are discussed as chapter-specific failure cues. A bounded learning application is: Choose a low-pressure invitation, group contribution or message to a trusted contact. The important qualification is: Solitude can be healthy; loneliness also reflects access, discrimination, geography and relationships. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Loneliness and its lack of oneness are discussed as chapter-specific failure cues.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Uncertainty and the impossibility of perfect prediction",
+    "content": "The text urges willingness to act without having every outcome guaranteed. It links avoidance of mistakes to indecision, contrasting tentative perfection-seeking with provisional decisions revised through experience.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text urges willingness to act without having every outcome guaranteed.",
+    "terms": {
+      "primary": "Uncertainty and the impossibility of perfect prediction",
+      "definition": "The text urges willingness to act without having every outcome guaranteed."
+    },
+    "author_mechanism": "It links avoidance of mistakes to indecision, contrasting tentative perfection-seeking with provisional decisions revised through experience.",
+    "conditions_and_limits": "Important irreversible decisions deserve deliberate checks; not all uncertainty should be disregarded.",
+    "application": "For a reversible choice, name the uncertainty and decide what evidence would justify revision.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Important irreversible decisions deserve deliberate checks; not all uncertainty should be disregarded.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of uncertainty and the impossibility of perfect prediction to the author’s broader account of self-image and feedback. Its central claim is that the text urges willingness to act without having every outcome guaranteed. The argument proceeds by stating that it links avoidance of mistakes to indecision, contrasting tentative perfection-seeking with provisional decisions revised through experience. The source’s concrete illustration is: The section on uncertainty introduces fear of error and insistence on being right. A bounded learning application is: For a reversible choice, name the uncertainty and decide what evidence would justify revision. The important qualification is: Important irreversible decisions deserve deliberate checks; not all uncertainty should be disregarded. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The section on uncertainty introduces fear of error and insistence on being right.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Resentment and perceived debt",
+    "content": "The chapter describes resentment as repeated attention to perceived unfairness and entitlement. Maintaining a ledger of harms allegedly sustains tension and distracts from present goals.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-181",
+        "pdf_page": 181,
+        "printed_page": 171,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter describes resentment as repeated attention to perceived unfairness and entitlement.",
+    "terms": {
+      "primary": "Resentment and perceived debt",
+      "definition": "The chapter describes resentment as repeated attention to perceived unfairness and entitlement."
+    },
+    "author_mechanism": "Maintaining a ledger of harms allegedly sustains tension and distracts from present goals.",
+    "conditions_and_limits": "Resentment can disclose real injustice; choosing not to ruminate is not an obligation to tolerate abuse.",
+    "application": "Write a boundary or fair request without denying the original injury.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Resentment can disclose real injustice; choosing not to ruminate is not an obligation to tolerate abuse.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of resentment and perceived debt to the author’s broader account of self-image and feedback. Its central claim is that the chapter describes resentment as repeated attention to perceived unfairness and entitlement. The argument proceeds by stating that maintaining a ledger of harms allegedly sustains tension and distracts from present goals. The source’s concrete illustration is: The discussion contrasts justified grievances with chronic resentful rumination. A bounded learning application is: Write a boundary or fair request without denying the original injury. The important qualification is: Resentment can disclose real injustice; choosing not to ruminate is not an obligation to tolerate abuse. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The discussion contrasts justified grievances with chronic resentful rumination.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-011"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Emptiness despite status and achievement",
+    "content": "The author contrasts outward accomplishments with personally meaningful creative goals. According to the narrative, pursuit of mere status symbols without valued activity erodes satisfaction despite material attainment.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-185",
+        "pdf_page": 185,
+        "printed_page": 175,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author contrasts outward accomplishments with personally meaningful creative goals.",
+    "terms": {
+      "primary": "Emptiness despite status and achievement",
+      "definition": "The author contrasts outward accomplishments with personally meaningful creative goals."
+    },
+    "author_mechanism": "According to the narrative, pursuit of mere status symbols without valued activity erodes satisfaction despite material attainment.",
+    "conditions_and_limits": "Clinical anhedonia and depression cannot be resolved by goal selection alone.",
+    "application": "Write one valued activity independent of status and schedule a small participation step.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Clinical anhedonia and depression cannot be resolved by goal selection alone.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of emptiness despite status and achievement to the author’s broader account of self-image and feedback. Its central claim is that the author contrasts outward accomplishments with personally meaningful creative goals. The argument proceeds by stating that according to the narrative, pursuit of mere status symbols without valued activity erodes satisfaction despite material attainment. The source’s concrete illustration is: People reaching a long-sought success are depicted as finding the reward emotionally empty. A bounded learning application is: Write one valued activity independent of status and schedule a small participation step. The important qualification is: Clinical anhedonia and depression cannot be resolved by goal selection alone. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "People reaching a long-sought success are depicted as finding the reward emotionally empty.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-012"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH07-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-09",
+    "title": "Glance at the negative and return to the road",
+    "content": "The final mental-training section makes warning cues useful only when paired with action and renewed attention to a goal. A dashboard analogy recommends brief scanning of the warning lights, corrective action and then focus through the windshield.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The final mental-training section makes warning cues useful only when paired with action and renewed attention to a goal.",
+    "terms": {
+      "primary": "Glance at the negative and return to the road",
+      "definition": "The final mental-training section makes warning cues useful only when paired with action and renewed attention to a goal."
+    },
+    "author_mechanism": "A dashboard analogy recommends brief scanning of the warning lights, corrective action and then focus through the windshield.",
+    "conditions_and_limits": "Excessive self-monitoring can increase rumination; audits should be brief, optional and context aware.",
+    "application": "In a short review, name a warning, a constructive correction and 1 specific positive behavior.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Excessive self-monitoring can increase rumination; audits should be brief, optional and context aware.",
+    "substantive_paraphrase": "Chapter 9 connects the issue of glance at the negative and return to the road to the author’s broader account of self-image and feedback. Its central claim is that the final mental-training section makes warning cues useful only when paired with action and renewed attention to a goal. The argument proceeds by stating that a dashboard analogy recommends brief scanning of the warning lights, corrective action and then focus through the windshield. The source’s concrete illustration is: The driving and golf bunker analogies organize the final chapter exercise. A bounded learning application is: In a short review, name a warning, a constructive correction and 1 specific positive behavior. The important qualification is: Excessive self-monitoring can increase rumination; audits should be brief, optional and context aware. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The driving and golf bunker analogies organize the final chapter exercise.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH09-013"
+    ],
+    "case_ids": [
+      "PCI-EX-CH09-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH09-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH02-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-027"
+    ]
+  }
+]

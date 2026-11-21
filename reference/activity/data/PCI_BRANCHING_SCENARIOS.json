@@ -1,0 +1,2918 @@
+[
+  {
+    "id": "PCI-SC-CH01-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "After the first failed presentation",
+    "chapter_id": "PCI-CH-01",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH01-001",
+      "PCI-C-CH01-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "Presentation completed",
+      "One transition was missed",
+      "No audience feedback yet"
+    ],
+    "opening_case": "An analyst forgets a transition during a short update and thinks, “I am terrible at speaking.”",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "An analyst forgets a transition during a short update and thinks, “I am terrible at speaking.” Choose your first response.",
+        "choices": [
+          {
+            "text": "Ask a colleague for concrete observations",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Privately replay what happened before seeking feedback",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "Colleague says most points were clear. How proceed?",
+        "choices": [
+          {
+            "text": "Rehearse the transition and try a short follow-up",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Discard the feedback because the mistake proves a label",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "A colleague offers no detailed notes. What next?",
+        "choices": [
+          {
+            "text": "Ask one specific follow-up about the missed transition",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Conclude that silence means everyone judged you",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A specific weakness can become a rehearsal target, while nerves and context still matter.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Discarding usable feedback could preserve a broad self-label despite contrary evidence.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "A targeted question may yield evidence, but the other person is not obliged to coach.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Silence remains ambiguous; treating it as mind-reading leaves the cause untested.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH02-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Learning a new work skill",
+    "chapter_id": "PCI-CH-02",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH02-001",
+      "PCI-C-CH02-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The tool is new",
+      "A second attempt improved one step",
+      "Deadline allows another short test"
+    ],
+    "opening_case": "A beginner needs 2 attempts to complete a spreadsheet filter correctly.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A beginner needs 2 attempts to complete a spreadsheet filter correctly. Choose your first response.",
+        "choices": [
+          {
+            "text": "Try a third short attempt with one changed variable",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Ask for a demonstration before another attempt",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "A third attempt is faster. Next move?",
+        "choices": [
+          {
+            "text": "Record the useful change and test another case",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Assume all future tasks will now be effortless",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The result is still inaccurate. Next move?",
+        "choices": [
+          {
+            "text": "Ask what validation criterion was missed",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Treat the error as evidence of an inferior brain",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Feedback guides another test without guaranteeing mastery.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "An encouraging result supports a narrow skill claim, not unlimited transfer.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "External teaching may outperform unguided iteration for some tasks.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "An error is a local observation, not a neurological diagnosis.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH03-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Before a difficult introduction",
+    "chapter_id": "PCI-CH-03",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH03-001",
+      "PCI-C-CH03-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "No one has commented on the introduction",
+      "The meeting is routine",
+      "The person can prepare 1 sentence"
+    ],
+    "opening_case": "A person imagines colleagues laughing when they introduce themselves at a team meeting.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A person imagines colleagues laughing when they introduce themselves at a team meeting. Choose your first response.",
+        "choices": [
+          {
+            "text": "Practice 1 realistic opener aloud",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Ask a trusted coworker what the meeting format is",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "During the meeting a few people look away. What next?",
+        "choices": [
+          {
+            "text": "Continue the message and check actual responses later",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Treat diverted eyes as proof of ridicule",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The opener goes differently than rehearsed. What next?",
+        "choices": [
+          {
+            "text": "Use a shorter prepared alternative",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Stop participating because imagery was imperfect",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Continuing allows real-world evidence to replace a prediction.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Looking away has many possible causes and does not establish mockery.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Flexible rehearsal can aid adaptation without controlling others.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "An imperfect rehearsal need not eliminate a safe opportunity to speak.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH04-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "A limiting benchmark",
+    "chapter_id": "PCI-CH-04",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH04-001",
+      "PCI-C-CH04-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The class requires 75% to pass",
+      "Practice scores have improved",
+      "The 100% rule was self-imposed"
+    ],
+    "opening_case": "A student thinks they must score 100% on a quiz before saying they can learn a topic.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A student thinks they must score 100% on a quiz before saying they can learn a topic. Choose your first response.",
+        "choices": [
+          {
+            "text": "Use the published learning standard",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Keep a higher personal stretch target",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "The next result is 82%. How interpret?",
+        "choices": [
+          {
+            "text": "Treat the standard as met and identify remaining practice",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Declare the result meaningless because it was not perfect",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The result is 68%. What is useful?",
+        "choices": [
+          {
+            "text": "Review error patterns and seek help",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Treat the score as a permanent identity label",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Meeting a criterion and wanting improvement can coexist.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "A perfect-only rule obscures meaningful progress.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Task-specific feedback may show gaps or resource needs.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "A score can guide study without defining intelligence.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH05-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "A harsh self-belief",
+    "chapter_id": "PCI-CH-05",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH05-001",
+      "PCI-C-CH05-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "One reply is late",
+      "No reason is known",
+      "The relationship has previous positive exchanges"
+    ],
+    "opening_case": "After a delayed reply, someone thinks, “I always annoy people.”",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "After a delayed reply, someone thinks, “I always annoy people.” Choose your first response.",
+        "choices": [
+          {
+            "text": "Check the claim against several interactions",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Wait until more information becomes available",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "You find 2 positive counterexamples. Next?",
+        "choices": [
+          {
+            "text": "Rewrite the claim as a narrower, testable concern",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Assume all worry is irrational and ignore boundaries",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "You still have only 1 ambiguous event. Next?",
+        "choices": [
+          {
+            "text": "Send a neutral follow-up if appropriate",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Declare the silence a complete rejection",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A narrower claim fits the available data better.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Evidence review need not dismiss legitimate relationship concerns.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "A respectful follow-up may clarify logistics without pressuring anyone.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "One event cannot support such a broad interpersonal conclusion.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH06-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Overchecking a prepared task",
+    "chapter_id": "PCI-CH-06",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH06-001",
+      "PCI-C-CH06-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The required checklist is complete",
+      "A manager expects delivery",
+      "A final safety exception can still be escalated"
+    ],
+    "opening_case": "A worker has already checked a document twice but keeps rereading it.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A worker has already checked a document twice but keeps rereading it. Choose your first response.",
+        "choices": [
+          {
+            "text": "Send using the completed checklist",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Ask a peer for one targeted technical check",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "A small noncritical typo is later noticed. Next?",
+        "choices": [
+          {
+            "text": "Correct it and update the checklist for next time",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Conclude that no task should ever be submitted",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The peer identifies an unclear sentence. Next?",
+        "choices": [
+          {
+            "text": "Revise the sentence and deliver",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Continue checking indefinitely for confidence",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A bounded correction can improve a process.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Unrealistic certainty demands may disrupt useful work.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "A specific review helps more than vague reassurance.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Excess checking can have costs and does not guarantee perfection.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH07-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "A frustrating commute",
+    "chapter_id": "PCI-CH-07",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH07-001",
+      "PCI-C-CH07-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "Transit delay is confirmed",
+      "The appointment can be rescheduled",
+      "No one caused the delay deliberately"
+    ],
+    "opening_case": "A delayed bus makes a person late for a nonurgent appointment.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A delayed bus makes a person late for a nonurgent appointment. Choose your first response.",
+        "choices": [
+          {
+            "text": "Notify the other party and request a new time",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Use the delay to reconsider scheduling buffers",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "The other party is understanding. Next?",
+        "choices": [
+          {
+            "text": "Arrange the next time and revise planning",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Assume future delays can never bother you",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The route is often late. Next?",
+        "choices": [
+          {
+            "text": "Try a different schedule if feasible",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Blame yourself for all transit problems",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "One helpful response does not mean future frustration is abnormal.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Happiness is not a requirement to suppress ordinary frustration.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Contextual changes can matter as much as mental interpretation.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "External infrastructure problems should not be converted into self-blame.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH08-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Constructive courage on a team",
+    "chapter_id": "PCI-CH-08",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH08-001",
+      "PCI-C-CH08-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The possible error is task-relevant",
+      "Verification is possible",
+      "The team welcomes respectful questions"
+    ],
+    "opening_case": "A junior employee spots a plausible error in a team plan but hesitates to speak.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A junior employee spots a plausible error in a team plan but hesitates to speak. Choose your first response.",
+        "choices": [
+          {
+            "text": "Ask a factual question at the meeting",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Check the data privately first",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "The plan indeed needs revision. What next?",
+        "choices": [
+          {
+            "text": "Help document the correction without claiming superiority",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Interpret speaking up as proof of exceptional character",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The data remain ambiguous. What next?",
+        "choices": [
+          {
+            "text": "Present the uncertainty and ask for review",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Stay silent forever because certainty is impossible",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Courage can coexist with humility and shared responsibility.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "One intervention does not establish a stable personality trait.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Naming uncertainty is useful when the evidence is incomplete.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Practical decisions often proceed with bounded uncertainty.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH09-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Tension after performance feedback",
+    "chapter_id": "PCI-CH-09",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH09-001",
+      "PCI-C-CH09-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The draft has a specific requested change",
+      "The feedback may be imperfect",
+      "An immediate public reply is optional"
+    ],
+    "opening_case": "A supervisor says a draft needs improvement; anger appears.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check",
+      "sensitive_optional"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A supervisor says a draft needs improvement; anger appears. Choose your first response.",
+        "choices": [
+          {
+            "text": "Ask for concrete improvement criteria",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Take a short pause before responding",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "Feedback is specific but blunt. What next?",
+        "choices": [
+          {
+            "text": "Revise the relevant section and note tone separately",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Retaliate publicly before verifying content",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "After a pause you are still upset. What next?",
+        "choices": [
+          {
+            "text": "Choose a calm written request for clarification",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Treat the feeling as proof of personal failure",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Task repair and concerns about tone can both be addressed.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Public retaliation may add interpersonal cost without fixing the task.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "A planned response can acknowledge emotion without surrendering boundaries.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "An emotion is information, not an identity verdict.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH10-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Boundary after an insensitive joke",
+    "chapter_id": "PCI-CH-10",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH10-001",
+      "PCI-C-CH10-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The joke occurred",
+      "Intent is uncertain",
+      "A boundary may be appropriate"
+    ],
+    "opening_case": "A colleague makes a joke that feels unwelcome at lunch.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check",
+      "sensitive_optional"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A colleague makes a joke that feels unwelcome at lunch. Choose your first response.",
+        "choices": [
+          {
+            "text": "State a simple boundary",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Choose to leave the conversation for now",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "They apologize and ask what would help. Next?",
+        "choices": [
+          {
+            "text": "Describe the preferred behavior; reconciliation remains optional",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Insist on immediate forgiveness to prove progress",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The comment repeats another day. Next?",
+        "choices": [
+          {
+            "text": "Use a workplace support channel if needed",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Assume everyone else will behave the same",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A clear boundary need not require closeness or renewed trust.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Forgiveness is never a required achievement metric.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Repeated behavior may justify support or documentation.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "The action of one person does not determine all others.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH11-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Speaking in a group",
+    "chapter_id": "PCI-CH-11",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH11-001",
+      "PCI-C-CH11-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-213",
+        "pdf_page": 213,
+        "printed_page": 203,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "Participation is voluntary",
+      "Meeting norms allow suggestions",
+      "The participant can speak briefly"
+    ],
+    "opening_case": "A participant has a workable idea but hesitates in a planning discussion.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A participant has a workable idea but hesitates in a planning discussion. Choose your first response.",
+        "choices": [
+          {
+            "text": "Offer a one-sentence suggestion",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Ask a clarifying question before suggesting",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "A coworker disagrees respectfully. Next?",
+        "choices": [
+          {
+            "text": "Clarify the idea and remain open to revision",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Stop speaking because disagreement proves rejection",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The group asks for more detail. Next?",
+        "choices": [
+          {
+            "text": "Share a concrete example",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Reveal private information to appear authentic",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Authenticity includes the freedom to revise an idea.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Disagreement can be about the proposal, not the whole person.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Specific examples may help while protecting privacy.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Authentic expression does not require intimate disclosure.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH12-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Notification during focus work",
+    "chapter_id": "PCI-CH-12",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH12-001",
+      "PCI-C-CH12-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "It is not a safety alert",
+      "The work block is 10 minutes",
+      "A reply can be sent afterward"
+    ],
+    "opening_case": "A nonurgent app notification appears during a planned writing block.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A nonurgent app notification appears during a planned writing block. Choose your first response.",
+        "choices": [
+          {
+            "text": "Mute the nonurgent notification temporarily",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Record the distraction and continue without muting",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "A second nonurgent alert appears. What next?",
+        "choices": [
+          {
+            "text": "Finish the next writing paragraph before checking",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Ignore an emergency alarm by the same rule",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The deadline shifts unexpectedly. What next?",
+        "choices": [
+          {
+            "text": "Reassess the plan with new information",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Assume all interruptions are personal failings",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A reversible cue management choice can protect focus.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Emergency signals are categorically different from routine notifications.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Flexible attention should respond to real changes in obligations.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Context can change despite good initial planning.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH13-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Performing under deadline pressure",
+    "chapter_id": "PCI-CH-13",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH13-001",
+      "PCI-C-CH13-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-253",
+        "pdf_page": 253,
+        "printed_page": 243,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "A note card is allowed",
+      "The facts are prepared",
+      "An emergency protocol is separate"
+    ],
+    "opening_case": "A volunteer will give a 2-minute briefing and fears a missed sentence.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A volunteer will give a 2-minute briefing and fears a missed sentence. Choose your first response.",
+        "choices": [
+          {
+            "text": "Rehearse a recovery line for an interruption",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Practice with a brief simulated question",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "You lose your place midway. What next?",
+        "choices": [
+          {
+            "text": "Return to the last key point and continue",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Quit because the practice was not flawless",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "A question is harder than expected. Next?",
+        "choices": [
+          {
+            "text": "State what you know and offer to verify the rest",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Invent a confident answer to keep momentum",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A recovery option can matter more than flawless memorization.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "A slip need not exhaust the available task options.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Accurate uncertainty protects trust in consequential settings.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "Performance confidence cannot justify made-up information.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH14-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Using a past success responsibly",
+    "chapter_id": "PCI-CH-14",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH14-001",
+      "PCI-C-CH14-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-271",
+        "pdf_page": 271,
+        "printed_page": 261,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The earlier call was lower stakes",
+      "A script and colleague helped",
+      "This conversation has new concerns"
+    ],
+    "opening_case": "A salesperson recalls handling one objection well before a different, harder conversation.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A salesperson recalls handling one objection well before a different, harder conversation. Choose your first response.",
+        "choices": [
+          {
+            "text": "Identify transferable steps and rehearse the new concern",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Use the prior success as motivation while seeking fresh facts",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "The new objection is different. Next?",
+        "choices": [
+          {
+            "text": "Ask a clarifying question and adapt",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Repeat the old script regardless of context",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The prospect is not persuaded. Next?",
+        "choices": [
+          {
+            "text": "Record what was learned without assuming failure identity",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Conclude the winning feeling was fraudulent",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "A skill-based memory supports adaptation, not a guaranteed sale.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Situational differences may make repetition ineffective.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Outcomes depend on others and can guide the next preparation.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "A subjective feeling cannot validate or invalidate a complete identity.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH15-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Meaningful activity without medical promises",
+    "chapter_id": "PCI-CH-15",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH15-001",
+      "PCI-C-CH15-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-290",
+        "pdf_page": 290,
+        "printed_page": 280,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The class is accessible",
+      "No health treatment is implied",
+      "Attendance is optional"
+    ],
+    "opening_case": "A retired relative considers joining a community art class but worries about being rusty.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check",
+      "sensitive_optional"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A retired relative considers joining a community art class but worries about being rusty. Choose your first response.",
+        "choices": [
+          {
+            "text": "Try one introductory session",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Ask about accessibility and a trial format first",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "The session is enjoyable but tiring. Next?",
+        "choices": [
+          {
+            "text": "Consider a sustainable frequency",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Assume enjoyment proves longer lifespan",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The schedule conflicts with other needs. Next?",
+        "choices": [
+          {
+            "text": "Search for a better time or alternative",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Treat the conflict as proof of personal decline",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Enjoyment can be worthwhile without any lifespan claim.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Neither lifespan nor medical outcomes follow from this observation.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Practical adaptation can respect energy and obligations.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "A schedule mismatch is not a measure of personal worth.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-SC-CH16-001",
+    "record_type": "branching_scenario",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Interpreting a transformation testimonial",
+    "chapter_id": "PCI-CH-16",
+    "origin": "PCI_adaptation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_type": "PCI_original_adaptation",
+    "linked_concept_ids": [
+      "PCI-C-CH16-001",
+      "PCI-C-CH16-002"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-307",
+        "pdf_page": 307,
+        "printed_page": 297,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "known_facts": [
+      "The account is retrospective",
+      "Support and practice may be unreported",
+      "No comparison group is provided"
+    ],
+    "opening_case": "A success story attributes a career turnaround entirely to mental rehearsal.",
+    "focus_tags": [
+      "choices",
+      "real_world",
+      "evidence_check",
+      "sensitive_optional"
+    ],
+    "start_node": "OPEN",
+    "nodes": [
+      {
+        "id": "OPEN",
+        "type": "decision",
+        "prompt": "A success story attributes a career turnaround entirely to mental rehearsal. Choose your first response.",
+        "choices": [
+          {
+            "text": "Identify missing information before generalizing",
+            "target": "FOLLOW_A",
+            "rationale": "This preserves a possible evidence-gathering route."
+          },
+          {
+            "text": "Select one safely testable behavior from the story",
+            "target": "FOLLOW_B",
+            "rationale": "This is another plausible route; later options may change the result."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_A",
+        "type": "decision",
+        "prompt": "A second testimonial says the same thing. Next?",
+        "choices": [
+          {
+            "text": "Treat it as another anecdote and seek comparative evidence",
+            "target": "END_A1",
+            "rationale": "Consider practical limits, context and autonomy."
+          },
+          {
+            "text": "Declare a causal effect proven",
+            "target": "END_A2",
+            "rationale": "Consider whether a broad interpretation exceeds the evidence."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "FOLLOW_B",
+        "type": "decision",
+        "prompt": "The chosen action is difficult. Next?",
+        "choices": [
+          {
+            "text": "Modify the task or seek support",
+            "target": "END_B1",
+            "rationale": "Consider whether an additional observation is possible."
+          },
+          {
+            "text": "Assume the story disproves your ability",
+            "target": "END_B2",
+            "rationale": "Consider what remains unknown and who else is affected."
+          }
+        ],
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A1",
+        "type": "outcome",
+        "hypothetical_consequence": "Multiple anecdotes still cannot establish a universal causal effect.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_A2",
+        "type": "outcome",
+        "hypothetical_consequence": "Repetition alone does not replace experimental comparison.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B1",
+        "type": "outcome",
+        "hypothetical_consequence": "Practical support can be as important as mindset.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "END_B2",
+        "type": "outcome",
+        "hypothetical_consequence": "A difficult attempt is not a verdict on the person or the author.",
+        "tradeoff": "This is a possible result, not a prediction. Even careful decisions can produce mixed outcomes because other people, resources and circumstances matter.",
+        "reflection_prompt": "Which fact was available, which assumption was made, and what would you revise after new evidence?",
+        "outcome_kind": "hypothetical",
+        "completion": "finish_with_reflection",
+        "skip_target": "EXIT"
+      },
+      {
+        "id": "EXIT",
+        "type": "safe_exit",
+        "message": "Scenario stopped. You do not need to explain why. No personal details were saved by this content pack."
+      }
+    ],
+    "exit_node": "EXIT",
+    "estimated_minutes": 6,
+    "decision_points_per_path": 2,
+    "safety": {
+      "stop_anytime": true,
+      "fictional_only": true,
+      "no_diagnostic_results": true,
+      "no_forced_disclosure": true,
+      "no_required_forgiveness": true,
+      "nonclinical": true
+    },
+    "accessibility": {
+      "keyboard_ready": true,
+      "screen_reader_labels": true,
+      "no_timer": true,
+      "text_alternative": true
+    },
+    "review_prompts": [
+      "Which observable fact mattered most?",
+      "What would a reasonable person with different priorities choose?",
+      "Which condition might reverse your choice?"
+    ],
+    "evaluation_policy": {
+      "type": "tradeoff_explanation_only",
+      "no_best_personality_choice": true,
+      "no_personality_scores": true,
+      "no_inferred_internal_state": true
+    },
+    "event_contract": {
+      "on_choice": "scenario.choice",
+      "on_finish": "scenario.completed",
+      "on_skip": "scenario.skipped",
+      "minimal_fields": [
+        "scenario_id",
+        "node_id",
+        "choice_index",
+        "event_type",
+        "timestamp_iso"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  }
+]

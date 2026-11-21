@@ -1,0 +1,462 @@
+[
+  {
+    "query": "self image beliefs",
+    "results": [
+      {
+        "id": "PCI-APP-CH03-011",
+        "score": 3,
+        "title": "Application: Religion and self-acceptance framing"
+      },
+      {
+        "id": "PCI-APP-CH05-008",
+        "score": 3,
+        "title": "Practice implication: Self-consistency through conflicting convictions"
+      },
+      {
+        "id": "PCI-R-0076",
+        "score": 3,
+        "title": "Putty rather than plaster self-image ↔ Belief revision requires testing the premise"
+      },
+      {
+        "id": "PCI-AP-CH08-007",
+        "score": 2,
+        "title": "Self-acceptance and imperfection"
+      },
+      {
+        "id": "PCI-APP-CH01-001",
+        "score": 2,
+        "title": "Application: Self-image as working self-description"
+      },
+      {
+        "id": "PCI-APP-CH01-002",
+        "score": 2,
+        "title": "Application: Snap-back and self-confirming loops"
+      },
+      {
+        "id": "PCI-APP-CH01-004",
+        "score": 2,
+        "title": "Application: Self-consistency system"
+      },
+      {
+        "id": "PCI-APP-CH01-007",
+        "score": 2,
+        "title": "Application: Adequate and realistic self-acceptance"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "mental imagery rehearsal",
+    "results": [
+      {
+        "id": "PCI-AP-CH02-003",
+        "score": 3,
+        "title": "Clarify a single target through mental sketching"
+      },
+      {
+        "id": "PCI-AP-CH04-001",
+        "score": 3,
+        "title": "Dehypnotization relaxation imagery"
+      },
+      {
+        "id": "PCI-AP-CH06-002",
+        "score": 3,
+        "title": "Lock-box mental movie after a decision"
+      },
+      {
+        "id": "PCI-AP-CH10-002",
+        "score": 3,
+        "title": "Daily relaxation and success diary"
+      },
+      {
+        "id": "PCI-AP-CH12-004",
+        "score": 3,
+        "title": "Daily brief mental vacation"
+      },
+      {
+        "id": "PCI-AP-CH12-005",
+        "score": 3,
+        "title": "Clear-the-calculator mental reset"
+      },
+      {
+        "id": "PCI-AP-CH12-007",
+        "score": 3,
+        "title": "Telephone nonresponse mental training"
+      },
+      {
+        "id": "PCI-APP-CH02-002",
+        "score": 3,
+        "title": "Application: Decision imagination and self-image work order"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "feedback mistakes",
+    "results": [
+      {
+        "id": "PCI-APP-CH05-004",
+        "score": 2,
+        "title": "Practice implication: Use past mistakes as feedback, not a destination"
+      },
+      {
+        "id": "PCI-C-CH05-004",
+        "score": 2,
+        "title": "Use past mistakes as feedback, not a destination"
+      },
+      {
+        "id": "PCI-C-CH08-005",
+        "score": 2,
+        "title": "Truthful negative feedback without identity collapse"
+      },
+      {
+        "id": "PCI-C-CH09-010",
+        "score": 2,
+        "title": "Uncertainty and the impossibility of perfect prediction"
+      },
+      {
+        "id": "PCI-C-CH10-013",
+        "score": 2,
+        "title": "Actions are not identity nouns"
+      },
+      {
+        "id": "PCI-C-CH11-006",
+        "score": 2,
+        "title": "Excessive carefulness can itself create mistakes"
+      },
+      {
+        "id": "PCI-CL-CH05-004",
+        "score": 2,
+        "title": "Book assertion: Use past mistakes as feedback, not a destination"
+      },
+      {
+        "id": "PCI-CL-CH08-005",
+        "score": 2,
+        "title": "Book assertion: Truthful negative feedback without identity collapse"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "emotional scars forgiveness",
+    "results": [
+      {
+        "id": "PCI-APP-CH10-001",
+        "score": 2,
+        "title": "Application: Emotional scars are a protective analogy"
+      },
+      {
+        "id": "PCI-C-CH10-001",
+        "score": 2,
+        "title": "Emotional scars are a protective analogy"
+      },
+      {
+        "id": "PCI-C-CH10-011",
+        "score": 2,
+        "title": "Forgiveness as release of continuing grievance"
+      },
+      {
+        "id": "PCI-CH-10",
+        "score": 2,
+        "title": "How to Remove Emotional Scars and Give Yourself an Emotional Face Lift"
+      },
+      {
+        "id": "PCI-CL-CH10-001",
+        "score": 2,
+        "title": "Book assertion: Emotional scars are a protective analogy"
+      },
+      {
+        "id": "PCI-CL-CH10-011",
+        "score": 2,
+        "title": "Book assertion: Forgiveness as release of continuing grievance"
+      },
+      {
+        "id": "PCI-EA-028",
+        "score": 2,
+        "title": "Emotional scars are comparable to biological scar tissue"
+      },
+      {
+        "id": "PCI-M-CH10-001",
+        "score": 2,
+        "title": "Proposed model: Emotional scars are a protective analogy"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "relaxation pressure",
+    "results": [
+      {
+        "id": "PCI-APP-CH03-003",
+        "score": 2,
+        "title": "Application: Negative suggestions and nocebo-like expectations"
+      },
+      {
+        "id": "PCI-C-CH13-008",
+        "score": 2,
+        "title": "Shifting attention from outcome to perception"
+      },
+      {
+        "id": "PCI-CL-CH13-008",
+        "score": 2,
+        "title": "Book assertion: Shifting attention from outcome to perception"
+      },
+      {
+        "id": "PCI-M-CH13-001",
+        "score": 2,
+        "title": "Pressure-performance account"
+      },
+      {
+        "id": "PCI-AP-CH04-001",
+        "score": 1,
+        "title": "Dehypnotization relaxation imagery"
+      },
+      {
+        "id": "PCI-AP-CH06-007",
+        "score": 1,
+        "title": "Recall relaxed sensation at work"
+      },
+      {
+        "id": "PCI-AP-CH10-002",
+        "score": 1,
+        "title": "Daily relaxation and success diary"
+      },
+      {
+        "id": "PCI-APP-CH03-007",
+        "score": 1,
+        "title": "Application: Imagery for pain and recovery: medical claim"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "winning feeling",
+    "results": [
+      {
+        "id": "PCI-APP-CH14-003",
+        "score": 2,
+        "title": "Application: Winning feeling as an indicator, not a guarantee"
+      },
+      {
+        "id": "PCI-C-CH14-003",
+        "score": 2,
+        "title": "Winning feeling as an indicator, not a guarantee"
+      },
+      {
+        "id": "PCI-CH-14",
+        "score": 2,
+        "title": "How to Get and Keep That Winning Feeling"
+      },
+      {
+        "id": "PCI-CL-CH14-003",
+        "score": 2,
+        "title": "Book assertion: Winning feeling as an indicator, not a guarantee"
+      },
+      {
+        "id": "PCI-EA-036",
+        "score": 2,
+        "title": "Winning feeling cannot guarantee success"
+      },
+      {
+        "id": "PCI-M-CH14-001",
+        "score": 2,
+        "title": "Winning feeling loop"
+      },
+      {
+        "id": "PCI-R-0097",
+        "score": 2,
+        "title": "Relation: Winning feeling as an indicator, not a guarantee / Negative feedback and iterative correction"
+      },
+      {
+        "id": "PCI-SEC-CH14-05",
+        "score": 2,
+        "title": "How That Winning Feeling Won a Golf Tournament"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "aging longevity",
+    "results": [
+      {
+        "id": "PCI-APP-CH15-001",
+        "score": 2,
+        "title": "Application: Longevity discussion is explicitly a hypothesis"
+      },
+      {
+        "id": "PCI-C-CH15-001",
+        "score": 2,
+        "title": "Longevity discussion is explicitly a hypothesis"
+      },
+      {
+        "id": "PCI-CL-CH15-001",
+        "score": 2,
+        "title": "Book assertion: Longevity discussion is explicitly a hypothesis"
+      },
+      {
+        "id": "PCI-EDU-CH15-001",
+        "score": 2,
+        "title": "Engagement without longevity claims"
+      },
+      {
+        "id": "PCI-APP-CH04-005",
+        "score": 1,
+        "title": "Application: Mr. Russell and illness beliefs"
+      },
+      {
+        "id": "PCI-C-CH10-015",
+        "score": 1,
+        "title": "Youthful appearance claims require independent review"
+      },
+      {
+        "id": "PCI-C-CH15-008",
+        "score": 1,
+        "title": "Placebo examples cannot prove cure by expectation"
+      },
+      {
+        "id": "PCI-CH-15",
+        "score": 1,
+        "title": "More Years of Life and More Life in Your Years"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "automatic success mechanism",
+    "results": [
+      {
+        "id": "PCI-CH-02",
+        "score": 2,
+        "title": "How to Awaken the Automatic Success Mechanism Within You"
+      },
+      {
+        "id": "PCI-CH-03",
+        "score": 2,
+        "title": "Imagination: The Ignition Key to Your Automatic Success Mechanism"
+      },
+      {
+        "id": "PCI-CH-06",
+        "score": 2,
+        "title": "How to Relax and Let Your Automatic Success Mechanism Work for You"
+      },
+      {
+        "id": "PCI-EDU-CH02-002",
+        "score": 2,
+        "title": "Test one course correction"
+      },
+      {
+        "id": "PCI-R-0090",
+        "score": 2,
+        "title": "Louganis rehearsals as an attributed example ↔ Built-in success instinct metaphor"
+      },
+      {
+        "id": "PCI-SEC-CH02-03",
+        "score": 2,
+        "title": "How Your Automatic Success Mechanism Works"
+      },
+      {
+        "id": "PCI-AP-CH08-006",
+        "score": 1,
+        "title": "Recall concrete successes"
+      },
+      {
+        "id": "PCI-AP-CH10-002",
+        "score": 1,
+        "title": "Daily relaxation and success diary"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "rational thinking",
+    "results": [
+      {
+        "id": "PCI-CH-05",
+        "score": 2,
+        "title": "How to Succeed with the Power of Rational Thinking"
+      },
+      {
+        "id": "PCI-R-0026",
+        "score": 2,
+        "title": "Conscious decision plus imagination ↔ Decision imagination and self-image work order"
+      },
+      {
+        "id": "PCI-SEC-CH05-01",
+        "score": 2,
+        "title": "Chapter opening: rational thinking"
+      },
+      {
+        "id": "PCI-SEC-CH05-03",
+        "score": 2,
+        "title": "How Testing Self-Imposed Limits with Rational Thinking Can Surprise You"
+      },
+      {
+        "id": "PCI-AP-CH05-001",
+        "score": 1,
+        "title": "Rational self-inquiry about assumed impossibilities"
+      },
+      {
+        "id": "PCI-AP-CH05-003",
+        "score": 1,
+        "title": "Four uses of rational thought checklist"
+      },
+      {
+        "id": "PCI-AP-CH09-002",
+        "score": 1,
+        "title": "Golf-bunker style negative thinking"
+      },
+      {
+        "id": "PCI-AP-CH15-004",
+        "score": 1,
+        "title": "Seek suitable assistance"
+      }
+    ],
+    "result_ids_resolve": true
+  },
+  {
+    "query": "crisis performance",
+    "results": [
+      {
+        "id": "PCI-M-CH13-001",
+        "score": 2,
+        "title": "Pressure-performance account"
+      },
+      {
+        "id": "PCI-AP-CH02-003",
+        "score": 1,
+        "title": "Clarify a single target through mental sketching"
+      },
+      {
+        "id": "PCI-AP-CH13-003",
+        "score": 1,
+        "title": "Private shadow-boxing"
+      },
+      {
+        "id": "PCI-AP-CH13-005",
+        "score": 1,
+        "title": "Reinterpret mild nerves as excitement"
+      },
+      {
+        "id": "PCI-APP-CH01-003",
+        "score": 1,
+        "title": "Application: Inside-out change versus surface affirmation"
+      },
+      {
+        "id": "PCI-APP-CH03-002",
+        "score": 1,
+        "title": "Application: Imagination as goal picture"
+      },
+      {
+        "id": "PCI-APP-CH03-006",
+        "score": 1,
+        "title": "Application: Basketball mental practice comparison"
+      },
+      {
+        "id": "PCI-APP-CH03-008",
+        "score": 1,
+        "title": "Application: Performance scripts in selling and interviewing"
+      }
+    ],
+    "result_ids_resolve": true
+  }
+]

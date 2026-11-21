@@ -1,0 +1,9 @@
+{
+ "schema_version":"2.1.0", "extends":"Stage07 PCI_PRIVATE_EVENT and Stage10 event extension without replacing either", "event_store":"events", "event_types":{
+  "rehearsal.started":{"idempotency_key":"rehearsal.started:<session_uuid>","payload_fields":["event_type","event_version","target_id","session_id","template_id","timestamp_iso"]},
+  "rehearsal.completed":{"idempotency_key":"rehearsal.completed:<session_uuid>","payload_fields":["event_type","event_version","target_id","session_id","template_id","template_version","duration_mode","actual_elapsed_ms","skipped_count","source_origin","timestamp_iso"]},
+  "rehearsal.stopped":{"idempotency_key":"rehearsal.stopped:<session_uuid>","payload_fields":["event_type","event_version","target_id","session_id","template_id","timestamp_iso"]}
+ },
+ "privacy":{"event_has_scene_text":false,"event_has_belief_text":false,"events_device_local_only":true,"completion_means_participation_only":true},
+ "migration":"No IndexedDB version change; existing unknown-event consumers must ignore rehearsal.started and rehearsal.stopped; rehearsal.completed was already defined Stage07."
+}

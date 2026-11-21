@@ -1,0 +1,104 @@
+{
+  "status": "PASS",
+  "passed": 24,
+  "failed": 0,
+  "environment": "In-memory Chromium with React16 compatibility bridge and simulated IndexedDB; NOT native HTTPS-origin or Safari",
+  "checks": [
+    {
+      "label": "empty-real-progress-390",
+      "status": "PASS"
+    },
+    {
+      "label": "first-run-next-step-390",
+      "status": "PASS"
+    },
+    {
+      "label": "no-horizontal-overflow-home-390",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-saved-390",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-search-title-tag-390",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-search-excludes-body-390",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-edit-390",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-undo-390",
+      "status": "PASS"
+    },
+    {
+      "label": "route-guard-stays-archive-390",
+      "status": "PASS"
+    },
+    {
+      "label": "preserved-module-routes-390",
+      "status": "PASS"
+    },
+    {
+      "label": "live-count-after-archive-save-390",
+      "status": "PASS"
+    },
+    {
+      "label": "no-horizontal-overflow-after-390",
+      "status": "PASS"
+    },
+    {
+      "label": "empty-real-progress-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "first-run-next-step-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "no-horizontal-overflow-home-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-saved-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-search-title-tag-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-search-excludes-body-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-edit-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "archive-undo-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "route-guard-stays-archive-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "preserved-module-routes-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "live-count-after-archive-save-1440",
+      "status": "PASS"
+    },
+    {
+      "label": "no-horizontal-overflow-after-1440",
+      "status": "PASS"
+    }
+  ]
+}

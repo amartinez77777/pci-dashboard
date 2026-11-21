@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "PCI-EDU-CH01-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-01",
+    "title": "Identity statement audit",
+    "content": "An optional PCI original activity: Record 3 frequently repeated statements starting with “I am”. For each, separate an observed event from an identity conclusion. Identify a counterexample, or say none is currently known. Create a more precise time- and task-bounded statement.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Record 3 frequently repeated statements starting with “I am”.",
+      "For each, separate an observed event from an identity conclusion.",
+      "Identify a counterexample, or say none is currently known.",
+      "Create a more precise time- and task-bounded statement."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: distinguishes fact from identity; gives balanced evidence; gives non-shaming replacement; acknowledges uncertainty. Total 0-8. Self-review is not a trait score.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH01-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-01",
+    "title": "One identity-consistent action",
+    "content": "An optional PCI original activity: Choose one modest action avoided because of a negative identity label. Write a measurable prediction and a practical obstacle. Attempt the action with consent and support where needed. Compare prediction and outcome; record one non-identity explanation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-014",
+        "pdf_page": 14,
+        "printed_page": 4,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose one modest action avoided because of a negative identity label.",
+      "Write a measurable prediction and a practical obstacle.",
+      "Attempt the action with consent and support where needed.",
+      "Compare prediction and outcome; record one non-identity explanation."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: goal specificity; action attempted; outcome documented; alternative explanation. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH02-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-02",
+    "title": "Feedback-loop observation",
+    "content": "An optional PCI original activity: Choose a routine skill learned over time. Describe intended target, initial errors, feedback signals and changes. Note when the machine metaphor fits and when it misleads.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Choose a routine skill learned over time.",
+      "Describe intended target, initial errors, feedback signals and changes.",
+      "Note when the machine metaphor fits and when it misleads."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: identifies target; concrete feedback; specific corrections; rejects literal brain machine. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH02-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-02",
+    "title": "Test one course correction",
+    "content": "An optional PCI original activity: Choose a safe 10-minute task with a concrete success criterion. Make one attempt and record result. Change one controllable variable and repeat. Compare results without assuming automatic success.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose a safe 10-minute task with a concrete success criterion.",
+      "Make one attempt and record result.",
+      "Change one controllable variable and repeat.",
+      "Compare results without assuming automatic success."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: measurable target; baseline; one-variable adjustment; cautious interpretation. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH03-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-03",
+    "title": "Prediction versus observed social evidence",
+    "content": "An optional PCI original activity: Describe a low-stakes event you anticipate. Separate imagined reactions from observed or documented ones. Identify 2 alternative explanations and a supportive response if worry arises.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Describe a low-stakes event you anticipate.",
+      "Separate imagined reactions from observed or documented ones.",
+      "Identify 2 alternative explanations and a supportive response if worry arises."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: imagined/observed distinction; 2 alternatives; respectful language; risk awareness. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH03-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-03",
+    "title": "Short imagery plus real rehearsal",
+    "content": "An optional PCI original activity: Choose a safe skill such as introducing yourself or describing a task. Rehearse for 3-5 minutes, optionally using a mental scene. Perform a short real practice and record a behavioral outcome. Adjust the next rehearsal based on real feedback.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-062",
+        "pdf_page": 62,
+        "printed_page": 52,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose a safe skill such as introducing yourself or describing a task.",
+      "Rehearse for 3-5 minutes, optionally using a mental scene.",
+      "Perform a short real practice and record a behavioral outcome.",
+      "Adjust the next rehearsal based on real feedback."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: safe target; specific rehearsal; real task; evidence-led revision. Total 0-8. Timing here is PCI adaptation, NOT the book 30-minute protocol.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH04-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-04",
+    "title": "Find the hidden comparison standard",
+    "content": "An optional PCI original activity: Record a belief such as “I am bad at X”. Identify who established the standard and whether it is valid in context. Write what would count as counterevidence and one alternative benchmark.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Record a belief such as “I am bad at X”.",
+      "Identify who established the standard and whether it is valid in context.",
+      "Write what would count as counterevidence and one alternative benchmark."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: standard named; fairness tested; falsifiable prediction; compassionate interpretation. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH04-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-04",
+    "title": "Safe belief prediction experiment",
+    "content": "An optional PCI original activity: Pick one modest prediction with no health or safety stakes. Attempt an observable task once under ordinary conditions. Record the outcome and whether the original belief requires revision. Record a non-belief cause of any remaining difficulty.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Pick one modest prediction with no health or safety stakes.",
+      "Attempt an observable task once under ordinary conditions.",
+      "Record the outcome and whether the original belief requires revision.",
+      "Record a non-belief cause of any remaining difficulty."
+    ],
+    "timing": "self-paced; choose a short comfortable session; no fixed regimen",
+    "rubric": "Score 0-2 each: prediction; safe action; neutral outcome; alternative cause. Total 0-8.",
+    "privacy_default": "local_only",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "scoring": "Completion of evidence-handling steps only, not an intelligence, self-worth or personality score.",
+    "safety": "Skip if upsetting. For health, self-harm, eating-disorder or severe mental-health concerns seek appropriate professional help."
+  },
+  {
+    "id": "PCI-EDU-CH05-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-05",
+    "title": "Belief audit without self-blame",
+    "content": "Optional original PCI educational activity. Write 2 mild statements involving “always” or “never” about your competence. For each separate a specific observed event from its broad conclusion. Record evidence for and against the belief and a balanced narrower hypothesis. Identify one external constraint or missing resource.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Write 2 mild statements involving “always” or “never” about your competence.",
+      "For each separate a specific observed event from its broad conclusion.",
+      "Record evidence for and against the belief and a balanced narrower hypothesis.",
+      "Identify one external constraint or missing resource."
+    ],
+    "rubric": "Two statements, two evidence columns, one revision each; score 0–2 on separating facts, testing alternatives, avoiding self-blame, recognizing context. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH05-001",
+      "PCI-C-CH05-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH05-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-05",
+    "title": "Low-stakes hypothesis test",
+    "content": "Optional original PCI educational activity. Choose one safe reversible belief such as a tentative preference. Predict the outcome and specify what observation would count against the belief. Try the action once, log the actual result, and update your conclusion proportionally.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_or_feedback",
+    "instructions": [
+      "Choose one safe reversible belief such as a tentative preference.",
+      "Predict the outcome and specify what observation would count against the belief.",
+      "Try the action once, log the actual result, and update your conclusion proportionally."
+    ],
+    "rubric": "Score 0–2 each for testable prediction, safe bounded trial, accurate result, calibrated update. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH05-001",
+      "PCI-C-CH05-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH06-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-06",
+    "title": "Decision-loop observer",
+    "content": "Optional original PCI educational activity. For a settled low-risk choice, count how often you revisit it without new information. Write what information was available before and after the choice. Distinguish useful review from repetitive uncertainty relief.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "For a settled low-risk choice, count how often you revisit it without new information.",
+      "Write what information was available before and after the choice.",
+      "Distinguish useful review from repetitive uncertainty relief."
+    ],
+    "rubric": "Score 0–2 each for clear choice definition, true new information, nonjudgmental count, next-step identification. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH06-001",
+      "PCI-C-CH06-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH06-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-06",
+    "title": "One-task attention trial",
+    "content": "Optional original PCI educational activity. Choose a short, safe work block with normal emergency availability. Before starting, note task, expected output and likely distractors. Complete the block on one task and record interruptions and actual work produced. Compare honestly with another ordinary block rather than assuming the book mechanism.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_or_feedback",
+    "instructions": [
+      "Choose a short, safe work block with normal emergency availability.",
+      "Before starting, note task, expected output and likely distractors.",
+      "Complete the block on one task and record interruptions and actual work produced.",
+      "Compare honestly with another ordinary block rather than assuming the book mechanism."
+    ],
+    "rubric": "Score 0–2 each for planned task, observable outcome, accurate interruptions, plausible comparison. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH06-001",
+      "PCI-C-CH06-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH07-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-07",
+    "title": "Fact and meaning in a hard day",
+    "content": "Optional original PCI educational activity. Record one irritating but not traumatic event. List only observable facts and then the story you told yourself about them. Write 2 interpretations, including one that takes your interests seriously. Identify any real unmet need that requires action.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Record one irritating but not traumatic event.",
+      "List only observable facts and then the story you told yourself about them.",
+      "Write 2 interpretations, including one that takes your interests seriously.",
+      "Identify any real unmet need that requires action."
+    ],
+    "rubric": "Score 0–2 each for event facts, separation of judgment, credible alternatives, real needs acknowledged. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH07-001",
+      "PCI-C-CH07-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH07-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-07",
+    "title": "Prosocial action plus mood log",
+    "content": "Optional original PCI educational activity. Choose one respectful helpful action someone welcomes. Record the action and whether the other person consented. Briefly note mood before and after without claiming an enduring happiness shift. Describe any environmental factors affecting the outcome.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_or_feedback",
+    "instructions": [
+      "Choose one respectful helpful action someone welcomes.",
+      "Record the action and whether the other person consented.",
+      "Briefly note mood before and after without claiming an enduring happiness shift.",
+      "Describe any environmental factors affecting the outcome."
+    ],
+    "rubric": "Score 0–2 each for consent, specific action, observation rather than guarantee, balanced interpretation. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH07-001",
+      "PCI-C-CH07-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH08-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-08",
+    "title": "SUCCESS as a nonclinical skill map",
+    "content": "Optional original PCI educational activity. Review the 7 source categories without rating your worth. For 2 categories, name a specific behavior you have observed, including counterexamples. Identify conditions or resources that would make constructive behavior easier.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-146",
+        "pdf_page": 146,
+        "printed_page": 136,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Review the 7 source categories without rating your worth.",
+      "For 2 categories, name a specific behavior you have observed, including counterexamples.",
+      "Identify conditions or resources that would make constructive behavior easier."
+    ],
+    "rubric": "Score 0–2 each for grounded examples, counterexamples, conditions, nonjudgmental framing. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH08-001",
+      "PCI-C-CH08-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH08-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-08",
+    "title": "Confidence ladder with repair",
+    "content": "Optional original PCI educational activity. Pick one skill that is safe to practice with graduated difficulty. Define a very small first attempt with a measurable criterion. Perform it once, record success and error data, and make a modest correction. Separate performance feedback from identity judgment.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_or_feedback",
+    "instructions": [
+      "Pick one skill that is safe to practice with graduated difficulty.",
+      "Define a very small first attempt with a measurable criterion.",
+      "Perform it once, record success and error data, and make a modest correction.",
+      "Separate performance feedback from identity judgment."
+    ],
+    "rubric": "Score 0–2 each for graded scope, actual attempt, measured feedback, supportive learning response. Total 0–8 reflects task completeness only.",
+    "timing": "self-paced; no required days or session length",
+    "expected_completion_evidence": [
+      "private worksheet showing relevant observations",
+      "one explicit uncertainty or alternative"
+    ],
+    "reflection_prompts": [
+      "What did the observations actually show?",
+      "Which conditions outside your control mattered?",
+      "What would change the conclusion?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH08-001",
+      "PCI-C-CH08-002"
+    ],
+    "scoring": "Completion of evidence handling steps, not a psychological score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Skip if distressing. Never replace medical or mental health treatment; seek suitable assistance when needed."
+  },
+  {
+    "id": "PCI-EDU-CH09-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-09",
+    "title": "Signal versus identity",
+    "content": "Original optional PCI education, not book instruction: Select 1 mild recent frustration, without describing traumatic material. Record objective event, the feeling, and what it might be signaling. List 2 explanations, including an outside condition. Choose a non-harmful response or no action.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Select 1 mild recent frustration, without describing traumatic material.",
+      "Record objective event, the feeling, and what it might be signaling.",
+      "List 2 explanations, including an outside condition.",
+      "Choose a non-harmful response or no action."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "One observation without identity label",
+      "Two alternatives",
+      "One safe response"
+    ],
+    "reflection_prompts": [
+      "What remains uncertain?",
+      "Would a pause be kinder than a diagnosis?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH09-001",
+      "PCI-C-CH09-003"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH09-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-09",
+    "title": "Correct course, keep destination",
+    "content": "Original optional PCI education, not book instruction: Name a reversible ordinary goal and 1 warning signal. Take 1 small corrective action within your control. Record what happened without calculating an AFM score.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Name a reversible ordinary goal and 1 warning signal.",
+      "Take 1 small corrective action within your control.",
+      "Record what happened without calculating an AFM score."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Goal and action recorded",
+      "Outcome noted",
+      "Context or confounder named"
+    ],
+    "reflection_prompts": [
+      "What did feedback actually change?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH09-013",
+      "PCI-C-CH09-004"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH10-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-10",
+    "title": "Boundaries versus generalized withdrawal",
+    "content": "Original optional PCI education, not book instruction: Choose a mild everyday situation; skip painful histories. Describe a reasonable boundary and a different low-risk context where connecting could be safe. List evidence for each and identify whether any action is optional.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Choose a mild everyday situation; skip painful histories.",
+      "Describe a reasonable boundary and a different low-risk context where connecting could be safe.",
+      "List evidence for each and identify whether any action is optional."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Boundary stated",
+      "Safe context identified",
+      "Option to skip retained"
+    ],
+    "reflection_prompts": [
+      "What protections remain necessary?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH10-001",
+      "PCI-C-CH10-003"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH10-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-10",
+    "title": "Action not identity",
+    "content": "Original optional PCI education, not book instruction: Describe an ordinary mistake using a verb. Identify a proportionate repair if one is appropriate. Replace one global identity label with a behavior-specific statement.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-209",
+        "pdf_page": 209,
+        "printed_page": 199,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Describe an ordinary mistake using a verb.",
+      "Identify a proportionate repair if one is appropriate.",
+      "Replace one global identity label with a behavior-specific statement."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Behavior described",
+      "Potential repair considered",
+      "No forced apology/contact"
+    ],
+    "reflection_prompts": [
+      "What responsibilities remain without global shame?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH10-015",
+      "PCI-C-CH10-004"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH11-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-11",
+    "title": "Others-mindreading audit",
+    "content": "Original optional PCI education, not book instruction: Pick a low-stakes upcoming conversation. Write what you know others said versus what you guess they think. Prepare 1 useful contribution with consent and safety.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Pick a low-stakes upcoming conversation.",
+      "Write what you know others said versus what you guess they think.",
+      "Prepare 1 useful contribution with consent and safety."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Evidence versus inference separated",
+      "Contribution identified",
+      "Real social context included"
+    ],
+    "reflection_prompts": [
+      "When might another persons perspective matter?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH11-001",
+      "PCI-C-CH11-003"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH11-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-11",
+    "title": "One minute of authentic expression",
+    "content": "Original optional PCI education, not book instruction: In a safe setting state one genuine idea or appreciation. Ask for constructive feedback if welcome. Record whether the action occurred, not whether your personality changed.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "In a safe setting state one genuine idea or appreciation.",
+      "Ask for constructive feedback if welcome.",
+      "Record whether the action occurred, not whether your personality changed."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Expression attempted",
+      "Safety and recipient comfort respected",
+      "Feedback recorded"
+    ],
+    "reflection_prompts": [
+      "What changed in behavior rather than identity?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH11-014",
+      "PCI-C-CH11-004"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH12-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-12",
+    "title": "Notification cue inventory",
+    "content": "Original optional PCI education, not book instruction: Choose a nonurgent notification, never an emergency alarm. Record cue, automatic impulse and actual obligation. Describe one alternative response and when it would be safe.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-235",
+        "pdf_page": 235,
+        "printed_page": 225,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Choose a nonurgent notification, never an emergency alarm.",
+      "Record cue, automatic impulse and actual obligation.",
+      "Describe one alternative response and when it would be safe."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Cue identified",
+      "Urgency differentiated",
+      "Alternative considered"
+    ],
+    "reflection_prompts": [
+      "What if the cue was genuinely urgent?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH12-001",
+      "PCI-C-CH12-003"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH12-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-12",
+    "title": "Transition pause test",
+    "content": "Original optional PCI education, not book instruction: Before a routine second task, try an optional 15-second pause. Use a written checklist or calming cue, not mandatory imagery. Note which task step you completed and any distraction.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Before a routine second task, try an optional 15-second pause.",
+      "Use a written checklist or calming cue, not mandatory imagery.",
+      "Note which task step you completed and any distraction."
+    ],
+    "rubric": "Score 0=not completed, 1=partially, 2=clearly for each of: fact/inference separation, safe choice, real-world observation, contextual humility. Total 0-8 is artifact completeness ONLY; not a personal/psychological score.",
+    "timing": "Self-paced, no mandatory duration or daily streak",
+    "expected_completion_evidence": [
+      "Pause or alternative recorded",
+      "Task outcome noted",
+      "Context included"
+    ],
+    "reflection_prompts": [
+      "Was a pause useful or neutral?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH12-017",
+      "PCI-C-CH12-004"
+    ],
+    "scoring": "Optional 0–8 worksheet completeness; never diagnosis, worth or mental performance",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "May skip, stop, or use fictional example at any point. Avoid trauma excavation, forced forgiveness, exposure or contact with harmful people. Keep responses private and out of public research assets."
+  },
+  {
+    "id": "PCI-EDU-CH13-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure map with realistic stakes",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Select a mild recent pressure moment, or fictional scenario; Identify observable actions, stakes and non-identifying context; Separate outcome from self-label and name one different preparation step",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Select a mild recent pressure moment, or fictional scenario",
+      "Identify observable actions, stakes and non-identifying context",
+      "Separate outcome from self-label and name one different preparation step"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What was actually under your control?",
+      "Would a realistic alternative interpretation change preparation?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH13-003"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH13-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-13",
+    "title": "Low-pressure rehearsal and feedback",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Choose a safe speech, interview or sport micro-skill; Rehearse once privately with a measurable checklist; Try once again and note what changed in specific actions",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose a safe speech, interview or sport micro-skill",
+      "Rehearse once privately with a measurable checklist",
+      "Try once again and note what changed in specific actions"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What improved or remained difficult?",
+      "Which physical/practical skills still need training?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH13-005"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH14-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-14",
+    "title": "Success evidence without magical certainty",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Choose a task you completed previously; Record 2 observable skills and 1 help or resource that contributed; List how the new task differs and one needed skill",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Choose a task you completed previously",
+      "Record 2 observable skills and 1 help or resource that contributed",
+      "List how the new task differs and one needed skill"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What part of the previous performance genuinely transfers?",
+      "What remains unknown?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH14-003"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH14-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-14",
+    "title": "Small-wins ladder",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Set a very small next step for a meaningful skill; Complete or decline it and mark what occurred; Plan a slightly more difficult step based on evidence",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Set a very small next step for a meaningful skill",
+      "Complete or decline it and mark what occurred",
+      "Plan a slightly more difficult step based on evidence"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "Which feedback helped?",
+      "Was the step appropriately sized?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH14-005"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH15-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-15",
+    "title": "Engagement without longevity claims",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Optional: list present sources of enjoyment, meaning or connection; Separate personal values from book claims about aging; Identify one accessible optional activity and its support needs",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-292",
+        "pdf_page": 292,
+        "printed_page": 282,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Optional: list present sources of enjoyment, meaning or connection",
+      "Separate personal values from book claims about aging",
+      "Identify one accessible optional activity and its support needs"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What would make this activity enjoyable rather than obligatory?",
+      "What health claims remain unverified?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH15-003"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH15-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-15",
+    "title": "Future-oriented connection experiment",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Choose a safe nonmedical activity or social contact; Plan one specific action that fits available resources; Complete it or note a barrier and review experience without body-age scoring",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-306",
+        "pdf_page": 306,
+        "printed_page": 296,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose a safe nonmedical activity or social contact",
+      "Plan one specific action that fits available resources",
+      "Complete it or note a barrier and review experience without body-age scoring"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "Was the activity meaningful?",
+      "What could make it more accessible?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH15-005"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH16-001",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-16",
+    "title": "Testimony evidence audit",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Read the Cella Quinn or rodeo case summary, not personal trauma details; Separate reported behaviors, resources, possible causes and unsupported generalizations; Mark which statements need independent verification",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-309",
+        "pdf_page": 309,
+        "printed_page": 299,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "observation_reflection",
+    "instructions": [
+      "Read the Cella Quinn or rodeo case summary, not personal trauma details",
+      "Separate reported behaviors, resources, possible causes and unsupported generalizations",
+      "Mark which statements need independent verification"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What outcome is actually reported?",
+      "What other factors could explain it?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH16-003"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  },
+  {
+    "id": "PCI-EDU-CH16-002",
+    "type": "exercise",
+    "chapter_id": "PCI-CH-16",
+    "title": "Link imagining with action",
+    "content": "Original optional PCI learning activity, not prescribed by the book. Choose a safe and feasible goal or a hypothetical one; Write one imagined scenario and one observable next step; Take the step only if appropriate and note the feedback",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_curriculum",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "exercise_origin": "PCI_original_adaptation",
+    "exercise_kind": "action_feedback",
+    "instructions": [
+      "Choose a safe and feasible goal or a hypothetical one",
+      "Write one imagined scenario and one observable next step",
+      "Take the step only if appropriate and note the feedback"
+    ],
+    "rubric": "Score 0=not attempted, 1=partial, 2=complete for each of: source/goal identified, observable action/description, limitations noted, reflection completed; optional completeness 0–8 only.",
+    "timing": "Self-paced; no mandated duration or streak.",
+    "expected_completion_evidence": [
+      "Private worksheet or opt-out selection",
+      "Observation/action description, where safe",
+      "One feedback or limitations sentence"
+    ],
+    "reflection_prompts": [
+      "What happened independently of the book’s promise?",
+      "What would you try next?"
+    ],
+    "linked_concepts": [
+      "PCI-C-CH16-005"
+    ],
+    "scoring": "0–8 completeness only, never a clinical, character or unconscious-state score",
+    "diagnostic_use": false,
+    "self_review_not_diagnosis": true,
+    "privacy_default": "local_only",
+    "safety": "Fully voluntary; skip, pause or stop at any point. Use fictional or neutral examples when personal topics are sensitive. No forced forgiveness/reconciliation, diagnosis, trauma excavation or medical treatment substitution."
+  }
+]

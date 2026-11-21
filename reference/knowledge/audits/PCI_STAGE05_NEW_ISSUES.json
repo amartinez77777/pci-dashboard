@@ -1,0 +1,306 @@
+[
+  {
+    "id": "PCI-ISS-048",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Cross-stage section representations differ",
+    "content": "Section metadata mixes inline nested records, freeform label dictionaries, and section_id pointers. The canonical output preserves original chapters and supplies a normalized app section view; its normalization is not equivalent to fresh source verification.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [],
+    "description": "Section metadata mixes inline nested records, freeform label dictionaries, and section_id pointers. The canonical output preserves original chapters and supplies a normalized app section view; its normalization is not equivalent to fresh source verification.",
+    "category": "data_integrity_or_evidence",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": null,
+    "next_action": "Stage 06 consume normalized derived sections; Stage 05 keeps original source records."
+  },
+  {
+    "id": "PCI-ISS-049",
+    "type": "issue",
+    "chapter_id": "PCI-CH-05",
+    "title": "Chapter 5-12 subsection review statuses conflict with substantive coverage labels",
+    "content": "Stage04 full-book coverage has sections_review_status NOT_REVIEWED_CANDIDATES for Chapters 05–12 despite substantive research dossiers. Subsection-boundary certainty and deep-coverage claims must not be conflated.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Stage04 full-book coverage has sections_review_status NOT_REVIEWED_CANDIDATES for Chapters 05–12 despite substantive research dossiers. Subsection-boundary certainty and deep-coverage claims must not be conflated.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-092",
+    "next_action": "Recheck each titled subsection against PDF in Stage 07; preserve substantive dossier status with an explicit uncertainty."
+  },
+  {
+    "id": "PCI-ISS-050",
+    "type": "issue",
+    "chapter_id": "PCI-CH-01",
+    "title": "Source-page geometry cannot prove semantic claim accuracy",
+    "content": "Earlier validators check page bounds and source IDs, not whether every source-based paraphrase is semantically exact. Stage05 manually checks a limited number of actual pages.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Earlier validators check page bounds and source IDs, not whether every source-based paraphrase is semantically exact. Stage05 manually checks a limited number of actual pages.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-013",
+    "next_action": "Perform targeted source-level audit for higher-stakes concepts; independently sample claims in Stage 07."
+  },
+  {
+    "id": "PCI-ISS-051",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Anecdotes and testimonials require external substantiation",
+    "content": "Chapter16 experiences remain self-reported book narratives. They cannot be used as causal efficacy proof.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-307",
+        "pdf_page": 307,
+        "printed_page": 297,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Chapter16 experiences remain self-reported book narratives. They cannot be used as causal efficacy proof.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-307",
+    "next_action": "Mark testimonial provenance in every app presentation; retain external_not_assessed until reviewed."
+  },
+  {
+    "id": "PCI-ISS-052",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Aging, medical and recovery extrapolations require separate evidence review",
+    "content": "Claims about aging, biological recovery, psychosomatic mechanisms, and longevity are not established by their presence in the PDF.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-290",
+        "pdf_page": 290,
+        "printed_page": 280,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Claims about aging, biological recovery, psychosomatic mechanisms, and longevity are not established by their presence in the PDF.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-290",
+    "next_action": "Prioritize independent systematic reviews and current medical guidance before writing prescriptive app copy."
+  },
+  {
+    "id": "PCI-ISS-053",
+    "type": "issue",
+    "chapter_id": "PCI-CH-02",
+    "title": "ESP claim and neuroimaging-review inference require separation",
+    "content": "A 2026 review of ESP neuroimaging literature exists, but reviewing inconsistent studies is not proof that telepathy, precognition, or access to a universal mind is real.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "A 2026 review of ESP neuroimaging literature exists, but reviewing inconsistent studies is not proof that telepathy, precognition, or access to a universal mind is real.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-045",
+    "next_action": "Retain paranormal statements strictly as attributed book assertions and explicitly display an evidence caveat."
+  },
+  {
+    "id": "PCI-ISS-054",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "External research references have incomplete bibliographic metadata",
+    "content": "Stage01 has four URLs/DOIs whose destinations can be found, but the source records are provisional and do not consistently contain author list, date, or appraisal methodology.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [],
+    "description": "Stage01 has four URLs/DOIs whose destinations can be found, but the source records are provisional and do not consistently contain author list, date, or appraisal methodology.",
+    "category": "data_integrity_or_evidence",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": null,
+    "next_action": "Complete primary literature appraisal and contributor metadata before elevating evidence status."
+  },
+  {
+    "id": "PCI-ISS-055",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Original practices are distinct from optional PCI activities",
+    "content": "The 70 book-practice records include contributor-attribution uncertainty and different durations; no standard 21-day schedule applies to all practices.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "The 70 book-practice records include contributor-attribution uncertainty and different durations; no standard 21-day schedule applies to all practices.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-190",
+    "next_action": "Stage06 use full-book practice index, preserve timing unknown and origin, and enforce opt-out/privacy protections."
+  }
+]

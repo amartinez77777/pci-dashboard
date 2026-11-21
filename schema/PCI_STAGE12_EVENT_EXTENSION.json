@@ -1,0 +1,16 @@
+{
+  "event_version": "2.1.0",
+  "store": "events",
+  "event_types": [
+    "goal.created",
+    "goal.updated",
+    "experiment.planned",
+    "experiment.outcome_recorded",
+    "experiment.adjusted",
+    "scenario.started",
+    "scenario.completed"
+  ],
+  "privacy": "Event payload may contain only target_id, goal_id, scenario_id, decision_count, timestamp and event-specific idempotency key; no personal prose or private scenes.",
+  "idempotency": "<event_type>:<target_record_uuid> for one-time events; dated revision events have a revision timestamp suffix",
+  "migration": "No DB_VERSION increment; additive data contracts within existing Stage07 v2 stores."
+}

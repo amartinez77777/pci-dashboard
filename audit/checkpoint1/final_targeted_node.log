@@ -1,0 +1,68 @@
+
+> psycho-cybernetics-intelligence@0.12.1 test:checkpoint1
+> node --test tests/checkpoint1.test.mjs
+
+TAP version 13
+# Subtest: all 12 real templates have explicit manual advancement; budgets are cues
+ok 1 - all 12 real templates have explicit manual advancement; budgets are cues
+  ---
+  duration_ms: 0.902059
+  type: 'test'
+  ...
+# Subtest: manual phase remains running after 30 minutes; only Next changes it
+ok 2 - manual phase remains running after 30 minutes; only Next changes it
+  ---
+  duration_ms: 0.742042
+  type: 'test'
+  ...
+# Subtest: all optional timing modes retain manual step behavior
+ok 3 - all optional timing modes retain manual step behavior
+  ---
+  duration_ms: 0.169441
+  type: 'test'
+  ...
+# Subtest: pausing freezes clock, resuming excludes paused interval, refresh safely pauses
+ok 4 - pausing freezes clock, resuming excludes paused interval, refresh safely pauses
+  ---
+  duration_ms: 0.164895
+  type: 'test'
+  ...
+# Subtest: autoplay applies only to explicit auto mode and respects per-phase pause_after
+ok 5 - autoplay applies only to explicit auto mode and respects per-phase pause_after
+  ---
+  duration_ms: 0.17505
+  type: 'test'
+  ...
+# Subtest: manual final phase requires an explicit Next or Finish, never timer completion
+ok 6 - manual final phase requires an explicit Next or Finish, never timer completion
+  ---
+  duration_ms: 0.26896
+  type: 'test'
+  ...
+# Subtest: untouched editor has no warning; dirty editor prompts only when leaving its module
+ok 7 - untouched editor has no warning; dirty editor prompts only when leaving its module
+  ---
+  duration_ms: 0.25615
+  type: 'test'
+  ...
+# Subtest: cancelled hash navigation restores URL without triggering an additional hashchange
+ok 8 - cancelled hash navigation restores URL without triggering an additional hashchange
+  ---
+  duration_ms: 0.724446
+  type: 'test'
+  ...
+# Subtest: beforeunload registers protection only for meaningful dirty work
+ok 9 - beforeunload registers protection only for meaningful dirty work
+  ---
+  duration_ms: 0.287797
+  type: 'test'
+  ...
+1..9
+# tests 9
+# suites 0
+# pass 9
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 81.272208

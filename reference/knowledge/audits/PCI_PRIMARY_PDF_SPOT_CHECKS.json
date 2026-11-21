@@ -1,0 +1,210 @@
+[
+  {
+    "chapter_id": "PCI-CH-01",
+    "pdf_page": 13,
+    "printed_page": 3,
+    "checked_keywords": [
+      "self-image",
+      "beliefs"
+    ],
+    "manual_read_summary": "The source attributes self-description to prior experiences and beliefs; the chapter also makes overly universal claims about control.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-02",
+    "pdf_page": 45,
+    "printed_page": 35,
+    "checked_keywords": [
+      "telepathy",
+      "rhine"
+    ],
+    "manual_read_summary": "The book makes extraordinary parapsychological assertions; this is a claim in the source, not scientific verification.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-03",
+    "pdf_page": 56,
+    "printed_page": 46,
+    "checked_keywords": [
+      "nervous system",
+      "imagine"
+    ],
+    "manual_read_summary": "The text connects imagined responses to bodily reactions; the universal form is not independently proven here.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-04",
+    "pdf_page": 86,
+    "printed_page": 76,
+    "checked_keywords": [
+      "hypnotized",
+      "believing"
+    ],
+    "manual_read_summary": "The source uses de-hypnotizing as an analogy for restrictive belief revision.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-05",
+    "pdf_page": 92,
+    "printed_page": 82,
+    "checked_keywords": [
+      "Rational Thinking",
+      "reason"
+    ],
+    "manual_read_summary": "The chapter promotes deliberate reasoning as a way to challenge beliefs.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-06",
+    "pdf_page": 118,
+    "printed_page": 108,
+    "checked_keywords": [
+      "decision",
+      "worry"
+    ],
+    "manual_read_summary": "The text separates deliberation before a decision from continued worrying after commitment.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-07",
+    "pdf_page": 132,
+    "printed_page": 122,
+    "checked_keywords": [
+      "happy",
+      "stock market"
+    ],
+    "manual_read_summary": "The chapter compares objective setbacks with self-condemning interpretations.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-08",
+    "pdf_page": 154,
+    "printed_page": 144,
+    "checked_keywords": [
+      "self-doubt",
+      "self-image"
+    ],
+    "manual_read_summary": "The success profile includes self-doubt and self-criticism cautions.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-09",
+    "pdf_page": 166,
+    "printed_page": 156,
+    "checked_keywords": [
+      "Negative emotions",
+      "Frustration"
+    ],
+    "manual_read_summary": "The author presents difficult emotion as a gauge warning; interpretation is metaphorical.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-10",
+    "pdf_page": 191,
+    "printed_page": 181,
+    "checked_keywords": [
+      "scar tissue",
+      "emotional"
+    ],
+    "manual_read_summary": "An analogy between bodily protection and emotional injury frames the chapter.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-11",
+    "pdf_page": 215,
+    "printed_page": 205,
+    "checked_keywords": [
+      "negative feedback",
+      "overcorrect"
+    ],
+    "manual_read_summary": "The author cautions that overly sensitive feedback can inhibit performance.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-12",
+    "pdf_page": 239,
+    "printed_page": 229,
+    "checked_keywords": [
+      "Relaxation",
+      "response"
+    ],
+    "manual_read_summary": "The chapter asserts strong links between bodily relaxation and emotional response.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-13",
+    "pdf_page": 253,
+    "printed_page": 243,
+    "checked_keywords": [
+      "Crisis",
+      "Creative Opportunity"
+    ],
+    "manual_read_summary": "The chapter introduces performance-under-pressure and crisis response.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-14",
+    "pdf_page": 275,
+    "printed_page": 265,
+    "checked_keywords": [
+      "Penney",
+      "succeed"
+    ],
+    "manual_read_summary": "The chapter uses a business success story to discuss confidence and memory.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-15",
+    "pdf_page": 291,
+    "printed_page": 281,
+    "checked_keywords": [
+      "over-beliefs",
+      "future"
+    ],
+    "manual_read_summary": "The text admits belief claims exceeding demonstrated fact; not medical proof.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  },
+  {
+    "chapter_id": "PCI-CH-16",
+    "pdf_page": 315,
+    "printed_page": 305,
+    "checked_keywords": [
+      "doctor",
+      "walk"
+    ],
+    "manual_read_summary": "The reported recovery is a testimonial, not a clinical efficacy study.",
+    "check_kind": "direct_page_text_review_plus_keyword_assertion",
+    "does_not_establish": "Complete semantic validation or external scientific evidence",
+    "result": "MATCH_OBSERVED"
+  }
+]

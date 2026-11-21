@@ -1,0 +1,183 @@
+{
+  "status": "PASS",
+  "scope": "Chromium in-memory React-16 compatibility bridge; no HTTP hosting and no actual IndexedDB, modern React18 Vite untested",
+  "tests": [
+    {
+      "name": "first-launch-h1-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "canonical-count-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-horizontal-overflow-1440",
+      "status": "PASS",
+      "detail": "{'scroll': 1440, 'inner': 1440, 'body': 1440}"
+    },
+    {
+      "name": "route-command-center",
+      "status": "PASS",
+      "detail": "PSYCHO-CYBERNETICS INTELLIGENCE \u00b7 FOUNDATION 1.0\nA clearer way to study\nhow you see y"
+    },
+    {
+      "name": "route-self-image",
+      "status": "PASS",
+      "detail": "02 / SELF-IMAGE INTELLIGENCE LAB\nObserve your working self-description\n\nA guided work"
+    },
+    {
+      "name": "route-beliefs",
+      "status": "PASS",
+      "detail": "03 / BELIEF RECONSTRUCTION STUDIO\nTurn assumptions into testable hypotheses\n\nThe late"
+    },
+    {
+      "name": "route-theater",
+      "status": "PASS",
+      "detail": "04 / THEATER OF THE MIND\nRealistic mental rehearsal\n\nA grounded library of rehearsal "
+    },
+    {
+      "name": "route-feedback",
+      "status": "PASS",
+      "detail": "05 / SUCCESS MECHANISM & FEEDBACK LAB\nA practical observe-and-adjust cycle\n\nThe later"
+    },
+    {
+      "name": "route-conditioning",
+      "status": "PASS",
+      "detail": "06 / MENTAL CONDITIONING LAB\nPractice attention and response\n\nA future interactive ho"
+    },
+    {
+      "name": "route-scenarios",
+      "status": "PASS",
+      "detail": "07 / REAL-LIFE SCENARIO SIMULATOR\nExplore decisions and tradeoffs\n\nThe authored branc"
+    },
+    {
+      "name": "route-knowledge",
+      "status": "PASS",
+      "detail": "08 / KNOWLEDGE VAULT\nBrowse the primary-source intelligence\n\n201 attributed concepts "
+    },
+    {
+      "name": "route-academy",
+      "status": "PASS",
+      "detail": "09 / MENTAL MASTERY ACADEMY\n21 distinct learning days\n\nPreview the authored 21-day cu"
+    },
+    {
+      "name": "route-archive",
+      "status": "PASS",
+      "detail": "10 / EVOLUTION ARCHIVE\nYour private workspace\n\nAn initial local journal and delete fl"
+    },
+    {
+      "name": "knowledge-results-populated",
+      "status": "PASS",
+      "detail": "100"
+    },
+    {
+      "name": "concept-detail-source",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "21-authored-days",
+      "status": "PASS",
+      "detail": "21"
+    },
+    {
+      "name": "unknown-route-safe-recovery",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "404-return-home",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-console-errors-1440",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-h1-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "canonical-count-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-horizontal-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390, 'body': 390}"
+    },
+    {
+      "name": "mobile-navigation-button-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-menu-opens-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-menu-route-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-knowledge-no-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "no-console-errors-390",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-h1-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "canonical-count-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-horizontal-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320, 'body': 320}"
+    },
+    {
+      "name": "mobile-navigation-button-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-menu-opens-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-menu-route-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-knowledge-no-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "no-console-errors-320",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ],
+  "passed": 35,
+  "failed": 0
+}

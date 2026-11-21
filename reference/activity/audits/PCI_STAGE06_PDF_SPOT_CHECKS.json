@@ -1,0 +1,30 @@
+{
+  "pdf_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "checked_pages": [
+    {
+      "pdf_page": 34,
+      "printed_page": 24,
+      "observed": "Mental training box asks for month-long study of an exemplar and imaginary consultation.",
+      "purpose": "Source practice duration distinct from app rehearsal.",
+      "verification": "direct PDF image and text layer",
+      "result": "PASS"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 42,
+      "observed": "Target-image exercise suggests 10\u201315 minutes daily for 21 days.",
+      "purpose": "Book schedule not inherited as a universal application schedule.",
+      "verification": "direct PDF image and text layer",
+      "result": "PASS"
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": 133,
+      "observed": "End of habit experiment explicitly asks for thirty-day experiment, not twenty-one days.",
+      "purpose": "Retain chapter-specific differences.",
+      "verification": "direct PDF image and text layer",
+      "result": "PASS"
+    }
+  ],
+  "scope_note": "Three illustrative source timing checks only, not comprehensive re-verification of the 70 practices."
+}

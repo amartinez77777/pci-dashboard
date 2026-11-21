@@ -1,0 +1,386 @@
+[
+  {
+    "target_id": "PCI-ACT-CH01-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH01-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH02-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH02-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH03-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH03-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH04-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH04-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH05-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH05-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH06-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH06-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH07-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH07-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH08-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH08-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH09-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH09-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH10-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH10-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH11-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH11-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH12-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH12-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH13-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH13-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH14-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH14-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH15-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH15-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH16-001",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  },
+  {
+    "target_id": "PCI-ACT-CH16-002",
+    "response": {
+      "situation": "A small fictional example.",
+      "fact_vs_interpretation": "The result was delayed; its cause is not established.",
+      "reasoning_choice": "c0",
+      "bounded_plan": "Check one safe task step and record it.",
+      "observation_mode": "simulated",
+      "review_note": "The reason remains uncertain."
+    },
+    "expected_status": "completed"
+  }
+]

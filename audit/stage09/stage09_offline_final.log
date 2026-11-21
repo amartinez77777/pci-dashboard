@@ -1,0 +1,5 @@
+
+> psycho-cybernetics-intelligence@0.9.0 build:offline
+> node scripts/build-offline.mjs
+
+OFFLINE STATIC BUILD PASS: /mnt/data/pci_stage09_work/PCI_APP_STAGE08_FULL/dist-static (React 16 hooks compatibility test harness, not production Vite)

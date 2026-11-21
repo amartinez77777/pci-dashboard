@@ -1,0 +1,45 @@
+{
+  "stage": "07",
+  "status": "PASS",
+  "archive_name": "PCI_PERSONALIZATION_ENGINE_v1.zip",
+  "archive_sha256": "2b7ee24053240537de1c24c9acea01f789d63bd349a40f1882f8488efbdc05de",
+  "archive_bytes": 87726,
+  "archive_file_count": 34,
+  "content_checksums_verified": 32,
+  "extraction_passed": true,
+  "extracted_tests": [
+    {
+      "command": "tsc --noEmit -p tsconfig.json",
+      "exit_code": 0,
+      "stdout_tail": "",
+      "stderr_tail": ""
+    },
+    {
+      "command": "node tests/test_algorithms.cjs",
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 65,\n  \"failed\": 0,\n  \"synthetic_scenarios\": [\n    {\n      \"name\": \"empty_profile\",\n      \"first\": \"PCI-ACT-CH01-001\",\n      \"reason_codes\": [\n        \"COLD_START\",\n        \"NEW_CONTENT\"\n      ]\n    },\n    {\n      \"name\": \"goal_preference\",\n      \"first\": \"PCI-RH-001\",\n      \"reason_codes\": [\n        \"GOAL_MATCH\",\n        \"NEW_CONTENT\"\n      ]\n    },\n    {\n      \"name\": \"dormant_30_plus\",\n      \"first\": \"PCI-ACT-CH01-001\",\n      \"reason_codes\": [\n        \"NEW_CONTENT\",\n        \"RETURNING_AFTER_BREAK\"\n      ]\n    },\n    {\n      \"name\": \"recent_skip\",\n      \"first\": \"PCI-ACT-CH01-001\",\n      \"reason_codes\": [\n        \"NEW_CONTENT\"\n      ]\n    },\n    {\n      \"name\": \"conflicting_goals\",\n      \"first\": \"PCI-RH-001\",\n      \"reason_codes\": [\n        \"GOAL_MATCH\",\n        \"NEW_CONTENT\"\n      ]\n    },\n    {\n      \"name\": \"manual_override\",\n      \"first\": \"PCI-ACT-CH14-002\",\n      \"reason_codes\": [\n        \"COLD_START\",\n        \"NEW_CONTENT\",\n        \"USER_OVERRIDE\"\n      ]\n    }\n  ]\n}\n",
+      "stderr_tail": ""
+    },
+    {
+      "command": "node tests/test_backup_async.cjs",
+      "exit_code": 0,
+      "stdout_tail": "{\"status\":\"PASS\",\"passed\":9,\"failed\":0}\n",
+      "stderr_tail": ""
+    },
+    {
+      "command": "python tests/validate_stage07.py --root . --canonical-dir /mnt/data/pci_stage07_work/canonical --activity-dir /mnt/data/pci_stage07_work/activity --out audits/extracted_schema_recheck.json",
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 41,\n  \"failed\": 0,\n  \"counts\": {\n    \"new_program_ids\": 22,\n    \"21_day_records\": 21,\n    \"catalog_items\": 60,\n    \"private_stores\": 25,\n    \"review_seeds\": 201\n  }\n}\n",
+      "stderr_tail": ""
+    }
+  ],
+  "baseline_original_knowledge": "PASS 23/23",
+  "baseline_original_activity": "PASS 42/42",
+  "node_algorithm_tests": "PASS 65/65",
+  "node_backup_checksum_tests": "PASS 9/9",
+  "json_schema_fk_tests": "PASS 41/41",
+  "indexeddb_browser_test": "NOT_TESTED",
+  "iphone_safari_test": "NOT_TESTED",
+  "scientific_effectiveness": "NOT_TESTED",
+  "audit_scope": "candidate-extraction; final ZIP externally verified again below"
+}

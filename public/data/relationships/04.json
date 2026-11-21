@@ -1,0 +1,218 @@
+[
+  {
+    "id": "PCI-R-0018",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-04",
+    "title": "False belief versus dishonest pretending → Belief revision requires testing the premise",
+    "content": "Credible belief revision is distinct from pretending to have accomplishments.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH04-002",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "requires",
+    "rationale": "Credible belief revision is distinct from pretending to have accomplishments.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0019",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-04",
+    "title": "Mr. Russell and illness beliefs → Inferiority feeling versus unequal skill",
+    "content": "The Russell story involves distressing interpretation, whereas the inferiority distinction addresses global worth judgments.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-082",
+        "pdf_page": 82,
+        "printed_page": 72,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH04-005",
+    "to_id": "PCI-C-CH04-007",
+    "relationship_type": "alternative_explanation",
+    "rationale": "The Russell story involves distressing interpretation, whereas the inferiority distinction addresses global worth judgments.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-082",
+        "pdf_page": 82,
+        "printed_page": 72,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-086",
+        "pdf_page": 86,
+        "printed_page": 76,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0020",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-04",
+    "title": "Social comparison and biased benchmarks → Inferiority feeling versus unequal skill",
+    "content": "Unrealistic reference norms can fuel global self-ranking.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH04-008",
+    "to_id": "PCI-C-CH04-007",
+    "relationship_type": "supports",
+    "rationale": "Unrealistic reference norms can fuel global self-ranking.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-086",
+        "pdf_page": 86,
+        "printed_page": 76,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0021",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-04",
+    "title": "Relaxation to soften rigid beliefs → Theater of the Mind 21-day sequence",
+    "content": "Both are imaginal practices, but chapter 4 prescribes relaxation without the chapter 3 21-day timetable.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH04-009",
+    "to_id": "PCI-C-CH03-010",
+    "relationship_type": "complements",
+    "rationale": "Both are imaginal practices, but chapter 4 prescribes relaxation without the chapter 3 21-day timetable.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  }
+]

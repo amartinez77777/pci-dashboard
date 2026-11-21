@@ -1,0 +1,90 @@
+{
+  "checkpoint": "PCI-APP-CP4",
+  "status": "PARTIAL",
+  "note": "Functional source validated in synthetic browser; native production release gates remain open",
+  "tests": [
+    {
+      "command": "npm run typecheck",
+      "status": "PASS",
+      "exit_code": 0
+    },
+    {
+      "command": "npm run lint",
+      "status": "PASS",
+      "exit_code": 0
+    },
+    {
+      "command": "npm run build:offline",
+      "status": "PASS",
+      "exit_code": 0,
+      "environment": "React16 compatibility harness; not official React18 Vite build"
+    },
+    {
+      "command": "node --test tests/*.test.mjs",
+      "status": "PASS",
+      "passed": 123,
+      "failed": 0,
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/browser_checkpoint4.py",
+      "status": "PASS",
+      "passed": 24,
+      "failed": 0,
+      "environment": "in-memory Chromium React16 compatibility and synthetic IndexedDB at widths 390 and 1440",
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/browser_checkpoint3.py",
+      "status": "PASS",
+      "passed": 32,
+      "failed": 0,
+      "environment": "in-memory Chromium synthetic IndexedDB",
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/validate_checkpoint4.py",
+      "status": "PASS",
+      "passed": 11,
+      "failed": 0,
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/validate_checkpoint3.py",
+      "status": "PASS",
+      "passed": 9,
+      "failed": 0,
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/validate_checkpoint2.py",
+      "status": "PASS",
+      "passed": 11,
+      "failed": 0,
+      "exit_code": 0
+    },
+    {
+      "command": "python tests/validate_checkpoint1.py",
+      "status": "PASS",
+      "passed": 42,
+      "failed": 0,
+      "exit_code": 0
+    },
+    {
+      "command": "npm run build",
+      "status": "BLOCKED",
+      "exit_code": 127,
+      "cause": "vite not found after typecheck passed"
+    },
+    {
+      "command": "Stage12 browser screenshot-rich regression",
+      "status": "PARTIAL",
+      "cause": "harness timed out; no PASS asserted"
+    },
+    {
+      "command": "Native Safari IndexedDB persistence, HTTPS reload and cross-tab",
+      "status": "NOT_TESTED"
+    }
+  ],
+  "privacy": "Test fixtures synthetic; no user-private record in public code; no PDF shipped."
+}

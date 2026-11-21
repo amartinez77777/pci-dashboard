@@ -1,0 +1,5 @@
+
+> psycho-cybernetics-intelligence@0.12.0 lint
+> node scripts/lint-source.mjs
+
+PASS: lightweight safety lint and strict TypeScript typecheck. Not ESLint.

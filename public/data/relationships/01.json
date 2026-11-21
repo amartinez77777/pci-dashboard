@@ -1,0 +1,434 @@
+[
+  {
+    "id": "PCI-R-0001",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-image as working self-description → Snap-back and self-confirming loops",
+    "content": "The self-image premise is the antecedent of the snap-back loop in pp3-4.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-001",
+    "to_id": "PCI-C-CH01-002",
+    "relationship_type": "supports",
+    "rationale": "The self-image premise is the antecedent of the snap-back loop in pp3-4.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0002",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Snap-back and self-confirming loops → Self-consistency system",
+    "content": "Repeated outcomes that confirm the old label are described alongside self-consistency.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-002",
+    "to_id": "PCI-C-CH01-004",
+    "relationship_type": "complements",
+    "rationale": "Repeated outcomes that confirm the old label are described alongside self-consistency.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0003",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Inside-out change versus surface affirmation → Adequate and realistic self-acceptance",
+    "content": "The inside-out argument depends on developing a credible and acceptably realistic self-image.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-015",
+        "pdf_page": 15,
+        "printed_page": 5,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-003",
+    "to_id": "PCI-C-CH01-007",
+    "relationship_type": "requires",
+    "rationale": "The inside-out argument depends on developing a credible and acceptably realistic self-image.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-015",
+        "pdf_page": 15,
+        "printed_page": 5,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0004",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Surgery, appearance and subjective identity → Scars and contextual meaning",
+    "content": "Appearance cases and scar meanings both illustrate that physical change has no uniform psychological significance.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-005",
+    "to_id": "PCI-C-CH01-006",
+    "relationship_type": "supports",
+    "rationale": "Appearance cases and scar meanings both illustrate that physical change has no uniform psychological significance.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0005",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-image as working self-description → Imprinting through authority, intensity and repetition",
+    "content": "Authority and repetition are described as pathways by which identity judgments become durable.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-001",
+    "to_id": "PCI-C-CH01-009",
+    "relationship_type": "complements",
+    "rationale": "Authority and repetition are described as pathways by which identity judgments become durable.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-027",
+        "pdf_page": 27,
+        "printed_page": 17,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0006",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Goal setting filtered through self-image → Decision imagination and self-image work order",
+    "content": "The goal filtering argument precedes the decision-and-imagination work-order sequence.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-025",
+        "pdf_page": 25,
+        "printed_page": 15,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-008",
+    "to_id": "PCI-C-CH02-002",
+    "relationship_type": "supports",
+    "rationale": "The goal filtering argument precedes the decision-and-imagination work-order sequence.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-025",
+        "pdf_page": 25,
+        "printed_page": 15,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0022",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Adequate and realistic self-acceptance → Individuality beyond inferiority or superiority",
+    "content": "Balanced acceptance and non-hierarchical human worth have compatible themes.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-007",
+    "to_id": "PCI-C-CH04-010",
+    "relationship_type": "supports",
+    "rationale": "Balanced acceptance and non-hierarchical human worth have compatible themes.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-088",
+        "pdf_page": 88,
+        "printed_page": 78,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0024",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-consistency system → Belief revision requires testing the premise",
+    "content": "The self-consistency theory and the math-disconfirmation example address the same category of rigid labels.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH01-004",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "complements",
+    "rationale": "The self-consistency theory and the math-disconfirmation example address the same category of rigid labels.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  }
+]

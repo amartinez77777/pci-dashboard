@@ -1,0 +1,608 @@
+[
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "empty_profile",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [],
+      "history": [],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": []
+    },
+    "output": [
+      {
+        "contentId": "PCI-ACT-CH01-001",
+        "title": "Identity statement audit",
+        "score": 41,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 40,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT"
+        ],
+        "explanation": "No preferences or history yet: start with a foundational, optional exercise. Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH01-002",
+        "title": "One identity-consistent action",
+        "score": 17,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 16,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT"
+        ],
+        "explanation": "No preferences or history yet: start with a foundational, optional exercise. Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-SC-CH01-001",
+        "title": "After the first failed presentation",
+        "score": 17,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 16,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT"
+        ],
+        "explanation": "No preferences or history yet: start with a foundational, optional exercise. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  },
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "goal_preference",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [
+        {
+          "id": "goal-fixture",
+          "status": "active",
+          "priority": 5,
+          "tags": [
+            "rehearsal"
+          ]
+        }
+      ],
+      "history": [],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": []
+    },
+    "output": [
+      {
+        "contentId": "PCI-RH-001",
+        "title": "Realistic goal scene",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-RH-002",
+        "title": "Preparing an introduction",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-RH-003",
+        "title": "Testing a feared prediction",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  },
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "dormant_30_plus",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [],
+      "history": [
+        {
+          "contentId": "PCI-ACT-CH02-001",
+          "kind": "completed",
+          "date": "2026-09-01",
+          "sessionId": "synthetic1"
+        }
+      ],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": []
+    },
+    "output": [
+      {
+        "contentId": "PCI-ACT-CH01-001",
+        "title": "Identity statement audit",
+        "score": 25,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          },
+          {
+            "code": "RETURNING_AFTER_BREAK",
+            "points": 15,
+            "explanation": "A short restart after a gap is available without catch-up pressure."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT",
+          "RETURNING_AFTER_BREAK"
+        ],
+        "explanation": "Not yet recorded as completed or skipped. A short restart after a gap is available without catch-up pressure.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH01-002",
+        "title": "One identity-consistent action",
+        "score": 25,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          },
+          {
+            "code": "RETURNING_AFTER_BREAK",
+            "points": 15,
+            "explanation": "A short restart after a gap is available without catch-up pressure."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT",
+          "RETURNING_AFTER_BREAK"
+        ],
+        "explanation": "Not yet recorded as completed or skipped. A short restart after a gap is available without catch-up pressure.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-SC-CH01-001",
+        "title": "After the first failed presentation",
+        "score": 25,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          },
+          {
+            "code": "RETURNING_AFTER_BREAK",
+            "points": 15,
+            "explanation": "A short restart after a gap is available without catch-up pressure."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT",
+          "RETURNING_AFTER_BREAK"
+        ],
+        "explanation": "Not yet recorded as completed or skipped. A short restart after a gap is available without catch-up pressure.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  },
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "recent_skip",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [],
+      "history": [
+        {
+          "contentId": "PCI-ACT-CH02-001",
+          "kind": "skipped",
+          "date": "2026-11-19",
+          "sessionId": "synthetic2"
+        }
+      ],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": []
+    },
+    "output": [
+      {
+        "contentId": "PCI-ACT-CH01-001",
+        "title": "Identity statement audit",
+        "score": 10,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT"
+        ],
+        "explanation": "Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH01-002",
+        "title": "One identity-consistent action",
+        "score": 10,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT"
+        ],
+        "explanation": "Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH02-002",
+        "title": "Test one course correction",
+        "score": 10,
+        "reasons": [
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "NEW_CONTENT"
+        ],
+        "explanation": "Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  },
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "conflicting_goals",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [
+        {
+          "id": "g1",
+          "status": "active",
+          "priority": 4,
+          "tags": [
+            "observation"
+          ]
+        },
+        {
+          "id": "g2",
+          "status": "active",
+          "priority": 5,
+          "tags": [
+            "rehearsal"
+          ]
+        }
+      ],
+      "history": [],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": []
+    },
+    "output": [
+      {
+        "contentId": "PCI-RH-001",
+        "title": "Realistic goal scene",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-RH-002",
+        "title": "Preparing an introduction",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-RH-003",
+        "title": "Testing a feared prediction",
+        "score": 42,
+        "reasons": [
+          {
+            "code": "GOAL_MATCH",
+            "points": 32,
+            "explanation": "You selected a related goal; this is not an inferred trait."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 10,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "GOAL_MATCH",
+          "NEW_CONTENT"
+        ],
+        "explanation": "You selected a related goal; this is not an inferred trait. Not yet recorded as completed or skipped.",
+        "source_status": "verified_in_pdf",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  },
+  {
+    "fixture_type": "SYNTHETIC_ONLY",
+    "name": "manual_override",
+    "input": {
+      "asOfLocalDate": "2026-11-20",
+      "goals": [],
+      "history": [],
+      "dueReviews": [],
+      "prefs": {
+        "interests": [],
+        "difficultyTopics": [],
+        "allowSensitive": false,
+        "intensity": "gentle"
+      },
+      "completedPrerequisiteIds": [],
+      "excludedContentIds": [],
+      "manuallyPinnedIds": [
+        "PCI-ACT-CH14-002"
+      ]
+    },
+    "output": [
+      {
+        "contentId": "PCI-ACT-CH14-002",
+        "title": "Small-wins ladder",
+        "score": 101,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 0,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          },
+          {
+            "code": "USER_OVERRIDE",
+            "points": 100,
+            "explanation": "You manually selected this item."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT",
+          "USER_OVERRIDE"
+        ],
+        "explanation": "Not yet recorded as completed or skipped. You manually selected this item.",
+        "source_status": "provisional",
+        "evidence_status": "not_assessed",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH01-001",
+        "title": "Identity statement audit",
+        "score": 41,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 40,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT"
+        ],
+        "explanation": "No preferences or history yet: start with a foundational, optional exercise. Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      },
+      {
+        "contentId": "PCI-ACT-CH01-002",
+        "title": "One identity-consistent action",
+        "score": 17,
+        "reasons": [
+          {
+            "code": "COLD_START",
+            "points": 16,
+            "explanation": "No preferences or history yet: start with a foundational, optional exercise."
+          },
+          {
+            "code": "NEW_CONTENT",
+            "points": 1,
+            "explanation": "Not yet recorded as completed or skipped."
+          }
+        ],
+        "reason_codes": [
+          "COLD_START",
+          "NEW_CONTENT"
+        ],
+        "explanation": "No preferences or history yet: start with a foundational, optional exercise. Not yet recorded as completed or skipped.",
+        "source_status": "provisional",
+        "evidence_status": "book_assertion_only",
+        "not_a_diagnosis": true
+      }
+    ]
+  }
+]

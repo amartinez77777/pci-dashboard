@@ -1,0 +1,286 @@
+[
+  {
+    "id": "PCI-R-0106",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-16",
+    "title": "Relation: Self-belief interacts with material support / Surgery, appearance and subjective identity",
+    "content": "Quinn’s story shows social, medical and material supports alongside identity changes. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-308",
+        "pdf_page": 308,
+        "printed_page": 298,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH16-002",
+    "to_id": "PCI-C-CH01-005",
+    "relationship_type": "qualifies",
+    "rationale": "Quinn’s story shows social, medical and material supports alongside identity changes.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-308",
+        "pdf_page": 308,
+        "printed_page": 298,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-308",
+        "pdf_page": 308,
+        "printed_page": 298,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0107",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-16",
+    "title": "Relation: Team learning combines physical and mental components / Basketball mental practice comparison",
+    "content": "Rodeo training testimony cannot isolate imagery from practice, just as earlier sports comparisons require caution. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-312",
+        "pdf_page": 312,
+        "printed_page": 302,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH16-005",
+    "to_id": "PCI-C-CH03-006",
+    "relationship_type": "qualifies",
+    "rationale": "Rodeo training testimony cannot isolate imagery from practice, just as earlier sports comparisons require caution.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-312",
+        "pdf_page": 312,
+        "printed_page": 302,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-063",
+        "pdf_page": 63,
+        "printed_page": 53,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-312",
+        "pdf_page": 312,
+        "printed_page": 302,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-063",
+        "pdf_page": 63,
+        "printed_page": 53,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0108",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-16",
+    "title": "Relation: Medical recovery anecdotes require careful limits / Medical healing is more complex than one mechanism",
+    "content": "A disability testimonial should not be interpreted as proof of healing by imagination. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH16-006",
+    "to_id": "PCI-C-CH15-005",
+    "relationship_type": "ethical_tension",
+    "rationale": "A disability testimonial should not be interpreted as proof of healing by imagination.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-294",
+        "pdf_page": 294,
+        "printed_page": 284,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-294",
+        "pdf_page": 294,
+        "printed_page": 284,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0109",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-16",
+    "title": "Relation: Action is distinguished from visualization alone / Negative feedback and iterative correction",
+    "content": "Book conclusion insists actions and feedback accompany goal imagery. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH16-007",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "requires",
+    "rationale": "Book conclusion insists actions and feedback accompany goal imagery.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "version": "1.1.0-rc.1",
+  "artifact_status": "enhanced_source_candidate_not_production_certified",
+  "checks": [
+    {
+      "check": "Baseline Node tests",
+      "status": "PASS",
+      "evidence": "130/130 before modifications; Node --test"
+    },
+    {
+      "check": "Baseline historical CP4 identity test",
+      "status": "FAIL",
+      "evidence": "1 expected old fingerprint mismatch before modifications; not rewritten"
+    },
+    {
+      "check": "Strict TypeScript",
+      "status": "PASS",
+      "evidence": "npm run typecheck exit 0"
+    },
+    {
+      "check": "Lightweight lint",
+      "status": "PASS",
+      "evidence": "npm run lint exit 0"
+    },
+    {
+      "check": "Combined Node regression plus new tests",
+      "status": "PASS",
+      "evidence": "139/139 PASS, node --test tests/*.test.mjs"
+    },
+    {
+      "check": "Offline compatibility compilation",
+      "status": "PASS",
+      "evidence": "npm run build:offline; NOT production"
+    },
+    {
+      "check": "Chromium synthetic UI/mobile",
+      "status": "PASS",
+      "evidence": "82/82 at 375, 390, 430, 768, 1440px, in-memory React16/fake IndexedDB"
+    },
+    {
+      "check": "Frozen input content/source integrity",
+      "status": "PASS",
+      "evidence": "15/15 checks, 249 protected SHA256 paths"
+    },
+    {
+      "check": "Original research reference audit",
+      "status": "PASS",
+      "evidence": "0 broken audited links; no original PDF image verification"
+    },
+    {
+      "check": "Genuine dependency installation",
+      "status": "BLOCKED",
+      "evidence": "EAI_AGAIN registry.npmjs.org/react; no lockfile"
+    },
+    {
+      "check": "Genuine React18/Vite build",
+      "status": "BLOCKED",
+      "evidence": "npm run build exit 127; vite not found"
+    },
+    {
+      "check": "Native IndexedDB secure-origin persistence",
+      "status": "NOT_TESTED",
+      "evidence": "No genuine production origin/browser reload"
+    },
+    {
+      "check": "Physical iPhone Safari/VoiceOver",
+      "status": "NOT_TESTED",
+      "evidence": "No physical iPhone testing"
+    },
+    {
+      "check": "Full user workflow across reload",
+      "status": "PARTIAL",
+      "evidence": "Synthetic persistence+record links verified; real origin reload not tested"
+    }
+  ]
+}

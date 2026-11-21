@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "passed": 65,
+  "failed": 0,
+  "synthetic_scenarios": [
+    {
+      "name": "empty_profile",
+      "first": "PCI-ACT-CH01-001",
+      "reason_codes": [
+        "COLD_START",
+        "NEW_CONTENT"
+      ]
+    },
+    {
+      "name": "goal_preference",
+      "first": "PCI-RH-001",
+      "reason_codes": [
+        "GOAL_MATCH",
+        "NEW_CONTENT"
+      ]
+    },
+    {
+      "name": "dormant_30_plus",
+      "first": "PCI-ACT-CH01-001",
+      "reason_codes": [
+        "NEW_CONTENT",
+        "RETURNING_AFTER_BREAK"
+      ]
+    },
+    {
+      "name": "recent_skip",
+      "first": "PCI-ACT-CH01-001",
+      "reason_codes": [
+        "NEW_CONTENT"
+      ]
+    },
+    {
+      "name": "conflicting_goals",
+      "first": "PCI-RH-001",
+      "reason_codes": [
+        "GOAL_MATCH",
+        "NEW_CONTENT"
+      ]
+    },
+    {
+      "name": "manual_override",
+      "first": "PCI-ACT-CH14-002",
+      "reason_codes": [
+        "COLD_START",
+        "NEW_CONTENT",
+        "USER_OVERRIDE"
+      ]
+    }
+  ]
+}

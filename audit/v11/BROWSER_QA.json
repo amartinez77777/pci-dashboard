@@ -1,0 +1,417 @@
+{
+  "runtime": "Real Chromium rendered in-memory about:blank React16 compatibility bridge, synthetic IndexedDB; not genuine React18 build or native reload",
+  "passed": 82,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "375-empty-onboarding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-no-fabricated-personal-goals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-home-no-overflow",
+      "status": "PASS",
+      "detail": "375"
+    },
+    {
+      "check": "375-self-image-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-beliefs-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-theater-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-feedback-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-conditioning-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-scenarios-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-knowledge-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-academy-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-archive-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-all-route-return",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375-no-overflow-after-routes",
+      "status": "PASS",
+      "detail": "375"
+    },
+    {
+      "check": "375-zero-js-errors",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "390-empty-onboarding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-no-fabricated-personal-goals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-home-no-overflow",
+      "status": "PASS",
+      "detail": "390"
+    },
+    {
+      "check": "390-self-image-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-beliefs-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-theater-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-feedback-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-conditioning-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-scenarios-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-knowledge-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-academy-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-archive-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-all-route-return",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-no-overflow-after-routes",
+      "status": "PASS",
+      "detail": "390"
+    },
+    {
+      "check": "ui-goal-documented",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-goal-direct-link",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-goal-to-scene-editor",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-goal-linked-without-copy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-direct-academy-review",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-source-concept-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ui-archive-connected-records",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390-zero-js-errors",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "430-empty-onboarding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-no-fabricated-personal-goals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-home-no-overflow",
+      "status": "PASS",
+      "detail": "430"
+    },
+    {
+      "check": "430-self-image-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-beliefs-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-theater-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-feedback-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-conditioning-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-scenarios-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-knowledge-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-academy-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-archive-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-all-route-return",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430-no-overflow-after-routes",
+      "status": "PASS",
+      "detail": "430"
+    },
+    {
+      "check": "430-zero-js-errors",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "768-empty-onboarding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-no-fabricated-personal-goals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-home-no-overflow",
+      "status": "PASS",
+      "detail": "768"
+    },
+    {
+      "check": "768-self-image-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-beliefs-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-theater-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-feedback-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-conditioning-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-scenarios-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-knowledge-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-academy-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-archive-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-all-route-return",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768-no-overflow-after-routes",
+      "status": "PASS",
+      "detail": "768"
+    },
+    {
+      "check": "768-zero-js-errors",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "1440-empty-onboarding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-no-fabricated-personal-goals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-home-no-overflow",
+      "status": "PASS",
+      "detail": "1440"
+    },
+    {
+      "check": "1440-self-image-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-beliefs-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-theater-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-feedback-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-conditioning-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-scenarios-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-knowledge-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-academy-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-archive-route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-all-route-return",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440-no-overflow-after-routes",
+      "status": "PASS",
+      "detail": "1440"
+    },
+    {
+      "check": "1440-zero-js-errors",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ]
+}

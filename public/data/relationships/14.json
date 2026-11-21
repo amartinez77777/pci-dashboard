@@ -1,0 +1,357 @@
+[
+  {
+    "id": "PCI-R-0097",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-14",
+    "title": "Relation: Winning feeling as an indicator, not a guarantee / Negative feedback and iterative correction",
+    "content": "A winning feeling relates to feedback but is not itself a reliable outcome indicator. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH14-003",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "qualifies",
+    "rationale": "A winning feeling relates to feedback but is not itself a reliable outcome indicator.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0098",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-14",
+    "title": "Relation: Attach past confidence to a new task / Behavioral rehearsal with imagined details",
+    "content": "Remembered poise enriches the earlier chapter’s detailed scene rehearsal. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-276",
+        "pdf_page": 276,
+        "printed_page": 266,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH14-006",
+    "to_id": "PCI-C-CH03-005",
+    "relationship_type": "complements",
+    "rationale": "Remembered poise enriches the earlier chapter’s detailed scene rehearsal.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-276",
+        "pdf_page": 276,
+        "printed_page": 266,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-276",
+        "pdf_page": 276,
+        "printed_page": 266,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0099",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-14",
+    "title": "Relation: Small wins establish a workable progression / Implicit skill fluency and habit",
+    "content": "Small wins share the incremental learning focus of implicit skill fluency. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH14-010",
+    "to_id": "PCI-C-CH02-006",
+    "relationship_type": "complements",
+    "rationale": "Small wins share the incremental learning focus of implicit skill fluency.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0100",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-14",
+    "title": "Relation: Constructive imagining instead of worry / Reasoned interpretation as an input to habit",
+    "content": "Imagining a plausible positive outcome is paired with rational checking, not proof. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH14-012",
+    "to_id": "PCI-C-CH05-001",
+    "relationship_type": "complements",
+    "rationale": "Imagining a plausible positive outcome is paired with rational checking, not proof.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0101",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-14",
+    "title": "Relation: Identity affirmation as a cue to action / Self-image as working self-description",
+    "content": "Identity-mantra use is connected to but not equated with the book’s self-image model. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH14-015",
+    "to_id": "PCI-C-CH01-001",
+    "relationship_type": "requires",
+    "rationale": "Identity-mantra use is connected to but not equated with the book’s self-image model.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  }
+]

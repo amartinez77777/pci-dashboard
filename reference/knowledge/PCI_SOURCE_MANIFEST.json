@@ -1,0 +1,54 @@
+{
+  "project": "PSYCHO-CYBERNETICS-INTELLIGENCE",
+  "edition_id": "PCI-ED-001",
+  "book_id": "PCI-B-001",
+  "edition_status": "paperback_edition_date_confirmed; target_paperback_ISBN_not_seen_in_scanned_copyright_block",
+  "source_file_uploaded_name": "The New Psycho-Cybernetics by Maxwell Maltz  (1).pdf",
+  "sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "size_bytes": 5148023,
+  "pdf_pages": 332,
+  "title_page": "The New Psycho-Cybernetics: The Original Science of Self-Improvement and Success that Has Changed the Lives of 30 Million People",
+  "title_page_pdf_page": 1,
+  "publisher": "Prentice Hall Press (imprint of Penguin Putnam)",
+  "copyright": "© 2001 Penguin Putnam Inc.",
+  "hardcover_edition": "2001 as printed in PDF copyright page",
+  "paperback_edition": "Prentice Hall Press trade paperback edition: December 2002, as printed in PDF copyright page",
+  "target_isbn_13": "9780735202856",
+  "target_isbn_verified_from_pdf": false,
+  "isbn_visible_in_loc_cataloging": "0-7352-0275-3 (cataloging references hardcover)",
+  "contributors": "Maxwell Maltz, M.D.; edited and updated by Dan S. Kennedy and Psycho-Cybernetics Foundation, Inc.",
+  "composite_attribution_warning": "Kennedy states he preserved, revised and supplemented original writing while trying to maintain one voice; paragraph-level authorship cannot be inferred.",
+  "front_matter": {
+    "title_pdf_page": 1,
+    "copyright_pdf_page": 2,
+    "testimonials_bios_pdf_page": 3,
+    "contents_pdf_pages": [
+      4,
+      5,
+      6
+    ],
+    "acknowledgments_pdf_page": 7,
+    "introduction_pdf_start": 8,
+    "introduction_pdf_end": 10,
+    "introduction_printed": "xi-xiii"
+  },
+  "printed_page_geometry": "Chapter 1 starts at PDF page 11 = printed 1. For continuous Arabic-numbered body, PDF page = printed page + 10. Front matter uses Roman numerals.",
+  "endmatter": {
+    "vocabulary_printed": 307,
+    "recommended_reading_printed": 309,
+    "resources_printed": 311,
+    "authors_printed": 313,
+    "artists_gift_printed": 315,
+    "index_printed_start": 317,
+    "index_printed_end": 322
+  },
+  "text_layer": "Present, but OCR layer with distortions in characters, hyphenated words and names; visual page checks required for precise transcriptions",
+  "cover_barcode": "not present in uploaded 332-page file",
+  "research_batched_chapters": {
+    "01_CH01-04": "source-driven substantive",
+    "02_CH05-08": "indexed only",
+    "03_CH09-12": "indexed only",
+    "04_CH13-16": "indexed only"
+  },
+  "public_distribution": "The uploaded PDF is a private research input and MUST NOT appear in application static/public assets."
+}

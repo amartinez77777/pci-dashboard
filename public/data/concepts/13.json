@@ -1,0 +1,827 @@
+[
+  {
+    "id": "PCI-C-CH13-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure can change an already learned performance",
+    "content": "The chapter contrasts athletes who perform well in low-stakes settings with those whose performance deteriorates in competitions. Treating the stakes as a personal verdict may interrupt fluency even when the underlying ability is unchanged.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-253",
+        "pdf_page": 253,
+        "printed_page": 243,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter contrasts athletes who perform well in low-stakes settings with those whose performance deteriorates in competitions.",
+    "terms": {
+      "primary": "Pressure can change an already learned performance",
+      "definition": "The chapter contrasts athletes who perform well in low-stakes settings with those whose performance deteriorates in competitions."
+    },
+    "author_mechanism": "Treating the stakes as a personal verdict may interrupt fluency even when the underlying ability is unchanged.",
+    "conditions_and_limits": "Competition outcomes also depend on opponents, fatigue, injury and practice, not only appraisal.",
+    "application": "Separate the skill from the result after one difficult performance.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Competition outcomes also depend on opponents, fatigue, injury and practice, not only appraisal.",
+    "substantive_paraphrase": "The revised-edition discussion connects pressure can change an already learned performance to the larger psycho-cybernetics framework. It presents the premise that the chapter contrasts athletes who perform well in low-stakes settings with those whose performance deteriorates in competitions. It develops this through treating the stakes as a personal verdict may interrupt fluency even when the underlying ability is unchanged. As an illustration, it describes the tournament golfer and baseball pitcher illustration. This is an attributed source argument, not independent evidence of causation; important limitations: Competition outcomes also depend on opponents, fatigue, injury and practice, not only appraisal.",
+    "source_specific_illustration": "The tournament golfer and baseball pitcher illustration.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-001"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Mistakes do not define the performer",
+    "content": "A bad moment in a crisis does not prove a person is a permanent choker or inherently incapable. An identity label can reinforce anxious expectations for later performances.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-254",
+        "pdf_page": 254,
+        "printed_page": 244,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A bad moment in a crisis does not prove a person is a permanent choker or inherently incapable.",
+    "terms": {
+      "primary": "Mistakes do not define the performer",
+      "definition": "A bad moment in a crisis does not prove a person is a permanent choker or inherently incapable."
+    },
+    "author_mechanism": "An identity label can reinforce anxious expectations for later performances.",
+    "conditions_and_limits": "One setback does not establish a causal theory of self-image.",
+    "application": "Describe the precise mistake and the next trainable action without labeling a person.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "One setback does not establish a causal theory of self-image.",
+    "substantive_paraphrase": "The revised-edition discussion connects mistakes do not define the performer to the larger psycho-cybernetics framework. It presents the premise that a bad moment in a crisis does not prove a person is a permanent choker or inherently incapable. It develops this through an identity label can reinforce anxious expectations for later performances. As an illustration, it describes an observer calling a skilled player a choker after a missed shot. This is an attributed source argument, not independent evidence of causation; important limitations: One setback does not establish a causal theory of self-image.",
+    "source_specific_illustration": "An observer calling a skilled player a choker after a missed shot.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-002"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Three-part approach to pressure",
+    "content": "The book proposes low-pressure learning, challenge-focused interpretation and proportionate assessment of the stakes. Rehearsed skills plus an approach-oriented focus may support adaptability under pressure.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book proposes low-pressure learning, challenge-focused interpretation and proportionate assessment of the stakes.",
+    "terms": {
+      "primary": "Three-part approach to pressure",
+      "definition": "The book proposes low-pressure learning, challenge-focused interpretation and proportionate assessment of the stakes."
+    },
+    "author_mechanism": "Rehearsed skills plus an approach-oriented focus may support adaptability under pressure.",
+    "conditions_and_limits": "No controlled evidence here shows these three factors are sufficient for all crises.",
+    "application": "Plan a rehearsal, define a constructive objective and test what is actually at stake.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "No controlled evidence here shows these three factors are sufficient for all crises.",
+    "substantive_paraphrase": "The revised-edition discussion connects three-part approach to pressure to the larger psycho-cybernetics framework. It presents the premise that the book proposes low-pressure learning, challenge-focused interpretation and proportionate assessment of the stakes. It develops this through rehearsed skills plus an approach-oriented focus may support adaptability under pressure. As an illustration, it describes comparison of players, students and salespeople performing differently in important moments. This is an attributed source argument, not independent evidence of causation; important limitations: No controlled evidence here shows these three factors are sufficient for all crises.",
+    "source_specific_illustration": "Comparison of players, students and salespeople performing differently in important moments.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-003"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure can narrow a learned response",
+    "content": "The author invokes Tolman’s cognitive maps to argue that high motivation during learning can lead to inflexible responses. Under excessive threat, a learner may cling to one route rather than explore alternatives.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-256",
+        "pdf_page": 256,
+        "printed_page": 246,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author invokes Tolman’s cognitive maps to argue that high motivation during learning can lead to inflexible responses.",
+    "terms": {
+      "primary": "Pressure can narrow a learned response",
+      "definition": "The author invokes Tolman’s cognitive maps to argue that high motivation during learning can lead to inflexible responses."
+    },
+    "author_mechanism": "Under excessive threat, a learner may cling to one route rather than explore alternatives.",
+    "conditions_and_limits": "The human extrapolation and specific experimental details require primary-study verification.",
+    "application": "Practice a task under manageable conditions before increasing difficulty.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "The human extrapolation and specific experimental details require primary-study verification.",
+    "substantive_paraphrase": "The revised-edition discussion connects pressure can narrow a learned response to the larger psycho-cybernetics framework. It presents the premise that the author invokes tolman’s cognitive maps to argue that high motivation during learning can lead to inflexible responses. It develops this through under excessive threat, a learner may cling to one route rather than explore alternatives. As an illustration, it describes book-attributed rat maze research by edward c. tolman. This is an attributed source argument, not independent evidence of causation; important limitations: The human extrapolation and specific experimental details require primary-study verification.",
+    "source_specific_illustration": "Book-attributed rat maze research by Edward C. Tolman.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-004"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Non-emergency drills create flexible plans",
+    "content": "A calm rehearsal is offered as preparation for performing appropriate actions when an emergency occurs. Repeated practice without real danger can allow attention to sequencing and contingencies.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-257",
+        "pdf_page": 257,
+        "printed_page": 247,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A calm rehearsal is offered as preparation for performing appropriate actions when an emergency occurs.",
+    "terms": {
+      "primary": "Non-emergency drills create flexible plans",
+      "definition": "A calm rehearsal is offered as preparation for performing appropriate actions when an emergency occurs."
+    },
+    "author_mechanism": "Repeated practice without real danger can allow attention to sequencing and contingencies.",
+    "conditions_and_limits": "Emergency procedures must follow professional safety guidance; the author’s timing claims are unchecked.",
+    "application": "Use an authorized safety drill or ordinary low-risk rehearsal rather than creating hazards.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Emergency procedures must follow professional safety guidance; the author’s timing claims are unchecked.",
+    "substantive_paraphrase": "The revised-edition discussion connects non-emergency drills create flexible plans to the larger psycho-cybernetics framework. It presents the premise that a calm rehearsal is offered as preparation for performing appropriate actions when an emergency occurs. It develops this through repeated practice without real danger can allow attention to sequencing and contingencies. As an illustration, it describes fire-drill versus real-fire scenario. This is an attributed source argument, not independent evidence of causation; important limitations: Emergency procedures must follow professional safety guidance; the author’s timing claims are unchecked.",
+    "source_specific_illustration": "Fire-drill versus real-fire scenario.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-005"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shadow-boxing as simulated practice",
+    "content": "Rehearsing a performance without actual stakes can give the performer a familiar sequence to use later. Imagined and physical repetitions are presented as a way to make response sequences accessible.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Rehearsing a performance without actual stakes can give the performer a familiar sequence to use later.",
+    "terms": {
+      "primary": "Shadow-boxing as simulated practice",
+      "definition": "Rehearsing a performance without actual stakes can give the performer a familiar sequence to use later."
+    },
+    "author_mechanism": "Imagined and physical repetitions are presented as a way to make response sequences accessible.",
+    "conditions_and_limits": "Historical accounts and repetition totals unverified; practice is task-specific, not a substitute for live training.",
+    "application": "Rehearse one short presentation aloud to an empty room.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Historical accounts and repetition totals unverified; practice is task-specific, not a substitute for live training.",
+    "substantive_paraphrase": "The revised-edition discussion connects shadow-boxing as simulated practice to the larger psycho-cybernetics framework. It presents the premise that rehearsing a performance without actual stakes can give the performer a familiar sequence to use later. It develops this through imagined and physical repetitions are presented as a way to make response sequences accessible. As an illustration, it describes corbett and tunney boxing accounts; billy graham speaking to tree stumps. This is an attributed source argument, not independent evidence of causation; important limitations: Historical accounts and repetition totals unverified; practice is task-specific, not a substitute for live training.",
+    "source_specific_illustration": "Corbett and Tunney boxing accounts; Billy Graham speaking to tree stumps.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-006"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Safe rehearsal supports self-expression",
+    "content": "The chapter joins the shadow-boxing metaphor to the ability to express trained capacities instead of freezing. Low-pressure practice may reduce intrusive performance self-monitoring.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter joins the shadow-boxing metaphor to the ability to express trained capacities instead of freezing.",
+    "terms": {
+      "primary": "Safe rehearsal supports self-expression",
+      "definition": "The chapter joins the shadow-boxing metaphor to the ability to express trained capacities instead of freezing."
+    },
+    "author_mechanism": "Low-pressure practice may reduce intrusive performance self-monitoring.",
+    "conditions_and_limits": "Extreme vulnerability rituals are not necessary or advisable; preserve boundaries.",
+    "application": "Practice one authentic sentence in a private, safe setting.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Extreme vulnerability rituals are not necessary or advisable; preserve boundaries.",
+    "substantive_paraphrase": "The revised-edition discussion connects safe rehearsal supports self-expression to the larger psycho-cybernetics framework. It presents the premise that the chapter joins the shadow-boxing metaphor to the ability to express trained capacities instead of freezing. It develops this through low-pressure practice may reduce intrusive performance self-monitoring. As an illustration, it describes ben hogan’s club rehearsals and the unnamed comedian’s deliberately vulnerable rehearsal. This is an attributed source argument, not independent evidence of causation; important limitations: Extreme vulnerability rituals are not necessary or advisable; preserve boundaries.",
+    "source_specific_illustration": "Ben Hogan’s club rehearsals and the unnamed comedian’s deliberately vulnerable rehearsal.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-007"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shifting attention from outcome to perception",
+    "content": "The baseball demonstration reduces pressure to hit before progressively introducing the action. Dividing observation from outcome-focused effort may lower disruptive tension.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-260",
+        "pdf_page": 260,
+        "printed_page": 250,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The baseball demonstration reduces pressure to hit before progressively introducing the action.",
+    "terms": {
+      "primary": "Shifting attention from outcome to perception",
+      "definition": "The baseball demonstration reduces pressure to hit before progressively introducing the action."
+    },
+    "author_mechanism": "Dividing observation from outcome-focused effort may lower disruptive tension.",
+    "conditions_and_limits": "This is one anecdote, not a sports science trial; safe supervised sport only.",
+    "application": "In a low-stakes drill, first observe technique, then perform without a score target.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "This is one anecdote, not a sports science trial; safe supervised sport only.",
+    "substantive_paraphrase": "The revised-edition discussion connects shifting attention from outcome to perception to the larger psycho-cybernetics framework. It presents the premise that the baseball demonstration reduces pressure to hit before progressively introducing the action. It develops this through dividing observation from outcome-focused effort may lower disruptive tension. As an illustration, it describes a boy initially observes ten pitches without swinging, then gradually resumes hitting. This is an attributed source argument, not independent evidence of causation; important limitations: This is one anecdote, not a sports science trial; safe supervised sport only.",
+    "source_specific_illustration": "A boy initially observes ten pitches without swinging, then gradually resumes hitting.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Low-stakes sales rehearsal",
+    "content": "The author describes a salesperson practicing the prospect interaction without having to secure a sale. Goal pressure is replaced temporarily by curiosity and a conversational process objective.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-261",
+        "pdf_page": 261,
+        "printed_page": 251,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author describes a salesperson practicing the prospect interaction without having to secure a sale.",
+    "terms": {
+      "primary": "Low-stakes sales rehearsal",
+      "definition": "The author describes a salesperson practicing the prospect interaction without having to secure a sale."
+    },
+    "author_mechanism": "Goal pressure is replaced temporarily by curiosity and a conversational process objective.",
+    "conditions_and_limits": "Actual results depend on product, client needs and ethics, not only relaxation.",
+    "application": "Have a colleague role-play one respectful objection and practice asking a clarifying question.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Actual results depend on product, client needs and ethics, not only relaxation.",
+    "substantive_paraphrase": "The revised-edition discussion connects low-stakes sales rehearsal to the larger psycho-cybernetics framework. It presents the premise that the author describes a salesperson practicing the prospect interaction without having to secure a sale. It develops this through goal pressure is replaced temporarily by curiosity and a conversational process objective. As an illustration, it describes a salesperson who froze when customers raised objections. This is an attributed source argument, not independent evidence of causation; important limitations: Actual results depend on product, client needs and ethics, not only relaxation.",
+    "source_specific_illustration": "A salesperson who froze when customers raised objections.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-009"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Crisis as progress toward a larger goal",
+    "content": "Instead of treating each disruption as defeat, a school principal relates individual decisions to a longer-term institutional goal. A stable goal provides context for immediate problem-solving.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-262",
+        "pdf_page": 262,
+        "printed_page": 252,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Instead of treating each disruption as defeat, a school principal relates individual decisions to a longer-term institutional goal.",
+    "terms": {
+      "primary": "Crisis as progress toward a larger goal",
+      "definition": "Instead of treating each disruption as defeat, a school principal relates individual decisions to a longer-term institutional goal."
+    },
+    "author_mechanism": "A stable goal provides context for immediate problem-solving.",
+    "conditions_and_limits": "External institutional conditions, resources and support matter; anecdote not independently verified.",
+    "application": "Choose an ethical long-term aim and one controllable improvement after a setback.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "External institutional conditions, resources and support matter; anecdote not independently verified.",
+    "substantive_paraphrase": "The revised-edition discussion connects crisis as progress toward a larger goal to the larger psycho-cybernetics framework. It presents the premise that instead of treating each disruption as defeat, a school principal relates individual decisions to a longer-term institutional goal. It develops this through a stable goal provides context for immediate problem-solving. As an illustration, it describes book narrator’s principal managing difficult school turnaround. This is an attributed source argument, not independent evidence of causation; important limitations: External institutional conditions, resources and support matter; anecdote not independently verified.",
+    "source_specific_illustration": "Book narrator’s principal managing difficult school turnaround.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-010"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Reframe arousal without demanding its removal",
+    "content": "The author advises regarding some pre-performance nervousness as usable excitement. Reappraisal can change how the performer interprets physical arousal.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author advises regarding some pre-performance nervousness as usable excitement.",
+    "terms": {
+      "primary": "Reframe arousal without demanding its removal",
+      "definition": "The author advises regarding some pre-performance nervousness as usable excitement."
+    },
+    "author_mechanism": "Reappraisal can change how the performer interprets physical arousal.",
+    "conditions_and_limits": "Intense anxiety and panic symptoms are not invariably beneficial or voluntary.",
+    "application": "For mild nerves, try describing arousal neutrally and return to a task cue.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Intense anxiety and panic symptoms are not invariably beneficial or voluntary.",
+    "substantive_paraphrase": "The revised-edition discussion connects reframe arousal without demanding its removal to the larger psycho-cybernetics framework. It presents the premise that the author advises regarding some pre-performance nervousness as usable excitement. It develops this through reappraisal can change how the performer interprets physical arousal. As an illustration, it describes a performer experiencing butterflies before going onstage. This is an attributed source argument, not independent evidence of causation; important limitations: Intense anxiety and panic symptoms are not invariably beneficial or voluntary.",
+    "source_specific_illustration": "A performer experiencing butterflies before going onstage.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-011"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Emotional energy depends on context",
+    "content": "The same level of excitement can impair one person and energize another depending on appraisal and preparation. Arousal is described as a possible amplifier of the goal being pursued.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-265",
+        "pdf_page": 265,
+        "printed_page": 255,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The same level of excitement can impair one person and energize another depending on appraisal and preparation.",
+    "terms": {
+      "primary": "Emotional energy depends on context",
+      "definition": "The same level of excitement can impair one person and energize another depending on appraisal and preparation."
+    },
+    "author_mechanism": "Arousal is described as a possible amplifier of the goal being pursued.",
+    "conditions_and_limits": "The book’s universal explanation oversimplifies human stress physiology.",
+    "application": "Note whether excitement was useful, neutral or disruptive in a real task.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "The book’s universal explanation oversimplifies human stress physiology.",
+    "substantive_paraphrase": "The revised-edition discussion connects emotional energy depends on context to the larger psycho-cybernetics framework. It presents the premise that the same level of excitement can impair one person and energize another depending on appraisal and preparation. It develops this through arousal is described as a possible amplifier of the goal being pursued. As an illustration, it describes actors, public speakers and exam-takers in contrasting situations. This is an attributed source argument, not independent evidence of causation; important limitations: The book’s universal explanation oversimplifies human stress physiology.",
+    "source_specific_illustration": "Actors, public speakers and exam-takers in contrasting situations.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-012"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Worst-case appraisal and perspective",
+    "content": "The author cites Bertrand Russell’s deliberate examination of possible setbacks to reduce magnification. Comparing feared outcomes with realistically possible consequences can reduce urgency.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-267",
+        "pdf_page": 267,
+        "printed_page": 257,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author cites Bertrand Russell’s deliberate examination of possible setbacks to reduce magnification.",
+    "terms": {
+      "primary": "Worst-case appraisal and perspective",
+      "definition": "The author cites Bertrand Russell’s deliberate examination of possible setbacks to reduce magnification."
+    },
+    "author_mechanism": "Comparing feared outcomes with realistically possible consequences can reduce urgency.",
+    "conditions_and_limits": "For catastrophic or traumatic events, minimization is inappropriate; use only with manageable worries.",
+    "application": "Write the realistic impact and one backup plan for an ordinary challenge.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "For catastrophic or traumatic events, minimization is inappropriate; use only with manageable worries.",
+    "substantive_paraphrase": "The revised-edition discussion connects worst-case appraisal and perspective to the larger psycho-cybernetics framework. It presents the premise that the author cites bertrand russell’s deliberate examination of possible setbacks to reduce magnification. It develops this through comparing feared outcomes with realistically possible consequences can reduce urgency. As an illustration, it describes russell’s quoted personal technique in the conquest of happiness. This is an attributed source argument, not independent evidence of causation; important limitations: For catastrophic or traumatic events, minimization is inappropriate; use only with manageable worries.",
+    "source_specific_illustration": "Russell’s quoted personal technique in The Conquest of Happiness.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-013"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-014",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "There can be a second act",
+    "content": "The chapter argues that a setback need not be the final chapter of a career, relationship or enterprise. A longer time horizon expands the options available after an acute disappointment.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter argues that a setback need not be the final chapter of a career, relationship or enterprise.",
+    "terms": {
+      "primary": "There can be a second act",
+      "definition": "The chapter argues that a setback need not be the final chapter of a career, relationship or enterprise."
+    },
+    "author_mechanism": "A longer time horizon expands the options available after an acute disappointment.",
+    "conditions_and_limits": "Some losses are lasting and deserve grief; avoid promising opportunity after tragedy.",
+    "application": "List one future possibility that remains without dismissing the loss.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Some losses are lasting and deserve grief; avoid promising opportunity after tragedy.",
+    "substantive_paraphrase": "The revised-edition discussion connects there can be a second act to the larger psycho-cybernetics framework. It presents the premise that the chapter argues that a setback need not be the final chapter of a career, relationship or enterprise. It develops this through a longer time horizon expands the options available after an acute disappointment. As an illustration, it describes walter pidgeon returning after a failed first act. This is an attributed source argument, not independent evidence of causation; important limitations: Some losses are lasting and deserve grief; avoid promising opportunity after tragedy.",
+    "source_specific_illustration": "Walter Pidgeon returning after a failed first act.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-014"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH13-015",
+    "type": "concept",
+    "chapter_id": "PCI-CH-13",
+    "title": "Future-retrospective perspective",
+    "content": "The closing mental exercise asks the reader to imagine looking back years later on a current worry. A shift in temporal frame may make some day-to-day stakes feel more proportionate.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The closing mental exercise asks the reader to imagine looking back years later on a current worry.",
+    "terms": {
+      "primary": "Future-retrospective perspective",
+      "definition": "The closing mental exercise asks the reader to imagine looking back years later on a current worry."
+    },
+    "author_mechanism": "A shift in temporal frame may make some day-to-day stakes feel more proportionate.",
+    "conditions_and_limits": "Not suitable as a command to downplay trauma or urgent risks.",
+    "application": "Choose a minor current concern and write a plausible 3-year retrospective.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Not suitable as a command to downplay trauma or urgent risks.",
+    "substantive_paraphrase": "The revised-edition discussion connects future-retrospective perspective to the larger psycho-cybernetics framework. It presents the premise that the closing mental exercise asks the reader to imagine looking back years later on a current worry. It develops this through a shift in temporal frame may make some day-to-day stakes feel more proportionate. As an illustration, it describes page 260 printed closing mental training exercise. This is an attributed source argument, not independent evidence of causation; important limitations: Not suitable as a command to downplay trauma or urgent risks.",
+    "source_specific_illustration": "Page 260 printed closing mental training exercise.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH13-015"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  }
+]

@@ -1,0 +1,1670 @@
+[
+  {
+    "id": "PCI-RH-001",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Realistic goal scene",
+    "chapter_id": "PCI-CH-03",
+    "origin": "PCI_adaptation",
+    "theme": "goal_scene",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH03-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A scheduled skill practice with an observable end state",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Notice the room and the first physical cue; sound or imagined movement are optional.",
+    "alternate_response_prompt": "What if the scene begins imperfectly?",
+    "real_world_action_prompt": "Try a simpler first action and prepare a concrete time to practice.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Choose a modest specific scene you can actually attempt.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Notice the room and the first physical cue; sound or imagined movement are optional.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the scene begins imperfectly?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Try a simpler first action and prepare a concrete time to practice.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-002",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Preparing an introduction",
+    "chapter_id": "PCI-CH-03",
+    "origin": "PCI_adaptation",
+    "theme": "communication",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH03-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A first sentence at a work or community meeting",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Optionally picture the setting; alternatively read from a card.",
+    "alternate_response_prompt": "What if someone appears distracted?",
+    "real_world_action_prompt": "Speak the sentence aloud once and record whether it was understandable.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Write a short accurate introduction in your own words.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Optionally picture the setting; alternatively read from a card.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if someone appears distracted?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Speak the sentence aloud once and record whether it was understandable.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-003",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Testing a feared prediction",
+    "chapter_id": "PCI-CH-04",
+    "origin": "PCI_adaptation",
+    "theme": "belief_testing",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH04-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A low-stakes task that challenges a narrow belief",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Describe the task and resources you can use.",
+    "alternate_response_prompt": "What if the first attempt fails?",
+    "real_world_action_prompt": "Prepare one counterexample check and a real attempt if appropriate.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Choose one task with a safe, observable success criterion.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Describe the task and resources you can use.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the first attempt fails?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Prepare one counterexample check and a real attempt if appropriate.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-004",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Narrowing an absolute self-statement",
+    "chapter_id": "PCI-CH-05",
+    "origin": "PCI_adaptation",
+    "theme": "reasoning",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH05-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A thought such as “I never finish” attached to a task",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Name one actual observation and one exception or uncertainty.",
+    "alternate_response_prompt": "What if the evidence remains mixed?",
+    "real_world_action_prompt": "Choose an experiment rather than an unsupported affirmation.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Replace the absolute claim with a specific testable statement.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Name one actual observation and one exception or uncertainty.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the evidence remains mixed?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Choose an experiment rather than an unsupported affirmation.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-005",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Prepare then release overcontrol",
+    "chapter_id": "PCI-CH-06",
+    "origin": "PCI_adaptation",
+    "theme": "attention",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH06-005"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A task you have already adequately prepared",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Imagine or read through the first ordinary action.",
+    "alternate_response_prompt": "What if you want to check the task endlessly?",
+    "real_world_action_prompt": "Use an observable stopping rule for noncritical checking.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "List preparation steps already completed and safety exceptions.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Imagine or read through the first ordinary action.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if you want to check the task endlessly?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Use an observable stopping rule for noncritical checking.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-006",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Courage with a small voice",
+    "chapter_id": "PCI-CH-08",
+    "origin": "PCI_adaptation",
+    "theme": "confidence",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH08-006"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A respectful contribution to a group",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Picture or write the actual conversation opening.",
+    "alternate_response_prompt": "What if another person disagrees?",
+    "real_world_action_prompt": "Practice clarifying rather than treating disagreement as rejection.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Choose one helpful sentence and decide when it is welcome.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Picture or write the actual conversation opening.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if another person disagrees?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Practice clarifying rather than treating disagreement as rejection.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-007",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "After-mistake reset",
+    "chapter_id": "PCI-CH-09",
+    "origin": "PCI_adaptation",
+    "theme": "setback",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH09-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A routine error at school, work or practice",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Notice where the next relevant information will come from.",
+    "alternate_response_prompt": "What if the same error repeats?",
+    "real_world_action_prompt": "Plan a reversible adjustment and later compare outcomes.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Name the specific error without using an identity label.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Notice where the next relevant information will come from.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the same error repeats?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Plan a reversible adjustment and later compare outcomes.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-008",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Boundaries without forced reconciliation",
+    "chapter_id": "PCI-CH-10",
+    "origin": "PCI_adaptation",
+    "theme": "relationships",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH10-009"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "An everyday interaction where a boundary may help",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Rehearse one sentence that states a boundary without hostility.",
+    "alternate_response_prompt": "What if the other person dislikes it?",
+    "real_world_action_prompt": "Choose distance, support or no contact if that is safer.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Choose a mild or imaginary example; no painful memories needed.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Rehearse one sentence that states a boundary without hostility.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the other person dislikes it?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Choose distance, support or no contact if that is safer.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-009",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Nonurgent attention reset",
+    "chapter_id": "PCI-CH-12",
+    "origin": "PCI_adaptation",
+    "theme": "attention_reset",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH12-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "An ordinary notification during focused work",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Notice one concrete task cue and resume a simple step.",
+    "alternate_response_prompt": "What if a genuine urgent need appears?",
+    "real_world_action_prompt": "Stop the exercise and respond to urgent demands as appropriate.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Verify that the cue is not an emergency or urgent obligation.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Notice one concrete task cue and resume a simple step.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if a genuine urgent need appears?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Stop the exercise and respond to urgent demands as appropriate.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-010",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Pressure-event obstacle rehearsal",
+    "chapter_id": "PCI-CH-13",
+    "origin": "PCI_adaptation",
+    "theme": "pressure",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH13-007"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A short talk, interview, or noncontact skill test",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Picture the first 20 seconds or read your prompt card.",
+    "alternate_response_prompt": "What if you lose your place?",
+    "real_world_action_prompt": "Use the recovery line and do one real rehearsal if safe.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Set the stakes accurately and identify a recovery line.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Picture the first 20 seconds or read your prompt card.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if you lose your place?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Use the recovery line and do one real rehearsal if safe.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-011",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Recall a bounded past success",
+    "chapter_id": "PCI-CH-14",
+    "origin": "PCI_adaptation",
+    "theme": "skill_transfer",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH14-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-271",
+        "pdf_page": 271,
+        "printed_page": 261,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A specific previous successful task with a new variation",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Revisit sensory details only if comfortable; writing works too.",
+    "alternate_response_prompt": "What if the new task needs a different skill?",
+    "real_world_action_prompt": "Adapt the method and arrange a small real practice.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Name one skill and one resource involved in the past success.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Revisit sensory details only if comfortable; writing works too.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if the new task needs a different skill?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Adapt the method and arrange a small real practice.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-RH-012",
+    "record_type": "rehearsal_template",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Imagination followed by action",
+    "chapter_id": "PCI-CH-16",
+    "origin": "PCI_adaptation",
+    "theme": "action_bridge",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "linked_concept_ids": [
+      "PCI-C-CH16-007"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "scene": "A feasible next step after visualizing an outcome",
+    "editable_user_scene_fields": [
+      {
+        "field": "scene_goal",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_context",
+        "kind": "optional_text",
+        "max_chars": 600
+      },
+      {
+        "field": "scene_obstacle",
+        "kind": "optional_text",
+        "max_chars": 600
+      }
+    ],
+    "intro": "A rehearsal helps prepare possible actions; it does not guarantee confidence, health or success.",
+    "sensory_prompt": "Describe the first external action instead of only the desired feeling.",
+    "alternate_response_prompt": "What if time or resources prevent action today?",
+    "real_world_action_prompt": "Record a practical adjustment or choose to stop without self-blame.",
+    "timing": {
+      "type": "optional_app_design",
+      "full_seconds": 300,
+      "reduced_seconds": 60,
+      "no_timer_supported": true,
+      "book_duration_claimed": false,
+      "phase_seconds_sum": 300,
+      "auto_advance": false
+    },
+    "phases": [
+      {
+        "id": "orient",
+        "title": "Introduce the scope",
+        "guidance": "You may stop, shorten, write instead of visualize, or use a fictional situation. This is educational rehearsal, not clinical treatment.",
+        "suggested_seconds": 35,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "setup",
+        "title": "Build a realistic scene",
+        "guidance": "Pick a small outcome whose completion is observable.",
+        "suggested_seconds": 65,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "rehearse",
+        "title": "Try one response",
+        "guidance": "Describe the first external action instead of only the desired feeling.",
+        "suggested_seconds": 80,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "obstacle",
+        "title": "Prepare a flexible alternative",
+        "guidance": "What if time or resources prevent action today?",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      },
+      {
+        "id": "transfer",
+        "title": "Identify the next real action",
+        "guidance": "Record a practical adjustment or choose to stop without self-blame.",
+        "suggested_seconds": 60,
+        "pause_after": true,
+        "manual_next_supported": true,
+        "text_mode_equivalent": "Write one phrase or make a simple checklist instead of imagining."
+      }
+    ],
+    "completion_rule": {
+      "kind": "user_acknowledgement",
+      "requires_visual_imagery": false,
+      "requires_all_phases": false,
+      "result_meaning": "Only completion of a chosen rehearsal sequence; no evidence of subconscious change."
+    },
+    "feedback_pattern_id": "PCI-FB-003",
+    "safety": {
+      "may_skip_any_phase": true,
+      "may_stop_entirely": true,
+      "choose_non_distressing_scene": true,
+      "no_treatment_claims": true,
+      "physical_practice_not_replaced": true,
+      "no_performance_guarantee": true
+    },
+    "accessibility": {
+      "read_aloud_optional": true,
+      "text_only": true,
+      "no_timer": true,
+      "reduced_duration": true,
+      "no_sensory_visualization_required": true
+    },
+    "event_contract": {
+      "on_complete": "rehearsal.completed",
+      "on_skip": "rehearsal.skipped",
+      "fields": [
+        "template_id",
+        "duration_mode",
+        "steps_done",
+        "timestamp_iso",
+        "event_type"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  }
+]

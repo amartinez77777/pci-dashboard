@@ -1,0 +1,80 @@
+
+> psycho-cybernetics-intelligence@0.12.2 test:checkpoint2
+> node --test tests/checkpoint2.test.mjs
+
+TAP version 13
+# Subtest: exactly six distinct, authored source-aware protocols, each with 4 quality phases
+ok 1 - exactly six distinct, authored source-aware protocols, each with 4 quality phases
+  ---
+  duration_ms: 1.510391
+  type: 'test'
+  ...
+# Subtest: written, standard and short guidance differ and are not generic reusable fillers
+ok 2 - written, standard and short guidance differ and are not generic reusable fillers
+  ---
+  duration_ms: 0.16873
+  type: 'test'
+  ...
+# Subtest: pure state model enforces 4 steps, pause elapsed, skip, and explicit completion
+ok 3 - pure state model enforces 4 steps, pause elapsed, skip, and explicit completion
+  ---
+  duration_ms: 0.845975
+  type: 'test'
+  ...
+# Subtest: invalid option, wrong protocol, too long writing, premature completion are rejected
+ok 4 - invalid option, wrong protocol, too long writing, premature completion are rejected
+  ---
+  duration_ms: 0.503948
+  type: 'test'
+  ...
+# Subtest: all original 25 stores, including the existing practice_sessions, review_ratings and events, remain
+ok 5 - all original 25 stores, including the existing practice_sessions, review_ratings and events, remain
+  ---
+  duration_ms: 4.498624
+  type: 'test'
+  ...
+# Subtest: six independent completed protocols produce exactly one session and one completion event each
+ok 6 - six independent completed protocols produce exactly one session and one completion event each
+  ---
+  duration_ms: 148.349764
+  type: 'test'
+  ...
+# Subtest: pause, exit, resume and skip survive stored reload without false completion
+ok 7 - pause, exit, resume and skip survive stored reload without false completion
+  ---
+  duration_ms: 32.676042
+  type: 'test'
+  ...
+# Subtest: sensitive writing requires explicit recorded consent and is excluded from default redacted export
+ok 8 - sensitive writing requires explicit recorded consent and is excluded from default redacted export
+  ---
+  duration_ms: 74.25438
+  type: 'test'
+  ...
+# Subtest: optional usefulness rating can update or be cleared; cannot rate an incomplete practice
+ok 9 - optional usefulness rating can update or be cleared; cannot rate an incomplete practice
+  ---
+  duration_ms: 29.633599
+  type: 'test'
+  ...
+# Subtest: deleting a practice removes that session and its events without changing another completed session
+ok 10 - deleting a practice removes that session and its events without changing another completed session
+  ---
+  duration_ms: 17.026743
+  type: 'test'
+  ...
+# Subtest: source data is not mutated by private tests; other routes remain wired
+ok 11 - source data is not mutated by private tests; other routes remain wired
+  ---
+  duration_ms: 0.772296
+  type: 'test'
+  ...
+1..11
+# tests 11
+# suites 0
+# pass 11
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 389.932122

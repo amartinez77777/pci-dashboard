@@ -1,0 +1,191 @@
+{
+  "count": 37,
+  "files": [
+    {
+      "path": "CHECKSUMS.sha256",
+      "bytes": 3493,
+      "sha256": "b356ab863b368da9e8d1bdc3d5dd9612a964c6fb18212c3136b6803d333e826e"
+    },
+    {
+      "path": "PCI_ACTIVITY_DESIGN_AUDIT.md",
+      "bytes": 8904,
+      "sha256": "90ec1de570c5b4a99202e4ae4c69e3072ed301071422d93ab01bf3773134a135"
+    },
+    {
+      "path": "PCI_ID_REGISTRY.json",
+      "bytes": 289338,
+      "sha256": "80729e69c1bb14df28c04f4955ccc452fa29daac1a2481417d9165a3db02e185"
+    },
+    {
+      "path": "PCI_ISSUES.json",
+      "bytes": 102442,
+      "sha256": "56a6c1e43805376341949767ef5cb8118bf44a9d6f9a2dc9c1a9245bf360303e"
+    },
+    {
+      "path": "PCI_PROJECT_MANIFEST.json",
+      "bytes": 1529,
+      "sha256": "b0d78ed65e763f4541f21023150b7717527e6168ae1a541e58e0bcd0705706fa"
+    },
+    {
+      "path": "PCI_STAGE_06_HANDOFF.md",
+      "bytes": 4465,
+      "sha256": "acd45c216873206d4ca468ee82e0cfdc973b601980763eb45686e771c9687cbf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2096,
+      "sha256": "581a52e12a968653bc9bf27a5bdfba431d119a76c7536523066c808267df02ed"
+    },
+    {
+      "path": "audits/PCI_CONTENT_COVERAGE.json",
+      "bytes": 1624,
+      "sha256": "49cf0becdc16f26bbb6b1ba64e416d65c4d826e80c6f6e0b80ea86f7bb928287"
+    },
+    {
+      "path": "audits/PCI_NEGATIVE_TESTS.json",
+      "bytes": 1063,
+      "sha256": "b6361eb85b65370ba0ed50107ab99e940dfbb8a5f65da739150da06b821f2b88"
+    },
+    {
+      "path": "audits/PCI_STAGE06_PDF_SPOT_CHECKS.json",
+      "bytes": 1182,
+      "sha256": "b279da91c8e4c71b7e043820b25b2fa52442f73cc7d3a4326bea4f90e18da8d3"
+    },
+    {
+      "path": "audits/PCI_STAGE06_QA.json",
+      "bytes": 5507,
+      "sha256": "d84fff902b5d368f540aeef70a30fb0af97b336f65498badb351aec28c356384"
+    },
+    {
+      "path": "audits/PCI_TYPESCRIPT_QA.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/PCI_AUTHOR_PRACTICE_LOOKUP.json",
+      "bytes": 73628,
+      "sha256": "329bf12975b97a47db5fe5818459ad5b6a5b6e027effba0f19e589adbb65a20b"
+    },
+    {
+      "path": "data/PCI_BRANCHING_SCENARIOS.json",
+      "bytes": 109120,
+      "sha256": "954a2a6e865c82709073fdb33dbc93259b4e9340758459387bed54b6bccb59c0"
+    },
+    {
+      "path": "data/PCI_EXECUTABLE_ACTIVITIES.json",
+      "bytes": 262583,
+      "sha256": "85411c58e862f9959f5833c844cd14ee8b01222c6a13ae7600a5c653b0410c50"
+    },
+    {
+      "path": "data/PCI_FEEDBACK_CYCLES.json",
+      "bytes": 448,
+      "sha256": "97c827abd0cb9a7797b569364ede4479235b4b5cc9d88e9e8f04ac17be8efebe"
+    },
+    {
+      "path": "data/PCI_FEEDBACK_PATTERNS.json",
+      "bytes": 3607,
+      "sha256": "ac5fb86bdbdae2fcc0684263c13ce14dc5733416cb7df023c240f11fd6889ac8"
+    },
+    {
+      "path": "data/PCI_REHEARSAL_TEMPLATES.json",
+      "bytes": 56898,
+      "sha256": "807f945962a6eab6a7943c01378cea02cde397d512a21674c4a355f29447d9e0"
+    },
+    {
+      "path": "data/PCI_REVIEW_RUBRICS.json",
+      "bytes": 4779,
+      "sha256": "4b9622df6bbf4f667d1997f25b1cf0c05b5bb09de40bd17f08ed302f0b41c40e"
+    },
+    {
+      "path": "indexes/PCI_AUTHOR_PRACTICE_BRIDGES.json",
+      "bytes": 13373,
+      "sha256": "2125d18f39e71a6d6d70a6e11a3f7dc6c281d8332f0af39766927d0659e38042"
+    },
+    {
+      "path": "indexes/PCI_CONTENT_BY_CHAPTER.json",
+      "bytes": 3023,
+      "sha256": "a7b7bece6c12fc524c11ea374f54d0ee746db5fb296586ae7aa040b22c89194c"
+    },
+    {
+      "path": "indexes/PCI_CONTENT_BY_CONCEPT.json",
+      "bytes": 7794,
+      "sha256": "83307d30880590e30eb1b01a2a5852c5640bb94fab569ab96730664d7367c697"
+    },
+    {
+      "path": "schema/PCI_ACTIVITY.schema.json",
+      "bytes": 2043,
+      "sha256": "328672d065c0ef33d247da906b70ee37260b8b4ffe5c722873cd2b962fd44dda"
+    },
+    {
+      "path": "schema/PCI_FEEDBACK.schema.json",
+      "bytes": 687,
+      "sha256": "0a645f4d718d43efa7b15b3c1ca0c6349109000892e13cdec01ecd8fb12a5a1c"
+    },
+    {
+      "path": "schema/PCI_REHEARSAL.schema.json",
+      "bytes": 1233,
+      "sha256": "27d8ead8fc1c77edb58869c56e43e91ba62da348b3234a77308bad4623755cd7"
+    },
+    {
+      "path": "schema/PCI_RUBRIC.schema.json",
+      "bytes": 674,
+      "sha256": "82b70d2cb0eba67448193c0cf9c8ba88e9a3afe2b4b21b08aa198e4d66587c06"
+    },
+    {
+      "path": "schema/PCI_RUNTIME_CONTRACT.json",
+      "bytes": 765,
+      "sha256": "d83245275260a00b68edde8600fb8c807110614011c1d1b86c114b875ba868a7"
+    },
+    {
+      "path": "schema/PCI_SCENARIO.schema.json",
+      "bytes": 1607,
+      "sha256": "1824f188fa83e9fd53efdb076d3f58af0b8368cf01d3c4c9629eabb69db5d382"
+    },
+    {
+      "path": "schema/PCI_STORED_EVENT.schema.json",
+      "bytes": 983,
+      "sha256": "e0f1f1bef67824284a87830a7b3ceabac5b1eb14576d4551cc00fa2872115660"
+    },
+    {
+      "path": "tests/PCI_ACTIVITY_SMOKE_FIXTURES.json",
+      "bytes": 13859,
+      "sha256": "dd466584fd56b4a85563378b7f3f41cabe04f85d9118a78cdebd16eb1115d027"
+    },
+    {
+      "path": "tests/PCI_SCENARIO_GRAPH_FIXTURES.json",
+      "bytes": 2755,
+      "sha256": "5b0a6d27309898c7a7f9d2b4c06001f458d93badeb372ac140242bb660bc258e"
+    },
+    {
+      "path": "tests/TEST_COMMANDS.md",
+      "bytes": 873,
+      "sha256": "5e6e20a397a4bfe31be1586a49348b1388c3892858a95f1cf6a2a76079bb7c76"
+    },
+    {
+      "path": "tests/__pycache__/run_content.cpython-313.pyc",
+      "bytes": 6635,
+      "sha256": "d545e0f89c6d28a889789c33c9a4976053044628c9bc31e4bdd6b21bb4d4d01f"
+    },
+    {
+      "path": "tests/run_content.py",
+      "bytes": 4023,
+      "sha256": "4c0e51007b1d68895f76df8d4a0c77fec01d2fe331dc93a017294b9ba7854ac2"
+    },
+    {
+      "path": "tests/test_negative_cases.py",
+      "bytes": 2837,
+      "sha256": "9271aa9d7f44776c3059ac5b7072f601ad404ec5a036138d3678e1d70d58fb21"
+    },
+    {
+      "path": "tests/validate_stage06.py",
+      "bytes": 11466,
+      "sha256": "86b7f462c44cfa5d285592d326b835a66343c206be57b7b719e0b287b2cd89e4"
+    },
+    {
+      "path": "types/PCI_ACTIVITY_ENGINE_TYPES.ts",
+      "bytes": 2497,
+      "sha256": "2aa026e5d24e6b7cf956205c218a7c2a3671356349332c02ffddca316e101513"
+    }
+  ],
+  "note": "CHECKSUMS.sha256 excludes itself and FILE_INVENTORY.json to avoid self-referential checksums."
+}

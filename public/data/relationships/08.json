@@ -1,0 +1,854 @@
+[
+  {
+    "id": "PCI-R-0055",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Role transition can unsettle identity ↔ Self-image as working self-description",
+    "content": "Role transitions provide a contextual application of the original self-image definition.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-001",
+    "to_id": "PCI-C-CH01-001",
+    "relationship_type": "complements",
+    "rationale": "Role transitions provide a contextual application of the original self-image definition.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-001": {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-001": {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0056",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Sense of direction after a goal ↔ Decision imagination and self-image work order",
+    "content": "Direction after promotion builds upon the early goal formulation, without implying automatic achievement.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-003",
+    "to_id": "PCI-C-CH02-002",
+    "relationship_type": "complements",
+    "rationale": "Direction after promotion builds upon the early goal formulation, without implying automatic achievement.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-003": {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-002": {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0057",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Understanding others and separating facts from opinion ↔ Separate event facts from identity verdicts",
+    "content": "Seeing events from others’ perspectives extends the fact/opinion distinction into interpersonal judgments.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-148",
+        "pdf_page": 148,
+        "printed_page": 138,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-004",
+    "to_id": "PCI-C-CH07-006",
+    "relationship_type": "complements",
+    "rationale": "Seeing events from others’ perspectives extends the fact/opinion distinction into interpersonal judgments.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-148",
+        "pdf_page": 148,
+        "printed_page": 138,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-004": {
+        "source_id": "PCI-SRC-PDF-148",
+        "pdf_page": 148,
+        "printed_page": 138,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH07-006": {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0058",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Truthful negative feedback without identity collapse ↔ Negative feedback and iterative correction",
+    "content": "Acknowledged mistakes become usable negative feedback in the book’s goal-correction metaphor.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-005",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "supports",
+    "rationale": "Acknowledged mistakes become usable negative feedback in the book’s goal-correction metaphor.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-005": {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-005": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0059",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Everyday courage as calculated action ↔ Backwards goal-setting from nonnegotiables",
+    "content": "Courageous action after comparing options complements thoughtful goal selection using constraints.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-006",
+    "to_id": "PCI-C-CH05-009",
+    "relationship_type": "complements",
+    "rationale": "Courageous action after comparing options complements thoughtful goal selection using constraints.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-006": {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-009": {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0060",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Charity as respect for other people ↔ Prosocial attention and nontransactional happiness",
+    "content": "Respect for others reiterates the prior discussion of prosocial behavior without assuming self-sacrifice.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-007",
+    "to_id": "PCI-C-CH07-003",
+    "relationship_type": "complements",
+    "rationale": "Respect for others reiterates the prior discussion of prosocial behavior without assuming self-sacrifice.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-007": {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH07-003": {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0061",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Internal criticism and self-esteem ↔ Bertrand Russell and disputing inherited guilt",
+    "content": "Answering an internal critic with facts echoes rational examination of irrational conviction.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-154",
+        "pdf_page": 154,
+        "printed_page": 144,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-008",
+    "to_id": "PCI-C-CH05-007",
+    "relationship_type": "complements",
+    "rationale": "Answering an internal critic with facts echoes rational examination of irrational conviction.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-154",
+        "pdf_page": 154,
+        "printed_page": 144,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-008": {
+        "source_id": "PCI-SRC-PDF-154",
+        "pdf_page": 154,
+        "printed_page": 144,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-007": {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0062",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Build confidence from graded mastery ↔ Short-memory performance reset",
+    "content": "Confidence from remembered genuine performance successes builds on the earlier short-memory sports advice.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-009",
+    "to_id": "PCI-C-CH05-005",
+    "relationship_type": "complements",
+    "rationale": "Confidence from remembered genuine performance successes builds on the earlier short-memory sports advice.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-009": {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-005": {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0063",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Accept yourself while correcting behavior ↔ Adequate and realistic self-acceptance",
+    "content": "This chapter distinguishes self-worth from errors, strengthening the earlier realistic self-acceptance argument.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-158",
+        "pdf_page": 158,
+        "printed_page": 148,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-010",
+    "to_id": "PCI-C-CH01-007",
+    "relationship_type": "supports",
+    "rationale": "This chapter distinguishes self-worth from errors, strengthening the earlier realistic self-acceptance argument.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-158",
+        "pdf_page": 158,
+        "printed_page": 148,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-010": {
+        "source_id": "PCI-SRC-PDF-158",
+        "pdf_page": 158,
+        "printed_page": 148,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-007": {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0064",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Reject externally imposed identity rankings ↔ Social comparison and biased benchmarks",
+    "content": "The comparison critique is reprised with changing appearance and status standards.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-011",
+    "to_id": "PCI-C-CH04-008",
+    "relationship_type": "complements",
+    "rationale": "The comparison critique is reprised with changing appearance and status standards.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-011": {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-008": {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0065",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Adversity Quotient as a source-attributed construct ↔ Goal orientation after setbacks",
+    "content": "The AQ construct is presented as coping orientation in adversity, but its psychometric validity remains unassessed.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-012",
+    "to_id": "PCI-C-CH07-007",
+    "relationship_type": "qualifies",
+    "rationale": "The AQ construct is presented as coping orientation in adversity, but its psychometric validity remains unassessed.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-012": {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH07-007": {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0066",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-08",
+    "title": "Unburdening as an illustrative parable ↔ A limiting belief must face precise questions",
+    "content": "The final fable uses awareness of assumed burdens to illustrate testing and revising unhelpful beliefs.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH08-013",
+    "to_id": "PCI-C-CH05-010",
+    "relationship_type": "complements",
+    "rationale": "The final fable uses awareness of assumed burdens to illustrate testing and revising unhelpful beliefs.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH08-013": {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-010": {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  }
+]

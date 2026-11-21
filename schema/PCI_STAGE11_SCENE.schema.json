@@ -1,0 +1,7 @@
+{
+ "$schema":"https://json-schema.org/draft/2020-12/schema", "$id":"https://pci.local/schema/PCI_STAGE11_SCENE.schema.json", "title":"PCI private user rehearsal scene v1", "type":"object", "additionalProperties":false,
+ "required":["title","setting","goal_behavior","obstacle","prepared_response","cue","sensory_detail","uncertainty","next_action","template_id","concept_id","belief_id","goal_id"],
+ "properties":{
+  "title":{"type":"string","minLength":1,"maxLength":120},"setting":{"type":"string","maxLength":600},"goal_behavior":{"type":"string","maxLength":600},"obstacle":{"type":"string","maxLength":600},"prepared_response":{"type":"string","maxLength":600},"cue":{"type":"string","maxLength":600},"sensory_detail":{"type":"string","maxLength":600},"uncertainty":{"type":"string","maxLength":600},"next_action":{"type":"string","maxLength":600},"template_id":{"type":"string","pattern":"^PCI-RH-[0-9]{3}$"},"concept_id":{"type":"string","pattern":"^(|PCI-C-CH[0-9]{2}-[0-9]{3})$"},"belief_id":{"type":"string","maxLength":80},"goal_id":{"type":"string","maxLength":80}
+ }
+}

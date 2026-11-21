@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "passed": 15,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "Input source fingerprint recorded",
+      "status": "PASS"
+    },
+    {
+      "name": "249 protected file fingerprints stored",
+      "status": "PASS"
+    },
+    {
+      "name": "Every inherited research, reference, schema, IDs, storage and base CSS file byte-identical",
+      "status": "PASS"
+    },
+    {
+      "name": "Original 1,799 permanent IDs preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "201 original canonical concept records",
+      "status": "PASS"
+    },
+    {
+      "name": "21 authored days preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "16 unchanged scenario chapter assets",
+      "status": "PASS"
+    },
+    {
+      "name": "12 original PCI rehearsal templates",
+      "status": "PASS"
+    },
+    {
+      "name": "16 unchanged concept chapter assets",
+      "status": "PASS"
+    },
+    {
+      "name": "Ten app navigation modules present",
+      "status": "PASS"
+    },
+    {
+      "name": "Version-2 private IndexedDB contract intact",
+      "status": "PASS"
+    },
+    {
+      "name": "Explainable recommendation logic and new Command Center are present",
+      "status": "PASS"
+    },
+    {
+      "name": "Goal, belief, source and authored lesson deep links are wired",
+      "status": "PASS"
+    },
+    {
+      "name": "No full book PDF or personal data under public assets",
+      "status": "PASS"
+    },
+    {
+      "name": "GitHub Actions production install and build pipeline preserved",
+      "status": "PASS"
+    }
+  ],
+  "note": "This is structural and byte-identity validation, not PDF-image or native browser verification."
+}

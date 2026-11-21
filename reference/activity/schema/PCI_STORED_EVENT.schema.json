@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCI future persisted event v1",
+  "type": "object",
+  "required": [
+    "event_id",
+    "event_type",
+    "target_id",
+    "timestamp_iso",
+    "schema_version",
+    "privacy_mode"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "event_type": {
+      "enum": [
+        "activity.step_recorded",
+        "activity.completed",
+        "activity.skipped",
+        "scenario.choice",
+        "scenario.completed",
+        "scenario.skipped",
+        "rehearsal.completed",
+        "rehearsal.skipped"
+      ]
+    },
+    "target_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "timestamp_iso": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "privacy_mode": {
+      "const": "device_local"
+    },
+    "data": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}

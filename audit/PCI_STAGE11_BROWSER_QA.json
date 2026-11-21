@@ -1,0 +1,292 @@
+{
+  "suite": "Stage11 in-memory Chromium, synthetic storage only",
+  "status": "PASS",
+  "passed": 56,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "command-center-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "theater-route-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "12-real-templates-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "book-attribution-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "short-no-timer-options-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "scene-saved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "saved-scene-listed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-start-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-guidance-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "controls-live-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "pause-reveals-resume-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skip-advances-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "rewind-works-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "completion-save-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "session-history-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-resume-completed-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "knowledge-vault-preserved-1440",
+      "status": "PASS",
+      "detail": "['Knowledge Vault']"
+    },
+    {
+      "check": "belief-studio-preserved-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-horizontal-overflow-1440",
+      "status": "PASS",
+      "detail": "{'actual': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "no-fatal-js-errors-1440",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "command-center-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "theater-route-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "12-real-templates-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "book-attribution-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "short-no-timer-options-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-start-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-guidance-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "controls-live-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "pause-reveals-resume-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skip-advances-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "rewind-works-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "completion-save-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "session-history-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-resume-completed-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "knowledge-vault-preserved-390",
+      "status": "PASS",
+      "detail": "['Knowledge Vault']"
+    },
+    {
+      "check": "belief-studio-preserved-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-horizontal-overflow-390",
+      "status": "PASS",
+      "detail": "{'actual': 390, 'viewport': 390}"
+    },
+    {
+      "check": "no-fatal-js-errors-390",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "command-center-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "theater-route-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "12-real-templates-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "book-attribution-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "short-no-timer-options-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-start-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "player-guidance-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "controls-live-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "pause-reveals-resume-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "skip-advances-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "rewind-works-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "completion-save-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "session-history-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-resume-completed-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "knowledge-vault-preserved-320",
+      "status": "PASS",
+      "detail": "['Knowledge Vault']"
+    },
+    {
+      "check": "belief-studio-preserved-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no-horizontal-overflow-320",
+      "status": "PASS",
+      "detail": "{'actual': 320, 'viewport': 320}"
+    },
+    {
+      "check": "no-fatal-js-errors-320",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ],
+  "issues": [],
+  "limitations": [
+    "No real origin or native IndexedDB; React16 compatibility bridge not production React18; not physical iPhone"
+  ]
+}

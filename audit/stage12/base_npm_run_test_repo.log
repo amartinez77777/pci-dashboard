@@ -1,0 +1,98 @@
+
+> psycho-cybernetics-intelligence@0.11.0 test:repo
+> node --test tests/data_repo.test.mjs
+
+TAP version 13
+# Subtest: 16 actual chapters load
+ok 1 - 16 actual chapters load
+  ---
+  duration_ms: 1.505903
+  type: 'test'
+  ...
+# Subtest: 201 concept index records load
+ok 2 - 201 concept index records load
+  ---
+  duration_ms: 0.752671
+  type: 'test'
+  ...
+# Subtest: valid concept resolves its full dossier with page
+ok 3 - valid concept resolves its full dossier with page
+  ---
+  duration_ms: 1.231196
+  type: 'test'
+  ...
+# Subtest: unknown concept resolves null
+ok 4 - unknown concept resolves null
+  ---
+  duration_ms: 0.137339
+  type: 'test'
+  ...
+# Subtest: missing concept in valid chapter resolves null
+ok 5 - missing concept in valid chapter resolves null
+  ---
+  duration_ms: 0.165111
+  type: 'test'
+  ...
+# Subtest: an actual activity resolves its exact source ID
+ok 6 - an actual activity resolves its exact source ID
+  ---
+  duration_ms: 0.43558
+  type: 'test'
+  ...
+# Subtest: word search returns meaningful results
+ok 7 - word search returns meaningful results
+  ---
+  duration_ms: 0.471685
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts returned records
+ok 8 - chapter filter restricts returned records
+  ---
+  duration_ms: 0.269969
+  type: 'test'
+  ...
+# Subtest: all 21 authored days resolve
+ok 9 - all 21 authored days resolve
+  ---
+  duration_ms: 0.706321
+  type: 'test'
+  ...
+# Subtest: all 12 rehearsal template records load
+ok 10 - all 12 rehearsal template records load
+  ---
+  duration_ms: 1.16745
+  type: 'test'
+  ...
+# Subtest: 25 declared IndexedDB stores, v2 schema
+ok 11 - 25 declared IndexedDB stores, v2 schema
+  ---
+  duration_ms: 0.155826
+  type: 'test'
+  ...
+# Subtest: new private record is UUID style, versioned, unseeded
+ok 12 - new private record is UUID style, versioned, unseeded
+  ---
+  duration_ms: 1.831436
+  type: 'test'
+  ...
+# Subtest: sensitive schema metadata without consent is rejected by export guard
+ok 13 - sensitive schema metadata without consent is rejected by export guard
+  ---
+  duration_ms: 0.314146
+  type: 'test'
+  ...
+# Subtest: export guard rejects unsupported envelope version
+ok 14 - export guard rejects unsupported envelope version
+  ---
+  duration_ms: 0.073351
+  type: 'test'
+  ...
+1..14
+# tests 14
+# suites 0
+# pass 14
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 82.030514

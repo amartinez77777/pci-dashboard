@@ -1,0 +1,827 @@
+[
+  {
+    "id": "PCI-C-CH14-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Goal direction and the servant metaphor",
+    "content": "The book revisits the servo-mechanism metaphor and describes clear goals as instructions to a servant. Detailed imagined goals are said to direct automatic responses.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-271",
+        "pdf_page": 271,
+        "printed_page": 261,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book revisits the servo-mechanism metaphor and describes clear goals as instructions to a servant.",
+    "terms": {
+      "primary": "Goal direction and the servant metaphor",
+      "definition": "The book revisits the servo-mechanism metaphor and describes clear goals as instructions to a servant."
+    },
+    "author_mechanism": "Detailed imagined goals are said to direct automatic responses.",
+    "conditions_and_limits": "A mechanical servant is metaphorical, not a proven discrete neural system.",
+    "application": "Specify one behavioral goal and the next controllable step.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "A mechanical servant is metaphorical, not a proven discrete neural system.",
+    "substantive_paraphrase": "The revised-edition discussion connects goal direction and the servant metaphor to the larger psycho-cybernetics framework. It presents the premise that the book revisits the servo-mechanism metaphor and describes clear goals as instructions to a servant. It develops this through detailed imagined goals are said to direct automatic responses. As an illustration, it describes master/servant and translation analogy. This is an attributed source argument, not independent evidence of causation; important limitations: A mechanical servant is metaphorical, not a proven discrete neural system.",
+    "source_specific_illustration": "Master/servant and translation analogy.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-001"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Possible positive outcomes can be pictured",
+    "content": "The author suggests imagining a desired outcome as vividly as people often anticipate an unwanted result. Imagery may cue feelings and attention associated with an expected outcome.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-272",
+        "pdf_page": 272,
+        "printed_page": 262,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author suggests imagining a desired outcome as vividly as people often anticipate an unwanted result.",
+    "terms": {
+      "primary": "Possible positive outcomes can be pictured",
+      "definition": "The author suggests imagining a desired outcome as vividly as people often anticipate an unwanted result."
+    },
+    "author_mechanism": "Imagery may cue feelings and attention associated with an expected outcome.",
+    "conditions_and_limits": "Mental images do not ensure events and cannot replace preparation.",
+    "application": "Describe a favorable yet realistic possibility and the behavior needed to test it.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Mental images do not ensure events and cannot replace preparation.",
+    "substantive_paraphrase": "The revised-edition discussion connects possible positive outcomes can be pictured to the larger psycho-cybernetics framework. It presents the premise that the author suggests imagining a desired outcome as vividly as people often anticipate an unwanted result. It develops this through imagery may cue feelings and attention associated with an expected outcome. As an illustration, it describes contrast with repetitive anxious anticipations of future failure. This is an attributed source argument, not independent evidence of causation; important limitations: Mental images do not ensure events and cannot replace preparation.",
+    "source_specific_illustration": "Contrast with repetitive anxious anticipations of future failure.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-002"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Winning feeling as an indicator, not a guarantee",
+    "content": "The text calls the winning feeling a sign of being geared for success while also using strong success rhetoric. Remembered or imagined performance may change self-reported confidence.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text calls the winning feeling a sign of being geared for success while also using strong success rhetoric.",
+    "terms": {
+      "primary": "Winning feeling as an indicator, not a guarantee",
+      "definition": "The text calls the winning feeling a sign of being geared for success while also using strong success rhetoric."
+    },
+    "author_mechanism": "Remembered or imagined performance may change self-reported confidence.",
+    "conditions_and_limits": "A feeling cannot reliably predict victory; the text sometimes overstates its causal power.",
+    "application": "Rate readiness privately and then assess actual performance rather than assuming success.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "A feeling cannot reliably predict victory; the text sometimes overstates its causal power.",
+    "substantive_paraphrase": "The revised-edition discussion connects winning feeling as an indicator, not a guarantee to the larger psycho-cybernetics framework. It presents the premise that the text calls the winning feeling a sign of being geared for success while also using strong success rhetoric. It develops this through remembered or imagined performance may change self-reported confidence. As an illustration, it describes cary middlecoff’s account of pre-tournament confidence. This is an attributed source argument, not independent evidence of causation; important limitations: A feeling cannot reliably predict victory; the text sometimes overstates its causal power.",
+    "source_specific_illustration": "Cary Middlecoff’s account of pre-tournament confidence.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-003"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "The zone is framed as an emotional state",
+    "content": "The chapter discusses elite athletes who appear calm and fluid in important moments. The narrator interprets reduced conscious interference as release of overcontrol.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-274",
+        "pdf_page": 274,
+        "printed_page": 264,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter discusses elite athletes who appear calm and fluid in important moments.",
+    "terms": {
+      "primary": "The zone is framed as an emotional state",
+      "definition": "The chapter discusses elite athletes who appear calm and fluid in important moments."
+    },
+    "author_mechanism": "The narrator interprets reduced conscious interference as release of overcontrol.",
+    "conditions_and_limits": "Flow states cannot be inferred from an observer’s impression or attributed to a single model.",
+    "application": "Describe task focus and observable actions without claiming to enter a specific brain state.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Flow states cannot be inferred from an observer’s impression or attributed to a single model.",
+    "substantive_paraphrase": "The revised-edition discussion connects the zone is framed as an emotional state to the larger psycho-cybernetics framework. It presents the premise that the chapter discusses elite athletes who appear calm and fluid in important moments. It develops this through the narrator interprets reduced conscious interference as release of overcontrol. As an illustration, it describes don larsen and john elway sport narratives. This is an attributed source argument, not independent evidence of causation; important limitations: Flow states cannot be inferred from an observer’s impression or attributed to a single model.",
+    "source_specific_illustration": "Don Larsen and John Elway sport narratives.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-004"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Self-image can support persistence after failure",
+    "content": "The chapter uses business biographies to show remembered encouragement after a setback. A repeated identity belief may guide effort even amid discouragement.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-275",
+        "pdf_page": 275,
+        "printed_page": 265,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter uses business biographies to show remembered encouragement after a setback.",
+    "terms": {
+      "primary": "Self-image can support persistence after failure",
+      "definition": "The chapter uses business biographies to show remembered encouragement after a setback."
+    },
+    "author_mechanism": "A repeated identity belief may guide effort even amid discouragement.",
+    "conditions_and_limits": "Financial and organizational factors remain causal; biography is not experiment.",
+    "application": "Identify a past source of encouragement and one realistic follow-up action.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Financial and organizational factors remain causal; biography is not experiment.",
+    "substantive_paraphrase": "The revised-edition discussion connects self-image can support persistence after failure to the larger psycho-cybernetics framework. It presents the premise that the chapter uses business biographies to show remembered encouragement after a setback. It develops this through a repeated identity belief may guide effort even amid discouragement. As an illustration, it describes j. c. penney recalling his father’s confidence after financial setbacks. This is an attributed source argument, not independent evidence of causation; important limitations: Financial and organizational factors remain causal; biography is not experiment.",
+    "source_specific_illustration": "J. C. Penney recalling his father’s confidence after financial setbacks.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-005"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Attach past confidence to a new task",
+    "content": "The book describes recalling a successful small-scale experience while picturing a more difficult later performance. Transfer of remembered confidence to the new task is presented as an imagery process.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-276",
+        "pdf_page": 276,
+        "printed_page": 266,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book describes recalling a successful small-scale experience while picturing a more difficult later performance.",
+    "terms": {
+      "primary": "Attach past confidence to a new task",
+      "definition": "The book describes recalling a successful small-scale experience while picturing a more difficult later performance."
+    },
+    "author_mechanism": "Transfer of remembered confidence to the new task is presented as an imagery process.",
+    "conditions_and_limits": "Imagery alone does not supply missing technical skills or audience access.",
+    "application": "Rehearse one specific transferable skill with a manageable audience.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Imagery alone does not supply missing technical skills or audience access.",
+    "substantive_paraphrase": "The revised-edition discussion connects attach past confidence to a new task to the larger psycho-cybernetics framework. It presents the premise that the book describes recalling a successful small-scale experience while picturing a more difficult later performance. It develops this through transfer of remembered confidence to the new task is presented as an imagery process. As an illustration, it describes les giblin imagining a large speaking audience using memories of small presentations. This is an attributed source argument, not independent evidence of causation; important limitations: Imagery alone does not supply missing technical skills or audience access.",
+    "source_specific_illustration": "Les Giblin imagining a large speaking audience using memories of small presentations.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-006"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Progress stories can be interpreted differently",
+    "content": "Two learners describe identical histories of difficulty as either discouragement or evidence they can improve. Self-interpretation affects how incremental feedback is framed.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-277",
+        "pdf_page": 277,
+        "printed_page": 267,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Two learners describe identical histories of difficulty as either discouragement or evidence they can improve.",
+    "terms": {
+      "primary": "Progress stories can be interpreted differently",
+      "definition": "Two learners describe identical histories of difficulty as either discouragement or evidence they can improve."
+    },
+    "author_mechanism": "Self-interpretation affects how incremental feedback is framed.",
+    "conditions_and_limits": "The anecdote lacks controls and may omit support, resources and ability differences.",
+    "application": "Rewrite one global self-judgment as a task-specific learning history.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "The anecdote lacks controls and may omit support, resources and ability differences.",
+    "substantive_paraphrase": "The revised-edition discussion connects progress stories can be interpreted differently to the larger psycho-cybernetics framework. It presents the premise that two learners describe identical histories of difficulty as either discouragement or evidence they can improve. It develops this through self-interpretation affects how incremental feedback is framed. As an illustration, it describes two struggling men give contrasting accounts of their prior progress. This is an attributed source argument, not independent evidence of causation; important limitations: The anecdote lacks controls and may omit support, resources and ability differences.",
+    "source_specific_illustration": "Two struggling men give contrasting accounts of their prior progress.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-007"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Electronic mouse illustrates trial and error",
+    "content": "The author likens skill acquisition to a machine learning through iterative corrections. Repeated success patterns are said to become easier to reproduce.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-278",
+        "pdf_page": 278,
+        "printed_page": 268,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author likens skill acquisition to a machine learning through iterative corrections.",
+    "terms": {
+      "primary": "Electronic mouse illustrates trial and error",
+      "definition": "The author likens skill acquisition to a machine learning through iterative corrections."
+    },
+    "author_mechanism": "Repeated success patterns are said to become easier to reproduce.",
+    "conditions_and_limits": "Engineering analogy does not establish detailed brain implementation.",
+    "application": "Observe one practice attempt, error, correction, next attempt.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Engineering analogy does not establish detailed brain implementation.",
+    "substantive_paraphrase": "The revised-edition discussion connects electronic mouse illustrates trial and error to the larger psycho-cybernetics framework. It presents the premise that the author likens skill acquisition to a machine learning through iterative corrections. It develops this through repeated success patterns are said to become easier to reproduce. As an illustration, it describes electronic maze-solving mouse explanation. This is an attributed source argument, not independent evidence of causation; important limitations: Engineering analogy does not establish detailed brain implementation.",
+    "source_specific_illustration": "Electronic maze-solving mouse explanation.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Brain engram claims require historical context",
+    "content": "The chapter proposes stored neural patterns as causal explanations of successful movements and feelings. Specific engrams are said to replay linked action and emotion.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-279",
+        "pdf_page": 279,
+        "printed_page": 269,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter proposes stored neural patterns as causal explanations of successful movements and feelings.",
+    "terms": {
+      "primary": "Brain engram claims require historical context",
+      "definition": "The chapter proposes stored neural patterns as causal explanations of successful movements and feelings."
+    },
+    "author_mechanism": "Specific engrams are said to replay linked action and emotion.",
+    "conditions_and_limits": "The source mixes real neurobiology with speculative oversimplification.",
+    "application": "Describe task memory without diagnosing or measuring neural traces.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "The source mixes real neurobiology with speculative oversimplification.",
+    "substantive_paraphrase": "The revised-edition discussion connects brain engram claims require historical context to the larger psycho-cybernetics framework. It presents the premise that the chapter proposes stored neural patterns as causal explanations of successful movements and feelings. It develops this through specific engrams are said to replay linked action and emotion. As an illustration, it describes descriptive narrative of neurons, axons, and synapses. This is an attributed source argument, not independent evidence of causation; important limitations: The source mixes real neurobiology with speculative oversimplification.",
+    "source_specific_illustration": "Descriptive narrative of neurons, axons, and synapses.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-009"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Small wins establish a workable progression",
+    "content": "The author recommends arranging attainable initial successes before increasing difficulty. Successful attempts may strengthen the willingness to attempt the next level.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author recommends arranging attainable initial successes before increasing difficulty.",
+    "terms": {
+      "primary": "Small wins establish a workable progression",
+      "definition": "The author recommends arranging attainable initial successes before increasing difficulty."
+    },
+    "author_mechanism": "Successful attempts may strengthen the willingness to attempt the next level.",
+    "conditions_and_limits": "Success is not sufficient for transfer to every context; learning needs challenge and feedback.",
+    "application": "Choose a small verified milestone and gradually increase demands.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Success is not sufficient for transfer to every context; learning needs challenge and feedback.",
+    "substantive_paraphrase": "The revised-edition discussion connects small wins establish a workable progression to the larger psycho-cybernetics framework. It presents the premise that the author recommends arranging attainable initial successes before increasing difficulty. It develops this through successful attempts may strengthen the willingness to attempt the next level. As an illustration, it describes harvard president elliott’s education advice; backup football quarterback. This is an attributed source argument, not independent evidence of causation; important limitations: Success is not sufficient for transfer to every context; learning needs challenge and feedback.",
+    "source_specific_illustration": "Harvard president Elliott’s education advice; backup football quarterback.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-010"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Detailed positive memory replay",
+    "content": "The source provides stepwise recall of a success with environmental and bodily detail, then applies it to a current challenge. Recall is used to bring a remembered sense of capability into present awareness.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-282",
+        "pdf_page": 282,
+        "printed_page": 272,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The source provides stepwise recall of a success with environmental and bodily detail, then applies it to a current challenge.",
+    "terms": {
+      "primary": "Detailed positive memory replay",
+      "definition": "The source provides stepwise recall of a success with environmental and bodily detail, then applies it to a current challenge."
+    },
+    "author_mechanism": "Recall is used to bring a remembered sense of capability into present awareness.",
+    "conditions_and_limits": "Memory is reconstructive and not proof of future performance.",
+    "application": "Write 3 sensory details of a past completed task and one skill that transfers.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Memory is reconstructive and not proof of future performance.",
+    "substantive_paraphrase": "The revised-edition discussion connects detailed positive memory replay to the larger psycho-cybernetics framework. It presents the premise that the source provides stepwise recall of a success with environmental and bodily detail, then applies it to a current challenge. It develops this through recall is used to bring a remembered sense of capability into present awareness. As an illustration, it describes named section how to play back your own built-in success patterns. This is an attributed source argument, not independent evidence of causation; important limitations: Memory is reconstructive and not proof of future performance.",
+    "source_specific_illustration": "Named section How to Play Back Your Own Built-In Success Patterns.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-011"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Constructive imagining instead of worry",
+    "content": "The author invites a gradual progression from possibility to vivid desired outcomes. Repetition of an imagined favorable scenario may shift mood and task attention.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author invites a gradual progression from possibility to vivid desired outcomes.",
+    "terms": {
+      "primary": "Constructive imagining instead of worry",
+      "definition": "The author invites a gradual progression from possibility to vivid desired outcomes."
+    },
+    "author_mechanism": "Repetition of an imagined favorable scenario may shift mood and task attention.",
+    "conditions_and_limits": "Avoid suppressing legitimate concerns or assuming optimism changes external probabilities.",
+    "application": "Compare a plausible positive scenario with a contingency plan.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Avoid suppressing legitimate concerns or assuming optimism changes external probabilities.",
+    "substantive_paraphrase": "The revised-edition discussion connects constructive imagining instead of worry to the larger psycho-cybernetics framework. It presents the premise that the author invites a gradual progression from possibility to vivid desired outcomes. It develops this through repetition of an imagined favorable scenario may shift mood and task attention. As an illustration, it describes chapter section positive and constructive worry. This is an attributed source argument, not independent evidence of causation; important limitations: Avoid suppressing legitimate concerns or assuming optimism changes external probabilities.",
+    "source_specific_illustration": "Chapter section Positive and Constructive Worry.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-012"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Replace unproductive worry images",
+    "content": "The quoted Chappell approach recommends switching attention to a different image rather than fighting a worry directly. An alternative mental focus may disrupt repetitive rumination for some people.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-286",
+        "pdf_page": 286,
+        "printed_page": 276,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The quoted Chappell approach recommends switching attention to a different image rather than fighting a worry directly.",
+    "terms": {
+      "primary": "Replace unproductive worry images",
+      "definition": "The quoted Chappell approach recommends switching attention to a different image rather than fighting a worry directly."
+    },
+    "author_mechanism": "An alternative mental focus may disrupt repetitive rumination for some people.",
+    "conditions_and_limits": "Not a universal anxiety treatment; intrusive thoughts may require professional support.",
+    "application": "Use optional neutral grounding instead if positive imagery is distressing.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Not a universal anxiety treatment; intrusive thoughts may require professional support.",
+    "substantive_paraphrase": "The revised-edition discussion connects replace unproductive worry images to the larger psycho-cybernetics framework. It presents the premise that the quoted chappell approach recommends switching attention to a different image rather than fighting a worry directly. It develops this through an alternative mental focus may disrupt repetitive rumination for some people. As an illustration, it describes matthew chappell’s substitution method and narrator’s student oral-exam memory. This is an attributed source argument, not independent evidence of causation; important limitations: Not a universal anxiety treatment; intrusive thoughts may require professional support.",
+    "source_specific_illustration": "Matthew Chappell’s substitution method and narrator’s student oral-exam memory.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-013"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-014",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Memory reconstruction is not literal recording",
+    "content": "The author analogizes memory retrieval to recordings that are modified during replay. Current mood and interpretation can color recollection.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-288",
+        "pdf_page": 288,
+        "printed_page": 278,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author analogizes memory retrieval to recordings that are modified during replay.",
+    "terms": {
+      "primary": "Memory reconstruction is not literal recording",
+      "definition": "The author analogizes memory retrieval to recordings that are modified during replay."
+    },
+    "author_mechanism": "Current mood and interpretation can color recollection.",
+    "conditions_and_limits": "Memory neuroscience claims, including engram explanation, need modern review.",
+    "application": "Separate what is documented from a present interpretation of a remembered event.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Memory neuroscience claims, including engram explanation, need modern review.",
+    "substantive_paraphrase": "The revised-edition discussion connects memory reconstruction is not literal recording to the larger psycho-cybernetics framework. It presents the premise that the author analogizes memory retrieval to recordings that are modified during replay. It develops this through current mood and interpretation can color recollection. As an illustration, it describes estranged brother’s funeral recollection and self-image script. This is an attributed source argument, not independent evidence of causation; important limitations: Memory neuroscience claims, including engram explanation, need modern review.",
+    "source_specific_illustration": "Estranged brother’s funeral recollection and self-image script.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-014"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH14-015",
+    "type": "concept",
+    "chapter_id": "PCI-CH-14",
+    "title": "Identity affirmation as a cue to action",
+    "content": "The mental-training exercise uses an I-am-the-kind-of-person statement to promote desired routines. Repeated statements are described as helping make a self-definition automatic.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The mental-training exercise uses an I-am-the-kind-of-person statement to promote desired routines.",
+    "terms": {
+      "primary": "Identity affirmation as a cue to action",
+      "definition": "The mental-training exercise uses an I-am-the-kind-of-person statement to promote desired routines."
+    },
+    "author_mechanism": "Repeated statements are described as helping make a self-definition automatic.",
+    "conditions_and_limits": "Repeating an affirmation does not guarantee behavioral change; avoid identity coercion.",
+    "application": "Draft one behavior-linked self-description and test it with a small action.",
+    "common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+    "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism.",
+    "ethical_clinical_cautions": "Repeating an affirmation does not guarantee behavioral change; avoid identity coercion.",
+    "substantive_paraphrase": "The revised-edition discussion connects identity affirmation as a cue to action to the larger psycho-cybernetics framework. It presents the premise that the mental-training exercise uses an i-am-the-kind-of-person statement to promote desired routines. It develops this through repeated statements are described as helping make a self-definition automatic. As an illustration, it describes source mental training exercise at printed 279. This is an attributed source argument, not independent evidence of causation; important limitations: Repeating an affirmation does not guarantee behavioral change; avoid identity coercion.",
+    "source_specific_illustration": "Source mental training exercise at printed 279.",
+    "chapter_argument_role": "A chapter-specific step in the argument, anchored to a first-hand read page, not standalone proof.",
+    "evidence_assessment": "Book statement verified in original PDF; empirical corroboration not undertaken.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH14-015"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  }
+]

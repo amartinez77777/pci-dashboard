@@ -1,0 +1,5 @@
+
+> psycho-cybernetics-intelligence@0.12.1 test:checkpoint1:browser
+> python tests/browser_checkpoint1.py
+
+CHECKPOINT BROWSER PASS 30 0

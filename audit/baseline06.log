@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "passed": 42,
+  "failed": 0,
+  "failed_checks": [],
+  "count": {
+    "activities": 32,
+    "scenarios": 16,
+    "rehearsals": 12,
+    "author_practices_readonly": 70,
+    "test_scenario_paths": 64,
+    "new_ids": 71
+  }
+}

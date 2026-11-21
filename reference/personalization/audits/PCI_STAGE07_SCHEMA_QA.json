@@ -1,0 +1,219 @@
+{
+  "status": "PASS",
+  "passed": 41,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "canonical IDs unchanged",
+      "status": "PASS",
+      "detail": "1676 IDs"
+    },
+    {
+      "name": "stage06 IDs unchanged",
+      "status": "PASS",
+      "detail": "1747 IDs"
+    },
+    {
+      "name": "22 declared new IDs",
+      "status": "PASS",
+      "detail": "['PCI-DAY-01', 'PCI-DAY-02', 'PCI-DAY-03', 'PCI-DAY-04', 'PCI-DAY-05', 'PCI-DAY-06', 'PCI-DAY-07', 'PCI-DAY-08', 'PCI-DAY-09', 'PCI-DAY-10', 'PCI-DAY-11', 'PCI-DAY-12', 'PCI-DAY-13', 'PCI-DAY-14', 'PCI-DAY-15', 'PCI-DAY-16', 'PCI-DAY-17', 'PCI-DAY-18', 'PCI-DAY-19', 'PCI-DAY-20', 'PCI-DAY-21', 'PCI-PROG-021']"
+    },
+    {
+      "name": "registry unique & stable",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source PDF fingerprint inherited",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "curriculum length and order",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "unique curriculum IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source activity foreign keys",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concept ID references",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source references resolve",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "rehearsal/scenario optional refs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "author origin separated",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "distinct daily instructional content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "short and safe alternatives",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "at least 4 checkpoints",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "checkpoint revision/stop",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "10 modules represented",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "module mapping complete",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source status explicit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no journal supplied",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "catalog total 60",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "catalog unique IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "catalog targets resolve",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "catalog source IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "201 concept review seeds",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "event mapping known types",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "one true issue set unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no source PDF in data pack",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "schema meta-valid record",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "schema meta-valid export",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "schema meta-valid event",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "synthetic private record valid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "sensitive consent enforced",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "required goal title enforced",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "synthetic event valid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "invalid event type rejected",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "synthetic export valid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "future export version rejected",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "privacy schema keeps all six legacy stores",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no content user profile seeded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all modules get published ids",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "counts": {
+    "new_program_ids": 22,
+    "21_day_records": 21,
+    "catalog_items": 60,
+    "private_stores": 25,
+    "review_seeds": 201
+  }
+}

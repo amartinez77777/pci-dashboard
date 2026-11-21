@@ -1,0 +1,1474 @@
+{
+  "PCI-C-CH01-010": [
+    {
+      "practice_id": "PCI-AP-CH01-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH01-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH01-009": [
+    {
+      "practice_id": "PCI-AP-CH01-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 6,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 0.571,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH01-007": [
+    {
+      "practice_id": "PCI-AP-CH01-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 13,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.786,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-009": [
+    {
+      "practice_id": "PCI-AP-CH02-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-007": [
+    {
+      "practice_id": "PCI-AP-CH02-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 7,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-006": [
+    {
+      "practice_id": "PCI-AP-CH02-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 9,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.9,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-005": [
+    {
+      "practice_id": "PCI-AP-CH02-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 10,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.864,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-002": [
+    {
+      "practice_id": "PCI-AP-CH02-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [
+        "imagery_rehearsal"
+      ],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.25,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH02-004": [
+    {
+      "practice_id": "PCI-AP-CH02-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 12,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.808,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH03-010": [
+    {
+      "practice_id": "PCI-AP-CH03-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH03-005": [
+    {
+      "practice_id": "PCI-AP-CH03-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.25,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH04-009": [
+    {
+      "practice_id": "PCI-AP-CH04-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH04-008": [
+    {
+      "practice_id": "PCI-AP-CH04-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH05-010": [
+    {
+      "practice_id": "PCI-AP-CH05-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 7,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH05-002": [
+    {
+      "practice_id": "PCI-AP-CH05-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 16,
+      "shared_topic_tags": [
+        "belief_reconstruction"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.735,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH05-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 17,
+      "shared_topic_tags": [
+        "belief_reconstruction"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.722,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH05-009": [
+    {
+      "practice_id": "PCI-AP-CH05-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 9,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 4.9,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH05-013": [
+    {
+      "practice_id": "PCI-AP-CH05-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [
+        "goals_feedback"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 4.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH05-004": [
+    {
+      "practice_id": "PCI-AP-CH05-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [
+        "goals_feedback"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.75,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-006": [
+    {
+      "practice_id": "PCI-AP-CH06-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 4.333,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-007": [
+    {
+      "practice_id": "PCI-AP-CH06-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 5,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.667,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-008": [
+    {
+      "practice_id": "PCI-AP-CH06-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-009": [
+    {
+      "practice_id": "PCI-AP-CH06-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-008",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-012": [
+    {
+      "practice_id": "PCI-AP-CH06-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 4,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.3,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [
+        "relaxation_stress"
+      ],
+      "shared_title_terms": 5,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-010": [
+    {
+      "practice_id": "PCI-AP-CH06-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-008",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 4.333,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH06-011": [
+    {
+      "practice_id": "PCI-AP-CH06-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH06-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-007": [
+    {
+      "practice_id": "PCI-AP-CH07-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-008": [
+    {
+      "practice_id": "PCI-AP-CH07-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-009": [
+    {
+      "practice_id": "PCI-AP-CH07-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH07-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-006": [
+    {
+      "practice_id": "PCI-AP-CH07-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 5,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.167,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-010": [
+    {
+      "practice_id": "PCI-AP-CH07-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH07-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH07-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 3,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH07-012": [
+    {
+      "practice_id": "PCI-AP-CH07-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 4.333,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH07-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 6,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-003": [
+    {
+      "practice_id": "PCI-AP-CH08-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-005": [
+    {
+      "practice_id": "PCI-AP-CH08-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH08-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH08-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH08-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 6,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 5.071,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH08-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 8,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.444,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-004": [
+    {
+      "practice_id": "PCI-AP-CH08-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-006": [
+    {
+      "practice_id": "PCI-AP-CH08-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-007": [
+    {
+      "practice_id": "PCI-AP-CH08-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-002": [
+    {
+      "practice_id": "PCI-AP-CH08-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 7,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-008": [
+    {
+      "practice_id": "PCI-AP-CH08-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH08-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 5,
+      "shared_topic_tags": [
+        "self_image"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 4.167,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-001": [
+    {
+      "practice_id": "PCI-AP-CH08-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 12,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.308,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-010": [
+    {
+      "practice_id": "PCI-AP-CH08-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [
+        "self_image"
+      ],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-013": [
+    {
+      "practice_id": "PCI-AP-CH08-008",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH08-012": [
+    {
+      "practice_id": "PCI-AP-CH08-008",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 1.333,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH09-013": [
+    {
+      "practice_id": "PCI-AP-CH09-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 10,
+      "shared_topic_tags": [],
+      "shared_title_terms": 5,
+      "navigation_score_not_evidence": 6.364,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH09-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH09-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH09-010": [
+    {
+      "practice_id": "PCI-AP-CH09-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH09-007": [
+    {
+      "practice_id": "PCI-AP-CH09-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.75,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH09-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.25,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-009": [
+    {
+      "practice_id": "PCI-AP-CH10-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-010": [
+    {
+      "practice_id": "PCI-AP-CH10-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH10-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-011": [
+    {
+      "practice_id": "PCI-AP-CH10-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH10-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [
+        "interpersonal_wounds"
+      ],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-012": [
+    {
+      "practice_id": "PCI-AP-CH10-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH10-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 5,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-007": [
+    {
+      "practice_id": "PCI-AP-CH10-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 10,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.364,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-015": [
+    {
+      "practice_id": "PCI-AP-CH10-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH10-006": [
+    {
+      "practice_id": "PCI-AP-CH10-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 4.75,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH11-014": [
+    {
+      "practice_id": "PCI-AP-CH11-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH11-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH11-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH11-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH11-006": [
+    {
+      "practice_id": "PCI-AP-CH11-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 12,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.808,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH11-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 13,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.786,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH11-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 13,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 1.786,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH11-012": [
+    {
+      "practice_id": "PCI-AP-CH11-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 4,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.3,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH11-004": [
+    {
+      "practice_id": "PCI-AP-CH11-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 15,
+      "shared_topic_tags": [
+        "failure_response"
+      ],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 8.25,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH11-008": [
+    {
+      "practice_id": "PCI-AP-CH11-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 10,
+      "shared_topic_tags": [
+        "failure_response"
+      ],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.364,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-002": [
+    {
+      "practice_id": "PCI-AP-CH12-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-006": [
+    {
+      "practice_id": "PCI-AP-CH12-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 4,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.8,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 6.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-005": [
+    {
+      "practice_id": "PCI-AP-CH12-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-008": [
+    {
+      "practice_id": "PCI-AP-CH12-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [
+        "imagery_rehearsal"
+      ],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 6.333,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 11,
+      "shared_topic_tags": [
+        "imagery_rehearsal"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-009": [
+    {
+      "practice_id": "PCI-AP-CH12-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 9,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.4,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-013": [
+    {
+      "practice_id": "PCI-AP-CH12-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH12-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 6.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-012": [
+    {
+      "practice_id": "PCI-AP-CH12-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 6.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH12-015": [
+    {
+      "practice_id": "PCI-AP-CH12-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-003": [
+    {
+      "practice_id": "PCI-AP-CH13-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 8.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-006": [
+    {
+      "practice_id": "PCI-AP-CH13-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 3,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH13-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 6,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH13-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH13-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 6,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.571,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH13-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 12,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.308,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-005": [
+    {
+      "practice_id": "PCI-AP-CH13-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-004": [
+    {
+      "practice_id": "PCI-AP-CH13-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-007": [
+    {
+      "practice_id": "PCI-AP-CH13-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-008": [
+    {
+      "practice_id": "PCI-AP-CH13-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-011": [
+    {
+      "practice_id": "PCI-AP-CH13-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-013": [
+    {
+      "practice_id": "PCI-AP-CH13-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-014": [
+    {
+      "practice_id": "PCI-AP-CH13-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH13-015": [
+    {
+      "practice_id": "PCI-AP-CH13-007",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 6,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-011": [
+    {
+      "practice_id": "PCI-AP-CH14-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH14-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-006": [
+    {
+      "practice_id": "PCI-AP-CH14-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 6,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.571,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-012": [
+    {
+      "practice_id": "PCI-AP-CH14-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH14-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 3,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-010": [
+    {
+      "practice_id": "PCI-AP-CH14-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-007": [
+    {
+      "practice_id": "PCI-AP-CH14-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 3,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH14-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [
+        "belief_reconstruction"
+      ],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-013": [
+    {
+      "practice_id": "PCI-AP-CH14-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-008": [
+    {
+      "practice_id": "PCI-AP-CH14-005",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-015": [
+    {
+      "practice_id": "PCI-AP-CH14-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 5,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH14-014": [
+    {
+      "practice_id": "PCI-AP-CH14-006",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH15-010": [
+    {
+      "practice_id": "PCI-AP-CH15-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH15-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 2,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.833,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH15-006": [
+    {
+      "practice_id": "PCI-AP-CH15-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 4,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.8,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH15-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 6,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 3.571,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH15-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 7,
+      "shared_topic_tags": [],
+      "shared_title_terms": 3,
+      "navigation_score_not_evidence": 5.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH15-012": [
+    {
+      "practice_id": "PCI-AP-CH15-003",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 0,
+      "navigation_score_not_evidence": 4.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH15-015": [
+    {
+      "practice_id": "PCI-AP-CH15-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 2,
+      "navigation_score_not_evidence": 7.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH15-014": [
+    {
+      "practice_id": "PCI-AP-CH15-004",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH16-003": [
+    {
+      "practice_id": "PCI-AP-CH16-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 5.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    },
+    {
+      "practice_id": "PCI-AP-CH16-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 7,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 2.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH16-002": [
+    {
+      "practice_id": "PCI-AP-CH16-001",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 1,
+      "shared_topic_tags": [],
+      "shared_title_terms": 1,
+      "navigation_score_not_evidence": 3.5,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ],
+  "PCI-C-CH16-007": [
+    {
+      "practice_id": "PCI-AP-CH16-002",
+      "basis": "same_chapter_plus_page_proximity_and_title_overlap",
+      "pdf_page_distance": 0,
+      "shared_topic_tags": [],
+      "shared_title_terms": 4,
+      "navigation_score_not_evidence": 10.0,
+      "interpretation_status": "editorial_navigation_heuristic_not_author_asserted"
+    }
+  ]
+}

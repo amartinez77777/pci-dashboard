@@ -1,0 +1,40 @@
+{
+  "project": "PSYCHO-CYBERNETICS-INTELLIGENCE",
+  "stage": "06",
+  "schema_version": "1.0.0",
+  "data_version": "1.0.0",
+  "canonical_pack_schema_version": "1.0.0",
+  "canonical_research_data_version": "1.3.0",
+  "canonical_pack_source_sha256": "e26e80a5077efd4f39e3cf619e961e15b1acd84664759d02f5f7beebef1f7960",
+  "book_pdf_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "pdf_page_count": 332,
+  "from_canonical_registry_count": 1676,
+  "new_records_count": 71,
+  "combined_registry_count": 1747,
+  "counts": {
+    "executable_activities": 32,
+    "branching_scenarios": 16,
+    "rehearsal_templates": 12,
+    "feedback_patterns": 5,
+    "rubrics": 3,
+    "feedback_cycles": 2,
+    "author_practices_readonly": 70,
+    "issues_added": 1
+  },
+  "copyright_policy": "No PDF or long verbatim book excerpts in public app data",
+  "source_integrity": "Canonical source statuses inherited, not scientifically validated",
+  "privacy": "No personal responses collected or bundled; future app must use IndexedDB and explicit export",
+  "application_modules": [
+    "Personal Command Center",
+    "Self-Image Intelligence Lab",
+    "Belief Reconstruction Studio",
+    "Theater of the Mind",
+    "Success Mechanism & Feedback Lab",
+    "Mental Conditioning Lab",
+    "Real-Life Scenario Simulator",
+    "Psycho-Cybernetics Knowledge Vault",
+    "Mental Mastery Academy",
+    "Personal Evolution Archive"
+  ],
+  "stage_recommendation": "Use these records as typed content in Stage 07; not a deployed UI"
+}

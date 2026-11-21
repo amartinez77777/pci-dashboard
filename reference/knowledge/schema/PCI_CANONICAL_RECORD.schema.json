@@ -1,0 +1,2737 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCI canonical record schema",
+  "schema_version": "1.0.0",
+  "$defs": {
+    "book": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "book_id",
+        "edition_id",
+        "modules"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "book"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "book_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "edition_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "modules": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": true
+    },
+    "chapter": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "index_position",
+        "pdf_start_page",
+        "pdf_end_page",
+        "printed_start_page",
+        "printed_end_page",
+        "coverage_status",
+        "sections"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "chapter"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "index_position": {
+          "type": "integer"
+        },
+        "pdf_start_page": {
+          "type": "integer"
+        },
+        "pdf_end_page": {
+          "type": "integer"
+        },
+        "printed_start_page": {
+          "type": "integer"
+        },
+        "printed_end_page": {
+          "type": "integer"
+        },
+        "coverage_status": {
+          "type": "string",
+          "minLength": 3
+        },
+        "sections": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": true
+    },
+    "concept": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "thesis",
+        "author_mechanism",
+        "conditions_and_limits",
+        "application",
+        "alternative_explanation",
+        "substantive_paraphrase",
+        "evidence_assessment"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "concept"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "thesis": {
+          "type": "string",
+          "minLength": 3
+        },
+        "author_mechanism": {
+          "type": "string",
+          "minLength": 3
+        },
+        "conditions_and_limits": {
+          "type": "string",
+          "minLength": 3
+        },
+        "application": {
+          "type": "string",
+          "minLength": 3
+        },
+        "alternative_explanation": {
+          "type": "string",
+          "minLength": 3
+        },
+        "substantive_paraphrase": {
+          "type": "string",
+          "minLength": 3
+        },
+        "evidence_assessment": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "claim": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "concept_id",
+        "claim_kind",
+        "empirical_proof_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "claim"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "concept_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "claim_kind": {
+          "type": "string",
+          "minLength": 3
+        },
+        "empirical_proof_status": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "mechanism": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "model_type",
+        "proposed_process",
+        "causality_status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "mechanism"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "model_type": {
+          "type": "string",
+          "minLength": 3
+        },
+        "proposed_process": {
+          "type": "string",
+          "minLength": 3
+        },
+        "causality_status": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "author_practice": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "instructions",
+        "timing_as_printed_or_paraphrased",
+        "cautions"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "author_practice"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "instructions": {
+          "type": "array"
+        },
+        "timing_as_printed_or_paraphrased": {
+          "type": "string",
+          "minLength": 3
+        },
+        "cautions": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": true
+    },
+    "anecdote": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "attribution",
+        "independent_corrob_status",
+        "limitations"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "anecdote"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 3
+        },
+        "independent_corrob_status": {
+          "type": "string",
+          "minLength": 3
+        },
+        "limitations": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "evidence_assessment": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "evaluated_claim",
+        "review_conclusion",
+        "appraisal_level"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "evidence_assessment"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "evaluated_claim": {
+          "type": "string",
+          "minLength": 3
+        },
+        "review_conclusion": {
+          "type": "string",
+          "minLength": 3
+        },
+        "appraisal_level": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "relationship": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "from_id",
+        "to_id",
+        "relationship_type",
+        "rationale"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "relationship"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "from_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "to_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "relationship_type": {
+          "enum": [
+            "supports",
+            "qualifies",
+            "contradicts",
+            "complements",
+            "requires",
+            "alternative_explanation",
+            "ethical_tension"
+          ]
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "application": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "concept_id",
+        "steps",
+        "safety_notes"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "application"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "concept_id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "steps": {
+          "type": "array"
+        },
+        "safety_notes": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "exercise": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "exercise_origin",
+        "instructions",
+        "rubric",
+        "diagnostic_use"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "exercise"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "exercise_origin": {
+          "const": "PCI_original_adaptation"
+        },
+        "instructions": {
+          "type": "array"
+        },
+        "rubric": {
+          "type": "string",
+          "minLength": 3
+        },
+        "diagnostic_use": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": true
+    },
+    "citation": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "citation"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "coverage_status",
+        "sections",
+        "pdf_pages_indexed"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "coverage"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "coverage_status": {
+          "type": "string",
+          "minLength": 3
+        },
+        "sections": {
+          "type": "array"
+        },
+        "pdf_pages_indexed": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": true
+    },
+    "issue": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "description",
+        "severity",
+        "category",
+        "status",
+        "next_action"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "issue"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "description": {
+          "type": "string",
+          "minLength": 3
+        },
+        "severity": {
+          "type": "string",
+          "minLength": 3
+        },
+        "category": {
+          "type": "string",
+          "minLength": 3
+        },
+        "status": {
+          "type": "string",
+          "minLength": 3
+        },
+        "next_action": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": true
+    },
+    "section": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "chapter_id",
+        "title",
+        "content",
+        "source_type",
+        "source_status",
+        "evidence_status",
+        "content_owner",
+        "provenance",
+        "revision",
+        "source_refs",
+        "label",
+        "printed_start_page",
+        "printed_end_page",
+        "pdf_start_page",
+        "pdf_end_page"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PCI-[A-Z][A-Z0-9-]*$"
+        },
+        "type": {
+          "const": "section"
+        },
+        "chapter_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^PCI-CH-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "content": {
+          "type": "string",
+          "minLength": 40
+        },
+        "source_type": {
+          "enum": [
+            "book_claim",
+            "attributed_anecdote",
+            "author_practice",
+            "PCI_original_adaptation",
+            "independent_external_evidence",
+            "source_metadata",
+            "architectural_record"
+          ]
+        },
+        "source_status": {
+          "enum": [
+            "verified_in_pdf",
+            "provisional",
+            "not_located",
+            "incomplete"
+          ]
+        },
+        "evidence_status": {
+          "enum": [
+            "book_assertion_only",
+            "corroborated_external",
+            "disputed",
+            "not_assessed"
+          ]
+        },
+        "content_owner": {
+          "enum": [
+            "source_research",
+            "PCI_editorial",
+            "PCI_curriculum",
+            "PCI_engineering",
+            "user_private"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "edition_id",
+            "primary_source_sha256",
+            "attribution"
+          ],
+          "properties": {
+            "edition_id": {
+              "const": "PCI-ED-001"
+            },
+            "primary_source_sha256": {
+              "type": "string",
+              "minLength": 64
+            },
+            "attribution": {
+              "type": "string",
+              "minLength": 8
+            }
+          }
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "version",
+            "schema_version",
+            "recorded_at",
+            "change_note"
+          ],
+          "properties": {
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "schema_version": {
+              "type": "string"
+            },
+            "recorded_at": {
+              "type": "string"
+            },
+            "change_note": {
+              "type": "string"
+            }
+          }
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "source_id",
+              "pdf_page",
+              "edition_id",
+              "source_sha256"
+            ],
+            "properties": {
+              "source_id": {
+                "type": "string"
+              },
+              "pdf_page": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 332
+              },
+              "printed_page": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "edition_id": {
+                "const": "PCI-ED-001"
+              },
+              "source_sha256": {
+                "const": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+              }
+            }
+          }
+        },
+        "label": {
+          "type": "string",
+          "minLength": 3
+        },
+        "printed_start_page": {
+          "type": "integer"
+        },
+        "printed_end_page": {
+          "type": "integer"
+        },
+        "pdf_start_page": {
+          "type": "integer"
+        },
+        "pdf_end_page": {
+          "type": "integer"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "oneOf": [
+    {
+      "$ref": "#/$defs/book"
+    },
+    {
+      "$ref": "#/$defs/chapter"
+    },
+    {
+      "$ref": "#/$defs/concept"
+    },
+    {
+      "$ref": "#/$defs/claim"
+    },
+    {
+      "$ref": "#/$defs/mechanism"
+    },
+    {
+      "$ref": "#/$defs/author_practice"
+    },
+    {
+      "$ref": "#/$defs/anecdote"
+    },
+    {
+      "$ref": "#/$defs/evidence_assessment"
+    },
+    {
+      "$ref": "#/$defs/relationship"
+    },
+    {
+      "$ref": "#/$defs/application"
+    },
+    {
+      "$ref": "#/$defs/exercise"
+    },
+    {
+      "$ref": "#/$defs/citation"
+    },
+    {
+      "$ref": "#/$defs/coverage"
+    },
+    {
+      "$ref": "#/$defs/issue"
+    },
+    {
+      "$ref": "#/$defs/section"
+    }
+  ]
+}

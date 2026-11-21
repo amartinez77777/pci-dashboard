@@ -1,0 +1,366 @@
+[
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH09-01",
+    "chapter_id": "PCI-CH-09",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Negative emotions as warning lights”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH09-001",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-166",
+      "pdf_page": 166,
+      "printed_page": 156,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH09-05",
+    "chapter_id": "PCI-CH-09",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Misdirected aggressiveness”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH09-005",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-170",
+      "pdf_page": 170,
+      "printed_page": 160,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH09-13",
+    "chapter_id": "PCI-CH-09",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Glance at the negative and return to the road”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH09-013",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-188",
+      "pdf_page": 188,
+      "printed_page": 178,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH10-01",
+    "chapter_id": "PCI-CH-10",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Emotional scars are a protective analogy”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH10-001",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-190",
+      "pdf_page": 190,
+      "printed_page": 180,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH10-05",
+    "chapter_id": "PCI-CH-10",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Overprotection can restrict connection”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH10-005",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-194",
+      "pdf_page": 194,
+      "printed_page": 184,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH10-15",
+    "chapter_id": "PCI-CH-10",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Youthful appearance claims require independent review”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH10-015",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-211",
+      "pdf_page": 211,
+      "printed_page": 201,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH11-01",
+    "chapter_id": "PCI-CH-11",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Personality as expression rather than a fixed inventory”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH11-001",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-213",
+      "pdf_page": 213,
+      "printed_page": 203,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH11-05",
+    "chapter_id": "PCI-CH-11",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Training environments combine rehearsal and exposure”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH11-005",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-218",
+      "pdf_page": 218,
+      "printed_page": 208,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH11-14",
+    "chapter_id": "PCI-CH-11",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Expressing appreciation as behavioral practice”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH11-014",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-233",
+      "pdf_page": 233,
+      "printed_page": 223,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH12-01",
+    "chapter_id": "PCI-CH-12",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Medication analogy cannot substitute for care”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH12-001",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-234",
+      "pdf_page": 234,
+      "printed_page": 224,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH12-05",
+    "chapter_id": "PCI-CH-12",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Delay when ignoring a stimulus is not appropriate”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH12-005",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-238",
+      "pdf_page": 238,
+      "printed_page": 228,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH12-17",
+    "chapter_id": "PCI-CH-12",
+    "question": "What does the Stage 03 research status mean when the chapter discusses “Imagined straw men and present evidence”?",
+    "choices": [
+      "The book contains this claim but independent evidence has not been assessed",
+      "This is a formally diagnosed psychological disorder",
+      "The assertion is a universal scientifically established fact",
+      "The concept guarantees a specific personal outcome"
+    ],
+    "correct_index": 0,
+    "rationale": "A source page can verify that a book makes an assertion; it cannot establish causal, clinical or universal validity.",
+    "linked_concept_id": "PCI-C-CH12-017",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-250",
+      "pdf_page": 250,
+      "printed_page": 240,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH09-SPECIAL",
+    "chapter_id": "PCI-CH-09",
+    "question": "Which activity is prescribed at the end of Chapter 9?",
+    "choices": [
+      "Monitor negative signals all day",
+      "Briefly review actions, correct course and return to values",
+      "Suppress every negative emotion",
+      "Diagnose others using the acronym"
+    ],
+    "correct_index": 1,
+    "rationale": "The chapter explicitly warns against continuous dashboard fixation.",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-188",
+      "pdf_page": 188,
+      "printed_page": 178,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH10-SPECIAL",
+    "chapter_id": "PCI-CH-10",
+    "question": "Does the chapter’s discussion of forgiveness mean reconciliation is required?",
+    "choices": [
+      "Yes, immediately",
+      "No; personal safety and consent remain independent",
+      "Only if both people ask",
+      "Yes if you feel guilty"
+    ],
+    "correct_index": 1,
+    "rationale": "The book uses strong release rhetoric, but a digital adaptation must never compel forgiveness or contact.",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-204",
+      "pdf_page": 204,
+      "printed_page": 194,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH11-SPECIAL",
+    "chapter_id": "PCI-CH-11",
+    "question": "How does the final chapter section frame inhibition?",
+    "choices": [
+      "More inhibition is always best",
+      "All inhibition should be removed",
+      "Balance between too much and too little inhibition",
+      "Social standards never matter"
+    ],
+    "correct_index": 2,
+    "rationale": "The printed section explicitly discusses a middle path.",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-231",
+      "pdf_page": 231,
+      "printed_page": 221,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  },
+  {
+    "candidate_key": "PCI-QUIZ-CAND-CH12-SPECIAL",
+    "chapter_id": "PCI-CH-12",
+    "question": "Does Louganis’s reported repetition count become the book’s mandatory training prescription?",
+    "choices": [
+      "No; it is an anecdotal count",
+      "Yes, exactly 40 for all skills",
+      "Yes, always 21 days",
+      "Only for children"
+    ],
+    "correct_index": 0,
+    "rationale": "The reported pre-dive count describes a source anecdote rather than a universal instruction.",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-246",
+      "pdf_page": 246,
+      "printed_page": 236,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "type": "educational_quiz_candidate",
+    "origin": "PCI_original_adaptation"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "version": "1.0.0",
+  "research_data_version": "1.0.0",
+  "source_hash": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "total_search_entries": 504,
+  "concepts": 201,
+  "author_practices": 70,
+  "educational_exercises": 32,
+  "applications": 201,
+  "graph_edges_included": 109,
+  "graph_edges_excluded": [],
+  "source_citations": 315,
+  "chapter_data": {
+    "PCI-CH-01": {
+      "concepts": 10,
+      "author_practices": 2,
+      "educational_exercises": 2,
+      "applications": 10,
+      "anecdotes": 6,
+      "claims": 10,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-02": {
+      "concepts": 9,
+      "author_practices": 3,
+      "educational_exercises": 2,
+      "applications": 9,
+      "anecdotes": 5,
+      "claims": 9,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-03": {
+      "concepts": 11,
+      "author_practices": 1,
+      "educational_exercises": 2,
+      "applications": 11,
+      "anecdotes": 6,
+      "claims": 11,
+      "evidence_assessments": 4
+    },
+    "PCI-CH-04": {
+      "concepts": 10,
+      "author_practices": 1,
+      "educational_exercises": 2,
+      "applications": 10,
+      "anecdotes": 5,
+      "claims": 10,
+      "evidence_assessments": 3
+    },
+    "PCI-CH-05": {
+      "concepts": 13,
+      "author_practices": 3,
+      "educational_exercises": 2,
+      "applications": 13,
+      "anecdotes": 7,
+      "claims": 13,
+      "evidence_assessments": 3
+    },
+    "PCI-CH-06": {
+      "concepts": 12,
+      "author_practices": 8,
+      "educational_exercises": 2,
+      "applications": 12,
+      "anecdotes": 7,
+      "claims": 12,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-07": {
+      "concepts": 12,
+      "author_practices": 5,
+      "educational_exercises": 2,
+      "applications": 12,
+      "anecdotes": 8,
+      "claims": 12,
+      "evidence_assessments": 4
+    },
+    "PCI-CH-08": {
+      "concepts": 13,
+      "author_practices": 8,
+      "educational_exercises": 2,
+      "applications": 13,
+      "anecdotes": 9,
+      "claims": 13,
+      "evidence_assessments": 5
+    },
+    "PCI-CH-09": {
+      "concepts": 13,
+      "author_practices": 3,
+      "educational_exercises": 2,
+      "applications": 13,
+      "anecdotes": 6,
+      "claims": 13,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-10": {
+      "concepts": 15,
+      "author_practices": 5,
+      "educational_exercises": 2,
+      "applications": 15,
+      "anecdotes": 8,
+      "claims": 15,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-11": {
+      "concepts": 14,
+      "author_practices": 5,
+      "educational_exercises": 2,
+      "applications": 14,
+      "anecdotes": 7,
+      "claims": 14,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-12": {
+      "concepts": 17,
+      "author_practices": 7,
+      "educational_exercises": 2,
+      "applications": 17,
+      "anecdotes": 8,
+      "claims": 17,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-13": {
+      "concepts": 15,
+      "author_practices": 7,
+      "educational_exercises": 2,
+      "applications": 15,
+      "anecdotes": 10,
+      "claims": 15,
+      "evidence_assessments": 1
+    },
+    "PCI-CH-14": {
+      "concepts": 15,
+      "author_practices": 6,
+      "educational_exercises": 2,
+      "applications": 15,
+      "anecdotes": 9,
+      "claims": 15,
+      "evidence_assessments": 2
+    },
+    "PCI-CH-15": {
+      "concepts": 15,
+      "author_practices": 4,
+      "educational_exercises": 2,
+      "applications": 15,
+      "anecdotes": 8,
+      "claims": 15,
+      "evidence_assessments": 4
+    },
+    "PCI-CH-16": {
+      "concepts": 7,
+      "author_practices": 2,
+      "educational_exercises": 2,
+      "applications": 7,
+      "anecdotes": 6,
+      "claims": 7,
+      "evidence_assessments": 2
+    }
+  }
+}

@@ -1,0 +1,110 @@
+
+> psycho-cybernetics-intelligence@0.12.0 test:labs
+> node --test tests/labs_model_repo.test.mjs
+
+TAP version 13
+# Subtest: model: a draft can be partial, an active belief needs context and hypothesis
+ok 1 - model: a draft can be partial, an active belief needs context and hypothesis
+  ---
+  duration_ms: 1.545366
+  type: 'test'
+  ...
+# Subtest: model: evidence for and against remain distinct
+ok 2 - model: evidence for and against remain distinct
+  ---
+  duration_ms: 0.148484
+  type: 'test'
+  ...
+# Subtest: model: rating rejects out of range and noninteger
+ok 3 - model: rating rejects out of range and noninteger
+  ---
+  duration_ms: 0.2911
+  type: 'test'
+  ...
+# Subtest: model: comparison reports changed fields, never proof
+ok 4 - model: comparison reports changed fields, never proof
+  ---
+  duration_ms: 0.309468
+  type: 'test'
+  ...
+# Subtest: model: recommendations are based on chosen domain and explicit IDs
+ok 5 - model: recommendations are based on chosen domain and explicit IDs
+  ---
+  duration_ms: 1.065982
+  type: 'test'
+  ...
+# Subtest: repository: initializes 25 inherited stores without migration
+ok 6 - repository: initializes 25 inherited stores without migration
+  ---
+  duration_ms: 4.367163
+  type: 'test'
+  ...
+# Subtest: repository: creates belief with revisions, evidence, experiments and minimal event
+ok 7 - repository: creates belief with revisions, evidence, experiments and minimal event
+  ---
+  duration_ms: 23.563533
+  type: 'test'
+  ...
+# Subtest: repository: revision saves before and after with same stable ID
+ok 8 - repository: revision saves before and after with same stable ID
+  ---
+  duration_ms: 7.484529
+  type: 'test'
+  ...
+# Subtest: repository: stale revision guard rejects conflicting edits
+ok 9 - repository: stale revision guard rejects conflicting edits
+  ---
+  duration_ms: 6.973563
+  type: 'test'
+  ...
+# Subtest: repository: saves explicit draft without hypothesis
+ok 10 - repository: saves explicit draft without hypothesis
+  ---
+  duration_ms: 3.622947
+  type: 'test'
+  ...
+# Subtest: repository: inventory/edit history remains in local v2 store
+ok 11 - repository: inventory/edit history remains in local v2 store
+  ---
+  duration_ms: 5.184368
+  type: 'test'
+  ...
+# Subtest: repository: reflection has independent observation/interpretation and snapshot
+ok 12 - repository: reflection has independent observation/interpretation and snapshot
+  ---
+  duration_ms: 4.94788
+  type: 'test'
+  ...
+# Subtest: repository: sensitive data cannot be saved without recorded consent or declassified while history remains
+ok 13 - repository: sensitive data cannot be saved without recorded consent or declassified while history remains
+  ---
+  duration_ms: 121.416012
+  type: 'test'
+  ...
+# Subtest: repository: experiment outcome records actual result, not inferred mental change
+ok 14 - repository: experiment outcome records actual result, not inferred mental change
+  ---
+  duration_ms: 7.696295
+  type: 'test'
+  ...
+# Subtest: repository: export v2 works with existing import validation
+ok 15 - repository: export v2 works with existing import validation
+  ---
+  duration_ms: 61.734595
+  type: 'test'
+  ...
+# Subtest: repository: cascade delete removes belief evidence, history and experiment events
+ok 16 - repository: cascade delete removes belief evidence, history and experiment events
+  ---
+  duration_ms: 11.454777
+  type: 'test'
+  ...
+1..16
+# tests 16
+# suites 0
+# pass 16
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 337.174905

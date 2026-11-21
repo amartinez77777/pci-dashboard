@@ -1,0 +1,913 @@
+[
+  {
+    "id": "PCI-C-CH10-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional scars are a protective analogy",
+    "content": "The book compares protective physical scar tissue with emotional withdrawal after rejection or humiliation. A metaphor of a defensive shell represents learned attempts to avoid recurring emotional pain, not literal scar tissue in the mind.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book compares protective physical scar tissue with emotional withdrawal after rejection or humiliation.",
+    "terms": {
+      "primary": "Emotional scars are a protective analogy",
+      "definition": "The book compares protective physical scar tissue with emotional withdrawal after rejection or humiliation."
+    },
+    "author_mechanism": "A metaphor of a defensive shell represents learned attempts to avoid recurring emotional pain, not literal scar tissue in the mind.",
+    "conditions_and_limits": "This is metaphor, not a diagnosis or a demonstrated biological scar mechanism.",
+    "application": "Observe one safe context in which defensiveness appears without excavating its origins.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "This is metaphor, not a diagnosis or a demonstrated biological scar mechanism.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of emotional scars are a protective analogy to the author’s broader account of self-image and feedback. Its central claim is that the book compares protective physical scar tissue with emotional withdrawal after rejection or humiliation. The argument proceeds by stating that a metaphor of a defensive shell represents learned attempts to avoid recurring emotional pain, not literal scar tissue in the mind. The source’s concrete illustration is: The opening contrasts physical cosmetic procedures with unaltered internal self-perception. A bounded learning application is: Observe one safe context in which defensiveness appears without excavating its origins. The important qualification is: This is metaphor, not a diagnosis or a demonstrated biological scar mechanism. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The opening contrasts physical cosmetic procedures with unaltered internal self-perception.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "George T. and the physical-social distinction",
+    "content": "A surgical anecdote is used to distinguish a repaired appearance from changes in confidence and belonging. The text describes the emotional interpretation of facial injury as contributing to withdrawal and later social return.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-192",
+        "pdf_page": 192,
+        "printed_page": 182,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A surgical anecdote is used to distinguish a repaired appearance from changes in confidence and belonging.",
+    "terms": {
+      "primary": "George T. and the physical-social distinction",
+      "definition": "A surgical anecdote is used to distinguish a repaired appearance from changes in confidence and belonging."
+    },
+    "author_mechanism": "The text describes the emotional interpretation of facial injury as contributing to withdrawal and later social return.",
+    "conditions_and_limits": "An uncontrolled medical case cannot prove that self-image alone caused social recovery.",
+    "application": "Ask how social treatment and personal interpretation both shape confidence.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "An uncontrolled medical case cannot prove that self-image alone caused social recovery.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of george t. and the physical-social distinction to the author’s broader account of self-image and feedback. Its central claim is that a surgical anecdote is used to distinguish a repaired appearance from changes in confidence and belonging. The argument proceeds by stating that the text describes the emotional interpretation of facial injury as contributing to withdrawal and later social return. The source’s concrete illustration is: George T., an attorney with injuries after a car accident, reports feeling more socially connected after surgery. A bounded learning application is: Ask how social treatment and personal interpretation both shape confidence. The important qualification is: An uncontrolled medical case cannot prove that self-image alone caused social recovery. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "George T., an attorney with injuries after a car accident, reports feeling more socially connected after surgery.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Avoidance spreads beyond the original context",
+    "content": "The text portrays defensive avoidance as generalizing from one humiliating setting to nearby contexts. Repeated exclusion allegedly leads people to withdraw even where present risk differs from past risk.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-193",
+        "pdf_page": 193,
+        "printed_page": 183,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text portrays defensive avoidance as generalizing from one humiliating setting to nearby contexts.",
+    "terms": {
+      "primary": "Avoidance spreads beyond the original context",
+      "definition": "The text portrays defensive avoidance as generalizing from one humiliating setting to nearby contexts."
+    },
+    "author_mechanism": "Repeated exclusion allegedly leads people to withdraw even where present risk differs from past risk.",
+    "conditions_and_limits": "Avoidance may be appropriate in unsafe relationships; no pressure to revisit trauma.",
+    "application": "For a low-stakes setting, identify one choice and whether present evidence warrants caution.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Avoidance may be appropriate in unsafe relationships; no pressure to revisit trauma.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of avoidance spreads beyond the original context to the author’s broader account of self-image and feedback. Its central claim is that the text portrays defensive avoidance as generalizing from one humiliating setting to nearby contexts. The argument proceeds by stating that repeated exclusion allegedly leads people to withdraw even where present risk differs from past risk. The source’s concrete illustration is: An executive remains silent in meetings after earlier classroom humiliation and critical relationships. A bounded learning application is: For a low-stakes setting, identify one choice and whether present evidence warrants caution. The important qualification is: Avoidance may be appropriate in unsafe relationships; no pressure to revisit trauma. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "An executive remains silent in meetings after earlier classroom humiliation and critical relationships.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Putty rather than plaster self-image",
+    "content": "The book describes identity as modifiable, not permanently fixed by earlier experience. The author uses his clay sculpting analogy to suggest that interpretations and responses can be revisited.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book describes identity as modifiable, not permanently fixed by earlier experience.",
+    "terms": {
+      "primary": "Putty rather than plaster self-image",
+      "definition": "The book describes identity as modifiable, not permanently fixed by earlier experience."
+    },
+    "author_mechanism": "The author uses his clay sculpting analogy to suggest that interpretations and responses can be revisited.",
+    "conditions_and_limits": "The text exaggerates when it says any injury can be reworked without limits or support.",
+    "application": "Select one specific behavior you might alter through safe practice.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "The text exaggerates when it says any injury can be reworked without limits or support.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of putty rather than plaster self-image to the author’s broader account of self-image and feedback. Its central claim is that the book describes identity as modifiable, not permanently fixed by earlier experience. The argument proceeds by stating that the author uses his clay sculpting analogy to suggest that interpretations and responses can be revisited. The source’s concrete illustration is: The sculptor and putty comparison follows a shy executive case. A bounded learning application is: Select one specific behavior you might alter through safe practice. The important qualification is: The text exaggerates when it says any injury can be reworked without limits or support. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The sculptor and putty comparison follows a shy executive case.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH04-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Overprotection can restrict connection",
+    "content": "Defensive walls are described as preventing desirable relationships and opportunities along with hurt. The shell analogy illustrates the tradeoff between avoiding discomfort and allowing trust and participation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Defensive walls are described as preventing desirable relationships and opportunities along with hurt.",
+    "terms": {
+      "primary": "Overprotection can restrict connection",
+      "definition": "Defensive walls are described as preventing desirable relationships and opportunities along with hurt."
+    },
+    "author_mechanism": "The shell analogy illustrates the tradeoff between avoiding discomfort and allowing trust and participation.",
+    "conditions_and_limits": "Safety and consent outrank the chapter’s encouragement to risk rejection.",
+    "application": "Distinguish a necessary boundary from a low-stakes opportunity for selective openness.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Safety and consent outrank the chapter’s encouragement to risk rejection.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of overprotection can restrict connection to the author’s broader account of self-image and feedback. Its central claim is that defensive walls are described as preventing desirable relationships and opportunities along with hurt. The argument proceeds by stating that the shell analogy illustrates the tradeoff between avoiding discomfort and allowing trust and participation. The source’s concrete illustration is: The section warns that protective self-separation can expand to harmless settings. A bounded learning application is: Distinguish a necessary boundary from a low-stakes opportunity for selective openness. The important qualification is: Safety and consent outrank the chapter’s encouragement to risk rejection. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The section warns that protective self-separation can expand to harmless settings.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH09-009"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Delinquency anecdotes do not establish cause",
+    "content": "The chapter links hardened behavior in young people to previous wounds and poor self-regard. It infers internal vulnerability from apparently aggressive exteriors and discusses confrontational interventions.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-196",
+        "pdf_page": 196,
+        "printed_page": 186,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter links hardened behavior in young people to previous wounds and poor self-regard.",
+    "terms": {
+      "primary": "Delinquency anecdotes do not establish cause",
+      "definition": "The chapter links hardened behavior in young people to previous wounds and poor self-regard."
+    },
+    "author_mechanism": "It infers internal vulnerability from apparently aggressive exteriors and discusses confrontational interventions.",
+    "conditions_and_limits": "Do not adopt coercive boot-camp methods; claims are untested and risk stigmatizing young people.",
+    "application": "Consider how safety, support and social context affect behavior without labeling youth.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Do not adopt coercive boot-camp methods; claims are untested and risk stigmatizing young people.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of delinquency anecdotes do not establish cause to the author’s broader account of self-image and feedback. Its central claim is that the chapter links hardened behavior in young people to previous wounds and poor self-regard. The argument proceeds by stating that it infers internal vulnerability from apparently aggressive exteriors and discusses confrontational interventions. The source’s concrete illustration is: The juvenile delinquency and boot-camp passage presents sweeping causal ideas. A bounded learning application is: Consider how safety, support and social context affect behavior without labeling youth. The important qualification is: Do not adopt coercive boot-camp methods; claims are untested and risk stigmatizing young people. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The juvenile delinquency and boot-camp passage presents sweeping causal ideas.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Preventing minor interpersonal slights from escalating",
+    "content": "The author recommends strengthening self-respect so that trivial comments do not become global threats. An epidermis analogy contrasts flexible protection with complete emotional numbness.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-197",
+        "pdf_page": 197,
+        "printed_page": 187,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author recommends strengthening self-respect so that trivial comments do not become global threats.",
+    "terms": {
+      "primary": "Preventing minor interpersonal slights from escalating",
+      "definition": "The author recommends strengthening self-respect so that trivial comments do not become global threats."
+    },
+    "author_mechanism": "An epidermis analogy contrasts flexible protection with complete emotional numbness.",
+    "conditions_and_limits": "Real hostility and discriminatory harm should not be dismissed as imagined.",
+    "application": "When encountering a minor ambiguous remark, note 2 plausible interpretations.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Real hostility and discriminatory harm should not be dismissed as imagined.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of preventing minor interpersonal slights from escalating to the author’s broader account of self-image and feedback. Its central claim is that the author recommends strengthening self-respect so that trivial comments do not become global threats. The argument proceeds by stating that an epidermis analogy contrasts flexible protection with complete emotional numbness. The source’s concrete illustration is: The three prescriptions against hurt begin with declining to feel threatened by every slight. A bounded learning application is: When encountering a minor ambiguous remark, note 2 plausible interpretations. The important qualification is: Real hostility and discriminatory harm should not be dismissed as imagined. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The three prescriptions against hurt begin with declining to feel threatened by every slight.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-028"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Personalization of ambiguous remarks",
+    "content": "The text advises not assuming that overheard jokes or comments are targeted attacks. Interpreting generalized statements as personalized insults can amplify distress without new evidence.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-199",
+        "pdf_page": 199,
+        "printed_page": 189,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text advises not assuming that overheard jokes or comments are targeted attacks.",
+    "terms": {
+      "primary": "Personalization of ambiguous remarks",
+      "definition": "The text advises not assuming that overheard jokes or comments are targeted attacks."
+    },
+    "author_mechanism": "Interpreting generalized statements as personalized insults can amplify distress without new evidence.",
+    "conditions_and_limits": "Discriminatory jokes can still cause harm even when not directed at a particular listener.",
+    "application": "Ask for context or choose a neutral explanation where safety permits.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Discriminatory jokes can still cause harm even when not directed at a particular listener.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of personalization of ambiguous remarks to the author’s broader account of self-image and feedback. Its central claim is that the text advises not assuming that overheard jokes or comments are targeted attacks. The argument proceeds by stating that interpreting generalized statements as personalized insults can amplify distress without new evidence. The source’s concrete illustration is: A real-estate agent interprets ethnic jokes as directed at her; the narrator recounts doctor jokes. A bounded learning application is: Ask for context or choose a neutral explanation where safety permits. The important qualification is: Discriminatory jokes can still cause harm even when not directed at a particular listener. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A real-estate agent interprets ethnic jokes as directed at her; the narrator recounts doctor jokes.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-reliance without isolation",
+    "content": "The chapter contrasts compulsive approval seeking with the capacity to give affection while tolerating disagreement. Self-reliance is used to describe the ability to engage without demanding universal acceptance.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter contrasts compulsive approval seeking with the capacity to give affection while tolerating disagreement.",
+    "terms": {
+      "primary": "Self-reliance without isolation",
+      "definition": "The chapter contrasts compulsive approval seeking with the capacity to give affection while tolerating disagreement."
+    },
+    "author_mechanism": "Self-reliance is used to describe the ability to engage without demanding universal acceptance.",
+    "conditions_and_limits": "Self-reliance must not imply surviving abuse without help or suppressing legitimate relational needs.",
+    "application": "Practice one respectful disagreement with an appropriate trusted person.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Self-reliance must not imply surviving abuse without help or suppressing legitimate relational needs.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of self-reliance without isolation to the author’s broader account of self-image and feedback. Its central claim is that the chapter contrasts compulsive approval seeking with the capacity to give affection while tolerating disagreement. The argument proceeds by stating that self-reliance is used to describe the ability to engage without demanding universal acceptance. The source’s concrete illustration is: An unpopular professional speaker is presented as tolerating criticism in pursuit of his work. A bounded learning application is: Practice one respectful disagreement with an appropriate trusted person. The important qualification is: Self-reliance must not imply surviving abuse without help or suppressing legitimate relational needs. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "An unpopular professional speaker is presented as tolerating criticism in pursuit of his work.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH07-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Relaxation as a response option, not immunity",
+    "content": "The author suggests reducing physical tension before responding to criticism or social hurt. He analogizes tension-free surgery to the idea that a less activated person may interpret a slight less painfully.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-202",
+        "pdf_page": 202,
+        "printed_page": 192,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author suggests reducing physical tension before responding to criticism or social hurt.",
+    "terms": {
+      "primary": "Relaxation as a response option, not immunity",
+      "definition": "The author suggests reducing physical tension before responding to criticism or social hurt."
+    },
+    "author_mechanism": "He analogizes tension-free surgery to the idea that a less activated person may interpret a slight less painfully.",
+    "conditions_and_limits": "Claims that complete relaxation makes negative emotion impossible overstate physiology.",
+    "application": "Pause, notice tension and choose whether to respond, leave, or set a limit.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Claims that complete relaxation makes negative emotion impossible overstate physiology.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of relaxation as a response option, not immunity to the author’s broader account of self-image and feedback. Its central claim is that the author suggests reducing physical tension before responding to criticism or social hurt. The argument proceeds by stating that he analogizes tension-free surgery to the idea that a less activated person may interpret a slight less painfully. The source’s concrete illustration is: A joking remark is interpreted differently on a day of anxiety and insecurity. A bounded learning application is: Pause, notice tension and choose whether to respond, leave, or set a limit. The important qualification is: Claims that complete relaxation makes negative emotion impossible overstate physiology. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A joking remark is interpreted differently on a day of anxiety and insecurity.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH06-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgiveness as release of continuing grievance",
+    "content": "The book argues that ongoing scorekeeping can prolong emotional distress and introduces therapeutic forgiveness. The cancellation-of-debt and surgical analogies express a decision to stop ruminating; they are not obligatory interpersonal acts.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-204",
+        "pdf_page": 204,
+        "printed_page": 194,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book argues that ongoing scorekeeping can prolong emotional distress and introduces therapeutic forgiveness.",
+    "terms": {
+      "primary": "Forgiveness as release of continuing grievance",
+      "definition": "The book argues that ongoing scorekeeping can prolong emotional distress and introduces therapeutic forgiveness."
+    },
+    "author_mechanism": "The cancellation-of-debt and surgical analogies express a decision to stop ruminating; they are not obligatory interpersonal acts.",
+    "conditions_and_limits": "Forgiveness is voluntary, not a duty; do not recommend reconciliation, contact or reducing safety boundaries.",
+    "application": "Explore optional ways to release a specific mental demand without renewed contact.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Forgiveness is voluntary, not a duty; do not recommend reconciliation, contact or reducing safety boundaries.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of forgiveness as release of continuing grievance to the author’s broader account of self-image and feedback. Its central claim is that the book argues that ongoing scorekeeping can prolong emotional distress and introduces therapeutic forgiveness. The argument proceeds by stating that the cancellation-of-debt and surgical analogies express a decision to stop ruminating; they are not obligatory interpersonal acts. The source’s concrete illustration is: The book discusses an unfaithful spouse and distinguishes partial from genuine forgiveness. A bounded learning application is: Explore optional ways to release a specific mental demand without renewed contact. The important qualification is: Forgiveness is voluntary, not a duty; do not recommend reconciliation, contact or reducing safety boundaries. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The book discusses an unfaithful spouse and distinguishes partial from genuine forgiveness.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-011"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-002"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-forgiveness and responsibility",
+    "content": "The book distinguishes accountability for harmful acts from global self-condemnation. It proposes loosening shame-based identity judgments while retaining ability to repair consequences.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book distinguishes accountability for harmful acts from global self-condemnation.",
+    "terms": {
+      "primary": "Self-forgiveness and responsibility",
+      "definition": "The book distinguishes accountability for harmful acts from global self-condemnation."
+    },
+    "author_mechanism": "It proposes loosening shame-based identity judgments while retaining ability to repair consequences.",
+    "conditions_and_limits": "Do not require recounting traumatic events, excusing harm or suppressing emotions.",
+    "application": "Write one action you regret, any feasible repair, and a non-global description of yourself.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Do not require recounting traumatic events, excusing harm or suppressing emotions.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of self-forgiveness and responsibility to the author’s broader account of self-image and feedback. Its central claim is that the book distinguishes accountability for harmful acts from global self-condemnation. The argument proceeds by stating that it proposes loosening shame-based identity judgments while retaining ability to repair consequences. The source’s concrete illustration is: The narrative discusses regret, guilt, and the inner critic after errors. A bounded learning application is: Write one action you regret, any feasible repair, and a non-global description of yourself. The important qualification is: Do not require recounting traumatic events, excusing harm or suppressing emotions. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The narrative discusses regret, guilt, and the inner critic after errors.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-012"
+    ],
+    "case_ids": [
+      "PCI-EX-CH10-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH10-004"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Actions are not identity nouns",
+    "content": "An error is framed as a temporary act, not proof of an inherently failed person. The text contrasts verbs describing what happened with noun labels turning mistakes into identities.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-209",
+        "pdf_page": 209,
+        "printed_page": 199,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "An error is framed as a temporary act, not proof of an inherently failed person.",
+    "terms": {
+      "primary": "Actions are not identity nouns",
+      "definition": "An error is framed as a temporary act, not proof of an inherently failed person."
+    },
+    "author_mechanism": "The text contrasts verbs describing what happened with noun labels turning mistakes into identities.",
+    "conditions_and_limits": "Claims about parental labels causing stuttering are historically controversial and not independently verified.",
+    "application": "Replace an identity label with a concrete description of behavior and a correction.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Claims about parental labels causing stuttering are historically controversial and not independently verified.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of actions are not identity nouns to the author’s broader account of self-image and feedback. Its central claim is that an error is framed as a temporary act, not proof of an inherently failed person. The argument proceeds by stating that the text contrasts verbs describing what happened with noun labels turning mistakes into identities. The source’s concrete illustration is: A child learning to walk and early speech examples illustrate the language distinction. A bounded learning application is: Replace an identity label with a concrete description of behavior and a correction. The important qualification is: Claims about parental labels causing stuttering are historically controversial and not independently verified. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A child learning to walk and early speech examples illustrate the language distinction.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-013"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH10-004"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-014",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Creative vulnerability versus an oyster shell",
+    "content": "The chapter closes with openness as a necessary part of connection, despite a possibility of being hurt. The oyster metaphor contrasts perfect enclosure with limited access to experiences and people.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-210",
+        "pdf_page": 210,
+        "printed_page": 200,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter closes with openness as a necessary part of connection, despite a possibility of being hurt.",
+    "terms": {
+      "primary": "Creative vulnerability versus an oyster shell",
+      "definition": "The chapter closes with openness as a necessary part of connection, despite a possibility of being hurt."
+    },
+    "author_mechanism": "The oyster metaphor contrasts perfect enclosure with limited access to experiences and people.",
+    "conditions_and_limits": "Avoid openness where risk of coercion or violence is present; protective boundaries are legitimate.",
+    "application": "Name one small consent-based, reversible act of openness.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "Avoid openness where risk of coercion or violence is present; protective boundaries are legitimate.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of creative vulnerability versus an oyster shell to the author’s broader account of self-image and feedback. Its central claim is that the chapter closes with openness as a necessary part of connection, despite a possibility of being hurt. The argument proceeds by stating that the oyster metaphor contrasts perfect enclosure with limited access to experiences and people. The source’s concrete illustration is: The oyster analogy follows advice about speaking and loving with reasonable vulnerability. A bounded learning application is: Name one small consent-based, reversible act of openness. The important qualification is: Avoid openness where risk of coercion or violence is present; protective boundaries are legitimate. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The oyster analogy follows advice about speaking and loving with reasonable vulnerability.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-014"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH10-005"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-015",
+    "type": "concept",
+    "chapter_id": "PCI-CH-10",
+    "title": "Youthful appearance claims require independent review",
+    "content": "The narrator claims emotional relief can make people look physically years younger. A claimed connection between attitudes, posture, appearance and vitality extends the emotional surgery metaphor into medicine.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The narrator claims emotional relief can make people look physically years younger.",
+    "terms": {
+      "primary": "Youthful appearance claims require independent review",
+      "definition": "The narrator claims emotional relief can make people look physically years younger."
+    },
+    "author_mechanism": "A claimed connection between attitudes, posture, appearance and vitality extends the emotional surgery metaphor into medicine.",
+    "conditions_and_limits": "No independent controlled evidence is cited here for multi-year changes in appearance or health.",
+    "application": "Treat the section as historical self-help rhetoric, not an outcome to promise or score.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar.",
+    "ethical_clinical_cautions": "No independent controlled evidence is cited here for multi-year changes in appearance or health.",
+    "substantive_paraphrase": "Chapter 10 connects the issue of youthful appearance claims require independent review to the author’s broader account of self-image and feedback. Its central claim is that the narrator claims emotional relief can make people look physically years younger. The argument proceeds by stating that a claimed connection between attitudes, posture, appearance and vitality extends the emotional surgery metaphor into medicine. The source’s concrete illustration is: The closing asserts apparent multi-year rejuvenation seen in the surgeon’s patients. A bounded learning application is: Treat the section as historical self-help rhetoric, not an outcome to promise or score. The important qualification is: No independent controlled evidence is cited here for multi-year changes in appearance or health. An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The closing asserts apparent multi-year rejuvenation seen in the surgeon’s patients.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH10-015"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH10-005"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-029"
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+{
+  "chapters": [
+    {
+      "chapter_id": "PCI-CH-01",
+      "title": "The Self-Image: Your Key to Living Without Limits",
+      "pdf_start": 11,
+      "pdf_end": 34,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 24,
+      "source_pages_total": 24,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 17,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-02",
+      "title": "How to Awaken the Automatic Success Mechanism Within You",
+      "pdf_start": 35,
+      "pdf_end": 52,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 18,
+      "source_pages_total": 18,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 14,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-03",
+      "title": "Imagination: The Ignition Key to Your Automatic Success Mechanism",
+      "pdf_start": 53,
+      "pdf_end": 78,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 26,
+      "source_pages_total": 26,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 19,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-04",
+      "title": "How to Dehypnotize Yourself from False Beliefs",
+      "pdf_start": 79,
+      "pdf_end": 91,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 13,
+      "source_pages_total": 13,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 8,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-05",
+      "title": "How to Succeed with the Power of Rational Thinking",
+      "pdf_start": 92,
+      "pdf_end": 110,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 19,
+      "source_pages_total": 19,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 19,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-06",
+      "title": "How to Relax and Let Your Automatic Success Mechanism Work for You",
+      "pdf_start": 111,
+      "pdf_end": 126,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 16,
+      "source_pages_total": 16,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 14,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-07",
+      "title": "You Can Acquire the Habit of Happiness",
+      "pdf_start": 127,
+      "pdf_end": 143,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 17,
+      "source_pages_total": 17,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 19,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-08",
+      "title": "Ingredients of the Success-Type Personality and How to Acquire Them",
+      "pdf_start": 144,
+      "pdf_end": 164,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 21,
+      "source_pages_total": 21,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 15,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-09",
+      "title": "How to Avoid Accidentally Activating Your Automatic Failure Mechanism",
+      "pdf_start": 165,
+      "pdf_end": 189,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 25,
+      "source_pages_total": 25,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 13,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-10",
+      "title": "How to Remove Emotional Scars and Give Yourself an Emotional Face Lift",
+      "pdf_start": 190,
+      "pdf_end": 212,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 23,
+      "source_pages_total": 23,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 23,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-11",
+      "title": "How to Unlock Your Real Personality",
+      "pdf_start": 213,
+      "pdf_end": 233,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 21,
+      "source_pages_total": 21,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 21,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-12",
+      "title": "Do-It-Yourself Tranquilizers that Bring Peace of Mind",
+      "pdf_start": 234,
+      "pdf_end": 252,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 19,
+      "source_pages_total": 19,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 25,
+      "documented_gaps_and_uncertainties": [
+        "Prior coverage source says sections_review_status=NOT_REVIEWED_CANDIDATES; subsection precision not independently certified here.",
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-13",
+      "title": "How to Turn a Crisis into a Creative Opportunity",
+      "pdf_start": 253,
+      "pdf_end": 270,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 18,
+      "source_pages_total": 18,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 18,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-14",
+      "title": "How to Get and Keep That Winning Feeling",
+      "pdf_start": 271,
+      "pdf_end": 289,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 19,
+      "source_pages_total": 19,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 20,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-15",
+      "title": "More Years of Life and More Life in Your Years",
+      "pdf_start": 290,
+      "pdf_end": 306,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 17,
+      "source_pages_total": 17,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 19,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    },
+    {
+      "chapter_id": "PCI-CH-16",
+      "title": "True Stories of Lives Changed Using Psycho-Cybernetics",
+      "pdf_start": 307,
+      "pdf_end": 316,
+      "index_state": "indexed",
+      "reported_prior_coverage_state": "substantive",
+      "dataset_has_substantive_dossiers": true,
+      "source_page_reported_as_read_count": 10,
+      "source_pages_total": 10,
+      "Stage05_external_science_review": "not_assessed_book_wide",
+      "Stage05_exhaustive_semantic_coverage": "not_certified",
+      "sections_analyzed_prior": 6,
+      "documented_gaps_and_uncertainties": [
+        "Section boundaries are page-level and may overlap",
+        "Some smaller unheaded paragraphs and implicit exercises may be incompletely indexed",
+        "No scientific-effectiveness certification"
+      ]
+    }
+  ],
+  "count_chapters_indexed": 16,
+  "count_with_substantive_dossiers": 16,
+  "count_exhaustively_semantically_verified": 0,
+  "claim_count_independently_validated": 0,
+  "definition": "Substantive dossier presence != exhaustive passage analysis and != scientific corroboration."
+}

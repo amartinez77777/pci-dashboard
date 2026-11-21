@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "PCI-M-CH01-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-image consistency feedback model",
+    "content": "Experiences are interpreted through an identity premise, which can change willingness to act; the resulting observations may then reinforce the same premise.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_interpretation_of_author_claim",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "Experiences are interpreted through an identity premise, which can change willingness to act; the resulting observations may then reinforce the same premise.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH01-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-01",
+    "title": "Servo-mechanism metaphor",
+    "content": "A consciously chosen objective supposedly passes through the self-image before guiding what the book calls the creative mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-025",
+        "pdf_page": 25,
+        "printed_page": 15,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "author_metaphor",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "A consciously chosen objective supposedly passes through the self-image before guiding what the book calls the creative mechanism.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH02-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-02",
+    "title": "Goal-directed feedback",
+    "content": "An attempt, sensory signal, measured deviation and corrective response can form a repeated learning loop.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_interpretation_of_author_claim",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "An attempt, sensory signal, measured deviation and corrective response can form a repeated learning loop.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH02-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-02",
+    "title": "Idea incubation search metaphor",
+    "content": "The author describes combining previously stored information during pauses in deliberate attention, often likening retrieval to database searching.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "author_metaphor",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "The author describes combining previously stored information during pauses in deliberate attention, often likening retrieval to database searching.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH03-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-03",
+    "title": "Mental rehearsal and action preparation",
+    "content": "Vivid simulation rehearses sensory and social details of a future performance, potentially improving readiness but not substituting for relevant training.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-062",
+        "pdf_page": 62,
+        "printed_page": 52,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_interpretation_of_author_claim",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "Vivid simulation rehearses sensory and social details of a future performance, potentially improving readiness but not substituting for relevant training.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH03-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-03",
+    "title": "Theater of the Mind routine",
+    "content": "A chosen scenario is refined through planned imagination sessions and later repeated as a stable performance movie.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "author_metaphor",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "A chosen scenario is refined through planned imagination sessions and later repeated as a stable performance movie.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH04-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-04",
+    "title": "Belief disconfirmation",
+    "content": "An experience inconsistent with a self-label may open revision of a rigid global belief.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_interpretation_of_author_claim",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "An experience inconsistent with a self-label may open revision of a rigid global belief.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH04-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-04",
+    "title": "Relaxation plus imagery",
+    "content": "Lowered physical tension is used as a setting for picturing safety, ease and alternative interpretations.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_interpretation_of_author_claim",
+    "input": "Current goal, interpretation, experience and feedback",
+    "proposed_process": "Lowered physical tension is used as a setting for picturing safety, ease and alternative interpretations.",
+    "output": "Possible observable behavior or understanding, not a guaranteed change",
+    "causality_status": "hypothesized_or_analogical",
+    "validation_warning": "The metaphor is not a validated anatomical mechanism."
+  },
+  {
+    "id": "PCI-M-CH05-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-05",
+    "title": "Rational-choice to imagined target",
+    "content": "The text proposes conscious evaluation of options, deliberate target choice, and imaginative communication of that target to the self-image. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-093",
+        "pdf_page": 93,
+        "printed_page": 83,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "metaphorical_cybernetic_process",
+    "proposed_process": "The text proposes conscious evaluation of options, deliberate target choice, and imaginative communication of that target to the self-image.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH05-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-05",
+    "title": "Error and correction feedback",
+    "content": "An error is noticed as a deviation from a goal and informs the next behavioral attempt, rather than becoming a lasting identity label. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-095",
+        "pdf_page": 95,
+        "printed_page": 85,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "control_system_analogy",
+    "proposed_process": "An error is noticed as a deviation from a goal and informs the next behavioral attempt, rather than becoming a lasting identity label.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH05-003",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-05",
+    "title": "Belief-consistency correction",
+    "content": "An inherited conviction can be questioned against another self-endorsed conviction; this is presented as a practical means of changing self-expectation. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "self_consistency_hypothesis",
+    "proposed_process": "An inherited conviction can be questioned against another self-endorsed conviction; this is presented as a practical means of changing self-expectation.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH06-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-06",
+    "title": "Incubation after focused preparation",
+    "content": "A problem is consciously explored and then set aside, with later ideas construed as work by a metaphorical creative mechanism. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "incubation_analogy",
+    "proposed_process": "A problem is consciously explored and then set aside, with later ideas construed as work by a metaphorical creative mechanism.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH06-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-06",
+    "title": "Overcontrol and skilled spontaneity",
+    "content": "The text proposes that excessive self-monitoring disrupts fluent tasks that have been learned through prior experience. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "skill_attention_hypothesis",
+    "proposed_process": "The text proposes that excessive self-monitoring disrupts fluent tasks that have been learned through prior experience.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH06-003",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-06",
+    "title": "Present task feedback",
+    "content": "Attending to present information rather than imagined future scenarios gives the person more usable task cues and fewer simultaneous demands. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "attention_control_hypothesis",
+    "proposed_process": "Attending to present information rather than imagined future scenarios gives the person more usable task cues and fewer simultaneous demands.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH07-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-07",
+    "title": "Threat appraisal and habitual irritation",
+    "content": "The book proposes that impersonal incidents are often encoded as affronts and trigger rehearsed emotional reactions. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "habitual_appraisal_hypothesis",
+    "proposed_process": "The book proposes that impersonal incidents are often encoded as affronts and trigger rehearsed emotional reactions.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH07-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-07",
+    "title": "Script interruption by deliberate replacement",
+    "content": "Repeating a new response when a rigid self-description appears is said to alter a behavioral habit; no exact neural pathway is demonstrated. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-137",
+        "pdf_page": 137,
+        "printed_page": 127,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "habit_rehearsal_hypothesis",
+    "proposed_process": "Repeating a new response when a rigid self-description appears is said to alter a behavioral habit; no exact neural pathway is demonstrated.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH07-003",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-07",
+    "title": "Shoe-cue habit transfer",
+    "content": "Reversing a familiar shoe routine is used as a daily trigger for broader intentions about friendliness, calmness, and thought patterns. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "cue_based_behavioral_routine",
+    "proposed_process": "Reversing a familiar shoe routine is used as a daily trigger for broader intentions about friendliness, calmness, and thought patterns.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH08-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-08",
+    "title": "Seven-component SUCCESS framework",
+    "content": "Sense of direction, understanding, courage, charity, esteem, confidence and acceptance are organized as a mnemonic for learning, not a validated trait model. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-146",
+        "pdf_page": 146,
+        "printed_page": 136,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "educational_framework",
+    "proposed_process": "Sense of direction, understanding, courage, charity, esteem, confidence and acceptance are organized as a mnemonic for learning, not a validated trait model.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH08-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-08",
+    "title": "Graded mastery through feedback",
+    "content": "The book proposes that beginning with smaller genuine successes builds confidence and willingness to try harder tasks. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "practice_feedback_hypothesis",
+    "proposed_process": "The book proposes that beginning with smaller genuine successes builds confidence and willingness to try harder tasks.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH08-003",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-08",
+    "title": "Adversity appraisal through AQ",
+    "content": "Reported low blame, limited problem scope and optimism about coping are linked to self-image; their validity as a psychometric mechanism is not checked. This is the model described by the author, not a confirmed discrete biological mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "third_party_construct_unverified",
+    "proposed_process": "Reported low blame, limited problem scope and optimism about coping are linked to self-image; their validity as a psychometric mechanism is not checked.",
+    "causality_status": "author theory or pedagogical metaphor; independent_empirical_evidence_not_assessed",
+    "limitations": "Do not infer that the so-called Automatic Success Mechanism is an anatomically identifiable brain entity.",
+    "interpretation_boundary": "Use for educational explanation only, not clinical prediction or scoring."
+  },
+  {
+    "id": "PCI-M-CH09-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-09",
+    "title": "Proposed model: Negative emotions as warning lights",
+    "content": "A pressure-gauge analogy suggests noticing repeated frustration, anxiety or resentment and using that information to adjust action instead of becoming preoccupied with symptoms.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "A pressure-gauge analogy suggests noticing repeated frustration, anxiety or resentment and using that information to adjust action instead of becoming preoccupied with symptoms.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Emotions are multifactorial, sometimes adaptive, and persistent depression or anxiety is not simply a broken internal gauge.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH09-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-09",
+    "title": "Proposed model: Insecurity and conditional competence",
+    "content": "The author frames insecurity as repeated checking of whether one measures up, which diverts attention from acting competently.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-173",
+        "pdf_page": 173,
+        "printed_page": 163,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "The author frames insecurity as repeated checking of whether one measures up, which diverts attention from acting competently.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Insecurity may reflect actual power imbalance or unsafe work settings, not merely mistaken thinking.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH10-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-10",
+    "title": "Proposed model: Emotional scars are a protective analogy",
+    "content": "A metaphor of a defensive shell represents learned attempts to avoid recurring emotional pain, not literal scar tissue in the mind.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "A metaphor of a defensive shell represents learned attempts to avoid recurring emotional pain, not literal scar tissue in the mind.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "This is metaphor, not a diagnosis or a demonstrated biological scar mechanism.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH10-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-10",
+    "title": "Proposed model: Personalization of ambiguous remarks",
+    "content": "Interpreting generalized statements as personalized insults can amplify distress without new evidence.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-199",
+        "pdf_page": 199,
+        "printed_page": 189,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "Interpreting generalized statements as personalized insults can amplify distress without new evidence.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Discriminatory jokes can still cause harm even when not directed at a particular listener.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH11-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-11",
+    "title": "Proposed model: Personality as expression rather than a fixed inventory",
+    "content": "It frames inhibition as excessive withholding and cautions against confusing awkward performance with an inherent personality deficit.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-213",
+        "pdf_page": 213,
+        "printed_page": 203,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "It frames inhibition as excessive withholding and cautions against confusing awkward performance with an inherent personality deficit.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Introversion, disability and cultural style are not personality defects requiring correction.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH11-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-11",
+    "title": "Proposed model: Others-consciousness as a form of self-consciousness",
+    "content": "Anticipated criticism becomes the focus, leaving insufficient attention for what one wants to say.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "Anticipated criticism becomes the focus, leaving insufficient attention for what one wants to say.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Some social monitoring is adaptive, especially with unequal power or reputational risks.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH12-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-12",
+    "title": "Proposed model: Medication analogy cannot substitute for care",
+    "content": "It contrasts pharmacological effects with voluntarily practiced changes of attention and response.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "It contrasts pharmacological effects with voluntarily practiced changes of attention and response.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Never stop or adjust medication from this book; drug comparisons are oversimplified and dated.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH12-002",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-12",
+    "title": "Proposed model: Short daily mental vacations",
+    "content": "An interval of rest can mark a transition and help lower urgency before new tasks.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-242",
+        "pdf_page": 242,
+        "printed_page": 232,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "An interval of rest can mark a transition and help lower urgency before new tasks.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Rest breaks are not substitutes for workload changes, sleep or clinical care.",
+    "interpretation_boundary": "Book describes the model; scientific/clinical testing outside scope of this stage."
+  },
+  {
+    "id": "PCI-M-CH13-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure-performance account",
+    "content": "The book claims practice conditions, interpretation of threat and a positive task goal interact in crisis responses.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "The book claims practice conditions, interpretation of threat and a positive task goal interact in crisis responses.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Multiple stress pathways exist and no precise built-in servo module is established.",
+    "interpretation_boundary": "Book mechanism only; no distinct brain circuit or measurable patient outcome confirmed."
+  },
+  {
+    "id": "PCI-M-CH14-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-14",
+    "title": "Winning feeling loop",
+    "content": "The source proposes a bidirectional loop between remembered success, feelings and fluent action.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "The source proposes a bidirectional loop between remembered success, feelings and fluent action.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Confidence may accompany performance without predicting it deterministically.",
+    "interpretation_boundary": "Book mechanism only; no distinct brain circuit or measurable patient outcome confirmed."
+  },
+  {
+    "id": "PCI-M-CH15-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-15",
+    "title": "Life-force and adaptation-energy claims",
+    "content": "The source extends Selye’s stress adaptation vocabulary into an organism-wide vitality hypothesis.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "The source extends Selye’s stress adaptation vocabulary into an organism-wide vitality hypothesis.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "A discrete life-force reservoir, psychic antiaging mechanism or longevity benefit is not proved.",
+    "interpretation_boundary": "Book mechanism only; no distinct brain circuit or measurable patient outcome confirmed."
+  },
+  {
+    "id": "PCI-M-CH16-001",
+    "type": "mechanism",
+    "chapter_id": "PCI-CH-16",
+    "title": "Action and feedback over mental rehearsal alone",
+    "content": "The concluding case collection frames behavioral action as essential after imagining goals.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "model_type": "historical_author_model_or_metaphor",
+    "proposed_process": "The concluding case collection frames behavioral action as essential after imagining goals.",
+    "causality_status": "not_established_by_pdf",
+    "limitations": "Testimonials cannot isolate efficacy from opportunity, health, external resources or skill.",
+    "interpretation_boundary": "Book mechanism only; no distinct brain circuit or measurable patient outcome confirmed."
+  }
+]

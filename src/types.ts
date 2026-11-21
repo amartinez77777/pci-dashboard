@@ -1,0 +1,11 @@
+export interface SourceRef { source_id:string; pdf_page:number; printed_page?:number|null; edition_id:string; source_sha256?:string }
+export interface Chapter { id:string; title:string; index_position:number; pdf_start_page:number; pdf_end_page:number; printed_start_page:number; printed_end_page:number; coverage_status:string; section_map_status?:string; source_status:string; evidence_status:string }
+export interface ConceptIndex { id:string; chapter_id:string; title:string; description:string; source_status:string; evidence_status:string }
+export interface Concept extends ConceptIndex { content:string; thesis?:string; author_mechanism?:string; conditions_and_limits?:string; common_misreading?:string; alternative_explanation?:string; source_refs:SourceRef[]; [key:string]:unknown }
+export interface Activity { id:string; title:string; chapter_id:string; source_status:string; concept_ids:string[]; estimated_minutes:number; objective:string; source_refs:SourceRef[] }
+export interface Scenario { id:string; chapter_id:string; title:string; opening_case:string; nodes:Array<{id:string;type:string}>; source_refs:SourceRef[] }
+export interface Rehearsal {id:string;title:string;chapter_id:string;intro:string;scene:string;source_refs:SourceRef[];timing:{full_seconds:number;reduced_seconds:number;no_timer_supported:boolean}}
+export interface CurriculumDay {id:string;day_number:number;chapter_id:string;title:string;daily_task:string;estimated_minutes:number;short_session:unknown;source_status:string;primary_activity_id:string;reflection_prompt:string; checkpoint?:unknown}
+export interface Curriculum {id:string;title:string;origin:string;days:CurriculumDay[]}
+export type StoreName = 'journal_entries'|'identity_notes'|'belief_tests'|'rehearsals'|'goal_metrics'|'quiz_attempts'|'profile_preferences'|'goals'|'beliefs'|'belief_revisions'|'evidence_entries'|'reflection_notes'|'rehearsal_sessions'|'activity_events'|'review_ratings'|'practice_sessions'|'scenario_progress'|'experiments'|'predicted_outcomes'|'observed_outcomes'|'bookmarks'|'backups'|'events'|'program_progress'|'consents';
+export interface PrivateRecord {id:string;store:StoreName;created_at:string;updated_at:string;owner:'user';privacy_mode:'device_local';schema_version:'2.0.0';data:Record<string,unknown>;refs:string[];sensitive:boolean;consent_id?:string}

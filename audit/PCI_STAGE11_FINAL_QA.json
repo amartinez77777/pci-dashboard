@@ -1,0 +1,38 @@
+{
+  "release": "PCI Stage11",
+  "app_version": "0.11.0",
+  "source_archive_sha256": {
+    "stage10_source": "2c84898ce0ab1f47e8b3c7492f67755112b8568bdadee5d8ff8f34cbd41be210",
+    "stage10_handoff": "7a54796bf2299e1f8288496180d82c0d2f9d1413144c229b4b021fbffa8529f2",
+    "stage06_activity": "4a05f6cd19f49f7e07e9252187302ad427572e0cad28b2fc0e374c2bce4f75ac",
+    "stage07_personalization": "b726f90b2325b3527b37c2f156765b635dc08066b2377310b38c3b3d294bf271"
+  },
+  "checks": {
+    "node_tests": 69,
+    "stage08_asset": 34,
+    "stage09_asset": 17,
+    "stage10_asset": 34,
+    "stage11_asset": 45,
+    "browser_stage11": 56
+  },
+  "suite_status": {
+    "node": "PASS",
+    "stage08_asset": "PASS",
+    "stage09_asset": "PASS",
+    "stage10_asset": "PASS",
+    "stage11_asset": "PASS",
+    "typecheck": "PASS",
+    "lint": "PASS",
+    "offline_compilation": "PASS",
+    "chromium_in_memory": "PASS",
+    "official_vite_build": "BLOCKED (vite: not found, exit 127)",
+    "localhost_native_idb": "BLOCKED (ERR_BLOCKED_BY_ADMINISTRATOR)",
+    "ios_safari": "NOT_TESTED"
+  },
+  "caveats": [
+    "No full PDF newly inspected",
+    "No real secure-origin native IndexedDB or iPhone testing",
+    "No verified React18 Vite production output",
+    "No guaranteed real-world effects of rehearsal"
+  ]
+}

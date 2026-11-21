@@ -1,0 +1,21 @@
+{
+  "project": "PSYCHO-CYBERNETICS-INTELLIGENCE",
+  "stage": "07",
+  "schema_version": "1.0.0",
+  "canonical_knowledge_pack_version": "1.0.0",
+  "activity_content_version": "1.0.0",
+  "personal_data_schema_version": "2.0.0",
+  "personalization_engine_version": "1.0.0",
+  "original_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "research_id_count_preserved": 1676,
+  "stage06_id_count_preserved": 1747,
+  "new_public_ids": 22,
+  "combined_id_count": 1769,
+  "curriculum_days": 21,
+  "recommendation_candidates": 60,
+  "review_seeds": 201,
+  "source_status": "inherited_from_stage05_stage06_not_rechecked_against_pdf",
+  "privacy": "No actual private data is included. Any user records appear in explicit synthetic fixtures only.",
+  "public_distribution": "Do not publish user exports, IndexedDB records or copyrighted PDF.",
+  "app_status": "Algorithms and contracts built; not a deployed browser application."
+}

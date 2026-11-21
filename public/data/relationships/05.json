@@ -1,0 +1,854 @@
+[
+  {
+    "id": "PCI-R-0025",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Reasoned interpretation as an input to habit ↔ Belief revision requires testing the premise",
+    "content": "The new rational interpretation method operationalizes the earlier challenge to a restrictive premise.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-001",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "complements",
+    "rationale": "The new rational interpretation method operationalizes the earlier challenge to a restrictive premise.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-001": {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-001": {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0026",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Conscious decision plus imagination ↔ Decision imagination and self-image work order",
+    "content": "Chapter 5 explicitly adds rational thinking before the earlier decision–imagery–self-image work order.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-093",
+        "pdf_page": 93,
+        "printed_page": 83,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-002",
+    "to_id": "PCI-C-CH02-002",
+    "relationship_type": "complements",
+    "rationale": "Chapter 5 explicitly adds rational thinking before the earlier decision–imagery–self-image work order.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-093",
+        "pdf_page": 93,
+        "printed_page": 83,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-002": {
+        "source_id": "PCI-SRC-PDF-093",
+        "pdf_page": 93,
+        "printed_page": 83,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-002": {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0027",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Test a self-imposed limit experimentally ↔ False belief versus dishonest pretending",
+    "content": "Testing a preference against new observation offers a less performative alternative to claiming a false belief is true.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-003",
+    "to_id": "PCI-C-CH04-002",
+    "relationship_type": "complements",
+    "rationale": "Testing a preference against new observation offers a less performative alternative to claiming a false belief is true.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-003": {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-002": {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0028",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Use past mistakes as feedback, not a destination ↔ Negative feedback and iterative correction",
+    "content": "The earlier negative-feedback metaphor is repurposed to explain how to learn from an error without perseverating on it.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-095",
+        "pdf_page": 95,
+        "printed_page": 85,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-004",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "complements",
+    "rationale": "The earlier negative-feedback metaphor is repurposed to explain how to learn from an error without perseverating on it.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-095",
+        "pdf_page": 95,
+        "printed_page": 85,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-004": {
+        "source_id": "PCI-SRC-PDF-095",
+        "pdf_page": 95,
+        "printed_page": 85,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-005": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0029",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Short-memory performance reset ↔ Implicit skill fluency and habit",
+    "content": "A short attentional reset after a missed play parallels the earlier account of skill fluency and practiced responses.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-005",
+    "to_id": "PCI-C-CH02-006",
+    "relationship_type": "complements",
+    "rationale": "A short attentional reset after a missed play parallels the earlier account of skill fluency and practiced responses.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-005": {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-006": {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0030",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Act-as-if is behavior rehearsal, not proof ↔ Behavioral rehearsal with imagined details",
+    "content": "Brande’s attempted action is a reported example of the behavior-rehearsal ideas introduced earlier.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-097",
+        "pdf_page": 97,
+        "printed_page": 87,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-006",
+    "to_id": "PCI-C-CH03-005",
+    "relationship_type": "complements",
+    "rationale": "Brande’s attempted action is a reported example of the behavior-rehearsal ideas introduced earlier.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-097",
+        "pdf_page": 97,
+        "printed_page": 87,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-006": {
+        "source_id": "PCI-SRC-PDF-097",
+        "pdf_page": 97,
+        "printed_page": 87,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-005": {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0031",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Bertrand Russell and disputing inherited guilt ↔ Self-consistency system",
+    "content": "Russell’s conflicting convictions instantiate the self-consistency explanation from Chapter 1.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-007",
+    "to_id": "PCI-C-CH01-004",
+    "relationship_type": "complements",
+    "rationale": "Russell’s conflicting convictions instantiate the self-consistency explanation from Chapter 1.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-007": {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-004": {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0032",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Self-consistency through conflicting convictions ↔ Self-consistency system",
+    "content": "The sales example applies self-consistency reasoning to status-related intimidation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-099",
+        "pdf_page": 99,
+        "printed_page": 89,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-008",
+    "to_id": "PCI-C-CH01-004",
+    "relationship_type": "supports",
+    "rationale": "The sales example applies self-consistency reasoning to status-related intimidation.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-099",
+        "pdf_page": 99,
+        "printed_page": 89,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-008": {
+        "source_id": "PCI-SRC-PDF-099",
+        "pdf_page": 99,
+        "printed_page": 89,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-004": {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0033",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Backwards goal-setting from nonnegotiables ↔ Decision imagination and self-image work order",
+    "content": "Backward constraints are used to narrow the selection of a feasible goal before imagery.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-009",
+    "to_id": "PCI-C-CH02-002",
+    "relationship_type": "complements",
+    "rationale": "Backward constraints are used to narrow the selection of a feasible goal before imagery.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-009": {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-002": {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0034",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "A limiting belief must face precise questions ↔ Belief revision requires testing the premise",
+    "content": "The author’s actual self-inquiry questions make explicit the epistemic test that Chapter 4 introduces.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-010",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "complements",
+    "rationale": "The author’s actual self-inquiry questions make explicit the epistemic test that Chapter 4 introduces.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-010": {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-001": {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0035",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Do not confuse game stakes with total self-worth ↔ Adequate and realistic self-acceptance",
+    "content": "Treating an error as an episode rather than a global self verdict elaborates realistic self-acceptance.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-105",
+        "pdf_page": 105,
+        "printed_page": 95,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-012",
+    "to_id": "PCI-C-CH01-007",
+    "relationship_type": "qualifies",
+    "rationale": "Treating an error as an episode rather than a global self verdict elaborates realistic self-acceptance.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-105",
+        "pdf_page": 105,
+        "printed_page": 95,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-012": {
+        "source_id": "PCI-SRC-PDF-105",
+        "pdf_page": 105,
+        "printed_page": 95,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-007": {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0036",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-05",
+    "title": "Attend to what you want and present feedback ↔ Negative feedback and iterative correction",
+    "content": "The chapter links rational goal choice to immediate performance feedback rather than magical results.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH05-013",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "complements",
+    "rationale": "The chapter links rational goal choice to immediate performance feedback rather than magical results.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH05-013": {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-005": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  }
+]

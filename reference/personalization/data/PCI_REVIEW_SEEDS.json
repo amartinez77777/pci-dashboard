@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "PCI-C-CH01-001",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-image as working self-description",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-002",
+    "chapter_id": "PCI-CH-01",
+    "title": "Snap-back and self-confirming loops",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-003",
+    "chapter_id": "PCI-CH-01",
+    "title": "Inside-out change versus surface affirmation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-015",
+        "pdf_page": 15,
+        "printed_page": 5,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-004",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-consistency system",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-005",
+    "chapter_id": "PCI-CH-01",
+    "title": "Surgery, appearance and subjective identity",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-006",
+    "chapter_id": "PCI-CH-01",
+    "title": "Scars and contextual meaning",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-007",
+    "chapter_id": "PCI-CH-01",
+    "title": "Adequate and realistic self-acceptance",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-008",
+    "chapter_id": "PCI-CH-01",
+    "title": "Goal setting filtered through self-image",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-025",
+        "pdf_page": 25,
+        "printed_page": 15,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-009",
+    "chapter_id": "PCI-CH-01",
+    "title": "Imprinting through authority, intensity and repetition",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-027",
+        "pdf_page": 27,
+        "printed_page": 17,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-010",
+    "chapter_id": "PCI-CH-01",
+    "title": "Role models and imagined advisers",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-033",
+        "pdf_page": 33,
+        "printed_page": 23,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-001",
+    "chapter_id": "PCI-CH-02",
+    "title": "Built-in success instinct metaphor",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-002",
+    "chapter_id": "PCI-CH-02",
+    "title": "Decision imagination and self-image work order",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-003",
+    "chapter_id": "PCI-CH-02",
+    "title": "Purposeful imagination in design",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-004",
+    "chapter_id": "PCI-CH-02",
+    "title": "Two kinds of goal search",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-040",
+        "pdf_page": 40,
+        "printed_page": 30,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-005",
+    "chapter_id": "PCI-CH-02",
+    "title": "Negative feedback and iterative correction",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-006",
+    "chapter_id": "PCI-CH-02",
+    "title": "Implicit skill fluency and habit",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-007",
+    "chapter_id": "PCI-CH-02",
+    "title": "Incubation and retrieving ideas",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-008",
+    "chapter_id": "PCI-CH-02",
+    "title": "Claims of universal mind and ESP",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-009",
+    "chapter_id": "PCI-CH-02",
+    "title": "Credible self-reframing rather than arbitrary affirmations",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-049",
+        "pdf_page": 49,
+        "printed_page": 39,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-001",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagined social rejection",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-002",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagination as goal picture",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-055",
+        "pdf_page": 55,
+        "printed_page": 45,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-003",
+    "chapter_id": "PCI-CH-03",
+    "title": "Negative suggestions and nocebo-like expectations",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-056",
+        "pdf_page": 56,
+        "printed_page": 46,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-004",
+    "chapter_id": "PCI-CH-03",
+    "title": "Hypnosis and belief-based behavior",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-005",
+    "chapter_id": "PCI-CH-03",
+    "title": "Behavioral rehearsal with imagined details",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-006",
+    "chapter_id": "PCI-CH-03",
+    "title": "Basketball mental practice comparison",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-063",
+        "pdf_page": 63,
+        "printed_page": 53,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-007",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagery for pain and recovery: medical claim",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-008",
+    "chapter_id": "PCI-CH-03",
+    "title": "Performance scripts in selling and interviewing",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-065",
+        "pdf_page": 65,
+        "printed_page": 55,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-009",
+    "chapter_id": "PCI-CH-03",
+    "title": "Specific, vivid targets and skill feedback",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-069",
+        "pdf_page": 69,
+        "printed_page": 59,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-010",
+    "chapter_id": "PCI-CH-03",
+    "title": "Theater of the Mind 21-day sequence",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-011",
+    "chapter_id": "PCI-CH-03",
+    "title": "Religion and self-acceptance framing",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-074",
+        "pdf_page": 74,
+        "printed_page": 64,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-001",
+    "chapter_id": "PCI-CH-04",
+    "title": "Belief revision requires testing the premise",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-002",
+    "chapter_id": "PCI-CH-04",
+    "title": "False belief versus dishonest pretending",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-003",
+    "chapter_id": "PCI-CH-04",
+    "title": "Speech inhibition and personal appearance",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-080",
+        "pdf_page": 80,
+        "printed_page": 70,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-004",
+    "chapter_id": "PCI-CH-04",
+    "title": "Suggested ceilings in sales",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-081",
+        "pdf_page": 81,
+        "printed_page": 71,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-005",
+    "chapter_id": "PCI-CH-04",
+    "title": "Mr. Russell and illness beliefs",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-082",
+        "pdf_page": 82,
+        "printed_page": 72,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-006",
+    "chapter_id": "PCI-CH-04",
+    "title": "Hypnosis demonstrations as skill-release analogy",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-084",
+        "pdf_page": 84,
+        "printed_page": 74,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-007",
+    "chapter_id": "PCI-CH-04",
+    "title": "Inferiority feeling versus unequal skill",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-086",
+        "pdf_page": 86,
+        "printed_page": 76,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-008",
+    "chapter_id": "PCI-CH-04",
+    "title": "Social comparison and biased benchmarks",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-009",
+    "chapter_id": "PCI-CH-04",
+    "title": "Relaxation to soften rigid beliefs",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-010",
+    "chapter_id": "PCI-CH-04",
+    "title": "Individuality beyond inferiority or superiority",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-088",
+        "pdf_page": 88,
+        "printed_page": 78,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-001",
+    "chapter_id": "PCI-CH-05",
+    "title": "Reasoned interpretation as an input to habit",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-002",
+    "chapter_id": "PCI-CH-05",
+    "title": "Conscious decision plus imagination",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-093",
+        "pdf_page": 93,
+        "printed_page": 83,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-003",
+    "chapter_id": "PCI-CH-05",
+    "title": "Test a self-imposed limit experimentally",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-004",
+    "chapter_id": "PCI-CH-05",
+    "title": "Use past mistakes as feedback, not a destination",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-095",
+        "pdf_page": 95,
+        "printed_page": 85,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-005",
+    "chapter_id": "PCI-CH-05",
+    "title": "Short-memory performance reset",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-006",
+    "chapter_id": "PCI-CH-05",
+    "title": "Act-as-if is behavior rehearsal, not proof",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-097",
+        "pdf_page": 97,
+        "printed_page": 87,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-007",
+    "chapter_id": "PCI-CH-05",
+    "title": "Bertrand Russell and disputing inherited guilt",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-098",
+        "pdf_page": 98,
+        "printed_page": 88,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-008",
+    "chapter_id": "PCI-CH-05",
+    "title": "Self-consistency through conflicting convictions",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-099",
+        "pdf_page": 99,
+        "printed_page": 89,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-009",
+    "chapter_id": "PCI-CH-05",
+    "title": "Backwards goal-setting from nonnegotiables",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-010",
+    "chapter_id": "PCI-CH-05",
+    "title": "A limiting belief must face precise questions",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-011",
+    "chapter_id": "PCI-CH-05",
+    "title": "Emotional imagery and desired consequences",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-103",
+        "pdf_page": 103,
+        "printed_page": 93,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-012",
+    "chapter_id": "PCI-CH-05",
+    "title": "Do not confuse game stakes with total self-worth",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-105",
+        "pdf_page": 105,
+        "printed_page": 95,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH05-013",
+    "chapter_id": "PCI-CH-05",
+    "title": "Attend to what you want and present feedback",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-001",
+    "chapter_id": "PCI-CH-06",
+    "title": "Preparation and execution require different attention",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-002",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative incubation follows engagement",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-003",
+    "chapter_id": "PCI-CH-06",
+    "title": "Russell’s leave-it-underground writing routine",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-114",
+        "pdf_page": 114,
+        "printed_page": 104,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-004",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative work extends beyond artistic professions",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-115",
+        "pdf_page": 115,
+        "printed_page": 105,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-005",
+    "chapter_id": "PCI-CH-06",
+    "title": "Spontaneous skill and overcontrol",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-006",
+    "chapter_id": "PCI-CH-06",
+    "title": "Decision finality as a context-sensitive habit",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-007",
+    "chapter_id": "PCI-CH-06",
+    "title": "Lock-box decision visualization",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-008",
+    "chapter_id": "PCI-CH-06",
+    "title": "Present-moment responsiveness",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-009",
+    "chapter_id": "PCI-CH-06",
+    "title": "Observation memory as an attentional exercise",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-010",
+    "chapter_id": "PCI-CH-06",
+    "title": "Hourglass and single-task working",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-011",
+    "chapter_id": "PCI-CH-06",
+    "title": "Sleep-on-it without magical guarantees",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH06-012",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall relaxation during work",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-125",
+        "pdf_page": 125,
+        "printed_page": 115,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-001",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness as pleasant mental activity",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-002",
+    "chapter_id": "PCI-CH-07",
+    "title": "Mental-state medical claims require boundaries",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-003",
+    "chapter_id": "PCI-CH-07",
+    "title": "Prosocial attention and nontransactional happiness",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-004",
+    "chapter_id": "PCI-CH-07",
+    "title": "Deferring happiness until a milestone",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-130",
+        "pdf_page": 130,
+        "printed_page": 120,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-005",
+    "chapter_id": "PCI-CH-07",
+    "title": "Impersonal events interpreted as personal insults",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-006",
+    "chapter_id": "PCI-CH-07",
+    "title": "Separate event facts from identity verdicts",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-007",
+    "chapter_id": "PCI-CH-07",
+    "title": "Goal orientation after setbacks",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-008",
+    "chapter_id": "PCI-CH-07",
+    "title": "Attention and agency without denial",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-135",
+        "pdf_page": 135,
+        "printed_page": 125,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-009",
+    "chapter_id": "PCI-CH-07",
+    "title": "Interrupting repetitive pessimistic scripts",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-137",
+        "pdf_page": 137,
+        "printed_page": 127,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-010",
+    "chapter_id": "PCI-CH-07",
+    "title": "Skeptical one-month thought experiment",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-139",
+        "pdf_page": 139,
+        "printed_page": 129,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-011",
+    "chapter_id": "PCI-CH-07",
+    "title": "Habits differ from addiction",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-012",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty-day shoe and mood habit experiment",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-001",
+    "chapter_id": "PCI-CH-08",
+    "title": "Role transition can unsettle identity",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-002",
+    "chapter_id": "PCI-CH-08",
+    "title": "The seven-part SUCCESS mnemonic",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-146",
+        "pdf_page": 146,
+        "printed_page": 136,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-003",
+    "chapter_id": "PCI-CH-08",
+    "title": "Sense of direction after a goal",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-004",
+    "chapter_id": "PCI-CH-08",
+    "title": "Understanding others and separating facts from opinion",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-148",
+        "pdf_page": 148,
+        "printed_page": 138,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-005",
+    "chapter_id": "PCI-CH-08",
+    "title": "Truthful negative feedback without identity collapse",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-006",
+    "chapter_id": "PCI-CH-08",
+    "title": "Everyday courage as calculated action",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-007",
+    "chapter_id": "PCI-CH-08",
+    "title": "Charity as respect for other people",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-008",
+    "chapter_id": "PCI-CH-08",
+    "title": "Internal criticism and self-esteem",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-154",
+        "pdf_page": 154,
+        "printed_page": 144,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-009",
+    "chapter_id": "PCI-CH-08",
+    "title": "Build confidence from graded mastery",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-010",
+    "chapter_id": "PCI-CH-08",
+    "title": "Accept yourself while correcting behavior",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-158",
+        "pdf_page": 158,
+        "printed_page": 148,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-011",
+    "chapter_id": "PCI-CH-08",
+    "title": "Reject externally imposed identity rankings",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-012",
+    "chapter_id": "PCI-CH-08",
+    "title": "Adversity Quotient as a source-attributed construct",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-013",
+    "chapter_id": "PCI-CH-08",
+    "title": "Unburdening as an illustrative parable",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-001",
+    "chapter_id": "PCI-CH-09",
+    "title": "Negative emotions as warning lights",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-002",
+    "chapter_id": "PCI-CH-09",
+    "title": "FAILURE as a mnemonic, not a diagnosis",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-167",
+        "pdf_page": 167,
+        "printed_page": 157,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-003",
+    "chapter_id": "PCI-CH-09",
+    "title": "Frustration versus perfectionism",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-168",
+        "pdf_page": 168,
+        "printed_page": 158,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-004",
+    "chapter_id": "PCI-CH-09",
+    "title": "Failure expectations and self-confirming behavior",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-169",
+        "pdf_page": 169,
+        "printed_page": 159,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-005",
+    "chapter_id": "PCI-CH-09",
+    "title": "Misdirected aggressiveness",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-170",
+        "pdf_page": 170,
+        "printed_page": 160,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-006",
+    "chapter_id": "PCI-CH-09",
+    "title": "Direct problem-solving instead of displacement",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-172",
+        "pdf_page": 172,
+        "printed_page": 162,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-007",
+    "chapter_id": "PCI-CH-09",
+    "title": "Insecurity and conditional competence",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-173",
+        "pdf_page": 173,
+        "printed_page": 163,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-008",
+    "chapter_id": "PCI-CH-09",
+    "title": "Recalibration rather than absolute superiority",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-175",
+        "pdf_page": 175,
+        "printed_page": 165,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-009",
+    "chapter_id": "PCI-CH-09",
+    "title": "Loneliness and social participation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-176",
+        "pdf_page": 176,
+        "printed_page": 166,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-010",
+    "chapter_id": "PCI-CH-09",
+    "title": "Uncertainty and the impossibility of perfect prediction",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-011",
+    "chapter_id": "PCI-CH-09",
+    "title": "Resentment and perceived debt",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-181",
+        "pdf_page": 181,
+        "printed_page": 171,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-012",
+    "chapter_id": "PCI-CH-09",
+    "title": "Emptiness despite status and achievement",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-185",
+        "pdf_page": 185,
+        "printed_page": 175,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH09-013",
+    "chapter_id": "PCI-CH-09",
+    "title": "Glance at the negative and return to the road",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-001",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional scars are a protective analogy",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-002",
+    "chapter_id": "PCI-CH-10",
+    "title": "George T. and the physical-social distinction",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-192",
+        "pdf_page": 192,
+        "printed_page": 182,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-003",
+    "chapter_id": "PCI-CH-10",
+    "title": "Avoidance spreads beyond the original context",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-193",
+        "pdf_page": 193,
+        "printed_page": 183,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-004",
+    "chapter_id": "PCI-CH-10",
+    "title": "Putty rather than plaster self-image",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-005",
+    "chapter_id": "PCI-CH-10",
+    "title": "Overprotection can restrict connection",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-006",
+    "chapter_id": "PCI-CH-10",
+    "title": "Delinquency anecdotes do not establish cause",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-196",
+        "pdf_page": 196,
+        "printed_page": 186,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-007",
+    "chapter_id": "PCI-CH-10",
+    "title": "Preventing minor interpersonal slights from escalating",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-197",
+        "pdf_page": 197,
+        "printed_page": 187,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-008",
+    "chapter_id": "PCI-CH-10",
+    "title": "Personalization of ambiguous remarks",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-199",
+        "pdf_page": 199,
+        "printed_page": 189,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-009",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-reliance without isolation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-010",
+    "chapter_id": "PCI-CH-10",
+    "title": "Relaxation as a response option, not immunity",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-202",
+        "pdf_page": 202,
+        "printed_page": 192,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-011",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgiveness as release of continuing grievance",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-204",
+        "pdf_page": 204,
+        "printed_page": 194,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-012",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-forgiveness and responsibility",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-013",
+    "chapter_id": "PCI-CH-10",
+    "title": "Actions are not identity nouns",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-209",
+        "pdf_page": 209,
+        "printed_page": 199,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-014",
+    "chapter_id": "PCI-CH-10",
+    "title": "Creative vulnerability versus an oyster shell",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-210",
+        "pdf_page": 210,
+        "printed_page": 200,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH10-015",
+    "chapter_id": "PCI-CH-10",
+    "title": "Youthful appearance claims require independent review",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-001",
+    "chapter_id": "PCI-CH-11",
+    "title": "Personality as expression rather than a fixed inventory",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-213",
+        "pdf_page": 213,
+        "printed_page": 203,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-002",
+    "chapter_id": "PCI-CH-11",
+    "title": "Excessive negative feedback as inhibition",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-214",
+        "pdf_page": 214,
+        "printed_page": 204,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-003",
+    "chapter_id": "PCI-CH-11",
+    "title": "Stuttering as an illustration, not single-cause theory",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-216",
+        "pdf_page": 216,
+        "printed_page": 206,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-004",
+    "chapter_id": "PCI-CH-11",
+    "title": "Self-criticism during performance can disrupt flow",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-005",
+    "chapter_id": "PCI-CH-11",
+    "title": "Training environments combine rehearsal and exposure",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-218",
+        "pdf_page": 218,
+        "printed_page": 208,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-006",
+    "chapter_id": "PCI-CH-11",
+    "title": "Excessive carefulness can itself create mistakes",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-220",
+        "pdf_page": 220,
+        "printed_page": 210,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-007",
+    "chapter_id": "PCI-CH-11",
+    "title": "Authenticity and social presentation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-221",
+        "pdf_page": 221,
+        "printed_page": 211,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-008",
+    "chapter_id": "PCI-CH-11",
+    "title": "Others-consciousness as a form of self-consciousness",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-009",
+    "chapter_id": "PCI-CH-11",
+    "title": "Poise by reducing unnecessary surveillance",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-223",
+        "pdf_page": 223,
+        "printed_page": 213,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-010",
+    "chapter_id": "PCI-CH-11",
+    "title": "Athlete comeback used as a performance story",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-225",
+        "pdf_page": 225,
+        "printed_page": 215,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-011",
+    "chapter_id": "PCI-CH-11",
+    "title": "Personal judgment versus dependence on critics",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-227",
+        "pdf_page": 227,
+        "printed_page": 217,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-012",
+    "chapter_id": "PCI-CH-11",
+    "title": "Conscience can overgeneralize moral rules",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-228",
+        "pdf_page": 228,
+        "printed_page": 218,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-013",
+    "chapter_id": "PCI-CH-11",
+    "title": "Disinhibition needs balancing and context",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-230",
+        "pdf_page": 230,
+        "printed_page": 220,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH11-014",
+    "chapter_id": "PCI-CH-11",
+    "title": "Expressing appreciation as behavioral practice",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-001",
+    "chapter_id": "PCI-CH-12",
+    "title": "Medication analogy cannot substitute for care",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-002",
+    "chapter_id": "PCI-CH-12",
+    "title": "The ringing telephone as a response-choice model",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-235",
+        "pdf_page": 235,
+        "printed_page": 225,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-003",
+    "chapter_id": "PCI-CH-12",
+    "title": "Habit learning and Pavlovian cues",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-236",
+        "pdf_page": 236,
+        "printed_page": 226,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-004",
+    "chapter_id": "PCI-CH-12",
+    "title": "Extinguishing a learned response through deliberate pause",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-237",
+        "pdf_page": 237,
+        "printed_page": 227,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-005",
+    "chapter_id": "PCI-CH-12",
+    "title": "Delay when ignoring a stimulus is not appropriate",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-238",
+        "pdf_page": 238,
+        "printed_page": 228,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-006",
+    "chapter_id": "PCI-CH-12",
+    "title": "Relaxation as a self-regulation practice",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-239",
+        "pdf_page": 239,
+        "printed_page": 229,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-007",
+    "chapter_id": "PCI-CH-12",
+    "title": "Pre-performance ritual as a cue for preparation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-239",
+        "pdf_page": 239,
+        "printed_page": 229,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-008",
+    "chapter_id": "PCI-CH-12",
+    "title": "An imaginary quiet room",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-240",
+        "pdf_page": 240,
+        "printed_page": 230,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-009",
+    "chapter_id": "PCI-CH-12",
+    "title": "Short daily mental vacations",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-242",
+        "pdf_page": 242,
+        "printed_page": 232,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-010",
+    "chapter_id": "PCI-CH-12",
+    "title": "Escapism as limited respite",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-243",
+        "pdf_page": 243,
+        "printed_page": 233,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-011",
+    "chapter_id": "PCI-CH-12",
+    "title": "Emotional carry-over between tasks",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-244",
+        "pdf_page": 244,
+        "printed_page": 234,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-012",
+    "chapter_id": "PCI-CH-12",
+    "title": "Concentration on one task at a time",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-245",
+        "pdf_page": 245,
+        "printed_page": 235,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-013",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator visualization",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-014",
+    "chapter_id": "PCI-CH-12",
+    "title": "Louganis rehearsals as an attributed example",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-015",
+    "chapter_id": "PCI-CH-12",
+    "title": "Television-host clicking ritual",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-247",
+        "pdf_page": 247,
+        "printed_page": 237,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-016",
+    "chapter_id": "PCI-CH-12",
+    "title": "Acting versus reactive drifting",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-249",
+        "pdf_page": 249,
+        "printed_page": 239,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-017",
+    "chapter_id": "PCI-CH-12",
+    "title": "Imagined straw men and present evidence",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-250",
+        "pdf_page": 250,
+        "printed_page": 240,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-001",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure can change an already learned performance",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-253",
+        "pdf_page": 253,
+        "printed_page": 243,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-002",
+    "chapter_id": "PCI-CH-13",
+    "title": "Mistakes do not define the performer",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-254",
+        "pdf_page": 254,
+        "printed_page": 244,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-003",
+    "chapter_id": "PCI-CH-13",
+    "title": "Three-part approach to pressure",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-004",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure can narrow a learned response",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-256",
+        "pdf_page": 256,
+        "printed_page": 246,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-005",
+    "chapter_id": "PCI-CH-13",
+    "title": "Non-emergency drills create flexible plans",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-257",
+        "pdf_page": 257,
+        "printed_page": 247,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-006",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shadow-boxing as simulated practice",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-007",
+    "chapter_id": "PCI-CH-13",
+    "title": "Safe rehearsal supports self-expression",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-008",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shifting attention from outcome to perception",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-260",
+        "pdf_page": 260,
+        "printed_page": 250,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-009",
+    "chapter_id": "PCI-CH-13",
+    "title": "Low-stakes sales rehearsal",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-261",
+        "pdf_page": 261,
+        "printed_page": 251,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-010",
+    "chapter_id": "PCI-CH-13",
+    "title": "Crisis as progress toward a larger goal",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-262",
+        "pdf_page": 262,
+        "printed_page": 252,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-011",
+    "chapter_id": "PCI-CH-13",
+    "title": "Reframe arousal without demanding its removal",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-012",
+    "chapter_id": "PCI-CH-13",
+    "title": "Emotional energy depends on context",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-265",
+        "pdf_page": 265,
+        "printed_page": 255,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-013",
+    "chapter_id": "PCI-CH-13",
+    "title": "Worst-case appraisal and perspective",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-267",
+        "pdf_page": 267,
+        "printed_page": 257,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-014",
+    "chapter_id": "PCI-CH-13",
+    "title": "There can be a second act",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH13-015",
+    "chapter_id": "PCI-CH-13",
+    "title": "Future-retrospective perspective",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-001",
+    "chapter_id": "PCI-CH-14",
+    "title": "Goal direction and the servant metaphor",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-271",
+        "pdf_page": 271,
+        "printed_page": 261,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-002",
+    "chapter_id": "PCI-CH-14",
+    "title": "Possible positive outcomes can be pictured",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-272",
+        "pdf_page": 272,
+        "printed_page": 262,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-003",
+    "chapter_id": "PCI-CH-14",
+    "title": "Winning feeling as an indicator, not a guarantee",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-004",
+    "chapter_id": "PCI-CH-14",
+    "title": "The zone is framed as an emotional state",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-274",
+        "pdf_page": 274,
+        "printed_page": 264,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-005",
+    "chapter_id": "PCI-CH-14",
+    "title": "Self-image can support persistence after failure",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-275",
+        "pdf_page": 275,
+        "printed_page": 265,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-006",
+    "chapter_id": "PCI-CH-14",
+    "title": "Attach past confidence to a new task",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-276",
+        "pdf_page": 276,
+        "printed_page": 266,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-007",
+    "chapter_id": "PCI-CH-14",
+    "title": "Progress stories can be interpreted differently",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-277",
+        "pdf_page": 277,
+        "printed_page": 267,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-008",
+    "chapter_id": "PCI-CH-14",
+    "title": "Electronic mouse illustrates trial and error",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-278",
+        "pdf_page": 278,
+        "printed_page": 268,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-009",
+    "chapter_id": "PCI-CH-14",
+    "title": "Brain engram claims require historical context",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-279",
+        "pdf_page": 279,
+        "printed_page": 269,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-010",
+    "chapter_id": "PCI-CH-14",
+    "title": "Small wins establish a workable progression",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-011",
+    "chapter_id": "PCI-CH-14",
+    "title": "Detailed positive memory replay",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-282",
+        "pdf_page": 282,
+        "printed_page": 272,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-012",
+    "chapter_id": "PCI-CH-14",
+    "title": "Constructive imagining instead of worry",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-013",
+    "chapter_id": "PCI-CH-14",
+    "title": "Replace unproductive worry images",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-286",
+        "pdf_page": 286,
+        "printed_page": 276,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-014",
+    "chapter_id": "PCI-CH-14",
+    "title": "Memory reconstruction is not literal recording",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-288",
+        "pdf_page": 288,
+        "printed_page": 278,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH14-015",
+    "chapter_id": "PCI-CH-14",
+    "title": "Identity affirmation as a cue to action",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-001",
+    "chapter_id": "PCI-CH-15",
+    "title": "Longevity discussion is explicitly a hypothesis",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-290",
+        "pdf_page": 290,
+        "printed_page": 280,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-002",
+    "chapter_id": "PCI-CH-15",
+    "title": "Over-beliefs separate philosophy from proof",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-291",
+        "pdf_page": 291,
+        "printed_page": 281,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-003",
+    "chapter_id": "PCI-CH-15",
+    "title": "Meaningful goals and engagement",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-292",
+        "pdf_page": 292,
+        "printed_page": 282,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-004",
+    "chapter_id": "PCI-CH-15",
+    "title": "Adaptation energy is not established life force",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-005",
+    "chapter_id": "PCI-CH-15",
+    "title": "Medical healing is more complex than one mechanism",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-294",
+        "pdf_page": 294,
+        "printed_page": 284,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-006",
+    "chapter_id": "PCI-CH-15",
+    "title": "Historical antiaging treatment references",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-295",
+        "pdf_page": 295,
+        "printed_page": 285,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-007",
+    "chapter_id": "PCI-CH-15",
+    "title": "Optimism in surgical recovery is correlational anecdote",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-296",
+        "pdf_page": 296,
+        "printed_page": 286,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-008",
+    "chapter_id": "PCI-CH-15",
+    "title": "Placebo examples cannot prove cure by expectation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-009",
+    "chapter_id": "PCI-CH-15",
+    "title": "Age stereotypes can shape choices",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-298",
+        "pdf_page": 298,
+        "printed_page": 288,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-010",
+    "chapter_id": "PCI-CH-15",
+    "title": "Human needs and expectation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-299",
+        "pdf_page": 299,
+        "printed_page": 289,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-011",
+    "chapter_id": "PCI-CH-15",
+    "title": "Creativity and lifespan anecdotes",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-012",
+    "chapter_id": "PCI-CH-15",
+    "title": "Retirement need not mean loss of identity",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-302",
+        "pdf_page": 302,
+        "printed_page": 292,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-013",
+    "chapter_id": "PCI-CH-15",
+    "title": "Faith and healing as spiritual interpretation",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-303",
+        "pdf_page": 303,
+        "printed_page": 293,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-014",
+    "chapter_id": "PCI-CH-15",
+    "title": "Religion and medicine need not conflict",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-304",
+        "pdf_page": 304,
+        "printed_page": 294,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH15-015",
+    "chapter_id": "PCI-CH-15",
+    "title": "Acceptance of help and personal worth",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-305",
+        "pdf_page": 305,
+        "printed_page": 295,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-001",
+    "chapter_id": "PCI-CH-16",
+    "title": "Case collection is testimony, not a trial",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-307",
+        "pdf_page": 307,
+        "printed_page": 297,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-002",
+    "chapter_id": "PCI-CH-16",
+    "title": "Self-belief interacts with material support",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-308",
+        "pdf_page": 308,
+        "printed_page": 298,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-003",
+    "chapter_id": "PCI-CH-16",
+    "title": "Self-labels should be empirically tested",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-309",
+        "pdf_page": 309,
+        "printed_page": 299,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-004",
+    "chapter_id": "PCI-CH-16",
+    "title": "Testimonials combine repeated study and context",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-310",
+        "pdf_page": 310,
+        "printed_page": 300,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-005",
+    "chapter_id": "PCI-CH-16",
+    "title": "Team learning combines physical and mental components",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-312",
+        "pdf_page": 312,
+        "printed_page": 302,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-006",
+    "chapter_id": "PCI-CH-16",
+    "title": "Medical recovery anecdotes require careful limits",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "id": "PCI-C-CH16-007",
+    "chapter_id": "PCI-CH-16",
+    "title": "Action is distinguished from visualization alone",
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  }
+]

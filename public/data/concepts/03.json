@@ -1,0 +1,692 @@
+[
+  {
+    "id": "PCI-C-CH03-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagined social rejection",
+    "content": "Unverified assumptions about how others perceive us can shape withdrawal and distress. A clinic patient avoided social settings after imagining that others mocked his nose and ears; the narrator describes change after conversations and family support.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-053",
+        "pdf_page": 53,
+        "printed_page": 43,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Unverified assumptions about how others perceive us can shape withdrawal and distress.",
+    "terms": {
+      "primary": "Imagined social rejection",
+      "definition": "Unverified assumptions about how others perceive us can shape withdrawal and distress."
+    },
+    "author_mechanism": "A clinic patient avoided social settings after imagining that others mocked his nose and ears; the narrator describes change after conversations and family support.",
+    "conditions_and_limits": "Do not treat severe isolation or distress as simply imagination; professional support may be appropriate.",
+    "application": "In a low-stakes setting, contrast what you predicted others would do with what was actually observed.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Social anxiety, bullying history, stigma and actual exclusion may all matter.",
+    "ethical_clinical_cautions": "Do not treat severe isolation or distress as simply imagination; professional support may be appropriate.",
+    "substantive_paraphrase": "Unverified assumptions about how others perceive us can shape withdrawal and distress. In the revised book this is explained through a clinic patient avoided social settings after imagining that others mocked his nose and ears; the narrator describes change after conversations and family support. A careful application would be: In a low-stakes setting, contrast what you predicted others would do with what was actually observed.",
+    "claim_ids": [
+      "PCI-CL-CH03-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-003"
+    ],
+    "tags": [
+      "imagined",
+      "social",
+      "rejection"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-005"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagination as goal picture",
+    "content": "The author says imagery supplies a target for behavior, but presents this as a near-universal law. The chapter says people act consistently with imagined reality and illustrates with hypnosis and physiology examples.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-055",
+        "pdf_page": 55,
+        "printed_page": 45,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author says imagery supplies a target for behavior, but presents this as a near-universal law.",
+    "terms": {
+      "primary": "Imagination as goal picture",
+      "definition": "The author says imagery supplies a target for behavior, but presents this as a near-universal law."
+    },
+    "author_mechanism": "The chapter says people act consistently with imagined reality and illustrates with hypnosis and physiology examples.",
+    "conditions_and_limits": "Absolute claims that the nervous system cannot distinguish imagined and actual events are overstatements.",
+    "application": "Identify a short, attainable performance scene without assuming the imagined event must occur.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Expectancy, attention and motor preparation may mediate effects; physical and environmental limits remain.",
+    "ethical_clinical_cautions": "Absolute claims that the nervous system cannot distinguish imagined and actual events are overstatements.",
+    "substantive_paraphrase": "The author says imagery supplies a target for behavior, but presents this as a near-universal law. In the revised book this is explained through the chapter says people act consistently with imagined reality and illustrates with hypnosis and physiology examples. A careful application would be: Identify a short, attainable performance scene without assuming the imagined event must occur.",
+    "claim_ids": [
+      "PCI-CL-CH03-002"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-005"
+    ],
+    "tags": [
+      "imagination",
+      "goal",
+      "picture"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-005"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Negative suggestions and nocebo-like expectations",
+    "content": "Repeated alarming suggestions may intensify distress and attention to bodily sensations. A group prank and medical anecdotes are used to depict unpleasant expectations becoming subjectively vivid.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-056",
+        "pdf_page": 56,
+        "printed_page": 46,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Repeated alarming suggestions may intensify distress and attention to bodily sensations.",
+    "terms": {
+      "primary": "Negative suggestions and nocebo-like expectations",
+      "definition": "Repeated alarming suggestions may intensify distress and attention to bodily sensations."
+    },
+    "author_mechanism": "A group prank and medical anecdotes are used to depict unpleasant expectations becoming subjectively vivid.",
+    "conditions_and_limits": "The chapter includes suicide and anorexia examples; these are not problems to address with self-help alone.",
+    "application": "Observe whether a prediction increases worry; assess evidence and seek care for actual symptoms.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Suggestion, stress responses and social pressure may explain some reactions without causing every reported symptom.",
+    "ethical_clinical_cautions": "The chapter includes suicide and anorexia examples; these are not problems to address with self-help alone.",
+    "substantive_paraphrase": "Repeated alarming suggestions may intensify distress and attention to bodily sensations. In the revised book this is explained through a group prank and medical anecdotes are used to depict unpleasant expectations becoming subjectively vivid. A careful application would be: Observe whether a prediction increases worry; assess evidence and seek care for actual symptoms.",
+    "claim_ids": [
+      "PCI-CL-CH03-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-002",
+      "PCI-EX-CH03-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "negative",
+      "suggestions",
+      "nocebo",
+      "like",
+      "expectations"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-005",
+      "PCI-EA-008"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Hypnosis and belief-based behavior",
+    "content": "The chapter invokes Theodore Barber to argue that accepted suggestions can affect performance and behavior. Belief acceptance, rather than mysterious hypnotic force, is offered as the explanation for reported demonstrations.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter invokes Theodore Barber to argue that accepted suggestions can affect performance and behavior.",
+    "terms": {
+      "primary": "Hypnosis and belief-based behavior",
+      "definition": "The chapter invokes Theodore Barber to argue that accepted suggestions can affect performance and behavior."
+    },
+    "author_mechanism": "Belief acceptance, rather than mysterious hypnotic force, is offered as the explanation for reported demonstrations.",
+    "conditions_and_limits": "Claims of surgery without anesthesia or effortless recovery need clinical qualification; never substitute self-hypnosis for care.",
+    "application": "Consider whether an expectation is influencing a task, then test it cautiously with observable feedback.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Expectancy, suggestion, attention and context may affect outcomes, depending on the task.",
+    "ethical_clinical_cautions": "Claims of surgery without anesthesia or effortless recovery need clinical qualification; never substitute self-hypnosis for care.",
+    "substantive_paraphrase": "The chapter invokes Theodore Barber to argue that accepted suggestions can affect performance and behavior. In the revised book this is explained through belief acceptance, rather than mysterious hypnotic force, is offered as the explanation for reported demonstrations. A careful application would be: Consider whether an expectation is influencing a task, then test it cautiously with observable feedback.",
+    "claim_ids": [
+      "PCI-CL-CH03-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-002",
+      "PCI-EX-CH03-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "hypnosis",
+      "belief",
+      "based",
+      "behavior"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-008"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Behavioral rehearsal with imagined details",
+    "content": "A vivid rehearsal can supply a low-risk opportunity to practice a response before a real situation. The Theater of the Mind is introduced via mental movies and deliberate scenes of desired conduct.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A vivid rehearsal can supply a low-risk opportunity to practice a response before a real situation.",
+    "terms": {
+      "primary": "Behavioral rehearsal with imagined details",
+      "definition": "A vivid rehearsal can supply a low-risk opportunity to practice a response before a real situation."
+    },
+    "author_mechanism": "The Theater of the Mind is introduced via mental movies and deliberate scenes of desired conduct.",
+    "conditions_and_limits": "Imagery is not equivalent to physical rehearsal for all tasks and may be uncomfortable for some people.",
+    "application": "Imagine a specific conversation, include realistic obstacles and rehearse the next concrete action.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Verbal rehearsal, implementation intentions, reduced uncertainty and actual practice can contribute.",
+    "ethical_clinical_cautions": "Imagery is not equivalent to physical rehearsal for all tasks and may be uncomfortable for some people.",
+    "substantive_paraphrase": "A vivid rehearsal can supply a low-risk opportunity to practice a response before a real situation. In the revised book this is explained through the Theater of the Mind is introduced via mental movies and deliberate scenes of desired conduct. A careful application would be: Imagine a specific conversation, include realistic obstacles and rehearse the next concrete action.",
+    "claim_ids": [
+      "PCI-CL-CH03-005"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-009"
+    ],
+    "tags": [
+      "behavioral",
+      "rehearsal",
+      "with",
+      "imagined",
+      "details"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-006"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Basketball mental practice comparison",
+    "content": "The book cites a basketball study reporting nearly equal improvements for imagery and physical practice groups. One group physically practiced, one did not, and one imagined free throws; percentages 24%, 0%, and 23% are reported.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-063",
+        "pdf_page": 63,
+        "printed_page": 53,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book cites a basketball study reporting nearly equal improvements for imagery and physical practice groups.",
+    "terms": {
+      "primary": "Basketball mental practice comparison",
+      "definition": "The book cites a basketball study reporting nearly equal improvements for imagery and physical practice groups."
+    },
+    "author_mechanism": "One group physically practiced, one did not, and one imagined free throws; percentages 24%, 0%, and 23% are reported.",
+    "conditions_and_limits": "Do not promote the 24% versus 23% anecdote as verified or as a guarantee that imagery replaces practice.",
+    "application": "Compare practice conditions in a small personal learning task while tracking real performance, not just vividness.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Study design, sample size, randomization and replication details are missing from the PDF account.",
+    "ethical_clinical_cautions": "Do not promote the 24% versus 23% anecdote as verified or as a guarantee that imagery replaces practice.",
+    "substantive_paraphrase": "The book cites a basketball study reporting nearly equal improvements for imagery and physical practice groups. In the revised book this is explained through one group physically practiced, one did not, and one imagined free throws; percentages 24%, 0%, and 23% are reported. A careful application would be: Compare practice conditions in a small personal learning task while tracking real performance, not just vividness.",
+    "claim_ids": [
+      "PCI-CL-CH03-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-005"
+    ],
+    "tags": [
+      "basketball",
+      "mental",
+      "practice",
+      "comparison"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-006",
+      "PCI-EA-007"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagery for pain and recovery: medical claim",
+    "content": "The chapter asserts that positive mental imagery can improve healing and autonomic responses. An article by Porter and Foster is invoked, followed by an expansive medical efficacy assertion.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter asserts that positive mental imagery can improve healing and autonomic responses.",
+    "terms": {
+      "primary": "Imagery for pain and recovery: medical claim",
+      "definition": "The chapter asserts that positive mental imagery can improve healing and autonomic responses."
+    },
+    "author_mechanism": "An article by Porter and Foster is invoked, followed by an expansive medical efficacy assertion.",
+    "conditions_and_limits": "No medical outcome or healing rate is established by this source; never promise treatment effects.",
+    "application": "Use calm imagery only as an optional comfort tool alongside appropriate clinical treatment.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Relaxation, perceived stress and symptom coping are not equivalent to accelerated tissue repair.",
+    "ethical_clinical_cautions": "No medical outcome or healing rate is established by this source; never promise treatment effects.",
+    "substantive_paraphrase": "The chapter asserts that positive mental imagery can improve healing and autonomic responses. In the revised book this is explained through an article by Porter and Foster is invoked, followed by an expansive medical efficacy assertion. A careful application would be: Use calm imagery only as an optional comfort tool alongside appropriate clinical treatment.",
+    "claim_ids": [
+      "PCI-CL-CH03-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-005"
+    ],
+    "tags": [
+      "imagery",
+      "pain",
+      "recovery",
+      "medical",
+      "claim"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-006",
+      "PCI-EA-007"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Performance scripts in selling and interviewing",
+    "content": "Rehearsal may help someone organize wording and anticipate interpersonal pressure. Salespeople, interviews and negotiations are framed as opportunities for scenes rehearsed before a consequential event.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-065",
+        "pdf_page": 65,
+        "printed_page": 55,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Rehearsal may help someone organize wording and anticipate interpersonal pressure.",
+    "terms": {
+      "primary": "Performance scripts in selling and interviewing",
+      "definition": "Rehearsal may help someone organize wording and anticipate interpersonal pressure."
+    },
+    "author_mechanism": "Salespeople, interviews and negotiations are framed as opportunities for scenes rehearsed before a consequential event.",
+    "conditions_and_limits": "A persuasive scene should never normalize deception, coercion or manipulation.",
+    "application": "Create a realistic question, rehearse a response, and test comprehension and respect for the other person.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Preparation, script recall, role-play and substantive expertise are plausible mechanisms.",
+    "ethical_clinical_cautions": "A persuasive scene should never normalize deception, coercion or manipulation.",
+    "substantive_paraphrase": "Rehearsal may help someone organize wording and anticipate interpersonal pressure. In the revised book this is explained through salespeople, interviews and negotiations are framed as opportunities for scenes rehearsed before a consequential event. A careful application would be: Create a realistic question, rehearse a response, and test comprehension and respect for the other person.",
+    "claim_ids": [
+      "PCI-CL-CH03-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "performance",
+      "scripts",
+      "selling",
+      "interviewing"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-006",
+      "PCI-EA-007"
+    ]
+  },
+  {
+    "id": "PCI-C-CH03-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Specific, vivid targets and skill feedback",
+    "content": "The chapter encourages seeing the desired result clearly and trusting learned movement patterns. Golf coaching examples emphasize picturing trajectory and feel before a shot, paired with attention to physical play.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-069",
+        "pdf_page": 69,
+        "printed_page": 59,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter encourages seeing the desired result clearly and trusting learned movement patterns.",
+    "terms": {
+      "primary": "Specific, vivid targets and skill feedback",
+      "definition": "The chapter encourages seeing the desired result clearly and trusting learned movement patterns."
+    },
+    "author_mechanism": "Golf coaching examples emphasize picturing trajectory and feel before a shot, paired with attention to physical play.",
+    "conditions_and_limits": "Avoid blaming poor results on inadequate vividness or promising elite performance.",
+    "application": "Rehearse a feasible move, then take a measured physical attempt and update the mental image from feedback.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Perceptual learning and sensorimotor practice contribute to results alongside imagery.",
+    "ethical_clinical_cautions": "Avoid blaming poor results on inadequate vividness or promising elite performance.",
+    "substantive_paraphrase": "The chapter encourages seeing the desired result clearly and trusting learned movement patterns. In the revised book this is explained through golf coaching examples emphasize picturing trajectory and feel before a shot, paired with attention to physical play. A careful application would be: Rehearse a feasible move, then take a measured physical attempt and update the mental image from feedback.",
+    "claim_ids": [
+      "PCI-CL-CH03-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH03-005",
+      "PCI-EX-CH03-006"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "specific",
+      "vivid",
+      "targets",
+      "skill",
+      "feedback"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH03-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Theater of the Mind 21-day sequence",
+    "content": "A chapter-specific practice schedules progressively refined mental movies over 21 days. The author proposes 30 minutes daily; refine the scene in the first 10 days and replay unchanged in the remaining 11.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A chapter-specific practice schedules progressively refined mental movies over 21 days.",
+    "terms": {
+      "primary": "Theater of the Mind 21-day sequence",
+      "definition": "A chapter-specific practice schedules progressively refined mental movies over 21 days."
+    },
+    "author_mechanism": "The author proposes 30 minutes daily; refine the scene in the first 10 days and replay unchanged in the remaining 11.",
+    "conditions_and_limits": "No universal 21-day neurological rewiring period is established; practice need not feel vivid to be worthwhile.",
+    "application": "Use the schedule only as an optional structured experiment with trackable actions and the freedom to stop.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Repetition, attention allocation and confidence practice may explain any observed changes.",
+    "ethical_clinical_cautions": "No universal 21-day neurological rewiring period is established; practice need not feel vivid to be worthwhile.",
+    "substantive_paraphrase": "A chapter-specific practice schedules progressively refined mental movies over 21 days. In the revised book this is explained through the author proposes 30 minutes daily; refine the scene in the first 10 days and replay unchanged in the remaining 11. A careful application would be: Use the schedule only as an optional structured experiment with trackable actions and the freedom to stop.",
+    "claim_ids": [
+      "PCI-CL-CH03-010"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH03-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH03-005"
+    ],
+    "tags": [
+      "theater",
+      "mind",
+      "sequence"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH03-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-03",
+    "title": "Religion and self-acceptance framing",
+    "content": "The chapter blends spiritual views of human worth with a psychological invitation to recognize possibilities. The narrator invokes religious and secular traditions to argue against an unworthy or fundamentally defective self-conception.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-074",
+        "pdf_page": 74,
+        "printed_page": 64,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter blends spiritual views of human worth with a psychological invitation to recognize possibilities.",
+    "terms": {
+      "primary": "Religion and self-acceptance framing",
+      "definition": "The chapter blends spiritual views of human worth with a psychological invitation to recognize possibilities."
+    },
+    "author_mechanism": "The narrator invokes religious and secular traditions to argue against an unworthy or fundamentally defective self-conception.",
+    "conditions_and_limits": "Keep metaphysical beliefs distinguished from empirical findings and respect individual worldview.",
+    "application": "Translate the invitation into a personally acceptable, non-dogmatic view of human worth.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Cultural beliefs, community support and philosophical views provide alternative grounds for self-acceptance.",
+    "ethical_clinical_cautions": "Keep metaphysical beliefs distinguished from empirical findings and respect individual worldview.",
+    "substantive_paraphrase": "The chapter blends spiritual views of human worth with a psychological invitation to recognize possibilities. In the revised book this is explained through the narrator invokes religious and secular traditions to argue against an unworthy or fundamentally defective self-conception. A careful application would be: Translate the invitation into a personally acceptable, non-dogmatic view of human worth.",
+    "claim_ids": [
+      "PCI-CL-CH03-011"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH03-001"
+    ],
+    "related_concept_ids": [],
+    "tags": [
+      "religion",
+      "self",
+      "acceptance",
+      "framing"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  }
+]

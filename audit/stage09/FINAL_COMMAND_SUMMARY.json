@@ -1,0 +1,24 @@
+{
+  "audit/PCI_STAGE08_ASSET_QA.json": {
+    "status": "PASS",
+    "passed": 34,
+    "failed": 0
+  },
+  "audit/PCI_STAGE09_VAULT_ASSET_QA.json": {
+    "status": "PASS",
+    "passed": 17,
+    "failed": 0
+  },
+  "audit/PCI_STAGE09_CHROMIUM_IN_MEMORY_QA.json": {
+    "status": "PASS",
+    "passed": 54,
+    "failed": 0
+  },
+  "audit/PCI_STAGE09_PRESERVATION_QA.json": {
+    "status": "PASS",
+    "original_stage08_reference_files": 143
+  },
+  "typecheck": "PASS (tsc --noEmit)",
+  "vite": "BLOCKED (vite binary unavailable, exit 127)",
+  "hosted_indexeddb": "BLOCKED (ERR_BLOCKED_BY_ADMINISTRATOR)"
+}

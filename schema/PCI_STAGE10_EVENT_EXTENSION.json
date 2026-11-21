@@ -1,0 +1,17 @@
+{
+  "schema_id": "PCI_STAGE10_EVENT_EXTENSION",
+  "base": "Stage07 PCI_EVENT_v2.schema.json",
+  "private_record_envelope": "2.0.0",
+  "additive_event_types": [
+    "experiment.planned"
+  ],
+  "emission_mapping": {
+    "belief_created": "belief.created",
+    "belief_updated": "belief.revised",
+    "reflection_saved": "journal.saved",
+    "experiment_planned": "experiment.planned (new extension, payload schema_version 2.1.0)",
+    "experiment_outcome": "experiment.outcome_recorded"
+  },
+  "compatibility": "Consumers of Stage07 event type enum must skip unrecognized experiment.planned, not reject the entire history. Stage07 events keep schema_version 2.0.0. No new IndexedDB store or version upgrade.",
+  "privacy": "Event payload contains identifiers, origin and revision number only; no reflection or belief text."
+}

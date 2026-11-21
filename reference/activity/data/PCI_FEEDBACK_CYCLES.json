@@ -1,0 +1,25 @@
+[
+  {
+    "id": "PCI-LOOP-001",
+    "title": "Observation before conclusion",
+    "stages": [
+      "goal",
+      "current_assumption",
+      "evidence",
+      "alternative_interpretation",
+      "limited_conclusion"
+    ]
+  },
+  {
+    "id": "PCI-LOOP-002",
+    "title": "Goal to revision cycle",
+    "stages": [
+      "goal",
+      "hypothesis",
+      "bounded_action",
+      "observable_result",
+      "constraints",
+      "revision"
+    ]
+  }
+]

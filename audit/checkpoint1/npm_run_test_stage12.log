@@ -1,0 +1,116 @@
+
+> psycho-cybernetics-intelligence@0.12.0 test:stage12
+> node --test tests/stage12_model_repo.test.mjs
+
+TAP version 13
+# Subtest: Theater default shows template-specific phase text
+ok 1 - Theater default shows template-specific phase text
+  ---
+  duration_ms: 1.122435
+  type: 'test'
+  ...
+# Subtest: all 60 text alternatives are phase-specific and not the inherited generic string
+ok 2 - all 60 text alternatives are phase-specific and not the inherited generic string
+  ---
+  duration_ms: 0.362508
+  type: 'test'
+  ...
+# Subtest: scene A and B on same template produce different visible live context in every relevant phase
+ok 3 - scene A and B on same template produce different visible live context in every relevant phase
+  ---
+  duration_ms: 0.697885
+  type: 'test'
+  ...
+# Subtest: missing private scene falls back safely and no personal strings enter public template
+ok 4 - missing private scene falls back safely and no personal strings enter public template
+  ---
+  duration_ms: 0.364621
+  type: 'test'
+  ...
+# Subtest: feedback validation enforces distinct action, prediction, observation and valid dates
+ok 5 - feedback validation enforces distinct action, prediction, observation and valid dates
+  ---
+  duration_ms: 0.834728
+  type: 'test'
+  ...
+# Subtest: existing 25 private stores preserved
+ok 6 - existing 25 private stores preserved
+  ---
+  duration_ms: 4.385886
+  type: 'test'
+  ...
+# Subtest: multiple goals create and revisions retain permanent ID
+ok 7 - multiple goals create and revisions retain permanent ID
+  ---
+  duration_ms: 13.592311
+  type: 'test'
+  ...
+# Subtest: experiment prediction stored separately; observation is absent until recorded
+ok 8 - experiment prediction stored separately; observation is absent until recorded
+  ---
+  duration_ms: 7.691649
+  type: 'test'
+  ...
+# Subtest: outcome edit retains revision and event is idempotent, no private text in event
+ok 9 - outcome edit retains revision and event is idempotent, no private text in event
+  ---
+  duration_ms: 17.101426
+  type: 'test'
+  ...
+# Subtest: feedback follow-up revision and multiple distinct cycles possible
+ok 10 - feedback follow-up revision and multiple distinct cycles possible
+  ---
+  duration_ms: 11.56284
+  type: 'test'
+  ...
+# Subtest: scenario source IDs, every node and path validated across all 16
+ok 11 - scenario source IDs, every node and path validated across all 16
+  ---
+  duration_ms: 1.043618
+  type: 'test'
+  ...
+# Subtest: scenario quarantine rejects broken edges and unreachable nodes
+ok 12 - scenario quarantine rejects broken edges and unreachable nodes
+  ---
+  duration_ms: 0.440995
+  type: 'test'
+  ...
+# Subtest: two divergent choices and two decision points produce meaningful different ends
+ok 13 - two divergent choices and two decision points produce meaningful different ends
+  ---
+  duration_ms: 0.544548
+  type: 'test'
+  ...
+# Subtest: scenario backtrack and safe exit cannot create false completion
+ok 14 - scenario backtrack and safe exit cannot create false completion
+  ---
+  duration_ms: 0.443377
+  type: 'test'
+  ...
+# Subtest: scenario resumable progress with exactly one completion event and minimal event payload
+ok 15 - scenario resumable progress with exactly one completion event and minimal event payload
+  ---
+  duration_ms: 19.890092
+  type: 'test'
+  ...
+# Subtest: private export includes separate feedback and scenario stores without public research or private fixtures in assets
+ok 16 - private export includes separate feedback and scenario stores without public research or private fixtures in assets
+  ---
+  duration_ms: 68.171377
+  type: 'test'
+  ...
+# Subtest: deletion of scenario and feedback goals removes linked records/events
+ok 17 - deletion of scenario and feedback goals removes linked records/events
+  ---
+  duration_ms: 21.76271
+  type: 'test'
+  ...
+1..17
+# tests 17
+# suites 0
+# pass 17
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 229.74004

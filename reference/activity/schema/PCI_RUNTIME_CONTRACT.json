@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "engines": [
+    "activity_step_navigation",
+    "scenario_choice_navigation",
+    "rehearsal_guided_phases"
+  ],
+  "event_types": [
+    "activity.step_recorded",
+    "activity.completed",
+    "activity.skipped",
+    "scenario.choice",
+    "scenario.completed",
+    "scenario.skipped",
+    "rehearsal.completed",
+    "rehearsal.skipped"
+  ],
+  "mutations": "Future runtime event-store only, no edits to research packs",
+  "storage": "IndexedDB in Stage 7+; JSON versioned export/import with private data omitted from public assets",
+  "fake_ai_disallowed": true,
+  "privacy_note": "Do not put user text in URLs, analytics events, or exported public assets",
+  "compatibility": "Additive content layer; no canonical schema change"
+}

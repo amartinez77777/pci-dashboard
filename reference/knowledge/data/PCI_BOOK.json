@@ -1,0 +1,49 @@
+{
+  "id": "PCI-B-001",
+  "type": "book",
+  "chapter_id": null,
+  "title": "The New Psycho-Cybernetics",
+  "content": "Single-book canonical PCI knowledge domain with 16 source-indexed chapters and 10 named modules; this is not a software release or empirical validation.",
+  "source_type": "source_metadata",
+  "provenance": {
+    "edition_id": "PCI-ED-001",
+    "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+    "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+    "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+  },
+  "source_status": "verified_in_pdf",
+  "evidence_status": "book_assertion_only",
+  "content_owner": "source_research",
+  "revision": {
+    "version": 1,
+    "schema_version": "1.0.0",
+    "recorded_at": "2026-11-19",
+    "change_note": "Stage 01 initial canonical record; immutable id"
+  },
+  "source_refs": [
+    {
+      "source_id": "PCI-SRC-PDF-001",
+      "pdf_page": 1,
+      "printed_page": null,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    }
+  ],
+  "book_id": "PCI-B-001",
+  "edition_id": "PCI-ED-001",
+  "modules": [
+    "Personal Command Center",
+    "Self-Image Intelligence Lab",
+    "Belief Reconstruction Studio",
+    "Theater of the Mind",
+    "Success Mechanism & Feedback Lab",
+    "Mental Conditioning Lab",
+    "Real-Life Scenario Simulator",
+    "Psycho-Cybernetics Knowledge Vault",
+    "Mental Mastery Academy",
+    "Personal Evolution Archive"
+  ],
+  "title_extended": "The New Psycho-Cybernetics: The Original Science of Self-Improvement and Success that Has Changed the Lives of 30 Million People",
+  "authors_and_editors": "Maxwell Maltz, M.D.; edited and updated by Dan S. Kennedy and Psycho-Cybernetics Foundation, Inc.",
+  "source_fingerprint": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "candidate_key": "PCI-SC-CAND-CH09-01",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-09",
+    "title": "Work feedback feels personal",
+    "hypothetical_setup": "A manager says a report needs a revision. You interpret it as proof you cannot do the job.",
+    "choices": [
+      "Ask what specifically needs changing",
+      "Quit immediately",
+      "Attack the manager"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "Separate the observable request from a global identity judgment; still check whether criticism is fair.",
+    "linked_concept_id": "PCI-C-CH09-002",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-167",
+      "pdf_page": 167,
+      "printed_page": 157,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH09-02",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-09",
+    "title": "Mistake near deadline",
+    "hypothetical_setup": "You miss a target and want to blame a coworker publicly.",
+    "choices": [
+      "Pause, document the obstacle and ask for a repair plan",
+      "Send an angry accusation",
+      "Pretend nothing happened"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "Misdirected aggression is not problem solving; protect others and seek specific evidence.",
+    "linked_concept_id": "PCI-C-CH09-003",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-168",
+      "pdf_page": 168,
+      "printed_page": 158,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH10-01",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-10",
+    "title": "Invitation after unkind comments",
+    "hypothetical_setup": "You were mocked in one group and receive a new invitation from a different group.",
+    "choices": [
+      "Assess safety and choose your own boundary",
+      "Force yourself to attend",
+      "Assume every group is unsafe"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "A protective boundary may be valid; generalization is not always useful.",
+    "linked_concept_id": "PCI-C-CH10-002",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-192",
+      "pdf_page": 192,
+      "printed_page": 182,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH10-02",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-10",
+    "title": "Apology after betrayal",
+    "hypothetical_setup": "Someone who hurt you asks to reconnect.",
+    "choices": [
+      "You may decline contact and need not forgive to stay safe",
+      "You must reconcile",
+      "You must deny the hurt"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "The book’s forgiveness rhetoric must not override safety, consent or responsibility.",
+    "linked_concept_id": "PCI-C-CH10-003",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-193",
+      "pdf_page": 193,
+      "printed_page": 183,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH11-01",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-11",
+    "title": "Speak up or stay quiet",
+    "hypothetical_setup": "At a low-stakes team meeting you have a relevant idea but worry you sound awkward.",
+    "choices": [
+      "Share a concise idea when safe",
+      "Blurt private information",
+      "Stay silent to preserve an image"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "Balanced expression can proceed without eliminating all self-awareness.",
+    "linked_concept_id": "PCI-C-CH11-002",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-214",
+      "pdf_page": 214,
+      "printed_page": 204,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH11-02",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-11",
+    "title": "Response to public critique",
+    "hypothetical_setup": "An expert points out a genuine problem in your work.",
+    "choices": [
+      "Review the facts and adjust",
+      "Dismiss all critics",
+      "Stop producing any work"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "Confidence is compatible with valid critical feedback.",
+    "linked_concept_id": "PCI-C-CH11-003",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-216",
+      "pdf_page": 216,
+      "printed_page": 206,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH12-01",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-12",
+    "title": "Message during focused work",
+    "hypothetical_setup": "A nonurgent alert appears while you finish a task.",
+    "choices": [
+      "Check urgency and decide if it can wait",
+      "Ignore all alerts indefinitely",
+      "Respond angrily"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "Not all notifications require immediate action; urgent messages are an exception.",
+    "linked_concept_id": "PCI-C-CH12-002",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-235",
+      "pdf_page": 235,
+      "printed_page": 225,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  },
+  {
+    "candidate_key": "PCI-SC-CAND-CH12-02",
+    "candidate_not_canonical_id": true,
+    "chapter_id": "PCI-CH-12",
+    "title": "Before a presentation",
+    "hypothetical_setup": "Your mind is racing with the last meeting as you begin another.",
+    "choices": [
+      "Take an optional transition cue and focus on 1 objective",
+      "Take unprescribed medication",
+      "Skip all preparation"
+    ],
+    "preferred_option_index": 0,
+    "rationale": "A quiet cue is an optional attention aid, not a clinical tranquilizer.",
+    "linked_concept_id": "PCI-C-CH12-003",
+    "source_ref": {
+      "source_id": "PCI-SRC-PDF-236",
+      "pdf_page": 236,
+      "printed_page": 226,
+      "edition_id": "PCI-ED-001",
+      "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+    },
+    "source_type": "PCI_original_adaptation",
+    "privacy_safety": "No assessment or diagnosis; opt out at any point. No forced disclosure, forgiveness, or contact."
+  }
+]

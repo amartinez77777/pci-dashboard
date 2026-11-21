@@ -1,0 +1,641 @@
+[
+  {
+    "id": "PCI-R-0046",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness as pleasant mental activity ↔ Adequate and realistic self-acceptance",
+    "content": "The habits discussion builds upon the earlier ideal of a realistic and acceptable self-image.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-001",
+    "to_id": "PCI-C-CH01-007",
+    "relationship_type": "complements",
+    "rationale": "The habits discussion builds upon the earlier ideal of a realistic and acceptable self-image.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-001": {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-007": {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0047",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Mental-state medical claims require boundaries ↔ Imagery for pain and recovery: medical claim",
+    "content": "Strong chapter-specific health promises warrant the same medical safeguards as prior imagery/recovery claims.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-002",
+    "to_id": "PCI-C-CH03-007",
+    "relationship_type": "ethical_tension",
+    "rationale": "Strong chapter-specific health promises warrant the same medical safeguards as prior imagery/recovery claims.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-002": {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-007": {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0048",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Deferring happiness until a milestone ↔ Backwards goal-setting from nonnegotiables",
+    "content": "The book rejects deferring all fulfillment to the achievement of a future target, balancing goal-setting with present experience.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-130",
+        "pdf_page": 130,
+        "printed_page": 120,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-004",
+    "to_id": "PCI-C-CH05-009",
+    "relationship_type": "complements",
+    "rationale": "The book rejects deferring all fulfillment to the achievement of a future target, balancing goal-setting with present experience.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-130",
+        "pdf_page": 130,
+        "printed_page": 120,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-004": {
+        "source_id": "PCI-SRC-PDF-130",
+        "pdf_page": 130,
+        "printed_page": 120,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-009": {
+        "source_id": "PCI-SRC-PDF-100",
+        "pdf_page": 100,
+        "printed_page": 90,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0049",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Impersonal events interpreted as personal insults ↔ Negative suggestions and nocebo-like expectations",
+    "content": "Attributing minor events to hostile intentions extends the earlier account of negative interpretation, but not all negative responses are imagined.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-005",
+    "to_id": "PCI-C-CH03-003",
+    "relationship_type": "qualifies",
+    "rationale": "Attributing minor events to hostile intentions extends the earlier account of negative interpretation, but not all negative responses are imagined.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-056",
+        "pdf_page": 56,
+        "printed_page": 46,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-005": {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-003": {
+        "source_id": "PCI-SRC-PDF-056",
+        "pdf_page": 56,
+        "printed_page": 46,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0050",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Separate event facts from identity verdicts ↔ A limiting belief must face precise questions",
+    "content": "Chapter 7 explicitly identifies facts-versus-opinions as central to practicing rational self-review.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-006",
+    "to_id": "PCI-C-CH05-010",
+    "relationship_type": "supports",
+    "rationale": "Chapter 7 explicitly identifies facts-versus-opinions as central to practicing rational self-review.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-006": {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-010": {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0051",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Goal orientation after setbacks ↔ Present-moment responsiveness",
+    "content": "Goal-oriented action and attention to the moment are separate, compatible recommendations in the source.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-007",
+    "to_id": "PCI-C-CH06-008",
+    "relationship_type": "complements",
+    "rationale": "Goal-oriented action and attention to the moment are separate, compatible recommendations in the source.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-007": {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH06-008": {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0052",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Skeptical one-month thought experiment ↔ Imprinting through authority, intensity and repetition",
+    "content": "Repeating a deliberate mental cue is related by the author to the earlier authority/repetition framework.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-139",
+        "pdf_page": 139,
+        "printed_page": 129,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-010",
+    "to_id": "PCI-C-CH01-009",
+    "relationship_type": "complements",
+    "rationale": "Repeating a deliberate mental cue is related by the author to the earlier authority/repetition framework.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-139",
+        "pdf_page": 139,
+        "printed_page": 129,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-027",
+        "pdf_page": 27,
+        "printed_page": 17,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-010": {
+        "source_id": "PCI-SRC-PDF-139",
+        "pdf_page": 139,
+        "printed_page": 129,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-009": {
+        "source_id": "PCI-SRC-PDF-027",
+        "pdf_page": 27,
+        "printed_page": 17,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0053",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Habits differ from addiction ↔ Relaxation to soften rigid beliefs",
+    "content": "Changing an everyday habit is operationally distinct from clinical addiction and from the prior relaxation practice.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-011",
+    "to_id": "PCI-C-CH04-009",
+    "relationship_type": "alternative_explanation",
+    "rationale": "Changing an everyday habit is operationally distinct from clinical addiction and from the prior relaxation practice.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-011": {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-009": {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0054",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty-day shoe and mood habit experiment ↔ A limiting belief must face precise questions",
+    "content": "The 30-day experimental intentions include explicitly separating facts from pessimistic opinions.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH07-012",
+    "to_id": "PCI-C-CH05-010",
+    "relationship_type": "complements",
+    "rationale": "The 30-day experimental intentions include explicitly separating facts from pessimistic opinions.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH07-012": {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-010": {
+        "source_id": "PCI-SRC-PDF-102",
+        "pdf_page": 102,
+        "printed_page": 92,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  }
+]

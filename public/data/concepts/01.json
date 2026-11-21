@@ -1,0 +1,622 @@
+[
+  {
+    "id": "PCI-C-CH01-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-image as working self-description",
+    "content": "An accumulated working picture of what kind of person one is can influence what one attempts and expects. The chapter attributes the picture to interpreted triumphs, failures, humiliation, and feedback, especially early-life experiences. The text describes the picture as a premise against which experience is judged.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "An accumulated working picture of what kind of person one is can influence what one attempts and expects.",
+    "terms": {
+      "primary": "Self-image as working self-description",
+      "definition": "An accumulated working picture of what kind of person one is can influence what one attempts and expects."
+    },
+    "author_mechanism": "The chapter attributes the picture to interpreted triumphs, failures, humiliation, and feedback, especially early-life experiences. The text describes the picture as a premise against which experience is judged.",
+    "conditions_and_limits": "The text claims absolute control over all actions; do not present that universal assertion as an established law.",
+    "application": "Identify one global identity sentence; rewrite it as a dated, context-specific hypothesis and record concrete exceptions.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Expectancies, environment, available resources, habitual action and interpersonal feedback all shape behavior; no single self-image variable explains every outcome.",
+    "ethical_clinical_cautions": "The text claims absolute control over all actions; do not present that universal assertion as an established law.",
+    "substantive_paraphrase": "An accumulated working picture of what kind of person one is can influence what one attempts and expects. In the revised book this is explained through the chapter attributes the picture to interpreted triumphs, failures, humiliation, and feedback, especially early-life experiences. The text describes the picture as a premise against which experience is judged. A careful application would be: Identify one global identity sentence; rewrite it as a dated, context-specific hypothesis and record concrete exceptions.",
+    "claim_ids": [
+      "PCI-CL-CH01-001"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-002",
+      "PCI-C-CH01-009"
+    ],
+    "tags": [
+      "self",
+      "image",
+      "working",
+      "self",
+      "description"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-001"
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Snap-back and self-confirming loops",
+    "content": "Attempts to change a habit may falter when a familiar identity expectation persists. The author compares behavioral relapse with a rubber band returning to its original position and describes reinforcing cycles in which outcomes seem to prove an old identity.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Attempts to change a habit may falter when a familiar identity expectation persists.",
+    "terms": {
+      "primary": "Snap-back and self-confirming loops",
+      "definition": "Attempts to change a habit may falter when a familiar identity expectation persists."
+    },
+    "author_mechanism": "The author compares behavioral relapse with a rubber band returning to its original position and describes reinforcing cycles in which outcomes seem to prove an old identity.",
+    "conditions_and_limits": "Avoid blame-laden interpretations of weight, eating or body appearance; no automatic relapse is inevitable.",
+    "application": "After a setback, separate the event, strategy, interpretation and next attempt instead of inferring a permanent ceiling.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Habit cues, stress, skills, access, reinforcement and sleep can explain relapse without a self-image thermostat.",
+    "ethical_clinical_cautions": "Avoid blame-laden interpretations of weight, eating or body appearance; no automatic relapse is inevitable.",
+    "substantive_paraphrase": "Attempts to change a habit may falter when a familiar identity expectation persists. In the revised book this is explained through the author compares behavioral relapse with a rubber band returning to its original position and describes reinforcing cycles in which outcomes seem to prove an old identity. A careful application would be: After a setback, separate the event, strategy, interpretation and next attempt instead of inferring a permanent ceiling.",
+    "claim_ids": [
+      "PCI-CL-CH01-002"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-004"
+    ],
+    "tags": [
+      "snap",
+      "back",
+      "self",
+      "confirming",
+      "loops"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-001"
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Inside-out change versus surface affirmation",
+    "content": "A positive statement about an outcome can ring hollow when it contradicts a deeply held view of the person pursuing it. The chapter contrasts treating superficial symptoms or circumstances with revisiting underlying identity judgments.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-015",
+        "pdf_page": 15,
+        "printed_page": 5,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A positive statement about an outcome can ring hollow when it contradicts a deeply held view of the person pursuing it.",
+    "terms": {
+      "primary": "Inside-out change versus surface affirmation",
+      "definition": "A positive statement about an outcome can ring hollow when it contradicts a deeply held view of the person pursuing it."
+    },
+    "author_mechanism": "The chapter contrasts treating superficial symptoms or circumstances with revisiting underlying identity judgments.",
+    "conditions_and_limits": "Do not imply that affirmations are always useless or that belief change alone is sufficient.",
+    "application": "Choose a credible self-description supported by at least 2 actual instances rather than demand instant confidence.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Behavioral practice and support may improve performance before a change in self-belief is measurable.",
+    "ethical_clinical_cautions": "Do not imply that affirmations are always useless or that belief change alone is sufficient.",
+    "substantive_paraphrase": "A positive statement about an outcome can ring hollow when it contradicts a deeply held view of the person pursuing it. In the revised book this is explained through the chapter contrasts treating superficial symptoms or circumstances with revisiting underlying identity judgments. A careful application would be: Choose a credible self-description supported by at least 2 actual instances rather than demand instant confidence.",
+    "claim_ids": [
+      "PCI-CL-CH01-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH01-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-007"
+    ],
+    "tags": [
+      "inside",
+      "change",
+      "versus",
+      "surface",
+      "affirmation"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-001"
+    ]
+  },
+  {
+    "id": "PCI-C-CH01-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Self-consistency system",
+    "content": "People may accept information congruent with their self-concept and resist information that contradicts it. Prescott Lecky is credited with a personality-wide consistency idea, illustrated by students who allegedly improved after changing self-labels.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-016",
+        "pdf_page": 16,
+        "printed_page": 6,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "People may accept information congruent with their self-concept and resist information that contradicts it.",
+    "terms": {
+      "primary": "Self-consistency system",
+      "definition": "People may accept information congruent with their self-concept and resist information that contradicts it."
+    },
+    "author_mechanism": "Prescott Lecky is credited with a personality-wide consistency idea, illustrated by students who allegedly improved after changing self-labels.",
+    "conditions_and_limits": "Lecky stories lack enough detail here to establish experimental causality or general effectiveness.",
+    "application": "List favorable and unfavorable evidence for a label; distinguish an exam result from an enduring trait.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Different instruction, practice, teacher expectations, maturation or regression to the mean can affect grade changes.",
+    "ethical_clinical_cautions": "Lecky stories lack enough detail here to establish experimental causality or general effectiveness.",
+    "substantive_paraphrase": "People may accept information congruent with their self-concept and resist information that contradicts it. In the revised book this is explained through prescott Lecky is credited with a personality-wide consistency idea, illustrated by students who allegedly improved after changing self-labels. A careful application would be: List favorable and unfavorable evidence for a label; distinguish an exam result from an enduring trait.",
+    "claim_ids": [
+      "PCI-CL-CH01-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH01-001",
+      "PCI-EX-CH01-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH04-001"
+    ],
+    "tags": [
+      "self",
+      "consistency",
+      "system"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Surgery, appearance and subjective identity",
+    "content": "An external cosmetic change does not reliably produce a corresponding change in how someone perceives or values themself. The narrator contrasts striking post-surgery social changes with patients who retain shame and a negative self-perception despite successful procedures.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "An external cosmetic change does not reliably produce a corresponding change in how someone perceives or values themself.",
+    "terms": {
+      "primary": "Surgery, appearance and subjective identity",
+      "definition": "An external cosmetic change does not reliably produce a corresponding change in how someone perceives or values themself."
+    },
+    "author_mechanism": "The narrator contrasts striking post-surgery social changes with patients who retain shame and a negative self-perception despite successful procedures.",
+    "conditions_and_limits": "Never suggest cosmetic surgery or self-image exercises alone treat body-dysmorphic distress.",
+    "application": "When appearance is involved, separate physical fact, the meaning attached to it, and social context.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Social treatment, reduced stigma, expectation and broader circumstances may account for some changes.",
+    "ethical_clinical_cautions": "Never suggest cosmetic surgery or self-image exercises alone treat body-dysmorphic distress.",
+    "substantive_paraphrase": "An external cosmetic change does not reliably produce a corresponding change in how someone perceives or values themself. In the revised book this is explained through the narrator contrasts striking post-surgery social changes with patients who retain shame and a negative self-perception despite successful procedures. A careful application would be: When appearance is involved, separate physical fact, the meaning attached to it, and social context.",
+    "claim_ids": [
+      "PCI-CL-CH01-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH01-003",
+      "PCI-EX-CH01-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-006"
+    ],
+    "tags": [
+      "surgery",
+      "appearance",
+      "subjective",
+      "identity"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Scars and contextual meaning",
+    "content": "The meaning of a physical mark differs across cultures and personal narratives, and that meaning can shape confidence. German dueling scars are presented as marks of prestige while another patient viewed a facial scar as a source of shame.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The meaning of a physical mark differs across cultures and personal narratives, and that meaning can shape confidence.",
+    "terms": {
+      "primary": "Scars and contextual meaning",
+      "definition": "The meaning of a physical mark differs across cultures and personal narratives, and that meaning can shape confidence."
+    },
+    "author_mechanism": "German dueling scars are presented as marks of prestige while another patient viewed a facial scar as a source of shame.",
+    "conditions_and_limits": "Historical dueling illustrations are not universal truths about modern identity or body image.",
+    "application": "Examine whose standards are being applied to appearance and what alternative interpretations are credible.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Peer norms, group identity and the actual responses of other people can contribute to confidence.",
+    "ethical_clinical_cautions": "Historical dueling illustrations are not universal truths about modern identity or body image.",
+    "substantive_paraphrase": "The meaning of a physical mark differs across cultures and personal narratives, and that meaning can shape confidence. In the revised book this is explained through german dueling scars are presented as marks of prestige while another patient viewed a facial scar as a source of shame. A careful application would be: Examine whose standards are being applied to appearance and what alternative interpretations are credible.",
+    "claim_ids": [
+      "PCI-CL-CH01-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH01-003",
+      "PCI-EX-CH01-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "scars",
+      "contextual",
+      "meaning"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Adequate and realistic self-acceptance",
+    "content": "A useful self-image recognizes strengths and weaknesses without inflating or globally condemning the person. The author argues that being able to accept and express oneself is more constructive than concealment, shame or denial of limitations.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-021",
+        "pdf_page": 21,
+        "printed_page": 11,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A useful self-image recognizes strengths and weaknesses without inflating or globally condemning the person.",
+    "terms": {
+      "primary": "Adequate and realistic self-acceptance",
+      "definition": "A useful self-image recognizes strengths and weaknesses without inflating or globally condemning the person."
+    },
+    "author_mechanism": "The author argues that being able to accept and express oneself is more constructive than concealment, shame or denial of limitations.",
+    "conditions_and_limits": "Self-worth should not depend on flawless achievement or attractiveness.",
+    "application": "Write a balanced description with one strength, one growth edge and a testable next step.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Self-compassion, social inclusion, improved circumstances and competent action also matter.",
+    "ethical_clinical_cautions": "Self-worth should not depend on flawless achievement or attractiveness.",
+    "substantive_paraphrase": "A useful self-image recognizes strengths and weaknesses without inflating or globally condemning the person. In the revised book this is explained through the author argues that being able to accept and express oneself is more constructive than concealment, shame or denial of limitations. A careful application would be: Write a balanced description with one strength, one growth edge and a testable next step.",
+    "claim_ids": [
+      "PCI-CL-CH01-007"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH04-010"
+    ],
+    "tags": [
+      "adequate",
+      "realistic",
+      "self",
+      "acceptance"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Goal setting filtered through self-image",
+    "content": "A clearly framed goal may be hampered when interpreted as incompatible with identity. The book models consciousness setting a target while a creative servo-mechanism responds to the perceived goal and interpretation of self.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-025",
+        "pdf_page": 25,
+        "printed_page": 15,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A clearly framed goal may be hampered when interpreted as incompatible with identity.",
+    "terms": {
+      "primary": "Goal setting filtered through self-image",
+      "definition": "A clearly framed goal may be hampered when interpreted as incompatible with identity."
+    },
+    "author_mechanism": "The book models consciousness setting a target while a creative servo-mechanism responds to the perceived goal and interpretation of self.",
+    "conditions_and_limits": "No discrete automatic success system is established in the PDF or by the cited anecdotes.",
+    "application": "Specify a controllable target and a feedback measure; treat the mechanism as a planning metaphor, not neuroscience.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Attention, prospective memory, practice and environmental design can explain goal-directed coordination.",
+    "ethical_clinical_cautions": "No discrete automatic success system is established in the PDF or by the cited anecdotes.",
+    "substantive_paraphrase": "A clearly framed goal may be hampered when interpreted as incompatible with identity. In the revised book this is explained through the book models consciousness setting a target while a creative servo-mechanism responds to the perceived goal and interpretation of self. A careful application would be: Specify a controllable target and a feedback measure; treat the mechanism as a planning metaphor, not neuroscience.",
+    "claim_ids": [
+      "PCI-CL-CH01-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-002"
+    ],
+    "tags": [
+      "goal",
+      "setting",
+      "filtered",
+      "through",
+      "self"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Imprinting through authority, intensity and repetition",
+    "content": "Messages from authority figures, emotionally intense events and repetition are presented as durable inputs to self-belief. The text describes childhood criticism being weighted by the perceived credibility of a parent, intensity of humiliation and repeated exposure.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-027",
+        "pdf_page": 27,
+        "printed_page": 17,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Messages from authority figures, emotionally intense events and repetition are presented as durable inputs to self-belief.",
+    "terms": {
+      "primary": "Imprinting through authority, intensity and repetition",
+      "definition": "Messages from authority figures, emotionally intense events and repetition are presented as durable inputs to self-belief."
+    },
+    "author_mechanism": "The text describes childhood criticism being weighted by the perceived credibility of a parent, intensity of humiliation and repeated exposure.",
+    "conditions_and_limits": "Avoid claiming all early criticism causes enduring damage or that revisiting memories is necessary.",
+    "application": "Identify one inherited judgment and compare it against adult evidence and present goals.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Learning, conditioning, memory salience and social expectations offer alternative accounts.",
+    "ethical_clinical_cautions": "Avoid claiming all early criticism causes enduring damage or that revisiting memories is necessary.",
+    "substantive_paraphrase": "Messages from authority figures, emotionally intense events and repetition are presented as durable inputs to self-belief. In the revised book this is explained through the text describes childhood criticism being weighted by the perceived credibility of a parent, intensity of humiliation and repeated exposure. A careful application would be: Identify one inherited judgment and compare it against adult evidence and present goals.",
+    "claim_ids": [
+      "PCI-CL-CH01-009"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "imprinting",
+      "through",
+      "authority",
+      "intensity",
+      "repetition"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH01-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-01",
+    "title": "Role models and imagined advisers",
+    "content": "Studying models of desired traits may provide specific scripts and more credible goal images. The author prescribes collecting biographies and observing exemplars, then imagining a coaching conversation with a person studied for a month.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-033",
+        "pdf_page": 33,
+        "printed_page": 23,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Studying models of desired traits may provide specific scripts and more credible goal images.",
+    "terms": {
+      "primary": "Role models and imagined advisers",
+      "definition": "Studying models of desired traits may provide specific scripts and more credible goal images."
+    },
+    "author_mechanism": "The author prescribes collecting biographies and observing exemplars, then imagining a coaching conversation with a person studied for a month.",
+    "conditions_and_limits": "Do not promise to absorb another person’s talent simply by watching, or erase genetic and structural factors.",
+    "application": "Choose a model for a specific behavior, note real actions the model used, and test one action in your context.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Observational learning, deliberate practice and concrete planning could explain benefit.",
+    "ethical_clinical_cautions": "Do not promise to absorb another person’s talent simply by watching, or erase genetic and structural factors.",
+    "substantive_paraphrase": "Studying models of desired traits may provide specific scripts and more credible goal images. In the revised book this is explained through the author prescribes collecting biographies and observing exemplars, then imagining a coaching conversation with a person studied for a month. A careful application would be: Choose a model for a specific behavior, note real actions the model used, and test one action in your context.",
+    "claim_ids": [
+      "PCI-CL-CH01-010"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH01-001",
+      "PCI-AP-CH01-002"
+    ],
+    "related_concept_ids": [],
+    "tags": [
+      "role",
+      "models",
+      "imagined",
+      "advisers"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-002"
+    ]
+  }
+]

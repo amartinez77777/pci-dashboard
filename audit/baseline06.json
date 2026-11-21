@@ -1,0 +1,227 @@
+{
+  "status": "PASS",
+  "passed": 42,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "Canonical previous registry and IDs preserved verbatim",
+      "status": "PASS",
+      "detail": "1676 previous IDs"
+    },
+    {
+      "check": "Exactly 32 activities and 2 per chapter",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "16 multi-step scenarios",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "At least 12 rehearsals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Book practice preservation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "New IDs unique, in registry and not inherited",
+      "status": "PASS",
+      "detail": "new 71, registry delta 71"
+    },
+    {
+      "check": "Every new ID in registry actually represented",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No legacy research record mutated",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ACTIVITY JSON Schema 2020-12 validation",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "SCENARIO JSON Schema 2020-12 validation",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "REHEARSAL JSON Schema 2020-12 validation",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "FEEDBACK JSON Schema 2020-12 validation",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "RUBRIC JSON Schema 2020-12 validation",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Activity concept FK resolves",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Activity citation FKs and source page bounds",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Scenario concept FK resolves",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Scenario citation FKs and source page bounds",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Rehearsal concept FK resolves",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Rehearsal citation FKs and source page bounds",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Chapter FK resolves for all content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No author practice labeled an executable adaptation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Author practice timing and origin unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Each activity has transparent and non-diagnostic feedback",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All activities have safe exit, no mandatory sensitive history",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Activity steps reachable with terminal completion and fields",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "32 activity completion simulations actually executed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "32 activity skip simulations actually executed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Missing activity input causes incomplete not fabricated success",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Explicit declined observation is skipped",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Scenario graph, all states reachable, 2 decisions/path, 4 endings",
+      "status": "PASS",
+      "detail": "64 actual paths; []"
+    },
+    {
+      "check": "All scenario outcomes explicitly hypothetical",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All scenarios include review and non-diagnostic framing",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All rehearsals support reduced time and no timer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Rehearsal duration equals all phase guidance",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No rehearsal timing called a book prescription",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Rehearsals allow stop, text mode and no imagery",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Chapter index maps to real destinations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Concept index maps to real sources and destinations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No PDF or personal journal included",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No forbidden efficacy/diagnostic promise strings",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "Future event JSON schema runnable",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Future event sample validates",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "count": {
+    "activities": 32,
+    "scenarios": 16,
+    "rehearsals": 12,
+    "author_practices_readonly": 70,
+    "test_scenario_paths": 64,
+    "new_ids": 71
+  },
+  "test_classification": "structural/functional JSON and graph logic, not browser usability or scientific efficacy",
+  "command": "python tests/validate_stage06.py --root . --canonical-dir ../canonical --out audits/PCI_STAGE06_QA.json"
+}

@@ -1,0 +1,278 @@
+{
+  "scope": "In-memory Chromium + React16 compatibility runtime, local assets fetch-mocked. Not a Vite/React18 hosted-browser or iPhone Safari test; no real IndexedDB.",
+  "status": "PASS",
+  "passed": 54,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "first-launch-title-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "real-data-count-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-command-center",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-self-image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-beliefs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-theater",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-feedback",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-conditioning",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-scenarios",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-knowledge",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-academy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prior-route-archive",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "chapter-grid-16",
+      "status": "PASS",
+      "detail": "16"
+    },
+    {
+      "name": "chapter-one-header",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "chapter-full-index",
+      "status": "PASS",
+      "detail": "10"
+    },
+    {
+      "name": "chapter-author-practices",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concept-full-thesis",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concept-limits",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concept-source-chip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source-citation-opens",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source-modal-visible",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "citation-actual-page",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "citation-close",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "private-action-disabled-without-storage",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "unknown-concept-not-found",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "search-index-loaded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "phrase-hits-original-id",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "phrase-chapter-filter-empty",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "clear-search-restores-results",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "editor-origin-filter-functional",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "name": "graph-renders",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "graph-edge-list",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "graph-zoom-control",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "graph-edge-rationale",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "compare-two-source-dossiers",
+      "status": "PASS",
+      "detail": "2"
+    },
+    {
+      "name": "activity-steps-available",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "unknown-module-safe",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-javascript-errors-1440",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-title-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "real-data-count-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-16-chapter-cards-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-vault-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "mobile-chapter-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "mobile-search-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "mobile-graph-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "no-javascript-errors-390",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-title-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "real-data-count-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-16-chapter-cards-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-vault-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "mobile-chapter-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "mobile-search-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "mobile-graph-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "no-javascript-errors-320",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ]
+}

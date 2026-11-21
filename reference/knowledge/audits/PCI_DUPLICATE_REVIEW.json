@@ -1,0 +1,373 @@
+{
+  "scope": "Cross-chapter concept pairs surfaced by title/thesis similarity plus editorial comparison",
+  "reviewed_pairs": [
+    {
+      "a_id": "PCI-C-CH01-004",
+      "b_id": "PCI-C-CH05-008",
+      "classification": "overlapping_but_distinct",
+      "rationale": "The early account frames self-consistency as a general identity filter; Chapter 5 develops conflicting convictions as a reasoning task.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-016",
+          "pdf_page": 16,
+          "printed_page": 6,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-099",
+          "pdf_page": 99,
+          "printed_page": 89,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-008",
+      "b_id": "PCI-C-CH05-009",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Both address goals, but the first concerns identity-dependent acceptance of targets and the later one goal-setting priorities.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-025",
+          "pdf_page": 25,
+          "printed_page": 15,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-100",
+          "pdf_page": 100,
+          "printed_page": 90,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH02-005",
+      "b_id": "PCI-C-CH11-002",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Chapter 2 advocates corrective feedback; Chapter 11 qualifies it with the danger of oversensitivity and inhibition.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-041",
+          "pdf_page": 41,
+          "printed_page": 31,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-214",
+          "pdf_page": 214,
+          "printed_page": 204,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-007",
+      "b_id": "PCI-C-CH03-011",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Realistic self-acceptance and spiritual/religious framing are adjacent but not identical arguments.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-021",
+          "pdf_page": 21,
+          "printed_page": 11,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-074",
+          "pdf_page": 74,
+          "printed_page": 64,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH12-004",
+      "b_id": "PCI-C-CH13-004",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Chapter12 emphasizes deliberate nonreaction; Chapter13 applies arousal to high-pressure performance.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-237",
+          "pdf_page": 237,
+          "printed_page": 227,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-256",
+          "pdf_page": 256,
+          "printed_page": 246,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-002",
+      "b_id": "PCI-C-CH09-004",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Snap-back loops and failed-expectation signals share explanatory vocabulary but different practical chapters.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-169",
+          "pdf_page": 169,
+          "printed_page": 159,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH08-005",
+      "b_id": "PCI-C-CH11-002",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Chapter8 calls for truthful feedback without global shame while Chapter11 warns against excessive error monitoring.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-149",
+          "pdf_page": 149,
+          "printed_page": 139,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-214",
+          "pdf_page": 214,
+          "printed_page": 204,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-001",
+      "b_id": "PCI-C-CH10-004",
+      "classification": "overlapping_but_distinct",
+      "rationale": "General self-image is a baseline, while putty/plaster discusses its revisability in emotional recovery.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-194",
+          "pdf_page": 194,
+          "printed_page": 184,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH02-005",
+      "b_id": "PCI-C-CH08-005",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Goal correction is mechanistic metaphor; truthful negative feedback is an ethical/practical use case.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-041",
+          "pdf_page": 41,
+          "printed_page": 31,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-149",
+          "pdf_page": 149,
+          "printed_page": 139,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH08-003",
+      "b_id": "PCI-C-CH14-001",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Direction in a success profile and goal-guided winning feeling are separate pedagogical framings.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-147",
+          "pdf_page": 147,
+          "printed_page": 137,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-271",
+          "pdf_page": 271,
+          "printed_page": 261,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-001",
+      "b_id": "PCI-C-CH14-005",
+      "classification": "overlapping_but_distinct",
+      "rationale": "A general self-description is distinct from confidence after a loss.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-275",
+          "pdf_page": 275,
+          "printed_page": 265,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH01-008",
+      "b_id": "PCI-C-CH10-004",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Goals filtered by self-image and adaptable emotional image address different causal claims.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-025",
+          "pdf_page": 25,
+          "printed_page": 15,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-194",
+          "pdf_page": 194,
+          "printed_page": 184,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    },
+    {
+      "a_id": "PCI-C-CH10-004",
+      "b_id": "PCI-C-CH14-005",
+      "classification": "overlapping_but_distinct",
+      "rationale": "Both involve changeable self-image but differ on interpersonal injury and performance persistence.",
+      "a_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-194",
+          "pdf_page": 194,
+          "printed_page": 184,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "b_source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-275",
+          "pdf_page": 275,
+          "printed_page": 265,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "research_record_comparison_not_exhaustive_pdf_side_by_side",
+      "action": "retain_both_ids",
+      "redirect": null,
+      "review_level": "editorial_comparison_of_inherited_dossiers"
+    }
+  ],
+  "confirmed_same_concept_merges": 0,
+  "merges_applied": 0,
+  "all_201_concepts_preserved": true,
+  "limitations": "Candidate-based review cannot prove no remaining semantic duplicates."
+}

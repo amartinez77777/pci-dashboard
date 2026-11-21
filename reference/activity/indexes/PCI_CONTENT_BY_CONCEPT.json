@@ -1,0 +1,458 @@
+{
+  "PCI-C-CH01-001": {
+    "activities": [
+      "PCI-ACT-CH01-001",
+      "PCI-ACT-CH01-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH01-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH02-001": {
+    "activities": [
+      "PCI-ACT-CH02-001",
+      "PCI-ACT-CH02-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH02-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH03-001": {
+    "activities": [
+      "PCI-ACT-CH03-001",
+      "PCI-ACT-CH03-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH03-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-001",
+      "PCI-RH-002"
+    ]
+  },
+  "PCI-C-CH04-001": {
+    "activities": [
+      "PCI-ACT-CH04-001",
+      "PCI-ACT-CH04-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH04-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-003"
+    ]
+  },
+  "PCI-C-CH05-001": {
+    "activities": [
+      "PCI-ACT-CH05-001",
+      "PCI-ACT-CH05-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH05-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-004"
+    ]
+  },
+  "PCI-C-CH05-002": {
+    "activities": [
+      "PCI-ACT-CH05-001",
+      "PCI-ACT-CH05-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH05-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH06-001": {
+    "activities": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH06-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH06-002": {
+    "activities": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH06-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH07-001": {
+    "activities": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH07-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH07-002": {
+    "activities": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH07-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH08-001": {
+    "activities": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH08-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH08-002": {
+    "activities": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "scenarios": [
+      "PCI-SC-CH08-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH09-001": {
+    "activities": [
+      "PCI-ACT-CH09-001"
+    ],
+    "scenarios": [
+      "PCI-SC-CH09-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-007"
+    ]
+  },
+  "PCI-C-CH09-003": {
+    "activities": [
+      "PCI-ACT-CH09-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH09-004": {
+    "activities": [
+      "PCI-ACT-CH09-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH09-013": {
+    "activities": [
+      "PCI-ACT-CH09-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH10-001": {
+    "activities": [
+      "PCI-ACT-CH10-001"
+    ],
+    "scenarios": [
+      "PCI-SC-CH10-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH10-003": {
+    "activities": [
+      "PCI-ACT-CH10-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH10-004": {
+    "activities": [
+      "PCI-ACT-CH10-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH10-015": {
+    "activities": [
+      "PCI-ACT-CH10-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH11-001": {
+    "activities": [
+      "PCI-ACT-CH11-001"
+    ],
+    "scenarios": [
+      "PCI-SC-CH11-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH11-003": {
+    "activities": [
+      "PCI-ACT-CH11-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH11-004": {
+    "activities": [
+      "PCI-ACT-CH11-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH11-014": {
+    "activities": [
+      "PCI-ACT-CH11-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH12-001": {
+    "activities": [
+      "PCI-ACT-CH12-001"
+    ],
+    "scenarios": [
+      "PCI-SC-CH12-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-009"
+    ]
+  },
+  "PCI-C-CH12-003": {
+    "activities": [
+      "PCI-ACT-CH12-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH12-004": {
+    "activities": [
+      "PCI-ACT-CH12-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH12-017": {
+    "activities": [
+      "PCI-ACT-CH12-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH13-003": {
+    "activities": [
+      "PCI-ACT-CH13-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH13-005": {
+    "activities": [
+      "PCI-ACT-CH13-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH14-003": {
+    "activities": [
+      "PCI-ACT-CH14-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH14-005": {
+    "activities": [
+      "PCI-ACT-CH14-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH15-003": {
+    "activities": [
+      "PCI-ACT-CH15-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH15-005": {
+    "activities": [
+      "PCI-ACT-CH15-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH16-003": {
+    "activities": [
+      "PCI-ACT-CH16-001"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH16-005": {
+    "activities": [
+      "PCI-ACT-CH16-002"
+    ],
+    "scenarios": [],
+    "rehearsals": []
+  },
+  "PCI-C-CH01-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH01-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH02-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH02-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH03-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH03-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH04-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH04-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH09-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH09-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH10-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH10-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH11-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH11-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH12-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH12-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH13-001": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH13-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH13-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH13-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH14-001": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH14-001"
+    ],
+    "rehearsals": [
+      "PCI-RH-011"
+    ]
+  },
+  "PCI-C-CH14-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH14-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH15-001": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH15-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH15-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH15-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH16-001": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH16-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH16-002": {
+    "activities": [],
+    "scenarios": [
+      "PCI-SC-CH16-001"
+    ],
+    "rehearsals": []
+  },
+  "PCI-C-CH06-005": {
+    "activities": [],
+    "scenarios": [],
+    "rehearsals": [
+      "PCI-RH-005"
+    ]
+  },
+  "PCI-C-CH08-006": {
+    "activities": [],
+    "scenarios": [],
+    "rehearsals": [
+      "PCI-RH-006"
+    ]
+  },
+  "PCI-C-CH10-009": {
+    "activities": [],
+    "scenarios": [],
+    "rehearsals": [
+      "PCI-RH-008"
+    ]
+  },
+  "PCI-C-CH13-007": {
+    "activities": [],
+    "scenarios": [],
+    "rehearsals": [
+      "PCI-RH-010"
+    ]
+  },
+  "PCI-C-CH16-007": {
+    "activities": [],
+    "scenarios": [],
+    "rehearsals": [
+      "PCI-RH-012"
+    ]
+  }
+}

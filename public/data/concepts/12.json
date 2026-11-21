@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "PCI-C-CH12-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Medication analogy cannot substitute for care",
+    "content": "The chapter analogizes calming mental habits to a tranquilizing screen that reduces responses to cues. It contrasts pharmacological effects with voluntarily practiced changes of attention and response.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter analogizes calming mental habits to a tranquilizing screen that reduces responses to cues.",
+    "terms": {
+      "primary": "Medication analogy cannot substitute for care",
+      "definition": "The chapter analogizes calming mental habits to a tranquilizing screen that reduces responses to cues."
+    },
+    "author_mechanism": "It contrasts pharmacological effects with voluntarily practiced changes of attention and response.",
+    "conditions_and_limits": "Never stop or adjust medication from this book; drug comparisons are oversimplified and dated.",
+    "application": "Treat the nonclinical exercises as optional complements, not substitutes for treatment.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Never stop or adjust medication from this book; drug comparisons are oversimplified and dated.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of medication analogy cannot substitute for care to the author’s broader account of self-image and feedback. Its central claim is that the chapter analogizes calming mental habits to a tranquilizing screen that reduces responses to cues. The argument proceeds by stating that it contrasts pharmacological effects with voluntarily practiced changes of attention and response. The source’s concrete illustration is: The opening contains critical claims about prescribed psychiatric medicines. A bounded learning application is: Treat the nonclinical exercises as optional complements, not substitutes for treatment. The important qualification is: Never stop or adjust medication from this book; drug comparisons are oversimplified and dated. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The opening contains critical claims about prescribed psychiatric medicines.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-001"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "The ringing telephone as a response-choice model",
+    "content": "A familiar sound is used to show how a stimulus can elicit hurried action without deliberation. The author suggests noticing the cue and choosing whether immediate response is necessary.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-235",
+        "pdf_page": 235,
+        "printed_page": 225,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A familiar sound is used to show how a stimulus can elicit hurried action without deliberation.",
+    "terms": {
+      "primary": "The ringing telephone as a response-choice model",
+      "definition": "A familiar sound is used to show how a stimulus can elicit hurried action without deliberation."
+    },
+    "author_mechanism": "The author suggests noticing the cue and choosing whether immediate response is necessary.",
+    "conditions_and_limits": "Emergency alerts and caregiving obligations warrant timely response; do not ignore genuine danger.",
+    "application": "When safe, let a nonurgent notification go unanswered for a short planned interval.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Emergency alerts and caregiving obligations warrant timely response; do not ignore genuine danger.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of the ringing telephone as a response-choice model to the author’s broader account of self-image and feedback. Its central claim is that a familiar sound is used to show how a stimulus can elicit hurried action without deliberation. The argument proceeds by stating that the author suggests noticing the cue and choosing whether immediate response is necessary. The source’s concrete illustration is: A person interrupts quiet reading to answer a ringing phone. A bounded learning application is: When safe, let a nonurgent notification go unanswered for a short planned interval. The important qualification is: Emergency alerts and caregiving obligations warrant timely response; do not ignore genuine danger. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A person interrupts quiet reading to answer a ringing phone.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-001"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH06-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Habit learning and Pavlovian cues",
+    "content": "The book uses conditioned salivation to discuss learned reactions to ordinary signals. A cue repeatedly paired with a response can continue triggering that response after circumstances change.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-236",
+        "pdf_page": 236,
+        "printed_page": 226,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book uses conditioned salivation to discuss learned reactions to ordinary signals.",
+    "terms": {
+      "primary": "Habit learning and Pavlovian cues",
+      "definition": "The book uses conditioned salivation to discuss learned reactions to ordinary signals."
+    },
+    "author_mechanism": "A cue repeatedly paired with a response can continue triggering that response after circumstances change.",
+    "conditions_and_limits": "Animal conditioning does not fully explain human trauma, anxiety or all emotional responses.",
+    "application": "Record a harmless cue, habitual response and whether it still serves your aim.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Animal conditioning does not fully explain human trauma, anxiety or all emotional responses.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of habit learning and pavlovian cues to the author’s broader account of self-image and feedback. Its central claim is that the book uses conditioned salivation to discuss learned reactions to ordinary signals. The argument proceeds by stating that a cue repeatedly paired with a response can continue triggering that response after circumstances change. The source’s concrete illustration is: Pavlov’s bell is invoked as an analogy for deadlines and social apprehension. A bounded learning application is: Record a harmless cue, habitual response and whether it still serves your aim. The important qualification is: Animal conditioning does not fully explain human trauma, anxiety or all emotional responses. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Pavlov’s bell is invoked as an analogy for deadlines and social apprehension.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-002"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Extinguishing a learned response through deliberate pause",
+    "content": "The chapter encourages practicing nonresponse instead of automatically obeying every pressure cue. A mental pause between stimulus and response is used as an accessible self-regulation analogy.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-237",
+        "pdf_page": 237,
+        "printed_page": 227,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter encourages practicing nonresponse instead of automatically obeying every pressure cue.",
+    "terms": {
+      "primary": "Extinguishing a learned response through deliberate pause",
+      "definition": "The chapter encourages practicing nonresponse instead of automatically obeying every pressure cue."
+    },
+    "author_mechanism": "A mental pause between stimulus and response is used as an accessible self-regulation analogy.",
+    "conditions_and_limits": "Some cues require action; avoidance is not the same as extinction treatment.",
+    "application": "Practice one brief pause before responding to a nonurgent request.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Some cues require action; avoidance is not the same as extinction treatment.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of extinguishing a learned response through deliberate pause to the author’s broader account of self-image and feedback. Its central claim is that the chapter encourages practicing nonresponse instead of automatically obeying every pressure cue. The argument proceeds by stating that a mental pause between stimulus and response is used as an accessible self-regulation analogy. The source’s concrete illustration is: The narrator suggests learning to let the bell ring rather than treating the cue as a command. A bounded learning application is: Practice one brief pause before responding to a nonurgent request. The important qualification is: Some cues require action; avoidance is not the same as extinction treatment. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The narrator suggests learning to let the bell ring rather than treating the cue as a command.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-002"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-002"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Delay when ignoring a stimulus is not appropriate",
+    "content": "The book describes postponing a reflexive reply as an alternative to being controlled by it. A deliberate delay permits reconsideration and a measured decision.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-238",
+        "pdf_page": 238,
+        "printed_page": 228,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book describes postponing a reflexive reply as an alternative to being controlled by it.",
+    "terms": {
+      "primary": "Delay when ignoring a stimulus is not appropriate",
+      "definition": "The book describes postponing a reflexive reply as an alternative to being controlled by it."
+    },
+    "author_mechanism": "A deliberate delay permits reconsideration and a measured decision.",
+    "conditions_and_limits": "Delaying emergency intervention or urgent care is inappropriate.",
+    "application": "In a routine message, wait a safe brief moment, then reply based on importance.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Delaying emergency intervention or urgent care is inappropriate.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of delay when ignoring a stimulus is not appropriate to the author’s broader account of self-image and feedback. Its central claim is that the book describes postponing a reflexive reply as an alternative to being controlled by it. The argument proceeds by stating that a deliberate delay permits reconsideration and a measured decision. The source’s concrete illustration is: The delay section asks readers to slow habitual reactions rather than respond immediately. A bounded learning application is: In a routine message, wait a safe brief moment, then reply based on importance. The important qualification is: Delaying emergency intervention or urgent care is inappropriate. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The delay section asks readers to slow habitual reactions rather than respond immediately.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-002"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Relaxation as a self-regulation practice",
+    "content": "Physical calm is described as a screen between events and automatic emotional escalation. The author proposes relaxation and measured response to counter rushed reactions.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-239",
+        "pdf_page": 239,
+        "printed_page": 229,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Physical calm is described as a screen between events and automatic emotional escalation.",
+    "terms": {
+      "primary": "Relaxation as a self-regulation practice",
+      "definition": "Physical calm is described as a screen between events and automatic emotional escalation."
+    },
+    "author_mechanism": "The author proposes relaxation and measured response to counter rushed reactions.",
+    "conditions_and_limits": "Relaxation cannot guarantee relief from panic, trauma or all anxiety conditions.",
+    "application": "Try a non-forced release of jaw or shoulder tension and notice whether attention changes.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Relaxation cannot guarantee relief from panic, trauma or all anxiety conditions.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of relaxation as a self-regulation practice to the author’s broader account of self-image and feedback. Its central claim is that physical calm is described as a screen between events and automatic emotional escalation. The argument proceeds by stating that the author proposes relaxation and measured response to counter rushed reactions. The source’s concrete illustration is: The section transitions from conditional response to personal physical relaxation. A bounded learning application is: Try a non-forced release of jaw or shoulder tension and notice whether attention changes. The important qualification is: Relaxation cannot guarantee relief from panic, trauma or all anxiety conditions. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The section transitions from conditional response to personal physical relaxation.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-002"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Pre-performance ritual as a cue for preparation",
+    "content": "The chapter discusses short rituals athletes use to steady attention before activity. A consistent cue is said to separate preparation from execution and reduce distracting commentary.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-239",
+        "pdf_page": 239,
+        "printed_page": 229,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter discusses short rituals athletes use to steady attention before activity.",
+    "terms": {
+      "primary": "Pre-performance ritual as a cue for preparation",
+      "definition": "The chapter discusses short rituals athletes use to steady attention before activity."
+    },
+    "author_mechanism": "A consistent cue is said to separate preparation from execution and reduce distracting commentary.",
+    "conditions_and_limits": "Rituals need not be repeated rigidly; they are not proof of unconscious mechanisms.",
+    "application": "Choose a 2-step harmless setup ritual before one low-stakes task.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Rituals need not be repeated rigidly; they are not proof of unconscious mechanisms.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of pre-performance ritual as a cue for preparation to the author’s broader account of self-image and feedback. Its central claim is that the chapter discusses short rituals athletes use to steady attention before activity. The argument proceeds by stating that a consistent cue is said to separate preparation from execution and reduce distracting commentary. The source’s concrete illustration is: Golf preparation routines are cited as models for other performance contexts. A bounded learning application is: Choose a 2-step harmless setup ritual before one low-stakes task. The important qualification is: Rituals need not be repeated rigidly; they are not proof of unconscious mechanisms. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Golf preparation routines are cited as models for other performance contexts.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH03-003"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "An imaginary quiet room",
+    "content": "A detailed mental scene is proposed for temporarily leaving an overstimulating situation. The quiet-room image allegedly encourages relaxation and limits the carry-over of distress from one role to another.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-240",
+        "pdf_page": 240,
+        "printed_page": 230,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A detailed mental scene is proposed for temporarily leaving an overstimulating situation.",
+    "terms": {
+      "primary": "An imaginary quiet room",
+      "definition": "A detailed mental scene is proposed for temporarily leaving an overstimulating situation."
+    },
+    "author_mechanism": "The quiet-room image allegedly encourages relaxation and limits the carry-over of distress from one role to another.",
+    "conditions_and_limits": "Mental imagery can be upsetting for some people; allow eyes-open and no-imagery alternatives.",
+    "application": "Create a comfortable sensory scene or use an external grounding alternative.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Mental imagery can be upsetting for some people; allow eyes-open and no-imagery alternatives.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of an imaginary quiet room to the author’s broader account of self-image and feedback. Its central claim is that a detailed mental scene is proposed for temporarily leaving an overstimulating situation. The argument proceeds by stating that the quiet-room image allegedly encourages relaxation and limits the carry-over of distress from one role to another. The source’s concrete illustration is: The author gives a visualization for entering a peaceful room of one’s own design. A bounded learning application is: Create a comfortable sensory scene or use an external grounding alternative. The important qualification is: Mental imagery can be upsetting for some people; allow eyes-open and no-imagery alternatives. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The author gives a visualization for entering a peaceful room of one’s own design.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-003"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH06-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-032"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Short daily mental vacations",
+    "content": "The chapter recommends brief restorative pauses as a normal part of a demanding day. An interval of rest can mark a transition and help lower urgency before new tasks.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-242",
+        "pdf_page": 242,
+        "printed_page": 232,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter recommends brief restorative pauses as a normal part of a demanding day.",
+    "terms": {
+      "primary": "Short daily mental vacations",
+      "definition": "The chapter recommends brief restorative pauses as a normal part of a demanding day."
+    },
+    "author_mechanism": "An interval of rest can mark a transition and help lower urgency before new tasks.",
+    "conditions_and_limits": "Rest breaks are not substitutes for workload changes, sleep or clinical care.",
+    "application": "Schedule one optional calm break and record whether focus changed afterward.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Rest breaks are not substitutes for workload changes, sleep or clinical care.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of short daily mental vacations to the author’s broader account of self-image and feedback. Its central claim is that the chapter recommends brief restorative pauses as a normal part of a demanding day. The argument proceeds by stating that an interval of rest can mark a transition and help lower urgency before new tasks. The source’s concrete illustration is: The text describes a little vacation every day and short decompression. A bounded learning application is: Schedule one optional calm break and record whether focus changed afterward. The important qualification is: Rest breaks are not substitutes for workload changes, sleep or clinical care. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The text describes a little vacation every day and short decompression.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-004"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Escapism as limited respite",
+    "content": "The narrator argues that deliberate short mental breaks can be helpful rather than necessarily evasive. Temporary distance from a task can reduce agitation while leaving the actual task to address afterward.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-243",
+        "pdf_page": 243,
+        "printed_page": 233,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The narrator argues that deliberate short mental breaks can be helpful rather than necessarily evasive.",
+    "terms": {
+      "primary": "Escapism as limited respite",
+      "definition": "The narrator argues that deliberate short mental breaks can be helpful rather than necessarily evasive."
+    },
+    "author_mechanism": "Temporary distance from a task can reduce agitation while leaving the actual task to address afterward.",
+    "conditions_and_limits": "Avoidance can worsen some difficulties; pacing should be individualized.",
+    "application": "Use a defined short pause, then choose whether to return or seek help.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Avoidance can worsen some difficulties; pacing should be individualized.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of escapism as limited respite to the author’s broader account of self-image and feedback. Its central claim is that the narrator argues that deliberate short mental breaks can be helpful rather than necessarily evasive. The argument proceeds by stating that temporary distance from a task can reduce agitation while leaving the actual task to address afterward. The source’s concrete illustration is: A section explicitly discusses needing a certain amount of escapism. A bounded learning application is: Use a defined short pause, then choose whether to return or seek help. The important qualification is: Avoidance can worsen some difficulties; pacing should be individualized. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A section explicitly discusses needing a certain amount of escapism.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-004"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Emotional carry-over between tasks",
+    "content": "The book describes lingering agitation from one situation as interference with the next. Emotions, urgency and unresolved thoughts from an earlier interaction are portrayed as competing with new demands.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-244",
+        "pdf_page": 244,
+        "printed_page": 234,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book describes lingering agitation from one situation as interference with the next.",
+    "terms": {
+      "primary": "Emotional carry-over between tasks",
+      "definition": "The book describes lingering agitation from one situation as interference with the next."
+    },
+    "author_mechanism": "Emotions, urgency and unresolved thoughts from an earlier interaction are portrayed as competing with new demands.",
+    "conditions_and_limits": "Accidents and insomnia have many causes and cannot be confidently traced to carry-over alone.",
+    "application": "Before a new task, mark what can wait and what needs immediate attention.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Accidents and insomnia have many causes and cannot be confidently traced to carry-over alone.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of emotional carry-over between tasks to the author’s broader account of self-image and feedback. Its central claim is that the book describes lingering agitation from one situation as interference with the next. The argument proceeds by stating that emotions, urgency and unresolved thoughts from an earlier interaction are portrayed as competing with new demands. The source’s concrete illustration is: The opening of the carry-over section links insomnia, social friction and multitasking. A bounded learning application is: Before a new task, mark what can wait and what needs immediate attention. The important qualification is: Accidents and insomnia have many causes and cannot be confidently traced to carry-over alone. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The opening of the carry-over section links insomnia, social friction and multitasking.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-011"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-004"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Concentration on one task at a time",
+    "content": "The author links avoidable performance errors with split attention and unfinished earlier thoughts. A transition pause is recommended before concentrating on the next task.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-245",
+        "pdf_page": 245,
+        "printed_page": 235,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author links avoidable performance errors with split attention and unfinished earlier thoughts.",
+    "terms": {
+      "primary": "Concentration on one task at a time",
+      "definition": "The author links avoidable performance errors with split attention and unfinished earlier thoughts."
+    },
+    "author_mechanism": "A transition pause is recommended before concentrating on the next task.",
+    "conditions_and_limits": "High-pressure work sometimes needs genuine multitasking and safety protocols.",
+    "application": "Choose one routine task and temporarily silence nonurgent notifications.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "High-pressure work sometimes needs genuine multitasking and safety protocols.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of concentration on one task at a time to the author’s broader account of self-image and feedback. Its central claim is that the author links avoidable performance errors with split attention and unfinished earlier thoughts. The argument proceeds by stating that a transition pause is recommended before concentrating on the next task. The source’s concrete illustration is: Examples of accidents and horse training foreground sustained focus. A bounded learning application is: Choose one routine task and temporarily silence nonurgent notifications. The important qualification is: High-pressure work sometimes needs genuine multitasking and safety protocols. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Examples of accidents and horse training foreground sustained focus.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-012"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-005"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator visualization",
+    "content": "The chapter prescribes an imagined clearing operation before undertaking a different problem. A visual reset is used to move previous concerns out of working focus.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter prescribes an imagined clearing operation before undertaking a different problem.",
+    "terms": {
+      "primary": "Clear-the-calculator visualization",
+      "definition": "The chapter prescribes an imagined clearing operation before undertaking a different problem."
+    },
+    "author_mechanism": "A visual reset is used to move previous concerns out of working focus.",
+    "conditions_and_limits": "The imagery is a mnemonic; there is no literal memory clearing or evidence of guaranteed task success.",
+    "application": "Use a short personal visual cue to set aside nonurgent distraction.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "The imagery is a mnemonic; there is no literal memory clearing or evidence of guaranteed task success.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of clear-the-calculator visualization to the author’s broader account of self-image and feedback. Its central claim is that the chapter prescribes an imagined clearing operation before undertaking a different problem. The argument proceeds by stating that a visual reset is used to move previous concerns out of working focus. The source’s concrete illustration is: Erase a chalkboard, clear a calculator or wash a window are supplied as possible imagery. A bounded learning application is: Use a short personal visual cue to set aside nonurgent distraction. The important qualification is: The imagery is a mnemonic; there is no literal memory clearing or evidence of guaranteed task success. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Erase a chalkboard, clear a calculator or wash a window are supplied as possible imagery.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-013"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-005"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-014",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Louganis rehearsals as an attributed example",
+    "content": "The narrator reports many mental repetitions before an elite dive. The book interprets repeated imagery as narrowing focus before actual learned physical action.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The narrator reports many mental repetitions before an elite dive.",
+    "terms": {
+      "primary": "Louganis rehearsals as an attributed example",
+      "definition": "The narrator reports many mental repetitions before an elite dive."
+    },
+    "author_mechanism": "The book interprets repeated imagery as narrowing focus before actual learned physical action.",
+    "conditions_and_limits": "The 40-repetition report is not a universal instruction nor evidence that imagery replaces physical preparation.",
+    "application": "Combine one brief mental rehearsal with appropriate physical skill practice.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "The 40-repetition report is not a universal instruction nor evidence that imagery replaces physical preparation.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of louganis rehearsals as an attributed example to the author’s broader account of self-image and feedback. Its central claim is that the narrator reports many mental repetitions before an elite dive. The argument proceeds by stating that the book interprets repeated imagery as narrowing focus before actual learned physical action. The source’s concrete illustration is: Greg Louganis is described as mentally rehearsing a dive 40 times. A bounded learning application is: Combine one brief mental rehearsal with appropriate physical skill practice. The important qualification is: The 40-repetition report is not a universal instruction nor evidence that imagery replaces physical preparation. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "Greg Louganis is described as mentally rehearsing a dive 40 times.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-014"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-005"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH02-001"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-015",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Television-host clicking ritual",
+    "content": "A performer uses a short sequence of finger snaps and quiet moments to prepare before a show. The narrative proposes that learned cues can trigger a clear focus routine.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-247",
+        "pdf_page": 247,
+        "printed_page": 237,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A performer uses a short sequence of finger snaps and quiet moments to prepare before a show.",
+    "terms": {
+      "primary": "Television-host clicking ritual",
+      "definition": "A performer uses a short sequence of finger snaps and quiet moments to prepare before a show."
+    },
+    "author_mechanism": "The narrative proposes that learned cues can trigger a clear focus routine.",
+    "conditions_and_limits": "A single attributed story cannot show causality or a neurological switch.",
+    "application": "If helpful, establish a low-stakes 2-step routine, without treating precise timing as a requirement.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "A single attributed story cannot show causality or a neurological switch.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of television-host clicking ritual to the author’s broader account of self-image and feedback. Its central claim is that a performer uses a short sequence of finger snaps and quiet moments to prepare before a show. The argument proceeds by stating that the narrative proposes that learned cues can trigger a clear focus routine. The source’s concrete illustration is: A television host reportedly shortened his pre-show preparation to about 30 seconds. A bounded learning application is: If helpful, establish a low-stakes 2-step routine, without treating precise timing as a requirement. The important qualification is: A single attributed story cannot show causality or a neurological switch. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "A television host reportedly shortened his pre-show preparation to about 30 seconds.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-015"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-006"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-016",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Acting versus reactive drifting",
+    "content": "The closing argues that self-directed goals can guide which external cues deserve action. The ship-and-captain analogy contrasts response selection with passively chasing every provocation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-249",
+        "pdf_page": 249,
+        "printed_page": 239,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The closing argues that self-directed goals can guide which external cues deserve action.",
+    "terms": {
+      "primary": "Acting versus reactive drifting",
+      "definition": "The closing argues that self-directed goals can guide which external cues deserve action."
+    },
+    "author_mechanism": "The ship-and-captain analogy contrasts response selection with passively chasing every provocation.",
+    "conditions_and_limits": "Some external demands are real obligations, and no response is not always appropriate.",
+    "application": "For one ordinary request, ask whether responding now serves a chosen commitment.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Some external demands are real obligations, and no response is not always appropriate.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of acting versus reactive drifting to the author’s broader account of self-image and feedback. Its central claim is that the closing argues that self-directed goals can guide which external cues deserve action. The argument proceeds by stating that the ship-and-captain analogy contrasts response selection with passively chasing every provocation. The source’s concrete illustration is: The psychic umbrella and emotional stabilizer passages revisit the phone analogy. A bounded learning application is: For one ordinary request, ask whether responding now serves a chosen commitment. The important qualification is: Some external demands are real obligations, and no response is not always appropriate. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The psychic umbrella and emotional stabilizer passages revisit the phone analogy.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-016"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-007"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-006"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  },
+  {
+    "id": "PCI-C-CH12-017",
+    "type": "concept",
+    "chapter_id": "PCI-CH-12",
+    "title": "Imagined straw men and present evidence",
+    "content": "The author describes worry as emotionally responding to vivid future possibilities as though they are happening now. Returning attention to present observations is presented as an antidote to hypothetical threats.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-250",
+        "pdf_page": 250,
+        "printed_page": 240,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author describes worry as emotionally responding to vivid future possibilities as though they are happening now.",
+    "terms": {
+      "primary": "Imagined straw men and present evidence",
+      "definition": "The author describes worry as emotionally responding to vivid future possibilities as though they are happening now."
+    },
+    "author_mechanism": "Returning attention to present observations is presented as an antidote to hypothetical threats.",
+    "conditions_and_limits": "Anticipatory planning can be adaptive; intrusive worries may require professional support.",
+    "application": "Write one present fact, one feared possibility and the next useful action.",
+    "common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+    "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism.",
+    "ethical_clinical_cautions": "Anticipatory planning can be adaptive; intrusive worries may require professional support.",
+    "substantive_paraphrase": "Chapter 12 connects the issue of imagined straw men and present evidence to the author’s broader account of self-image and feedback. Its central claim is that the author describes worry as emotionally responding to vivid future possibilities as though they are happening now. The argument proceeds by stating that returning attention to present observations is presented as an antidote to hypothetical threats. The source’s concrete illustration is: The straw-man heading distinguishes actual threats from projected negative pictures. A bounded learning application is: Write one present fact, one feared possibility and the next useful action. The important qualification is: Anticipatory planning can be adaptive; intrusive worries may require professional support. A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism. None of these claims is promoted from source-authenticated book content to independently established psychology.",
+    "source_specific_illustration": "The straw-man heading distinguishes actual threats from projected negative pictures.",
+    "chapter_argument_role": "Source-anchored argument component, not an independent outcome claim",
+    "evidence_assessment": "Book passage verified; external studies and disputed causal claims await Stage05.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH12-017"
+    ],
+    "case_ids": [
+      "PCI-EX-CH12-007"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH12-007"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-033"
+    ]
+  }
+]

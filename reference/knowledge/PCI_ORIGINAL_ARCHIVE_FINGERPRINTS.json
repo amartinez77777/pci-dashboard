@@ -1,0 +1,29 @@
+{
+  "source_pdf": {
+    "sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+    "pdf_page_count": 332,
+    "redistributed_in_public_pack": false
+  },
+  "original_archives": {
+    "foundation": {
+      "original_filename": "PCI_FOUNDATION_v1(4).zip",
+      "sha256": "901bf0a16e44e84f9c76c02459cdd8bd66f56dadcb455d4b1eb07b8e67040eda"
+    },
+    "p1": {
+      "original_filename": "PCI_RESEARCH_PART_01_CH01-04(4).zip",
+      "sha256": "17a358a3e9af173b5eb44972111cbbc63358b427af431d67e5859de26acd2c82"
+    },
+    "p2": {
+      "original_filename": "PCI_RESEARCH_PART_02_CH05-08(3).zip",
+      "sha256": "4933626535ff881860887553e6e31a2d23d6708e910b89428caf917904e65aae"
+    },
+    "p3": {
+      "original_filename": "PCI_RESEARCH_PART_03_CH09-12(2).zip",
+      "sha256": "1fb7b87324b5144093fff872405b685f0cfd362b5bb91102c148828463d41227"
+    },
+    "p4": {
+      "original_filename": "PCI_RESEARCH_PART_04_CH13-16(1).zip",
+      "sha256": "97836e75202fcb19b74988e5769d779ff21f3b817fb67a60a04b65020e46d9d9"
+    }
+  }
+}

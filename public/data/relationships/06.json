@@ -1,0 +1,641 @@
+[
+  {
+    "id": "PCI-R-0037",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Preparation and execution require different attention ↔ Attend to what you want and present feedback",
+    "content": "The relaxation-after-choice prescription explicitly presupposes an informed conscious decision.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-001",
+    "to_id": "PCI-C-CH05-013",
+    "relationship_type": "requires",
+    "rationale": "The relaxation-after-choice prescription explicitly presupposes an informed conscious decision.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-001": {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-013": {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0038",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative incubation follows engagement ↔ Incubation and retrieving ideas",
+    "content": "Chapter 6 returns to the incubation analogy introduced in Chapter 2 but gives additional writers’ anecdotes.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-002",
+    "to_id": "PCI-C-CH02-007",
+    "relationship_type": "complements",
+    "rationale": "Chapter 6 returns to the incubation analogy introduced in Chapter 2 but gives additional writers’ anecdotes.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-002": {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-007": {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0039",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Creative work extends beyond artistic professions ↔ Purposeful imagination in design",
+    "content": "The later chapter expands purposeful imagination from design to everyday problem-solving work.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-115",
+        "pdf_page": 115,
+        "printed_page": 105,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-004",
+    "to_id": "PCI-C-CH02-003",
+    "relationship_type": "complements",
+    "rationale": "The later chapter expands purposeful imagination from design to everyday problem-solving work.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-115",
+        "pdf_page": 115,
+        "printed_page": 105,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-004": {
+        "source_id": "PCI-SRC-PDF-115",
+        "pdf_page": 115,
+        "printed_page": 105,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-003": {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0040",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Spontaneous skill and overcontrol ↔ Behavioral rehearsal with imagined details",
+    "content": "The argument limits conscious moment-to-moment control of a previously practiced skill.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-005",
+    "to_id": "PCI-C-CH03-005",
+    "relationship_type": "qualifies",
+    "rationale": "The argument limits conscious moment-to-moment control of a previously practiced skill.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-005": {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-005": {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0041",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Decision finality as a context-sensitive habit ↔ Attend to what you want and present feedback",
+    "content": "Decision finality only follows consideration of the task and its actual constraints.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-006",
+    "to_id": "PCI-C-CH05-013",
+    "relationship_type": "requires",
+    "rationale": "Decision finality only follows consideration of the task and its actual constraints.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-006": {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-013": {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0042",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Lock-box decision visualization ↔ Decision finality as a context-sensitive habit",
+    "content": "The visualization is a symbolic application of stopping unproductive re-deliberation after a decision.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-007",
+    "to_id": "PCI-C-CH06-006",
+    "relationship_type": "complements",
+    "rationale": "The visualization is a symbolic application of stopping unproductive re-deliberation after a decision.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-007": {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH06-006": {
+        "source_id": "PCI-SRC-PDF-117",
+        "pdf_page": 117,
+        "printed_page": 107,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0043",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Present-moment responsiveness ↔ Attend to what you want and present feedback",
+    "content": "Both discussions emphasize feeding attention with current information instead of imagined futures.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-008",
+    "to_id": "PCI-C-CH05-013",
+    "relationship_type": "complements",
+    "rationale": "Both discussions emphasize feeding attention with current information instead of imagined futures.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-008": {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-013": {
+        "source_id": "PCI-SRC-PDF-107",
+        "pdf_page": 107,
+        "printed_page": 97,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0044",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Hourglass and single-task working ↔ Negative feedback and iterative correction",
+    "content": "One-task focus creates a clearer context for recognizing and correcting performance errors.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-010",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "complements",
+    "rationale": "One-task focus creates a clearer context for recognizing and correcting performance errors.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-010": {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-005": {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0045",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall relaxation during work ↔ Relaxation to soften rigid beliefs",
+    "content": "In-work recall of relaxation extends the Chapter 4 rest-based calming exercise.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-125",
+        "pdf_page": 125,
+        "printed_page": 115,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH06-012",
+    "to_id": "PCI-C-CH04-009",
+    "relationship_type": "complements",
+    "rationale": "In-work recall of relaxation extends the Chapter 4 rest-based calming exercise.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-125",
+        "pdf_page": 125,
+        "printed_page": 115,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH06-012": {
+        "source_id": "PCI-SRC-PDF-125",
+        "pdf_page": 125,
+        "printed_page": 115,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH04-009": {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link; not empirical proof",
+    "verification_status": "both passages located in the specified PDF; interpretive relationship",
+    "not_a_scientific_inference": true
+  }
+]

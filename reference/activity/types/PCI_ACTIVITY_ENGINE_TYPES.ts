@@ -1,0 +1,12 @@
+/** PCI Stage 06, version 1.0.0. Public content types only; private user entries belong in IndexedDB. */
+export type SourceRef = { source_id:string; pdf_page:number; printed_page:number|null; edition_id:string; source_sha256:string };
+export type InputSpec = { field:string; type:'multiline_text'|'choice'; required:boolean; min_chars?:number; max_chars?:number; options?:Array<{value:string;label:string}> };
+export type ActivityStep = { id:string; kind:string; title:string; prompt:string; input:InputSpec; navigation:{next:string}; feedback?:Record<string,string>; completion_evidence:string };
+export type Activity = { id:string; record_type:'executable_activity'; schema_version:'1.0.0'; title:string; chapter_id:string; adapted_from_educational_id:string; origin:'PCI_adaptation'; concept_ids:string[]; source_refs:SourceRef[]; steps:ActivityStep[]; start_step_id:string; terminal_states:string[]; skip_target:string; completion_rule:{kind:'required_fields'; fields:string[]; declined_is_skipped:boolean}; safety:Record<string,unknown>; feedback_policy:{strategy:'transparent_rule_based'; free_text:string; no_diagnosis:true} };
+export type ScenarioChoice = {text:string;target:string;rationale:string};
+export type ScenarioNode = {id:string;type:'decision'|'outcome'|'safe_exit';prompt?:string;choices?:ScenarioChoice[];hypothetical_consequence?:string;tradeoff?:string;reflection_prompt?:string;skip_target?:string};
+export type Scenario = {id:string;record_type:'branching_scenario';schema_version:'1.0.0';title:string;chapter_id:string;source_refs:SourceRef[];linked_concept_ids:string[];start_node:string;exit_node:string;nodes:ScenarioNode[];safety:Record<string,unknown>};
+export type Rehearsal = {id:string;record_type:'rehearsal_template';schema_version:'1.0.0';title:string;chapter_id:string;source_refs:SourceRef[];phases:Array<{id:string;title:string;guidance:string;suggested_seconds:number;pause_after:boolean}>;timing:{full_seconds:number;reduced_seconds:number;no_timer_supported:true;book_duration_claimed:false};safety:Record<string,boolean>};
+export type EventType = 'activity.step_recorded'|'activity.completed'|'activity.skipped'|'scenario.choice'|'scenario.completed'|'scenario.skipped'|'rehearsal.completed'|'rehearsal.skipped';
+export type PrivateEvent = {event_id:string;event_type:EventType;target_id:string;timestamp_iso:string;schema_version:'1.0.0';privacy_mode:'device_local';data?:Record<string,unknown>};
+export const completionIsNotEfficacy = true as const;

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Versioned private JSON backup envelope (specified for future app)",
+  "type": "object",
+  "required": [
+    "format",
+    "version",
+    "created_at",
+    "schema_version",
+    "records",
+    "source_app"
+  ],
+  "properties": {
+    "format": {
+      "const": "PCI_PRIVATE_EXPORT"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "schema_version": {
+      "type": "string"
+    },
+    "source_app": {
+      "const": "PSYCHO-CYBERNETICS-INTELLIGENCE"
+    },
+    "records": {
+      "type": "object",
+      "properties": {
+        "journal_entries": {
+          "type": "array"
+        },
+        "identity_notes": {
+          "type": "array"
+        },
+        "belief_tests": {
+          "type": "array"
+        },
+        "rehearsals": {
+          "type": "array"
+        },
+        "goal_metrics": {
+          "type": "array"
+        },
+        "quiz_attempts": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": false
+    },
+    "checksum_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

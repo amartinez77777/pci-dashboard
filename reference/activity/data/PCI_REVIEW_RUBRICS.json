@@ -1,0 +1,173 @@
+[
+  {
+    "id": "PCI-RUB-001",
+    "record_type": "review_rubric",
+    "schema_version": "1.0.0",
+    "title": "Artifact completeness, not personality",
+    "dimensions": [
+      {
+        "label": "Situation named",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Observation distinguished from interpretation",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Bounded decision or plan recorded",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Source limits and uncertainty acknowledged",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      }
+    ],
+    "max_total": 8,
+    "scoring_origin": "self_reported_artifact_completeness",
+    "not_for_diagnosis": true,
+    "not_a_psychological_trait_score": true,
+    "no_automatic_semantic_grading": true
+  },
+  {
+    "id": "PCI-RUB-002",
+    "record_type": "review_rubric",
+    "schema_version": "1.0.0",
+    "title": "Scenario reasoning self-review",
+    "dimensions": [
+      {
+        "label": "Known facts cited",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Other people’s autonomy considered",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Alternative viable response considered",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Tradeoff or missing information identified",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      }
+    ],
+    "max_total": 8,
+    "scoring_origin": "self_reported_artifact_completeness",
+    "not_for_diagnosis": true,
+    "not_a_psychological_trait_score": true,
+    "no_automatic_semantic_grading": true
+  },
+  {
+    "id": "PCI-RUB-003",
+    "record_type": "review_rubric",
+    "schema_version": "1.0.0",
+    "title": "Rehearsal preparation self-review",
+    "dimensions": [
+      {
+        "label": "Realistic scene set",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Alternative response identified",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "Optional practice method chosen",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      },
+      {
+        "label": "External action or resource named",
+        "allowed_scores": [
+          0,
+          1,
+          2
+        ],
+        "anchor_0": "Not recorded",
+        "anchor_1": "Partially recorded",
+        "anchor_2": "Explicitly recorded; quality self-reviewed, not inferred"
+      }
+    ],
+    "max_total": 8,
+    "scoring_origin": "self_reported_artifact_completeness",
+    "not_for_diagnosis": true,
+    "not_a_psychological_trait_score": true,
+    "no_automatic_semantic_grading": true
+  }
+]

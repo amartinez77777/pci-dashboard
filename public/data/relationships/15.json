@@ -1,0 +1,286 @@
+[
+  {
+    "id": "PCI-R-0102",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-15",
+    "title": "Relation: Adaptation energy is not established life force / Built-in success instinct metaphor",
+    "content": "An undefined energy reserve should not become a literal brain mechanism. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH15-004",
+    "to_id": "PCI-C-CH02-001",
+    "relationship_type": "ethical_tension",
+    "rationale": "An undefined energy reserve should not become a literal brain mechanism.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0103",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-15",
+    "title": "Relation: Placebo examples cannot prove cure by expectation / Overprotection can restrict connection",
+    "content": "Medical and emotional outcomes require care beyond one’s self-image interpretation. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH15-008",
+    "to_id": "PCI-C-CH10-005",
+    "relationship_type": "qualifies",
+    "rationale": "Medical and emotional outcomes require care beyond one’s self-image interpretation.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0104",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-15",
+    "title": "Relation: Creativity and lifespan anecdotes / Sense of direction after a goal",
+    "content": "Meaningful future goals relate to continuing direction beyond one career role. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH15-011",
+    "to_id": "PCI-C-CH08-003",
+    "relationship_type": "complements",
+    "rationale": "Meaningful future goals relate to continuing direction beyond one career role.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0105",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-15",
+    "title": "Relation: Religion and medicine need not conflict / Medication analogy cannot substitute for care",
+    "content": "The source explicitly favors medical care rather than replacing it with faith alone. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-304",
+        "pdf_page": 304,
+        "printed_page": 294,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH15-014",
+    "to_id": "PCI-C-CH12-001",
+    "relationship_type": "supports",
+    "rationale": "The source explicitly favors medical care rather than replacing it with faith alone.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-304",
+        "pdf_page": 304,
+        "printed_page": 294,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-304",
+        "pdf_page": 304,
+        "printed_page": 294,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  }
+]

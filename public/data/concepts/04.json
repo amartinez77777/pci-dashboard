@@ -1,0 +1,636 @@
+[
+  {
+    "id": "PCI-C-CH04-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Belief revision requires testing the premise",
+    "content": "A restrictive conclusion can be challenged when new experience contradicts it. Adler’s school-math example portrays a successful blackboard solution disconfirming a perceived fixed incapacity.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A restrictive conclusion can be challenged when new experience contradicts it.",
+    "terms": {
+      "primary": "Belief revision requires testing the premise",
+      "definition": "A restrictive conclusion can be challenged when new experience contradicts it."
+    },
+    "author_mechanism": "Adler’s school-math example portrays a successful blackboard solution disconfirming a perceived fixed incapacity.",
+    "conditions_and_limits": "One success or failure does not establish a lifelong personal trait.",
+    "application": "Choose a belief that predicts a behavior, then seek small fair tests with observable results.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Practice, teacher feedback and changing expectations can each affect results.",
+    "ethical_clinical_cautions": "One success or failure does not establish a lifelong personal trait.",
+    "substantive_paraphrase": "A restrictive conclusion can be challenged when new experience contradicts it. In the revised book this is explained through adler’s school-math example portrays a successful blackboard solution disconfirming a perceived fixed incapacity. A careful application would be: Choose a belief that predicts a behavior, then seek small fair tests with observable results.",
+    "claim_ids": [
+      "PCI-CL-CH04-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-001",
+      "PCI-EX-CH04-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "belief",
+      "revision",
+      "requires",
+      "testing",
+      "premise"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH04-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "False belief versus dishonest pretending",
+    "content": "The book distinguishes challenging a possibly erroneous self-judgment from fabricating external achievements. The chapter explicitly rejects superficial fake-it-until-you-make-it behavior in favor of testing the truth of self-beliefs.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book distinguishes challenging a possibly erroneous self-judgment from fabricating external achievements.",
+    "terms": {
+      "primary": "False belief versus dishonest pretending",
+      "definition": "The book distinguishes challenging a possibly erroneous self-judgment from fabricating external achievements."
+    },
+    "author_mechanism": "The chapter explicitly rejects superficial fake-it-until-you-make-it behavior in favor of testing the truth of self-beliefs.",
+    "conditions_and_limits": "Avoid fraud, exaggerated credentials or knowingly false public claims.",
+    "application": "Describe what is already evidenced and a skill still being developed; do not present aspiration as achievement.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Ethical self-presentation and evidence-based reappraisal can coexist without grandiose claims.",
+    "ethical_clinical_cautions": "Avoid fraud, exaggerated credentials or knowingly false public claims.",
+    "substantive_paraphrase": "The book distinguishes challenging a possibly erroneous self-judgment from fabricating external achievements. In the revised book this is explained through the chapter explicitly rejects superficial fake-it-until-you-make-it behavior in favor of testing the truth of self-beliefs. A careful application would be: Describe what is already evidenced and a skill still being developed; do not present aspiration as achievement.",
+    "claim_ids": [
+      "PCI-CL-CH04-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-001",
+      "PCI-EX-CH04-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH04-001"
+    ],
+    "tags": [
+      "false",
+      "belief",
+      "versus",
+      "dishonest",
+      "pretending"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH04-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Speech inhibition and personal appearance",
+    "content": "A public-speaking example shows how interpretation of appearance may interfere with communicating a substantive message. A patient initially hoped surgery would solve anxiety; the account attributes eventual improvement to revaluing his message and ability.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-080",
+        "pdf_page": 80,
+        "printed_page": 70,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A public-speaking example shows how interpretation of appearance may interfere with communicating a substantive message.",
+    "terms": {
+      "primary": "Speech inhibition and personal appearance",
+      "definition": "A public-speaking example shows how interpretation of appearance may interfere with communicating a substantive message."
+    },
+    "author_mechanism": "A patient initially hoped surgery would solve anxiety; the account attributes eventual improvement to revaluing his message and ability.",
+    "conditions_and_limits": "An anecdote without independent follow-up is not proof of intervention effectiveness.",
+    "application": "Focus on audience utility, plan content and test with a short practice talk.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Repeated exposure, coaching, feedback and delivery skill may matter beyond identity change.",
+    "ethical_clinical_cautions": "An anecdote without independent follow-up is not proof of intervention effectiveness.",
+    "substantive_paraphrase": "A public-speaking example shows how interpretation of appearance may interfere with communicating a substantive message. In the revised book this is explained through a patient initially hoped surgery would solve anxiety; the account attributes eventual improvement to revaluing his message and ability. A careful application would be: Focus on audience utility, plan content and test with a short practice talk.",
+    "claim_ids": [
+      "PCI-CL-CH04-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-001",
+      "PCI-EX-CH04-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "speech",
+      "inhibition",
+      "personal",
+      "appearance"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-009"
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Suggested ceilings in sales",
+    "content": "A perceived normal level of performance can become a self-imposed ceiling. A sales consultant is described as encountering a team member who accepted a limit before testing it; the book uses the case to illustrate suggestion.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-081",
+        "pdf_page": 81,
+        "printed_page": 71,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A perceived normal level of performance can become a self-imposed ceiling.",
+    "terms": {
+      "primary": "Suggested ceilings in sales",
+      "definition": "A perceived normal level of performance can become a self-imposed ceiling."
+    },
+    "author_mechanism": "A sales consultant is described as encountering a team member who accepted a limit before testing it; the book uses the case to illustrate suggestion.",
+    "conditions_and_limits": "Never ignore practical constraints or pressure someone into unrealistic targets.",
+    "application": "Compare past performance with workload and opportunity, then set evidence-based goals.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Sales territories, pricing, leads, incentives and market conditions may produce apparent ceilings.",
+    "ethical_clinical_cautions": "Never ignore practical constraints or pressure someone into unrealistic targets.",
+    "substantive_paraphrase": "A perceived normal level of performance can become a self-imposed ceiling. In the revised book this is explained through a sales consultant is described as encountering a team member who accepted a limit before testing it; the book uses the case to illustrate suggestion. A careful application would be: Compare past performance with workload and opportunity, then set evidence-based goals.",
+    "claim_ids": [
+      "PCI-CL-CH04-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-002",
+      "PCI-EX-CH04-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "suggested",
+      "ceilings",
+      "sales"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-009"
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Mr. Russell and illness beliefs",
+    "content": "A feared curse and an apparent mouth lesion are said to have produced severe distress until a benign explanation was accepted. The narrator recounts a scar-tissue bump misidentified as an African Bug and describes later dramatic improvement.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-082",
+        "pdf_page": 82,
+        "printed_page": 72,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A feared curse and an apparent mouth lesion are said to have produced severe distress until a benign explanation was accepted.",
+    "terms": {
+      "primary": "Mr. Russell and illness beliefs",
+      "definition": "A feared curse and an apparent mouth lesion are said to have produced severe distress until a benign explanation was accepted."
+    },
+    "author_mechanism": "The narrator recounts a scar-tissue bump misidentified as an African Bug and describes later dramatic improvement.",
+    "conditions_and_limits": "This cannot establish that aging was reversed, that symptoms are imaginary, or that medical assessment is unnecessary.",
+    "application": "When confronted with an alarming bodily interpretation, consult qualified clinicians and distinguish facts from fears.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Stress-related symptoms, coincidence and narrative exaggeration are alternatives to literal reversal of aging.",
+    "ethical_clinical_cautions": "This cannot establish that aging was reversed, that symptoms are imaginary, or that medical assessment is unnecessary.",
+    "substantive_paraphrase": "A feared curse and an apparent mouth lesion are said to have produced severe distress until a benign explanation was accepted. In the revised book this is explained through the narrator recounts a scar-tissue bump misidentified as an African Bug and describes later dramatic improvement. A careful application would be: When confronted with an alarming bodily interpretation, consult qualified clinicians and distinguish facts from fears.",
+    "claim_ids": [
+      "PCI-CL-CH04-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH04-007"
+    ],
+    "tags": [
+      "russell",
+      "illness",
+      "beliefs"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-009"
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Hypnosis demonstrations as skill-release analogy",
+    "content": "The author claims suggestion can inhibit or release measurable abilities already present. Examples include a hand said to be stuck to a table and a grip-strength demonstration under suggestion.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-084",
+        "pdf_page": 84,
+        "printed_page": 74,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author claims suggestion can inhibit or release measurable abilities already present.",
+    "terms": {
+      "primary": "Hypnosis demonstrations as skill-release analogy",
+      "definition": "The author claims suggestion can inhibit or release measurable abilities already present."
+    },
+    "author_mechanism": "Examples include a hand said to be stuck to a table and a grip-strength demonstration under suggestion.",
+    "conditions_and_limits": "No verified study protocol is provided for the exact numerical grip-force account.",
+    "application": "Test modest performance assumptions under safe conditions without coercive suggestion.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Demand effects, effort, measurement and altered attention might explain performance variations.",
+    "ethical_clinical_cautions": "No verified study protocol is provided for the exact numerical grip-force account.",
+    "substantive_paraphrase": "The author claims suggestion can inhibit or release measurable abilities already present. In the revised book this is explained through examples include a hand said to be stuck to a table and a grip-strength demonstration under suggestion. A careful application would be: Test modest performance assumptions under safe conditions without coercive suggestion.",
+    "claim_ids": [
+      "PCI-CL-CH04-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "hypnosis",
+      "demonstrations",
+      "skill",
+      "release",
+      "analogy"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-009",
+      "PCI-EA-010"
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Inferiority feeling versus unequal skill",
+    "content": "Being less capable at one task does not logically make a person inferior in overall human worth. The text contrasts professional domains of a golfer and surgeon to show the error of making task comparisons global.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-086",
+        "pdf_page": 86,
+        "printed_page": 76,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Being less capable at one task does not logically make a person inferior in overall human worth.",
+    "terms": {
+      "primary": "Inferiority feeling versus unequal skill",
+      "definition": "Being less capable at one task does not logically make a person inferior in overall human worth."
+    },
+    "author_mechanism": "The text contrasts professional domains of a golfer and surgeon to show the error of making task comparisons global.",
+    "conditions_and_limits": "Do not treat distress or psychiatric diagnoses as labels or grounds for shame.",
+    "application": "Translate “I am inferior” into a specific skill comparison and a constructive learning target.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Self-worth is also shaped by relationships, social treatment and culture, not just reasoning.",
+    "ethical_clinical_cautions": "Do not treat distress or psychiatric diagnoses as labels or grounds for shame.",
+    "substantive_paraphrase": "Being less capable at one task does not logically make a person inferior in overall human worth. In the revised book this is explained through the text contrasts professional domains of a golfer and surgeon to show the error of making task comparisons global. A careful application would be: Translate “I am inferior” into a specific skill comparison and a constructive learning target.",
+    "claim_ids": [
+      "PCI-CL-CH04-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "inferiority",
+      "feeling",
+      "versus",
+      "unequal",
+      "skill"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-010",
+      "PCI-EA-011"
+    ]
+  },
+  {
+    "id": "PCI-C-CH04-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Social comparison and biased benchmarks",
+    "content": "Misleading reference standards can produce unnecessary shame and undermine performance. The author cites students told an unrealistically fast completion norm and illustrates with novice golf and sales comparisons.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Misleading reference standards can produce unnecessary shame and undermine performance.",
+    "terms": {
+      "primary": "Social comparison and biased benchmarks",
+      "definition": "Misleading reference standards can produce unnecessary shame and undermine performance."
+    },
+    "author_mechanism": "The author cites students told an unrealistically fast completion norm and illustrates with novice golf and sales comparisons.",
+    "conditions_and_limits": "The cited norm experiment is not independently replicated or verified here.",
+    "application": "Identify who set the norm, whether peers and circumstances are comparable, and an individualized progress measure.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Performance anxiety, expectancy effects and the difficulty of tasks may contribute.",
+    "ethical_clinical_cautions": "The cited norm experiment is not independently replicated or verified here.",
+    "substantive_paraphrase": "Misleading reference standards can produce unnecessary shame and undermine performance. In the revised book this is explained through the author cites students told an unrealistically fast completion norm and illustrates with novice golf and sales comparisons. A careful application would be: Identify who set the norm, whether peers and circumstances are comparable, and an individualized progress measure.",
+    "claim_ids": [
+      "PCI-CL-CH04-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH04-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-007"
+    ],
+    "tags": [
+      "social",
+      "comparison",
+      "biased",
+      "benchmarks"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH04-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Relaxation to soften rigid beliefs",
+    "content": "The chapter proposes physical relaxation as context for reconsidering negative interpretations. A daily exercise combines progressive letting-go of tension with 3 specific imagery motifs: heavy limbs, loosened puppet strings and a peaceful remembered scene.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-089",
+        "pdf_page": 89,
+        "printed_page": 79,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter proposes physical relaxation as context for reconsidering negative interpretations.",
+    "terms": {
+      "primary": "Relaxation to soften rigid beliefs",
+      "definition": "The chapter proposes physical relaxation as context for reconsidering negative interpretations."
+    },
+    "author_mechanism": "A daily exercise combines progressive letting-go of tension with 3 specific imagery motifs: heavy limbs, loosened puppet strings and a peaceful remembered scene.",
+    "conditions_and_limits": "Avoid forcing imagery in panic, trauma or physical discomfort; stop and seek care if symptoms worsen.",
+    "application": "In a comfortable setting, practice optional gentle relaxation without strenuous body checks; then reassess one belief calmly.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Relaxation can alter arousal without necessarily changing factual beliefs or healing disease.",
+    "ethical_clinical_cautions": "Avoid forcing imagery in panic, trauma or physical discomfort; stop and seek care if symptoms worsen.",
+    "substantive_paraphrase": "The chapter proposes physical relaxation as context for reconsidering negative interpretations. In the revised book this is explained through a daily exercise combines progressive letting-go of tension with 3 specific imagery motifs: heavy limbs, loosened puppet strings and a peaceful remembered scene. A careful application would be: In a comfortable setting, practice optional gentle relaxation without strenuous body checks; then reassess one belief calmly.",
+    "claim_ids": [
+      "PCI-CL-CH04-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH04-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH03-010"
+    ],
+    "tags": [
+      "relaxation",
+      "soften",
+      "rigid",
+      "beliefs"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH04-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-04",
+    "title": "Individuality beyond inferiority or superiority",
+    "content": "The chapter objects to ranking the worth of whole people on a single competitive scale. The author argues that each person has distinct capacities, so a single universal benchmark is inappropriate.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-088",
+        "pdf_page": 88,
+        "printed_page": 78,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter objects to ranking the worth of whole people on a single competitive scale.",
+    "terms": {
+      "primary": "Individuality beyond inferiority or superiority",
+      "definition": "The chapter objects to ranking the worth of whole people on a single competitive scale."
+    },
+    "author_mechanism": "The author argues that each person has distinct capacities, so a single universal benchmark is inappropriate.",
+    "conditions_and_limits": "Do not dismiss discrimination, disability or economic disadvantage as mere mindset.",
+    "application": "List 3 values or priorities independent of social rank and select one meaningful action.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Cultural context and interpersonal equity are relevant alongside individual agency.",
+    "ethical_clinical_cautions": "Do not dismiss discrimination, disability or economic disadvantage as mere mindset.",
+    "substantive_paraphrase": "The chapter objects to ranking the worth of whole people on a single competitive scale. In the revised book this is explained through the author argues that each person has distinct capacities, so a single universal benchmark is inappropriate. A careful application would be: List 3 values or priorities independent of social rank and select one meaningful action.",
+    "claim_ids": [
+      "PCI-CL-CH04-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH04-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH04-001"
+    ],
+    "related_concept_ids": [],
+    "tags": [
+      "individuality",
+      "beyond",
+      "inferiority",
+      "superiority"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-011"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "total_edges": 109,
+  "unresolved_edges": [],
+  "types": {
+    "supports": 15,
+    "complements": 61,
+    "requires": 8,
+    "ethical_tension": 5,
+    "qualifies": 18,
+    "alternative_explanation": 2
+  },
+  "cross_chapter": 90,
+  "conclusion": "Graph references validated structurally only. Semantic relationship interpretation remains reviewable."
+}

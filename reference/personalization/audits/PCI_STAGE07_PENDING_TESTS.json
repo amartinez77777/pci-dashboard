@@ -1,0 +1,8 @@
+[
+  {"status":"NOT_TESTED","owner_stage":"08","severity":"high","target":"IndexedDB v1-to-v2 upgrade on actual browsers, including quota/blocked versionchange","resolution":"Browser integration tests with existing six legacy stores and private content"},
+  {"status":"NOT_TESTED","owner_stage":"08","severity":"high","target":"Atomic import rollback and consent checking under real IndexedDB transactions","resolution":"Simulate interrupted writes, revoked consent, and concurrent-tab upgrades"},
+  {"status":"NOT_TESTED","owner_stage":"08","severity":"high","target":"iPhone Safari local persistence and export/import round-trip","resolution":"Test refresh, Files ZIP, private browsing and storage-clear warnings"},
+  {"status":"NOT_TESTED","owner_stage":"08/11","severity":"medium","target":"Actual screen reader/keyboard access and stop/skip paths","resolution":"Mobile accessibility audits and recorded outcomes"},
+  {"status":"PARTIAL","owner_stage":"ongoing_research_audit","severity":"medium","target":"Inherited Stage 05 source/citation research completeness","resolution":"Preserve 56 outstanding Stage 06 issues; no new direct PDF verification in this Stage 07 turn"},
+  {"status":"NOT_TESTED","owner_stage":"out_of_scope","severity":"n/a","target":"Clinical or longitudinal efficacy of PCI exercises","resolution":"Do not claim effectiveness from activity completion, streaks or self-rating"}
+]

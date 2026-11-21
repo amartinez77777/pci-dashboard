@@ -1,0 +1,17 @@
+{
+  "overall": "PASS",
+  "new_record_counts": {
+    "mechanism": 12,
+    "exercise": 8,
+    "citation": 69,
+    "evidence_assessment": 14,
+    "author_practice": 24,
+    "application": 50,
+    "claim": 50,
+    "anecdote": 31,
+    "concept": 50,
+    "relationship": 42
+  },
+  "errors": [],
+  "failed_checks": []
+}

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "PCI-ACT-CH07-001",
+    "record_type": "executable_activity",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Fact and meaning in a hard day",
+    "chapter_id": "PCI-CH-07",
+    "chapter_title": "You Can Acquire the Habit of Happiness",
+    "origin": "PCI_adaptation",
+    "adapted_from_educational_id": "PCI-EDU-CH07-001",
+    "source_type": "PCI_original_adaptation",
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "concept_ids": [
+      "PCI-C-CH07-001",
+      "PCI-C-CH07-002"
+    ],
+    "claim_ids": [
+      "PCI-CL-CH07-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "objective": "Practice fact and meaning in a hard day by separating a specific observation from an interpretation, considering alternatives, and specifying a bounded next step.",
+    "kind": "observation",
+    "estimated_minutes": 8,
+    "difficulty": "foundation",
+    "practical_tags": [
+      "observation",
+      "reasoning",
+      "self_review"
+    ],
+    "privacy": {
+      "default": "device_private_in_future_app",
+      "export_opt_in": true,
+      "log_only_event_metadata_by_default": true
+    },
+    "accessibility": {
+      "no_audio_required": true,
+      "no_timed_requirement": true,
+      "keyboard_and_screenreader_ready": true,
+      "skip_available_every_step": true
+    },
+    "safety": {
+      "sensitive": false,
+      "instructions": "You may use a fictional, low-stakes example and skip without explanation. No diagnosis, forced disclosure, forced forgiveness, medical promises, or contact with anyone is required.",
+      "stop_anytime": true,
+      "no_forced_disclosure": true,
+      "emergency_or_medical_advice": false
+    },
+    "start_step_id": "frame",
+    "steps": [
+      {
+        "id": "frame",
+        "kind": "text",
+        "title": "Describe the specific situation",
+        "prompt": "Record one irritating but not traumatic event Write only information you choose to share; fictional examples count.",
+        "input": {
+          "field": "situation",
+          "type": "multiline_text",
+          "max_chars": 900,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "distinguish"
+        },
+        "completion_evidence": "A task-specific or hypothetical example was entered."
+      },
+      {
+        "id": "distinguish",
+        "kind": "text",
+        "title": "Separate evidence and inference",
+        "prompt": "List only observable facts and then the story you told yourself about them Distinguish what was observed from what might be inferred.",
+        "input": {
+          "field": "fact_vs_interpretation",
+          "type": "multiline_text",
+          "max_chars": 1000,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "choose"
+        },
+        "completion_evidence": "The user recorded an observation or explicit uncertainty."
+      },
+      {
+        "id": "choose",
+        "kind": "single_choice",
+        "title": "Make an evidence-sensitive choice",
+        "prompt": "What is a proportionate response to an irritating event?",
+        "input": {
+          "field": "reasoning_choice",
+          "type": "choice",
+          "options": [
+            {
+              "value": "c0",
+              "label": "Check unmet needs and choose a small useful action"
+            },
+            {
+              "value": "c1",
+              "label": "Treat every inconvenience as a statement about personal worth"
+            },
+            {
+              "value": "c2",
+              "label": "Ignore all real problems in the name of happiness"
+            }
+          ],
+          "required": true
+        },
+        "navigation": {
+          "next": "plan"
+        },
+        "feedback": {
+          "c0": "This option is compatible with gathering observable evidence; it does not guarantee a result.",
+          "c1": "This option goes beyond what a single exercise can establish. Consider a narrower inference.",
+          "c2": "This option overlooks situational constraints or makes an untested assumption."
+        },
+        "completion_evidence": "A choice was made; choices do not diagnose ability."
+      },
+      {
+        "id": "plan",
+        "kind": "text",
+        "title": "Design a bounded next step",
+        "prompt": "Write 2 interpretations, including one that takes your interests seriously State a realistic action, comparison, or non-action option and what would be observable.",
+        "input": {
+          "field": "bounded_plan",
+          "type": "multiline_text",
+          "max_chars": 1000,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "observe"
+        },
+        "completion_evidence": "A practical, reversible step or explicit no-action plan was recorded."
+      },
+      {
+        "id": "observe",
+        "kind": "choice",
+        "title": "Log a real or hypothetical result",
+        "prompt": "This can remain a desk-based comparison. Which status describes your evidence?",
+        "input": {
+          "field": "observation_mode",
+          "type": "choice",
+          "options": [
+            {
+              "value": "performed",
+              "label": "A safe action was performed"
+            },
+            {
+              "value": "simulated",
+              "label": "I tested it in a hypothetical example"
+            },
+            {
+              "value": "planned",
+              "label": "I made a plan but have not acted"
+            },
+            {
+              "value": "declined",
+              "label": "I chose not to do this"
+            }
+          ],
+          "required": true
+        },
+        "navigation": {
+          "next": "review"
+        },
+        "completion_evidence": "The type of observation or non-action is explicitly recorded."
+      },
+      {
+        "id": "review",
+        "kind": "text",
+        "title": "Close without overclaiming",
+        "prompt": "Identify any real unmet need that requires action What changed in your explanation, and what remains unknown?",
+        "input": {
+          "field": "review_note",
+          "type": "multiline_text",
+          "max_chars": 1200,
+          "min_chars": 0,
+          "required": false
+        },
+        "navigation": {
+          "next": "END"
+        },
+        "completion_evidence": "Optional self-review is documented."
+      }
+    ],
+    "terminal_states": [
+      "END",
+      "SKIPPED"
+    ],
+    "skip_target": "SKIPPED",
+    "completion_rule": {
+      "kind": "required_fields",
+      "fields": [
+        "situation",
+        "fact_vs_interpretation",
+        "reasoning_choice",
+        "bounded_plan",
+        "observation_mode"
+      ],
+      "successful_observation_values": [
+        "performed",
+        "simulated",
+        "planned"
+      ],
+      "declined_is_skipped": true,
+      "meaning": "Completion of entered steps only, not measured psychological growth."
+    },
+    "review_rubric_id": "PCI-RUB-001",
+    "feedback_pattern_id": "PCI-FB-001",
+    "feedback_policy": {
+      "strategy": "transparent_rule_based",
+      "choice_mapping": "steps[choose].feedback",
+      "free_text": "No automated meaning interpretation. Self-review only.",
+      "final_feedback": "You recorded a situation, an interpretation check, and a next-step decision. Compare any future observations before drawing conclusions.",
+      "no_diagnosis": true,
+      "no_hidden_scores": true
+    },
+    "event_contract": {
+      "on_complete": "activity.completed",
+      "on_skip": "activity.skipped",
+      "on_step": "activity.step_recorded",
+      "fields": [
+        "activity_id",
+        "step_id",
+        "event_type",
+        "timestamp_iso",
+        "input_status",
+        "schema_version"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20",
+      "derived_from_unchanged_record_id": "PCI-EDU-CH07-001"
+    }
+  },
+  {
+    "id": "PCI-ACT-CH07-002",
+    "record_type": "executable_activity",
+    "schema_version": "1.0.0",
+    "content_version": "1.0.0",
+    "title": "Prosocial action plus mood log",
+    "chapter_id": "PCI-CH-07",
+    "chapter_title": "You Can Acquire the Habit of Happiness",
+    "origin": "PCI_adaptation",
+    "adapted_from_educational_id": "PCI-EDU-CH07-002",
+    "source_type": "PCI_original_adaptation",
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "concept_ids": [
+      "PCI-C-CH07-001",
+      "PCI-C-CH07-002"
+    ],
+    "claim_ids": [
+      "PCI-CL-CH07-001"
+    ],
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "objective": "Practice prosocial action plus mood log by separating a specific observation from an interpretation, considering alternatives, and specifying a bounded next step.",
+    "kind": "action_feedback",
+    "estimated_minutes": 12,
+    "difficulty": "foundation",
+    "practical_tags": [
+      "action_feedback",
+      "decision",
+      "observable_action"
+    ],
+    "privacy": {
+      "default": "device_private_in_future_app",
+      "export_opt_in": true,
+      "log_only_event_metadata_by_default": true
+    },
+    "accessibility": {
+      "no_audio_required": true,
+      "no_timed_requirement": true,
+      "keyboard_and_screenreader_ready": true,
+      "skip_available_every_step": true
+    },
+    "safety": {
+      "sensitive": false,
+      "instructions": "You may use a fictional, low-stakes example and skip without explanation. No diagnosis, forced disclosure, forced forgiveness, medical promises, or contact with anyone is required.",
+      "stop_anytime": true,
+      "no_forced_disclosure": true,
+      "emergency_or_medical_advice": false
+    },
+    "start_step_id": "frame",
+    "steps": [
+      {
+        "id": "frame",
+        "kind": "text",
+        "title": "Describe the specific situation",
+        "prompt": "Choose one respectful helpful action someone welcomes Write only information you choose to share; fictional examples count.",
+        "input": {
+          "field": "situation",
+          "type": "multiline_text",
+          "max_chars": 900,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "distinguish"
+        },
+        "completion_evidence": "A task-specific or hypothetical example was entered."
+      },
+      {
+        "id": "distinguish",
+        "kind": "text",
+        "title": "Separate evidence and inference",
+        "prompt": "Record the action and whether the other person consented Distinguish what was observed from what might be inferred.",
+        "input": {
+          "field": "fact_vs_interpretation",
+          "type": "multiline_text",
+          "max_chars": 1000,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "choose"
+        },
+        "completion_evidence": "The user recorded an observation or explicit uncertainty."
+      },
+      {
+        "id": "choose",
+        "kind": "single_choice",
+        "title": "Make an evidence-sensitive choice",
+        "prompt": "Before taking the action, what would be a defensible success measure?",
+        "input": {
+          "field": "reasoning_choice",
+          "type": "choice",
+          "options": [
+            {
+              "value": "c0",
+              "label": "Whether a specific observable step occurred"
+            },
+            {
+              "value": "c1",
+              "label": "Whether my personality permanently improved"
+            },
+            {
+              "value": "c2",
+              "label": "Whether the outcome matches a guaranteed prediction"
+            }
+          ],
+          "required": true
+        },
+        "navigation": {
+          "next": "plan"
+        },
+        "feedback": {
+          "c0": "This option is compatible with gathering observable evidence; it does not guarantee a result.",
+          "c1": "This option goes beyond what a single exercise can establish. Consider a narrower inference.",
+          "c2": "This option overlooks situational constraints or makes an untested assumption."
+        },
+        "completion_evidence": "A choice was made; choices do not diagnose ability."
+      },
+      {
+        "id": "plan",
+        "kind": "text",
+        "title": "Design a bounded next step",
+        "prompt": "Briefly note mood before and after without claiming an enduring happiness shift State a realistic action, comparison, or non-action option and what would be observable.",
+        "input": {
+          "field": "bounded_plan",
+          "type": "multiline_text",
+          "max_chars": 1000,
+          "min_chars": 3,
+          "required": true
+        },
+        "navigation": {
+          "next": "observe"
+        },
+        "completion_evidence": "A practical, reversible step or explicit no-action plan was recorded."
+      },
+      {
+        "id": "observe",
+        "kind": "choice",
+        "title": "Log a real or hypothetical result",
+        "prompt": "Try or simulate the chosen step only if it is safe and welcome. What occurred?",
+        "input": {
+          "field": "observation_mode",
+          "type": "choice",
+          "options": [
+            {
+              "value": "performed",
+              "label": "A safe action was performed"
+            },
+            {
+              "value": "simulated",
+              "label": "I tested it in a hypothetical example"
+            },
+            {
+              "value": "planned",
+              "label": "I made a plan but have not acted"
+            },
+            {
+              "value": "declined",
+              "label": "I chose not to do this"
+            }
+          ],
+          "required": true
+        },
+        "navigation": {
+          "next": "review"
+        },
+        "completion_evidence": "The type of observation or non-action is explicitly recorded."
+      },
+      {
+        "id": "review",
+        "kind": "text",
+        "title": "Close without overclaiming",
+        "prompt": "Describe any environmental factors affecting the outcome What changed in your explanation, and what remains unknown?",
+        "input": {
+          "field": "review_note",
+          "type": "multiline_text",
+          "max_chars": 1200,
+          "min_chars": 0,
+          "required": false
+        },
+        "navigation": {
+          "next": "END"
+        },
+        "completion_evidence": "Optional self-review is documented."
+      }
+    ],
+    "terminal_states": [
+      "END",
+      "SKIPPED"
+    ],
+    "skip_target": "SKIPPED",
+    "completion_rule": {
+      "kind": "required_fields",
+      "fields": [
+        "situation",
+        "fact_vs_interpretation",
+        "reasoning_choice",
+        "bounded_plan",
+        "observation_mode"
+      ],
+      "successful_observation_values": [
+        "performed",
+        "simulated",
+        "planned"
+      ],
+      "declined_is_skipped": true,
+      "meaning": "Completion of entered steps only, not measured psychological growth."
+    },
+    "review_rubric_id": "PCI-RUB-001",
+    "feedback_pattern_id": "PCI-FB-002",
+    "feedback_policy": {
+      "strategy": "transparent_rule_based",
+      "choice_mapping": "steps[choose].feedback",
+      "free_text": "No automated meaning interpretation. Self-review only.",
+      "final_feedback": "You recorded a situation, an interpretation check, and a next-step decision. Compare any future observations before drawing conclusions.",
+      "no_diagnosis": true,
+      "no_hidden_scores": true
+    },
+    "event_contract": {
+      "on_complete": "activity.completed",
+      "on_skip": "activity.skipped",
+      "on_step": "activity.step_recorded",
+      "fields": [
+        "activity_id",
+        "step_id",
+        "event_type",
+        "timestamp_iso",
+        "input_status",
+        "schema_version"
+      ]
+    },
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20",
+      "derived_from_unchanged_record_id": "PCI-EDU-CH07-002"
+    }
+  }
+]

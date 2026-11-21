@@ -1,0 +1,14 @@
+{
+  "stage": "07",
+  "status": "PASS_WITH_BROWSER_LIMITATIONS",
+  "baseline_stage05": {"status":"PASS", "passed":23, "failed":0},
+  "baseline_stage06": {"status":"PASS", "passed":42, "failed":0},
+  "algorithm_tests": {"status":"PASS", "passed":65, "failed":0, "log":"audits/PCI_ALGORITHM_TESTS.log"},
+  "backup_and_checksum_tests": {"status":"PASS", "passed":9, "failed":0, "log":"audits/PCI_BACKUP_TESTS.log"},
+  "schema_and_reference_tests": {"status":"PASS", "passed":41, "failed":0, "log":"audits/PCI_STAGE07_SCHEMA_QA.json"},
+  "typescript_compile": {"status":"PASS", "command":"tsc -p tsconfig.json"},
+  "real_browser_indexeddb": "NOT_TESTED",
+  "real_iphone_safari": "NOT_TESTED",
+  "empirical_psychological_effectiveness": "NOT_TESTED",
+  "full_original_pdf_reverification": "NOT_TESTED"
+}

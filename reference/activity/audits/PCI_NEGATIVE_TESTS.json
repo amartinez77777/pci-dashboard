@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "test": "Missing activity steps rejected by JSON Schema",
+      "status": "PASS"
+    },
+    {
+      "test": "Falsely relabeled clinical activity rejected",
+      "status": "PASS"
+    },
+    {
+      "test": "Invalid activity choice rejected as incomplete",
+      "status": "PASS"
+    },
+    {
+      "test": "Empty required input rejected",
+      "status": "PASS"
+    },
+    {
+      "test": "Skipping sensitive activity is possible without disclosure",
+      "status": "PASS"
+    },
+    {
+      "test": "Declined action does not count as successful completion",
+      "status": "PASS"
+    },
+    {
+      "test": "Out-of-range scenario option rejects",
+      "status": "PASS"
+    },
+    {
+      "test": "Missing graph endpoint does not silently resolve",
+      "status": "PASS"
+    },
+    {
+      "test": "Cyclic scenario does not claim completion",
+      "status": "PASS"
+    },
+    {
+      "test": "Missing rehearsal timing rejected by JSON Schema",
+      "status": "PASS"
+    }
+  ],
+  "passed": 10,
+  "failed": 0
+}

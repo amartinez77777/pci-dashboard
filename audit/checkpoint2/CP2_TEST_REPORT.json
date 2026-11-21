@@ -1,0 +1,95 @@
+{
+  "checkpoint": "2-of-5",
+  "project": "PSYCHO-CYBERNETICS-INTELLIGENCE",
+  "app_version": "0.12.2",
+  "tests": {
+    "node_all": {
+      "status": "PASS",
+      "passed": 106,
+      "failed": 0,
+      "command": "node --test tests/*.test.mjs"
+    },
+    "node_targeted": {
+      "status": "PASS",
+      "passed": 11,
+      "failed": 0,
+      "command": "npm run test:checkpoint2"
+    },
+    "simulated_browser": {
+      "status": "PASS",
+      "passed": 36,
+      "failed": 0,
+      "command": "python tests/browser_checkpoint2.py",
+      "environment": "Chromium in-memory React16 compatibility with simulated IndexedDB, not real browser storage or a React18 production build"
+    },
+    "source_integrity": {
+      "status": "PASS",
+      "passed": 11,
+      "failed": 0,
+      "canonical_immutable_files": 250,
+      "inherited_ids": 1785,
+      "total_ids": 1791
+    },
+    "stage11_source": {
+      "status": "PASS",
+      "passed": 45,
+      "failed": 0
+    },
+    "stage12_source": {
+      "status": "PASS",
+      "passed": 38,
+      "failed": 0
+    },
+    "checkpoint1_regression": {
+      "status": "PASS",
+      "passed": 42,
+      "failed": 0
+    },
+    "stage08_assets": {
+      "status": "PASS",
+      "passed": 34,
+      "failed": 0
+    },
+    "vault_assets": {
+      "status": "PASS",
+      "passed": 17,
+      "failed": 0
+    },
+    "stage10_assets": {
+      "status": "PASS",
+      "passed": 34,
+      "failed": 0
+    },
+    "typecheck": {
+      "status": "PASS",
+      "command": "npm run typecheck"
+    },
+    "lint": {
+      "status": "PASS",
+      "command": "npm run lint"
+    },
+    "offline_compilation": {
+      "status": "PASS",
+      "command": "npm run build:offline",
+      "limitation": "React16 offline compatibility harness, not React18 production build"
+    },
+    "vite_production_build": {
+      "status": "BLOCKED",
+      "command": "npm run build",
+      "exit_code": 127,
+      "error": "vite: not found"
+    },
+    "real_IndexedDB_reload": {
+      "status": "NOT_TESTED"
+    },
+    "physical_iPhone_Safari": {
+      "status": "NOT_TESTED"
+    },
+    "inherited_checkpoint1_browser_recheck": {
+      "status": "NOT_TESTED",
+      "reason": "an attempted redundant rerun exceeded the tool timeout; earlier evidence remains archived"
+    }
+  },
+  "scope": "Six authored PCI adaptation practice protocols; local practice_sessions/review_ratings/events stores; no new storage schema or book claims",
+  "privacy": "No user records in ZIP; synthetic fixture content only in tests; private notes omitted from general events and public assets"
+}

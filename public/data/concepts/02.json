@@ -1,0 +1,561 @@
+[
+  {
+    "id": "PCI-C-CH02-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Built-in success instinct metaphor",
+    "content": "The chapter presents purposeful human problem-solving as analogous to an organism pursuing survival and meaningful goals. Animals’ navigational and survival instincts are used as a bridge to a wider human goal-seeking system that includes creativity and fulfillment.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter presents purposeful human problem-solving as analogous to an organism pursuing survival and meaningful goals.",
+    "terms": {
+      "primary": "Built-in success instinct metaphor",
+      "definition": "The chapter presents purposeful human problem-solving as analogous to an organism pursuing survival and meaningful goals."
+    },
+    "author_mechanism": "Animals’ navigational and survival instincts are used as a bridge to a wider human goal-seeking system that includes creativity and fulfillment.",
+    "conditions_and_limits": "This is a book assertion and metaphor; reject claims of a guaranteed or literal internal success device.",
+    "application": "Translate a vague wish into a goal you can observe and a next action within your control.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Biology, learning, motivation and cultural supports provide multiple explanations for goal pursuit.",
+    "ethical_clinical_cautions": "This is a book assertion and metaphor; reject claims of a guaranteed or literal internal success device.",
+    "substantive_paraphrase": "The chapter presents purposeful human problem-solving as analogous to an organism pursuing survival and meaningful goals. In the revised book this is explained through animals’ navigational and survival instincts are used as a bridge to a wider human goal-seeking system that includes creativity and fulfillment. A careful application would be: Translate a vague wish into a goal you can observe and a next action within your control.",
+    "claim_ids": [
+      "PCI-CL-CH02-001"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-002"
+    ],
+    "tags": [
+      "built",
+      "success",
+      "instinct",
+      "metaphor"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH02-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Decision imagination and self-image work order",
+    "content": "The author proposes a sequence: conscious decision and imagined target, filtered by self-image, guide action. A computer software analogy casts imagined end-states as work orders sent to a purported servo-mechanism.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author proposes a sequence: conscious decision and imagined target, filtered by self-image, guide action.",
+    "terms": {
+      "primary": "Decision imagination and self-image work order",
+      "definition": "The author proposes a sequence: conscious decision and imagined target, filtered by self-image, guide action."
+    },
+    "author_mechanism": "A computer software analogy casts imagined end-states as work orders sent to a purported servo-mechanism.",
+    "conditions_and_limits": "The proposed formula is not a demonstrated causal brain architecture.",
+    "application": "Describe an actionable end-state, available constraints and a specific first experiment.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Goal intentions, mental simulation and implementation planning can produce effects without a hidden machine.",
+    "ethical_clinical_cautions": "The proposed formula is not a demonstrated causal brain architecture.",
+    "substantive_paraphrase": "The author proposes a sequence: conscious decision and imagined target, filtered by self-image, guide action. In the revised book this is explained through a computer software analogy casts imagined end-states as work orders sent to a purported servo-mechanism. A careful application would be: Describe an actionable end-state, available constraints and a specific first experiment.",
+    "claim_ids": [
+      "PCI-CL-CH02-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "decision",
+      "imagination",
+      "self",
+      "image",
+      "work"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH02-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Purposeful imagination in design",
+    "content": "Imagination is framed as useful for specifying details of real-world creation, not merely private fantasy. Starbucks and Disney experiences are cited as examples of translating an imagined service atmosphere into sensory details.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Imagination is framed as useful for specifying details of real-world creation, not merely private fantasy.",
+    "terms": {
+      "primary": "Purposeful imagination in design",
+      "definition": "Imagination is framed as useful for specifying details of real-world creation, not merely private fantasy."
+    },
+    "author_mechanism": "Starbucks and Disney experiences are cited as examples of translating an imagined service atmosphere into sensory details.",
+    "conditions_and_limits": "The case accounts are selectively positive and cannot establish general success rates.",
+    "application": "Before a project, sketch the experience a person should have, then list testable implementation details.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Business execution, resources, customer research and operations are needed, beyond imagination.",
+    "ethical_clinical_cautions": "The case accounts are selectively positive and cannot establish general success rates.",
+    "substantive_paraphrase": "Imagination is framed as useful for specifying details of real-world creation, not merely private fantasy. In the revised book this is explained through starbucks and Disney experiences are cited as examples of translating an imagined service atmosphere into sensory details. A careful application would be: Before a project, sketch the experience a person should have, then list testable implementation details.",
+    "claim_ids": [
+      "PCI-CL-CH02-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "purposeful",
+      "imagination",
+      "design"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-003"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Two kinds of goal search",
+    "content": "The servo metaphor distinguishes steering toward a known target from searching for an answer not yet known. One mechanism corrects course toward a target; another combines stored information to recognize a solution.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-040",
+        "pdf_page": 40,
+        "printed_page": 30,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The servo metaphor distinguishes steering toward a known target from searching for an answer not yet known.",
+    "terms": {
+      "primary": "Two kinds of goal search",
+      "definition": "The servo metaphor distinguishes steering toward a known target from searching for an answer not yet known."
+    },
+    "author_mechanism": "One mechanism corrects course toward a target; another combines stored information to recognize a solution.",
+    "conditions_and_limits": "Avoid treating the historical mechanical analogy as modern neuroscience.",
+    "application": "For a known outcome use tracking; for an unknown solution create hypotheses and gather evidence.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Problem-solving models and learning theory provide alternatives without describing an inner machine.",
+    "ethical_clinical_cautions": "Avoid treating the historical mechanical analogy as modern neuroscience.",
+    "substantive_paraphrase": "The servo metaphor distinguishes steering toward a known target from searching for an answer not yet known. In the revised book this is explained through one mechanism corrects course toward a target; another combines stored information to recognize a solution. A careful application would be: For a known outcome use tracking; for an unknown solution create hypotheses and gather evidence.",
+    "claim_ids": [
+      "PCI-CL-CH02-004"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-005"
+    ],
+    "tags": [
+      "kinds",
+      "goal",
+      "search"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-003"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Negative feedback and iterative correction",
+    "content": "Progress often requires detecting error, adjusting direction and continuing rather than interpreting an error as defeat. The guided torpedo and reaching-for-a-pencil examples illustrate small course corrections using sensory feedback.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Progress often requires detecting error, adjusting direction and continuing rather than interpreting an error as defeat.",
+    "terms": {
+      "primary": "Negative feedback and iterative correction",
+      "definition": "Progress often requires detecting error, adjusting direction and continuing rather than interpreting an error as defeat."
+    },
+    "author_mechanism": "The guided torpedo and reaching-for-a-pencil examples illustrate small course corrections using sensory feedback.",
+    "conditions_and_limits": "Feedback can be noisy; not every failure carries useful instruction.",
+    "application": "After each attempt log signal, change and next trial; record whether adjustment improves outcomes.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Deliberate practice, sensorimotor learning and external coaching explain feedback-based progress.",
+    "ethical_clinical_cautions": "Feedback can be noisy; not every failure carries useful instruction.",
+    "substantive_paraphrase": "Progress often requires detecting error, adjusting direction and continuing rather than interpreting an error as defeat. In the revised book this is explained through the guided torpedo and reaching-for-a-pencil examples illustrate small course corrections using sensory feedback. A careful application would be: After each attempt log signal, change and next trial; record whether adjustment improves outcomes.",
+    "claim_ids": [
+      "PCI-CL-CH02-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-006",
+      "PCI-C-CH03-009"
+    ],
+    "tags": [
+      "negative",
+      "feedback",
+      "iterative",
+      "correction"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-003"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Implicit skill fluency and habit",
+    "content": "Well-rehearsed behavior can become more fluent and require less deliberate attention. The chapter uses infant reaching, driving and sales responses as examples of corrections becoming skillful through repetition.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Well-rehearsed behavior can become more fluent and require less deliberate attention.",
+    "terms": {
+      "primary": "Implicit skill fluency and habit",
+      "definition": "Well-rehearsed behavior can become more fluent and require less deliberate attention."
+    },
+    "author_mechanism": "The chapter uses infant reaching, driving and sales responses as examples of corrections becoming skillful through repetition.",
+    "conditions_and_limits": "Automaticity does not generalize freely across unrelated skills.",
+    "application": "Practice a specific subskill and assess accuracy under gradually more realistic conditions.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Procedural learning, expert pattern recognition and scaffolding are established broader frameworks to investigate.",
+    "ethical_clinical_cautions": "Automaticity does not generalize freely across unrelated skills.",
+    "substantive_paraphrase": "Well-rehearsed behavior can become more fluent and require less deliberate attention. In the revised book this is explained through the chapter uses infant reaching, driving and sales responses as examples of corrections becoming skillful through repetition. A careful application would be: Practice a specific subskill and assess accuracy under gradually more realistic conditions.",
+    "claim_ids": [
+      "PCI-CL-CH02-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "implicit",
+      "skill",
+      "fluency",
+      "habit"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-003"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Incubation and retrieving ideas",
+    "content": "A difficult problem may yield ideas after attention shifts, including during rest or sleep. The metaphor of a memory scanner is extended to writers who allegedly find phrases or examples after a nap.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A difficult problem may yield ideas after attention shifts, including during rest or sleep.",
+    "terms": {
+      "primary": "Incubation and retrieving ideas",
+      "definition": "A difficult problem may yield ideas after attention shifts, including during rest or sleep."
+    },
+    "author_mechanism": "The metaphor of a memory scanner is extended to writers who allegedly find phrases or examples after a nap.",
+    "conditions_and_limits": "Do not assert that answers already exist or will be supplied by an unconscious search engine.",
+    "application": "Define a question, gather facts, take a break, then evaluate the idea against objective criteria.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Memory consolidation, associative search and altered attentional focus are possible explanations.",
+    "ethical_clinical_cautions": "Do not assert that answers already exist or will be supplied by an unconscious search engine.",
+    "substantive_paraphrase": "A difficult problem may yield ideas after attention shifts, including during rest or sleep. In the revised book this is explained through the metaphor of a memory scanner is extended to writers who allegedly find phrases or examples after a nap. A careful application would be: Define a question, gather facts, take a break, then evaluate the idea against objective criteria.",
+    "claim_ids": [
+      "PCI-CL-CH02-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH02-008"
+    ],
+    "tags": [
+      "incubation",
+      "retrieving",
+      "ideas"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-004"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Claims of universal mind and ESP",
+    "content": "The text speculates about obtaining information beyond an individual’s learned memories and invokes telepathy and clairvoyance. Rhine, Edison and named mentalists are cited as purported evidence for access to a larger information store.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text speculates about obtaining information beyond an individual’s learned memories and invokes telepathy and clairvoyance.",
+    "terms": {
+      "primary": "Claims of universal mind and ESP",
+      "definition": "The text speculates about obtaining information beyond an individual’s learned memories and invokes telepathy and clairvoyance."
+    },
+    "author_mechanism": "Rhine, Edison and named mentalists are cited as purported evidence for access to a larger information store.",
+    "conditions_and_limits": "Do not teach telepathy, precognition or universal mind as established scientific capabilities.",
+    "application": "Treat intuitions as proposals requiring real-world verification; keep extraordinary hypotheses separate from practical incubation.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Coincidence, memory bias, inference and unverified stories are alternatives to paranormal access.",
+    "ethical_clinical_cautions": "Do not teach telepathy, precognition or universal mind as established scientific capabilities.",
+    "substantive_paraphrase": "The text speculates about obtaining information beyond an individual’s learned memories and invokes telepathy and clairvoyance. In the revised book this is explained through rhine, Edison and named mentalists are cited as purported evidence for access to a larger information store. A careful application would be: Treat intuitions as proposals requiring real-world verification; keep extraordinary hypotheses separate from practical incubation.",
+    "claim_ids": [
+      "PCI-CL-CH02-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "tags": [
+      "claims",
+      "universal",
+      "mind"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": [
+      "PCI-EA-004"
+    ]
+  },
+  {
+    "id": "PCI-C-CH02-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-02",
+    "title": "Credible self-reframing rather than arbitrary affirmations",
+    "content": "The author requires some perceived truth or reason before adopting a substantially different self-picture. The chapter suggests a new self-view is adopted when a person recognizes an old one as factually mistaken.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-049",
+        "pdf_page": 49,
+        "printed_page": 39,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author requires some perceived truth or reason before adopting a substantially different self-picture.",
+    "terms": {
+      "primary": "Credible self-reframing rather than arbitrary affirmations",
+      "definition": "The author requires some perceived truth or reason before adopting a substantially different self-picture."
+    },
+    "author_mechanism": "The chapter suggests a new self-view is adopted when a person recognizes an old one as factually mistaken.",
+    "conditions_and_limits": "A truthful identity reappraisal can coexist with persistent barriers and clinical symptoms.",
+    "application": "Find a real counterexample to a limiting belief and try a modest test, rather than forcing implausible self-talk.",
+    "common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+    "alternative_explanation": "Mastery experience, interpersonal encouragement and changed opportunity can influence confidence.",
+    "ethical_clinical_cautions": "A truthful identity reappraisal can coexist with persistent barriers and clinical symptoms.",
+    "substantive_paraphrase": "The author requires some perceived truth or reason before adopting a substantially different self-picture. In the revised book this is explained through the chapter suggests a new self-view is adopted when a person recognizes an old one as factually mistaken. A careful application would be: Find a real counterexample to a limiting belief and try a modest test, rather than forcing implausible self-talk.",
+    "claim_ids": [
+      "PCI-CL-CH02-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH02-004",
+      "PCI-EX-CH02-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH02-001",
+      "PCI-AP-CH02-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-001"
+    ],
+    "tags": [
+      "credible",
+      "self",
+      "reframing",
+      "rather",
+      "than"
+    ],
+    "evidence_assessment": "The book contains this discussion. Scientific generality is not established by citation to the book.",
+    "evidence_assessment_ids": []
+  }
+]

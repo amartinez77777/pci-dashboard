@@ -1,0 +1,33 @@
+PCI — FINAL PROMPT 2 OF 5 · MENTAL CONDITIONING LAB CHECKPOINT
+Output: PCI_APP_CHECKPOINT_2.zip | app version 0.12.2 | content schema 1.0.0 | private envelope 2.0.0
+Source: direct continuation of the user-supplied PCI_APP_CHECKPOINT_1(1).zip, not a new app.
+
+DELIVERED
+- Implemented actual Module 06 at #/conditioning with six authored PCI EDUCATIONAL ADAPTATIONS: attention reset; gentle physical settling; realistic action rehearsal; response flexibility; error-to-feedback recovery; self-image behavior practice.
+- Each protocol has 4 substantive, distinct steps with standard, shorter and nonvisual written directions, 3 optional choices per step, optional local notes, a source-linked purpose and specific safety cautions. Steps provide Back / Next / Skip; pause/resume, explicit save draft & exit, confirmable discard and Finish are functional.
+- Source-concept links and corresponding existing activities validated against Checkpoint 1's preserved research; source PDF/printed page locators copied from the linked actual concept record, not inferred. The source supports the topic, NOT the particular new PCI instructions. This does not mean the book has demonstrated scientific effectiveness.
+- Session persistence reuses practice_sessions; user-rated usefulness reuses review_ratings; idempotent minimal practice.started/practice.completed events reuse events. All in existing IndexedDB pci-private-v1 version 2, with 25 unchanged stores. No private notes are placed in general events, research assets, or public/data. Sensitive notes require explicit local consent and are excluded from default redacted export.
+- Actual completion counts from saved sessions; no pseudo-clinical scores. Explicitly disabled Start when storage unavailable; history empty states. Tap-target, responsive and reduced-motion styles included.
+- Six additive immutable content IDs PCI-COND-001 through PCI-COND-006 recorded in PCI_ID_REGISTRY.json. All original 1,785 ID metadata records unchanged; total now 1,791. No schema migration or canonical research replacement.
+
+SOURCE CHANGES (additive except wiring)
+- New: src/conditioning-model.ts, src/conditioning-repo.ts, src/conditioning.tsx, public/conditioning.css, tests/checkpoint2.test.mjs, tests/browser_checkpoint2.py, tests/validate_checkpoint2.py, audit/checkpoint2/CP1_BASELINE_FINGERPRINTS.json.
+- Updated: src/app.tsx (route mounting, metadata and checkpoint label), index.html (style reference), package.json (version/scripts), PCI_PROJECT_MANIFEST.json, PCI_ID_REGISTRY.json and three inherited structural validators (Stage11, Stage12, CP1) to accept exactly six newly authorized IDs while preserving original metadata.
+- Rebuilt: dist-static offline React16 compatibility test harness, CHECKSUMS.sha256 and FILE_INVENTORY.json. Pruned rollbacks, existing 25-store contract, source assets, and reference packs preserved.
+
+TESTS ACTUALLY EXECUTED
+- PASS: strict TS: npm run typecheck; PASS: npm run build:offline (React16 compatibility runtime, not production build).
+- PASS: 106/106 combined Node tests (node --test tests/*.test.mjs); 11 of these are new CP2 model/repository tests, including all six completed practice sessions, exactly one event per completion, pause/resume/skip, private-content exclusion, consent, usefulness ratings and deletion.
+- PASS: 36/36 in-memory Chromium UI checks across 390px and 1440px widths: six cards, written-mode phase specificity, real buttons, pause, skip, completion history, rated usefulness, draft resume, preserved Feedback/Scenario/Knowledge routes, no horizontal overflow. Uses React16 compatibility + simulated IndexedDB.
+- PASS: Stage11 structural 45/45, Stage12 structural 38/38, CP1 source checks 42/42 after additive ID acceptance adjustment; the CP2 fingerprint validator verifies original IDs/content independently.
+- PASS: original source/research/schema data files remain byte-identical to CP1 according to CP1_BASELINE_FINGERPRINTS.json (full exact count in CP2_SOURCE_QA.json). All 16 chapters, 201 concepts, 109 relationships, 70 indexed author-practice records, 12 rehearsal templates, 16 scenarios and 21 daily curriculum records remain present.
+- BLOCKED: npm run build returns vite: not found (exit code 127). No invented lockfile or claimed production React18 build.
+- NOT_TESTED: physical iPhone Safari, native IndexedDB HTTPS-origin reload/transaction durability, actual production browser full-offline reentry. In-memory route-return persistence is not native reload durability.
+- One inherited checkpoint-1 browser rerun exceeded its environment limit; original CP1 successful browser evidence remains preserved, and CP2 browser route checks passed. No retroactive PASS applied to that timed-out rerun.
+
+KNOWN RISKS / NEXT OWNER
+- Stage 15/16 must run actual Vite/React18 and native IndexedDB + Safari tests before production release. Privacy warnings remain required for local-device data and unencrypted backup export.
+- This stage intentionally does not build Academy or expand canonical book research.
+- Practice records are optional self-reflection. They do not diagnose or guarantee changed beliefs, behavior, or health.
+
+PROMPT 3 INPUT: attach ONLY PCI_APP_CHECKPOINT_2.zip. HANDOFF_2.txt, schemas, research content, testing infrastructure, route/ID registry and source data are inside.

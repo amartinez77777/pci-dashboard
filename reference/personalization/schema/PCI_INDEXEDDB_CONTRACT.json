@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0.0",
+  "inherits": "PCI_STORAGE_MIGRATIONS.json schema 1.0.0, db_name pci-private-v1",
+  "db_name": "pci-private-v1",
+  "idb_version": 2,
+  "private_stores": [
+    {
+      "name": "journal_entries",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "identity_notes",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "belief_tests",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "rehearsals",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "goal_metrics",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "quiz_attempts",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "profile_preferences",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "goals",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "beliefs",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "belief_revisions",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "evidence_entries",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "reflection_notes",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "rehearsal_sessions",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "activity_events",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "review_ratings",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "practice_sessions",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "scenario_progress",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "experiments",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "predicted_outcomes",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "observed_outcomes",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "bookmarks",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "backups",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "events",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at",
+        "data.idempotency_key"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "program_progress",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    },
+    {
+      "name": "consents",
+      "key_path": "id",
+      "index_fields": [
+        "created_at",
+        "updated_at"
+      ],
+      "no_public_sync": true
+    }
+  ],
+  "legacy_stores_preserved": [
+    "journal_entries",
+    "identity_notes",
+    "belief_tests",
+    "rehearsals",
+    "goal_metrics",
+    "quiz_attempts"
+  ],
+  "migration": {
+    "from": 1,
+    "to": 2,
+    "strategy": "additive create-new-stores; leave six legacy stores in place; import v1 envelopes by wrapping preserving original id as legacy_id and synthesizing deterministic namespaced UUID",
+    "transaction": "all record writes and metadata commit in same IndexedDB versionchange/import transaction",
+    "unknown_future_version": "reject_without_modification"
+  },
+  "personal_data_no_public_assets": true,
+  "optional_sensitive_consent": "sensitive records require consent_id referencing local granted consent; revoke stops new capture; deletion user controlled",
+  "export": "explicit selection and warning; never transmit automatically",
+  "deletion": "user can delete individual records, stores, or entire device-local database via explicit confirmation",
+  "encryption": "not implemented; plaintext exported files must be treated as sensitive",
+  "no_background_sync": true,
+  "storage_availability": "browser dependent; quota/private mode restrictions must be handled and surfaced"
+}

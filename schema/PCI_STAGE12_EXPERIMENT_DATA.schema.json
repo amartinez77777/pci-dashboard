@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": true,
+  "title": "Private experiments-store feedback iteration",
+  "required": [
+    "feedback_contract_version",
+    "goal_id",
+    "action",
+    "indicator",
+    "status",
+    "revision_history"
+  ],
+  "properties": {
+    "goal_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "action": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "indicator": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "rehearsal_session_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "created_local_date": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "status": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "feedback_contract_version": {
+      "const": "1.0.0"
+    },
+    "review_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

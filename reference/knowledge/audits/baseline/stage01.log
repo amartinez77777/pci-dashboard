@@ -1,0 +1,146 @@
+{
+  "overall": "PASS",
+  "checks": {
+    "schema_validation": "PASS",
+    "id_uniqueness": "PASS",
+    "id_registry_coverage": "PASS",
+    "16_chapter_geometry": "PASS",
+    "referential_integrity": "PASS",
+    "page_bounds": "PASS",
+    "deep_coverage_and_activities": "PASS",
+    "future_chapter_noninflation": "PASS",
+    "coverage_model": "PASS",
+    "author_practice_timing": "PASS",
+    "source_vs_empirical_status": "PASS"
+  },
+  "errors": [],
+  "counts_by_type": {
+    "book": 1,
+    "chapter": 16,
+    "issue": 10,
+    "coverage": 16,
+    "section": 58,
+    "anecdote": 22,
+    "application": 40,
+    "author_practice": 7,
+    "citation": 102,
+    "claim": 40,
+    "concept": 40,
+    "exercise": 8,
+    "evidence_assessment": 11,
+    "mechanism": 8,
+    "relationship": 24
+  },
+  "counts_by_chapter": {
+    "PCI-CH-01": {
+      "chapter": 1,
+      "coverage": 1,
+      "section": 17,
+      "anecdote": 6,
+      "application": 10,
+      "author_practice": 2,
+      "claim": 10,
+      "concept": 10,
+      "exercise": 2,
+      "evidence_assessment": 2,
+      "mechanism": 2,
+      "relationship": 8
+    },
+    "PCI-CH-02": {
+      "chapter": 1,
+      "coverage": 1,
+      "section": 14,
+      "anecdote": 5,
+      "application": 9,
+      "author_practice": 3,
+      "claim": 9,
+      "concept": 9,
+      "exercise": 2,
+      "evidence_assessment": 2,
+      "mechanism": 2,
+      "relationship": 6
+    },
+    "PCI-CH-03": {
+      "chapter": 1,
+      "coverage": 1,
+      "section": 19,
+      "anecdote": 6,
+      "application": 11,
+      "author_practice": 1,
+      "claim": 11,
+      "concept": 11,
+      "exercise": 2,
+      "evidence_assessment": 4,
+      "mechanism": 2,
+      "relationship": 6
+    },
+    "PCI-CH-04": {
+      "chapter": 1,
+      "coverage": 1,
+      "section": 8,
+      "anecdote": 5,
+      "application": 10,
+      "author_practice": 1,
+      "claim": 10,
+      "concept": 10,
+      "exercise": 2,
+      "evidence_assessment": 3,
+      "mechanism": 2,
+      "relationship": 4
+    },
+    "PCI-CH-05": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-06": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-07": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-08": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-09": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-10": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-11": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-12": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-13": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-14": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-15": {
+      "chapter": 1,
+      "coverage": 1
+    },
+    "PCI-CH-16": {
+      "chapter": 1,
+      "coverage": 1
+    }
+  },
+  "counts_by_verification_status": {
+    "verified_in_pdf": 290,
+    "provisional": 113
+  },
+  "total_records": 403
+}
+

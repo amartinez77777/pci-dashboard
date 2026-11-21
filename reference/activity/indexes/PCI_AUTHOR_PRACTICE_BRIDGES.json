@@ -1,0 +1,562 @@
+{
+  "PCI-AP-CH01-001": {
+    "chapter_id": "PCI-CH-01",
+    "activity_ids": [
+      "PCI-ACT-CH01-001",
+      "PCI-ACT-CH01-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH01-002": {
+    "chapter_id": "PCI-CH-01",
+    "activity_ids": [
+      "PCI-ACT-CH01-001",
+      "PCI-ACT-CH01-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH02-001": {
+    "chapter_id": "PCI-CH-02",
+    "activity_ids": [
+      "PCI-ACT-CH02-001",
+      "PCI-ACT-CH02-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH02-002": {
+    "chapter_id": "PCI-CH-02",
+    "activity_ids": [
+      "PCI-ACT-CH02-001",
+      "PCI-ACT-CH02-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH02-003": {
+    "chapter_id": "PCI-CH-02",
+    "activity_ids": [
+      "PCI-ACT-CH02-001",
+      "PCI-ACT-CH02-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH03-001": {
+    "chapter_id": "PCI-CH-03",
+    "activity_ids": [
+      "PCI-ACT-CH03-001",
+      "PCI-ACT-CH03-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH04-001": {
+    "chapter_id": "PCI-CH-04",
+    "activity_ids": [
+      "PCI-ACT-CH04-001",
+      "PCI-ACT-CH04-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH05-001": {
+    "chapter_id": "PCI-CH-05",
+    "activity_ids": [
+      "PCI-ACT-CH05-001",
+      "PCI-ACT-CH05-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH05-002": {
+    "chapter_id": "PCI-CH-05",
+    "activity_ids": [
+      "PCI-ACT-CH05-001",
+      "PCI-ACT-CH05-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH05-003": {
+    "chapter_id": "PCI-CH-05",
+    "activity_ids": [
+      "PCI-ACT-CH05-001",
+      "PCI-ACT-CH05-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-001": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-002": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-003": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-004": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-005": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-006": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-007": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH06-008": {
+    "chapter_id": "PCI-CH-06",
+    "activity_ids": [
+      "PCI-ACT-CH06-001",
+      "PCI-ACT-CH06-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH07-001": {
+    "chapter_id": "PCI-CH-07",
+    "activity_ids": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH07-002": {
+    "chapter_id": "PCI-CH-07",
+    "activity_ids": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH07-003": {
+    "chapter_id": "PCI-CH-07",
+    "activity_ids": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH07-004": {
+    "chapter_id": "PCI-CH-07",
+    "activity_ids": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH07-005": {
+    "chapter_id": "PCI-CH-07",
+    "activity_ids": [
+      "PCI-ACT-CH07-001",
+      "PCI-ACT-CH07-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-001": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-002": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-003": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-004": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-005": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-006": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-007": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH08-008": {
+    "chapter_id": "PCI-CH-08",
+    "activity_ids": [
+      "PCI-ACT-CH08-001",
+      "PCI-ACT-CH08-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH09-001": {
+    "chapter_id": "PCI-CH-09",
+    "activity_ids": [
+      "PCI-ACT-CH09-001",
+      "PCI-ACT-CH09-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH09-002": {
+    "chapter_id": "PCI-CH-09",
+    "activity_ids": [
+      "PCI-ACT-CH09-001",
+      "PCI-ACT-CH09-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH09-003": {
+    "chapter_id": "PCI-CH-09",
+    "activity_ids": [
+      "PCI-ACT-CH09-001",
+      "PCI-ACT-CH09-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH10-001": {
+    "chapter_id": "PCI-CH-10",
+    "activity_ids": [
+      "PCI-ACT-CH10-001",
+      "PCI-ACT-CH10-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH10-002": {
+    "chapter_id": "PCI-CH-10",
+    "activity_ids": [
+      "PCI-ACT-CH10-001",
+      "PCI-ACT-CH10-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH10-003": {
+    "chapter_id": "PCI-CH-10",
+    "activity_ids": [
+      "PCI-ACT-CH10-001",
+      "PCI-ACT-CH10-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH10-004": {
+    "chapter_id": "PCI-CH-10",
+    "activity_ids": [
+      "PCI-ACT-CH10-001",
+      "PCI-ACT-CH10-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH10-005": {
+    "chapter_id": "PCI-CH-10",
+    "activity_ids": [
+      "PCI-ACT-CH10-001",
+      "PCI-ACT-CH10-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH11-001": {
+    "chapter_id": "PCI-CH-11",
+    "activity_ids": [
+      "PCI-ACT-CH11-001",
+      "PCI-ACT-CH11-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH11-002": {
+    "chapter_id": "PCI-CH-11",
+    "activity_ids": [
+      "PCI-ACT-CH11-001",
+      "PCI-ACT-CH11-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH11-003": {
+    "chapter_id": "PCI-CH-11",
+    "activity_ids": [
+      "PCI-ACT-CH11-001",
+      "PCI-ACT-CH11-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH11-004": {
+    "chapter_id": "PCI-CH-11",
+    "activity_ids": [
+      "PCI-ACT-CH11-001",
+      "PCI-ACT-CH11-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH11-005": {
+    "chapter_id": "PCI-CH-11",
+    "activity_ids": [
+      "PCI-ACT-CH11-001",
+      "PCI-ACT-CH11-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-001": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-002": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-003": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-004": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-005": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-006": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH12-007": {
+    "chapter_id": "PCI-CH-12",
+    "activity_ids": [
+      "PCI-ACT-CH12-001",
+      "PCI-ACT-CH12-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-001": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-002": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-003": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-004": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-005": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-006": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH13-007": {
+    "chapter_id": "PCI-CH-13",
+    "activity_ids": [
+      "PCI-ACT-CH13-001",
+      "PCI-ACT-CH13-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-001": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-002": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-003": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-004": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-005": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH14-006": {
+    "chapter_id": "PCI-CH-14",
+    "activity_ids": [
+      "PCI-ACT-CH14-001",
+      "PCI-ACT-CH14-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH15-001": {
+    "chapter_id": "PCI-CH-15",
+    "activity_ids": [
+      "PCI-ACT-CH15-001",
+      "PCI-ACT-CH15-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH15-002": {
+    "chapter_id": "PCI-CH-15",
+    "activity_ids": [
+      "PCI-ACT-CH15-001",
+      "PCI-ACT-CH15-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH15-003": {
+    "chapter_id": "PCI-CH-15",
+    "activity_ids": [
+      "PCI-ACT-CH15-001",
+      "PCI-ACT-CH15-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH15-004": {
+    "chapter_id": "PCI-CH-15",
+    "activity_ids": [
+      "PCI-ACT-CH15-001",
+      "PCI-ACT-CH15-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH16-001": {
+    "chapter_id": "PCI-CH-16",
+    "activity_ids": [
+      "PCI-ACT-CH16-001",
+      "PCI-ACT-CH16-002"
+    ],
+    "author_practice_not_executable_activity": true
+  },
+  "PCI-AP-CH16-002": {
+    "chapter_id": "PCI-CH-16",
+    "activity_ids": [
+      "PCI-ACT-CH16-001",
+      "PCI-ACT-CH16-002"
+    ],
+    "author_practice_not_executable_activity": true
+  }
+}

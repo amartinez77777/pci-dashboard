@@ -1,0 +1,178 @@
+{
+  "scope": "Stage10 code, static source and schema audit. Not scientific, React18 production, physical iPhone or native IndexedDB validation.",
+  "status": "PASS",
+  "passed": 34,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "unmodified src/types.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "documented storage hardening src/storage.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified src/data.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified src/vault-data.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified src/vault-search.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified src/vault-storage.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified src/vault.tsx",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unmodified public/vault.css",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all 232 upstream data/reference assets byte-preserved",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "canonical required PCI_PROJECT_MANIFEST.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "canonical required PCI_ID_REGISTRY.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "canonical required PCI_ISSUES.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all original 1773 IDs and metadata preserved",
+      "status": "PASS",
+      "detail": "1799"
+    },
+    {
+      "check": "5 new issue IDs registered",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "explicit professional concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH01-001', 'PCI-C-CH04-001', 'PCI-C-CH13-001']"
+    },
+    {
+      "check": "explicit communication concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH05-001', 'PCI-C-CH11-001', 'PCI-C-CH04-001']"
+    },
+    {
+      "check": "explicit coaching concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH02-002', 'PCI-C-CH09-001', 'PCI-C-CH13-002']"
+    },
+    {
+      "check": "explicit relationships concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH10-001', 'PCI-C-CH11-001', 'PCI-C-CH04-001']"
+    },
+    {
+      "check": "explicit confidence concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH01-001', 'PCI-C-CH01-002', 'PCI-C-CH04-001']"
+    },
+    {
+      "check": "explicit goals concepts valid",
+      "status": "PASS",
+      "detail": "['PCI-C-CH02-002', 'PCI-C-CH05-003', 'PCI-C-CH14-003']"
+    },
+    {
+      "check": "parse schema/PCI_STAGE10_BELIEF_DATA.schema.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "parse schema/PCI_STAGE10_EVENT_EXTENSION.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "belief JSON Schema itself valid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "privacy boundaries src/personal-labs.tsx",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "privacy boundaries src/personal-labs-model.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "privacy boundaries src/personal-labs-repo.ts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "existing 10 routes retained",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "both labs actively mounted",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no original full book PDF in static assets",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no user records in public",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "uses same 25-store IDB v2 repository",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "maintains before/after revision snapshots",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "save/delete guarded by transactions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source links never auto-authoritative",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

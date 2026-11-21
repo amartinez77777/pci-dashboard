@@ -1,0 +1,39 @@
+PCI — FINAL PROMPT 3 OF 5 / MENTAL MASTERY ACADEMY
+Output: PCI_APP_CHECKPOINT_3.zip
+Source: direct continuation of user-supplied PCI_APP_CHECKPOINT_2(1).zip, not an app replacement.
+App version 0.12.3 / canonical research 1.0.0 / private IndexedDB pci-private-v1 version 2.
+
+IMPLEMENTED
+- Module 09 #/academy is a working course using the ORIGINAL public/data/curriculum.json unchanged (PCI-PROG-021 and PCI-DAY-01 through PCI-DAY-21, authored checkpoints Days 4/9/15/21). Each day's task, short option, reflection prompt, PDF/source status, exercise/concept references and optional module links render from the immutable curriculum.
+- Course starts only on explicit user action. User can acknowledge attempted full/short activity, explicitly skip, pause, resume, review history, browse older lessons read-only, or restart with an independent run while retaining earlier histories. No calendar-day enforcement, fabricated streak or psychology scores. An external link click does NOT mark a lesson completed.
+- Checkpoint workflow asks the curriculum's actual reflection questions, requires an explicit choice to revisit a prior acknowledged day or select none, and creates an opt-in revisit queue entry.
+- Eight curated, source-linked book-comprehension questions with rationales and retry. These are PCI-authored questions about what the book teaches, NOT scientific proof. Questions are scoped by linked concept or chapter, with honest absence of a question where none applies.
+- Transparent review scheduling: incorrect quiz = next local calendar day; correct = 4 local calendar days; explicit checkpoint selection = due immediately. Snooze, dismiss and revisit controls. Calendar dates are used ONLY for reviews, not the 21-day sequence.
+- Uses the existing program_progress, quiz_attempts, review_ratings and events stores, no new store, DB version unchanged, original private record envelopes and UUID record IDs. Each day action uses one IDB transaction to check current day and store an idempotent minimal completion/skip event. No free-text reflections are collected or copied into events/public research data. Private history uses versioned JSON export/import contracts already present.
+- Empty state displays no invented progress; unavailable IndexedDB disables saves. Mobile touch-friendly and reduced-motion style with existing route guard; no additional backend or simulated AI.
+
+CHANGED FILES
+  New: src/academy-model.ts, src/academy-repo.ts, src/academy.tsx, public/academy.css, tests/checkpoint3.test.mjs, tests/browser_checkpoint3.py, tests/validate_checkpoint3.py, audit/checkpoint3/CP2_BASELINE_FINGERPRINTS.json.
+  Modified: src/app.tsx (route mount/metadata), index.html (stylesheet), package.json (version and scripts), PCI_PROJECT_MANIFEST.json, PCI_ID_REGISTRY.json, PCI_ISSUES.json (additive notes on existing unresolved build/native storage tickets), legacy ID-count validator allowlists in tests/validate_checkpoint1.py, validate_checkpoint2.py, validate_stage11.py, validate_stage12.py.
+  Rebuilt: dist-static compatibility harness and CHECKSUMS.sha256, FILE_INVENTORY.json. Existing fixtures retained; no entire historical checkpoints or screenshots added.
+
+IMMUTABLE IDs / CONTENT
+- All 1,791 Checkpoint 2 registered IDs and exact metadata preserved; 8 additive immutable educational question IDs PCI-ACA-Q01/Q02/Q03/Q04/Q05/Q06/Q09/Q16. Total 1,799. 201 source concepts, 16 chapters, 109 relationships, 70 catalogued book practices, 12 Theater templates, 16 scenarios, six Conditioning protocols, 21 curriculum days preserved.
+- Full source PDF absent. Original authored curriculum and all preserved public research assets byte-identical to incoming CP2, verified through independently embedded fingerprint baseline.
+
+TESTS ACTUALLY EXECUTED
+- PASS npm run typecheck (strict TS, exit 0).
+- PASS npm run build:offline (exit 0; in-memory React16 compatibility renderer, NOT official Vite/React18 production build).
+- PASS node --test tests/*.test.mjs: 116/116, 0 failures (10 new CP3 tests).
+- PASS python tests/browser_checkpoint3.py: 32/32 checks across 390px and 1440px in-memory Chromium using synthetic IndexedDB; tested rendered lesson, explicit progression, pause/resume, skip, Day4 checkpoint, review queue, history, source links and preserved Feedback/Scenario/Vault/Conditioning routes, layout overflow.
+- PASS CP3 source validator 9/9 using embedded CP2 fingerprint fixture (no previous ZIP required). Older structural validators: CP1 42/42, CP2 11/11, Stage11 45/45, Stage12 38/38. Legacy allowlists updated ONLY to accept exact additive question IDs while checking original data and IDs.
+- PASS Node lint and Stage08/Vault/Stage10 validators. See audit/checkpoint3/ logs.
+- BLOCKED: npm run build (exit 127: vite not found), after TypeScript passes. Do not certify React18 production.
+- NOT_TESTED: native IndexedDB HTTPS-origin reload/export-import transactions, cross-tab review upsert races, physical iPhone Safari, true offline re-entry on device. Node synthetic IDB readbacks are NOT real browser durability.
+
+KNOWN RISKS / NEXT OWNER
+- Stage 4/5: real React18/Vite build and browser-origin persistence test; confirm Safari on-device, refresh/recovery and import/export; older open issues PCI-ISS-ST08-001 and PCI-ISS-ST10-001 remain tracked.
+- Review_ratings question upsert reads before writing; concurrent tabs need native integration verification to rule out multiple review reminders for one question. No fake uniqueness claim.
+- Future Prompt 4 owns Command Center and Personal Evolution Archive integration; DO NOT replace the Academy or rewrite prior research.
+
+EXACT PROMPT 4 INPUT: attach ONLY PCI_APP_CHECKPOINT_3.zip. All required source, research, schema, 25-store contracts, test-only baseline fixtures, current issues and this handoff are inside.

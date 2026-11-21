@@ -1,0 +1,152 @@
+{
+  "status": "PASS",
+  "passed": 36,
+  "failed": 0,
+  "environment": "Chromium in-memory React16 compatibility with simulated IndexedDB, not real browser storage or a React18 production build",
+  "checks": [
+    {
+      "name": "all-six-protocol-cards-390",
+      "status": "PASS"
+    },
+    {
+      "name": "all-card-start-controls-390",
+      "status": "PASS"
+    },
+    {
+      "name": "six-distinct-titles-390",
+      "status": "PASS"
+    },
+    {
+      "name": "empty-history-390",
+      "status": "PASS"
+    },
+    {
+      "name": "source-chips-provenance-390",
+      "status": "PASS"
+    },
+    {
+      "name": "written-phase-specific-text-390",
+      "status": "PASS"
+    },
+    {
+      "name": "different-phase-rendered-390",
+      "status": "PASS"
+    },
+    {
+      "name": "pause-controls-390",
+      "status": "PASS"
+    },
+    {
+      "name": "completed-session-reappears-390",
+      "status": "PASS"
+    },
+    {
+      "name": "completion-card-counter-390",
+      "status": "PASS"
+    },
+    {
+      "name": "usefulness-rating-saved-390",
+      "status": "PASS"
+    },
+    {
+      "name": "draft-resume-action-390",
+      "status": "PASS"
+    },
+    {
+      "name": "resumed-same-phase-390",
+      "status": "PASS"
+    },
+    {
+      "name": "feedback-preserved-390",
+      "status": "PASS"
+    },
+    {
+      "name": "scenario-preserved-390",
+      "status": "PASS"
+    },
+    {
+      "name": "vault-preserved-390",
+      "status": "PASS"
+    },
+    {
+      "name": "history-persists-on-route-return-390",
+      "status": "PASS"
+    },
+    {
+      "name": "no-overflow-390",
+      "status": "PASS"
+    },
+    {
+      "name": "all-six-protocol-cards-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "all-card-start-controls-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "six-distinct-titles-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "empty-history-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "source-chips-provenance-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "written-phase-specific-text-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "different-phase-rendered-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "pause-controls-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "completed-session-reappears-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "completion-card-counter-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "usefulness-rating-saved-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "draft-resume-action-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "resumed-same-phase-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "feedback-preserved-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "scenario-preserved-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "vault-preserved-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "history-persists-on-route-return-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "no-overflow-1440",
+      "status": "PASS"
+    }
+  ]
+}

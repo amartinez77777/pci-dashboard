@@ -1,0 +1,14 @@
+npm run test:repo|0
+npm run test:vault|0
+npm run test:labs|0
+npm run test:theater|0
+npm run test:stage12|0
+npm run test:assets|0
+npm run test:vault:assets|0
+npm run test:stage10:assets|0
+npm run test:stage11:assets|1
+npm run test:stage12:assets|0
+npm run lint|0
+npm run build|127
+python tests/browser_stage12_smoke.py|0
+python tests/browser_checkpoint1.py|1

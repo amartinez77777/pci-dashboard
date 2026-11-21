@@ -1,0 +1,197 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pci.local/schema/PCI_STAGE10_BELIEF_DATA.schema.json",
+  "title": "PCI Stage10 belief data stored only inside existing Stage07 v2 PrivateRecord.data",
+  "type": "object",
+  "required": [
+    "statement",
+    "domain",
+    "context",
+    "observed_facts",
+    "interpretation",
+    "evidence_for",
+    "evidence_against",
+    "situational_barriers",
+    "alternative_explanations",
+    "working_hypothesis",
+    "small_action",
+    "prediction",
+    "follow_up_date",
+    "conviction",
+    "tags",
+    "concept_ids",
+    "status",
+    "revision_number",
+    "first_saved_at",
+    "latest_reviewed_at"
+  ],
+  "properties": {
+    "statement": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "context": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "observed_facts": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "interpretation": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "situational_barriers": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "alternative_explanations": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "working_hypothesis": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "small_action": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "prediction": {
+      "type": "string",
+      "maxLength": 5000
+    },
+    "domain": {
+      "enum": [
+        "professional",
+        "communication",
+        "coaching",
+        "relationships",
+        "confidence",
+        "goals"
+      ]
+    },
+    "follow_up_date": {
+      "type": "string",
+      "pattern": "^$|^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "conviction": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Only user-entered conviction; no psychological score."
+    },
+    "status": {
+      "enum": [
+        "active",
+        "draft"
+      ]
+    },
+    "revision_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "first_saved_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "latest_reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "concept_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^PCI-C-CH\\d{2}-\\d+$"
+      },
+      "uniqueItems": true
+    },
+    "evidence_for": {
+      "type": "array",
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "observation",
+          "occurred_on"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "supporting",
+              "counter"
+            ]
+          },
+          "observation": {
+            "type": "string",
+            "maxLength": 1500
+          },
+          "occurred_on": {
+            "type": "string"
+          },
+          "interpretation_note": {
+            "type": "string",
+            "maxLength": 1500
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "evidence_against": {
+      "type": "array",
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "observation",
+          "occurred_on"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "supporting",
+              "counter"
+            ]
+          },
+          "observation": {
+            "type": "string",
+            "maxLength": 1500
+          },
+          "occurred_on": {
+            "type": "string"
+          },
+          "interpretation_note": {
+            "type": "string",
+            "maxLength": 1500
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

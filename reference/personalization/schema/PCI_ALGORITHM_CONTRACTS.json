@@ -1,0 +1,45 @@
+{
+  "recommendation": {
+    "inputs": [
+      "catalog",
+      "goals",
+      "dueReviews",
+      "recentEvents",
+      "interests",
+      "difficulty",
+      "prerequisites",
+      "overrides",
+      "asOfLocalDate"
+    ],
+    "outputs": [
+      "ranked_items",
+      "reason_codes",
+      "point_breakdown"
+    ],
+    "properties": [
+      "deterministic",
+      "zero hidden inference",
+      "tie break by content id"
+    ]
+  },
+  "review": {
+    "rating_scale": {
+      "0": "again",
+      "1": "hard",
+      "2": "good",
+      "3": "easy"
+    },
+    "due_day": "local civil date using IANA zone, not 24-hour millisecond addition",
+    "undo": "replay non-undone review events",
+    "not_a_personality_score": true
+  },
+  "metrics": {
+    "counting": "unique idempotency keys + unique session_id and content_id when appropriate",
+    "empty_state": "no private data -> no fabricated values"
+  },
+  "21_day": {
+    "advance_on": "explicit user completion or skip only",
+    "no_streak_shaming": true,
+    "rest_and_restart": "supported"
+  }
+}

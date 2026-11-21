@@ -1,0 +1,178 @@
+[
+  {
+    "command": "npm run typecheck",
+    "exit_code": 0,
+    "duration_seconds": 1.6,
+    "status": "PASS",
+    "last_lines": [
+      "> psycho-cybernetics-intelligence@0.12.0 typecheck",
+      "> tsc --noEmit"
+    ]
+  },
+  {
+    "command": "npm run lint",
+    "exit_code": 0,
+    "duration_seconds": 1.4,
+    "status": "PASS",
+    "last_lines": [
+      "> psycho-cybernetics-intelligence@0.12.0 lint",
+      "> node scripts/lint-source.mjs",
+      "",
+      "PASS: lightweight safety lint and strict TypeScript typecheck. Not ESLint."
+    ]
+  },
+  {
+    "command": "npm run test:repo",
+    "exit_code": 0,
+    "duration_seconds": 0.2,
+    "status": "PASS",
+    "last_lines": [
+      "# fail 0",
+      "# cancelled 0",
+      "# skipped 0",
+      "# todo 0",
+      "# duration_ms 68.242249"
+    ]
+  },
+  {
+    "command": "npm run test:vault",
+    "exit_code": 0,
+    "duration_seconds": 0.3,
+    "status": "PASS",
+    "last_lines": [
+      "# fail 0",
+      "# cancelled 0",
+      "# skipped 0",
+      "# todo 0",
+      "# duration_ms 145.961276"
+    ]
+  },
+  {
+    "command": "npm run test:labs",
+    "exit_code": 0,
+    "duration_seconds": 0.5,
+    "status": "PASS",
+    "last_lines": [
+      "# fail 0",
+      "# cancelled 0",
+      "# skipped 0",
+      "# todo 0",
+      "# duration_ms 322.217711"
+    ]
+  },
+  {
+    "command": "npm run test:theater",
+    "exit_code": 0,
+    "duration_seconds": 0.4,
+    "status": "PASS",
+    "last_lines": [
+      "# fail 0",
+      "# cancelled 0",
+      "# skipped 0",
+      "# todo 0",
+      "# duration_ms 237.162849"
+    ]
+  },
+  {
+    "command": "npm run test:stage12",
+    "exit_code": 0,
+    "duration_seconds": 0.4,
+    "status": "PASS",
+    "last_lines": [
+      "# fail 0",
+      "# cancelled 0",
+      "# skipped 0",
+      "# todo 0",
+      "# duration_ms 230.737007"
+    ]
+  },
+  {
+    "command": "npm run test:assets",
+    "exit_code": 1,
+    "duration_seconds": 0.9,
+    "status": "FAIL",
+    "last_lines": [
+      "{",
+      "  \"status\": \"FAIL\",",
+      "  \"passed\": 33,",
+      "  \"failed\": 1",
+      "}"
+    ]
+  },
+  {
+    "command": "npm run test:vault:assets",
+    "exit_code": 0,
+    "duration_seconds": 3.7,
+    "status": "PASS",
+    "last_lines": [
+      "> psycho-cybernetics-intelligence@0.12.0 test:vault:assets",
+      "> python tests/validate_vault.py",
+      "",
+      "{\"status\": \"PASS\", \"passed\": 17, \"failed\": 0}"
+    ]
+  },
+  {
+    "command": "npm run test:stage10:assets",
+    "exit_code": 0,
+    "duration_seconds": 1.9,
+    "status": "PASS",
+    "last_lines": [
+      "{",
+      "  \"status\": \"PASS\",",
+      "  \"passed\": 34,",
+      "  \"failed\": 0",
+      "}"
+    ]
+  },
+  {
+    "command": "npm run test:stage11:assets",
+    "exit_code": 0,
+    "duration_seconds": 1.7,
+    "status": "PASS",
+    "last_lines": [
+      "{",
+      "  \"status\": \"PASS\",",
+      "  \"passed\": 45,",
+      "  \"failed\": 0",
+      "}"
+    ]
+  },
+  {
+    "command": "npm run test:stage12:assets",
+    "exit_code": 0,
+    "duration_seconds": 1.8,
+    "status": "PASS",
+    "last_lines": [
+      "{",
+      "  \"status\": \"PASS\",",
+      "  \"passed\": 38,",
+      "  \"failed\": 0",
+      "}"
+    ]
+  },
+  {
+    "command": "npm run build:offline",
+    "exit_code": 0,
+    "duration_seconds": 1.6,
+    "status": "PASS",
+    "last_lines": [
+      "> psycho-cybernetics-intelligence@0.12.0 build:offline",
+      "> node scripts/build-offline.mjs",
+      "",
+      "OFFLINE STATIC BUILD PASS: /mnt/data/pci_stage12_work/PCI_APP_STAGE11_FULL/dist-static (React 16 hooks compatibility test harness, not production Vite)"
+    ]
+  },
+  {
+    "command": "npm run build",
+    "exit_code": 127,
+    "duration_seconds": 1.4,
+    "status": "BLOCKED",
+    "last_lines": [
+      "",
+      "> psycho-cybernetics-intelligence@0.12.0 typecheck",
+      "> tsc --noEmit",
+      "",
+      "sh: 1: vite: not found"
+    ]
+  }
+]

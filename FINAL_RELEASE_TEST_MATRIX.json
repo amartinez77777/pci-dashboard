@@ -1,0 +1,81 @@
+{
+  "version": "0.12.5-rc.1",
+  "release": "SOURCE_RELEASE_CANDIDATE_NOT_PRODUCTION_CERTIFIED",
+  "checks": [
+    {
+      "name": "Source ZIP restored",
+      "status": "PASS",
+      "evidence": "Uploaded PCI_APP_CHECKPOINT_4(1).zip CRC PASS, source SHA-256 in FINAL_HANDOFF.txt"
+    },
+    {
+      "name": "Strict TypeScript",
+      "status": "PASS",
+      "evidence": "audit/final/TYPECHECK.log, npm run typecheck exit 0"
+    },
+    {
+      "name": "Lightweight source lint",
+      "status": "PASS",
+      "evidence": "audit/final/LINT.log, npm run lint exit 0 (not ESLint)"
+    },
+    {
+      "name": "Node regression",
+      "status": "PASS",
+      "evidence": "audit/final/ALL_NODE_TESTS.log 130/130 including 7 new safety tests"
+    },
+    {
+      "name": "Research and references",
+      "status": "PASS",
+      "evidence": "audit/final/RESEARCH_INTEGRITY_AUDIT.json, inherited IDs and reference integrity; not scientific validation"
+    },
+    {
+      "name": "Source preservation structural regressions",
+      "status": "PASS",
+      "evidence": "audit/final/STRUCTURAL_REGRESSIONS.json, 10 suites with documented one-file authorized change"
+    },
+    {
+      "name": "Responsive browser 6 widths",
+      "status": "PASS",
+      "evidence": "audit/final/RESPONSIVE_CHROMIUM_QA.json, 114/114 in-memory Chromium React16 + synthetic IDB"
+    },
+    {
+      "name": "Theater legacy browser regression",
+      "status": "PASS",
+      "evidence": "audit/final/BROWSER_STAGE11_RECHECK.log, 56/56 in-memory simulated storage"
+    },
+    {
+      "name": "Native IndexedDB browser durability",
+      "status": "NOT_TESTED",
+      "evidence": "localhost test server connection refused; no real origin available"
+    },
+    {
+      "name": "Actual React18 Vite dependency installation",
+      "status": "BLOCKED",
+      "evidence": "audit/final/DEPENDENCY_INSTALL_ATTEMPT.log, EAI_AGAIN"
+    },
+    {
+      "name": "Genuine Vite production build",
+      "status": "BLOCKED",
+      "evidence": "audit/final/PRODUCTION_BUILD_ATTEMPT.log, exit 127 vite: not found"
+    },
+    {
+      "name": "Offline compatibility compilation",
+      "status": "PASS",
+      "evidence": "audit/final/OFFLINE_BUILD.log, NOT production Vite output"
+    },
+    {
+      "name": "Full source PDF pages verified this stage",
+      "status": "NOT_TESTED",
+      "evidence": "No original PDF attached in this request; existing inherited locators only"
+    },
+    {
+      "name": "Physical iPhone Safari and VoiceOver",
+      "status": "NOT_TESTED",
+      "evidence": "FINAL_MOBILE_10_MINUTE_CHECKLIST.txt"
+    },
+    {
+      "name": "Complete device-grade personal journey",
+      "status": "PARTIAL",
+      "evidence": "Unit tests and synthetic browser links, no secure-origin durable IDB or Safari"
+    }
+  ]
+}

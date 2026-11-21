@@ -1,0 +1,21 @@
+{
+  "overall": "PASS",
+  "passed": 44,
+  "total": 44,
+  "new": {
+    "mechanism": 8,
+    "exercise": 8,
+    "citation": 84,
+    "evidence_assessment": 8,
+    "author_practice": 20,
+    "application": 59,
+    "claim": 59,
+    "anecdote": 29,
+    "concept": 59,
+    "relationship": 25,
+    "section": 82,
+    "issue": 12
+  },
+  "new_registry_count": 453,
+  "errors": []
+}

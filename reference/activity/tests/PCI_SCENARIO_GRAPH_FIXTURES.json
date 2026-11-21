@@ -1,0 +1,162 @@
+[
+  {
+    "scenario_id": "PCI-SC-CH01-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH02-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH03-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH04-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH05-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH06-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH07-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH08-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH09-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH10-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH11-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH12-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH13-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH14-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH15-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  },
+  {
+    "scenario_id": "PCI-SC-CH16-001",
+    "all_outcome_ids": [
+      "END_A1",
+      "END_A2",
+      "END_B1",
+      "END_B2"
+    ],
+    "expected_valid_paths": 4
+  }
+]

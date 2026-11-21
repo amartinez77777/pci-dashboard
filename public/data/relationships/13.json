@@ -1,0 +1,357 @@
+[
+  {
+    "id": "PCI-R-0092",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-13",
+    "title": "Relation: Three-part approach to pressure / Preparation and execution require different attention",
+    "content": "Preparation before performance extends the earlier distinction between deliberate work and execution. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH13-003",
+    "to_id": "PCI-C-CH06-001",
+    "relationship_type": "complements",
+    "rationale": "Preparation before performance extends the earlier distinction between deliberate work and execution.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0093",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-13",
+    "title": "Relation: Shadow-boxing as simulated practice / Behavioral rehearsal with imagined details",
+    "content": "Shadow-boxing reuses a prior chapter’s behavioral rehearsal with imagined details. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH13-006",
+    "to_id": "PCI-C-CH03-005",
+    "relationship_type": "complements",
+    "rationale": "Shadow-boxing reuses a prior chapter’s behavioral rehearsal with imagined details.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-061",
+        "pdf_page": 61,
+        "printed_page": 51,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0094",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-13",
+    "title": "Relation: Safe rehearsal supports self-expression / Self-criticism during performance can disrupt flow",
+    "content": "Rehearsal relates to avoiding excessive self-criticism during performance. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH13-007",
+    "to_id": "PCI-C-CH11-004",
+    "relationship_type": "supports",
+    "rationale": "Rehearsal relates to avoiding excessive self-criticism during performance.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-259",
+        "pdf_page": 259,
+        "printed_page": 249,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0095",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-13",
+    "title": "Relation: Reframe arousal without demanding its removal / Negative emotions as warning lights",
+    "content": "Nervousness can be interpreted as workable arousal rather than evidence of failure. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH13-011",
+    "to_id": "PCI-C-CH09-001",
+    "relationship_type": "qualifies",
+    "rationale": "Nervousness can be interpreted as workable arousal rather than evidence of failure.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0096",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-13",
+    "title": "Relation: There can be a second act / Short-memory performance reset",
+    "content": "Future perspective extends the earlier short-memory reset after mistakes. Each side is grounded in a passage from its own chapter.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH13-014",
+    "to_id": "PCI-C-CH05-005",
+    "relationship_type": "complements",
+    "rationale": "Future perspective extends the earlier short-memory reset after mistakes.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "from": {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "to": {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded interpretive link, not empirical proof",
+    "verification_status": "both endpoints exist in confirmed PDF references; editorial link",
+    "not_a_scientific_inference": true
+  }
+]

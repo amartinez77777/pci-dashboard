@@ -1,0 +1,183 @@
+{
+  "project": "PSYCHO-CYBERNETICS-INTELLIGENCE",
+  "stage": "final-release-candidate",
+  "schema_version": "1.0.0",
+  "canonical_knowledge_pack_version": "1.0.0",
+  "activity_content_version": "1.0.0",
+  "personal_data_schema_version": "2.0.0",
+  "personalization_engine_version": "1.0.0",
+  "original_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+  "research_id_count_preserved": 1676,
+  "stage06_id_count_preserved": 1747,
+  "new_public_ids": 28,
+  "combined_id_count": 1799,
+  "curriculum_days": 21,
+  "recommendation_candidates": 60,
+  "review_seeds": 201,
+  "source_status": "inherited_from_stage05_stage06_not_rechecked_against_pdf",
+  "privacy": "No actual private data is included. Any user records appear in explicit synthetic fixtures only.",
+  "public_distribution": "Do not publish user exports, IndexedDB records or copyrighted PDF.",
+  "app_status": "PCI v1.1 enhanced source candidate; 10 route workflows; genuine Vite build blocked EAI_AGAIN",
+  "app_version": "1.1.0-rc.1",
+  "created_app_issue_ids": [
+    "PCI-ISS-ST08-001",
+    "PCI-ISS-ST08-002",
+    "PCI-ISS-ST08-003",
+    "PCI-ISS-ST08-004"
+  ],
+  "original_1769_ids_preserved": true,
+  "public_assets_source": "stage05 canonical and stage06/07 segmented read-only",
+  "public_source_pdf_included": false,
+  "personal_data_in_public_assets": false,
+  "react_production_version": "18.3.1",
+  "vite_build": "BLOCKED: no installed Vite after npm install registry EAI_AGAIN; offline compilation is not a production build",
+  "offline_browser_smoke": "PASS in-memory compatibility harness, not React18 production build",
+  "data_contracts": {
+    "research": "1.0.0",
+    "activity": "1.0.0",
+    "private": "2.0.0"
+  },
+  "knowledge_vault_release": "search_and_graph_1.0.0",
+  "public_vault_search_records": 504,
+  "public_vault_graph_edges": 109,
+  "public_vault_author_practices": 70,
+  "public_vault_chapter_read_models": 16,
+  "new_stage09_research_ids": 0,
+  "original_1773_ids_preserved": true,
+  "created_app_issue_ids_stage09": [],
+  "stage09_source_authentication": "Original PDF not attached; content inherited directly from Stage05 canonical repository",
+  "in_memory_browser_smoke": "PASS 54/54 in-memory Chromium React16 compatibility, not React18 hosted",
+  "stage09_migration": "None; private schema v2 preserved",
+  "self_image_lab": "working_guided_inventory_and_reflections",
+  "belief_reconstruction_lab": "working_revision_and_experiment_workflow",
+  "new_stage10_research_ids": 0,
+  "private_data_schema_version": "2.0.0",
+  "personal_record_migration": "none; all existing 25 stores unchanged",
+  "event_compatibility": "Stage07 v2 belief.created/belief.revised/journal.saved/outcome_recorded preserved. Additive experiment.planned event uses 2.1.0 payload marker.",
+  "new_stage10_issue_ids": [
+    "PCI-ISS-ST10-001",
+    "PCI-ISS-ST10-002",
+    "PCI-ISS-ST10-003",
+    "PCI-ISS-ST10-004",
+    "PCI-ISS-ST10-005"
+  ],
+  "created_app_issue_ids_stage10": [
+    "PCI-ISS-ST10-001",
+    "PCI-ISS-ST10-002",
+    "PCI-ISS-ST10-003",
+    "PCI-ISS-ST10-004",
+    "PCI-ISS-ST10-005"
+  ],
+  "inherited_stage10_ids_preserved": 1778,
+  "new_research_ids": 0,
+  "new_issue_ids": [
+    "PCI-ISS-ST11-001",
+    "PCI-ISS-ST11-002",
+    "PCI-ISS-ST11-003"
+  ],
+  "theater_release": "1.0.0",
+  "rehearsal_templates": 12,
+  "private_session_schema_version": "1.0.0",
+  "event_extension_version": "2.1.0",
+  "stage11_id_count_preserved": 1781,
+  "stage12_issue_ids": [
+    "PCI-ISS-ST12-001",
+    "PCI-ISS-ST12-002",
+    "PCI-ISS-ST12-003",
+    "PCI-ISS-ST12-004"
+  ],
+  "stage12_valid_scenarios": 16,
+  "stage12_theater_templates": 12,
+  "stage12_workstreams": [
+    "Theater guidance personalization",
+    "Feedback Lab",
+    "Scenario Simulator"
+  ],
+  "stage12_research_asset_changes": "none; canonical research and authored scene data byte-identical",
+  "stage12_private_storage": "IndexedDB v2 existing 25 stores; no new database stores",
+  "stage12_native_browser_status": "NOT_TESTED: in-memory synthetic storage only",
+  "checkpoint": {
+    "name": "Foundation Rescue",
+    "number": 1,
+    "source_archive": "PCI_APP_STAGE12_LEAN_START.zip",
+    "issue_ids_resolved": [
+      "PCI-ISS-ST12-003",
+      "PCI-ISS-ST12-004"
+    ],
+    "private_storage_schema_version": "2.0.0",
+    "public_content_unchanged": true
+  },
+  "conditioning_protocols": 6,
+  "conditioning_content_schema_version": "1.0.0",
+  "created_checkpoint2_ids": [
+    "PCI-COND-001",
+    "PCI-COND-002",
+    "PCI-COND-003",
+    "PCI-COND-004",
+    "PCI-COND-005",
+    "PCI-COND-006"
+  ],
+  "database_schema_migration": "none; pci-private-v1 version 2 and 25 stores retained",
+  "academy_status": "functional_21_day_course_with_private_progress_8_comprehension_questions_transparent_revisit_queue",
+  "academy_question_ids": [
+    "PCI-ACA-Q01",
+    "PCI-ACA-Q02",
+    "PCI-ACA-Q03",
+    "PCI-ACA-Q04",
+    "PCI-ACA-Q05",
+    "PCI-ACA-Q06",
+    "PCI-ACA-Q09",
+    "PCI-ACA-Q16"
+  ],
+  "academy_immutable_day_records": 21,
+  "academy_data_source": "public/data/curriculum.json unchanged",
+  "academy_storage_migration": "none; IndexedDB v2 with 25 original stores",
+  "academy_runtime_limits": "Official Vite/React18 build and real browser IndexedDB reload not verified; in-memory compatibility/browser tests are simulated",
+  "checkpoint4": {
+    "new_canonical_research_ids": 0,
+    "total_permanent_ids_preserved": 1799,
+    "private_db": "pci-private-v1",
+    "db_version": 2,
+    "new_stores": 0,
+    "new_schema_migration": "none",
+    "features": [
+      "actual private counts and deterministic next steps",
+      "suggestions opt-out in profile_preferences",
+      "private archive timeline and safe title/tag search",
+      "new and edited journal reflections with revision history",
+      "delete with immediate undo",
+      "goal-to-experiment, scene-to-session, lesson-to-practice explicit ID links"
+    ],
+    "limitations": [
+      "React 18/Vite build requires installed Vite",
+      "native IndexedDB reload and Safari not tested",
+      "cross-tab conflicts and sensitive import need further device hardening"
+    ]
+  },
+  "release_label": "SOURCE RELEASE CANDIDATE \u2014 NOT PRODUCTION CERTIFIED",
+  "production_vite_build": "BLOCKED: npm install EAI_AGAIN for registry.npmjs.org/react; vite: not found",
+  "package_lockfile": "NOT GENERATED: dependencies not successfully installed",
+  "native_indexeddb": "NOT TESTED: localhost server bind connection refused; compatibility tests use synthetic IndexedDB",
+  "responsive_chromium": "PASS 114/114 in-memory offline React16 compatibility, six viewport widths",
+  "research_recheck": "Stage final structural/internal audit only; 16 editorial proposals, no re-verification against PDF",
+  "public_research_assets_modified": false,
+  "private_database_version_unchanged": 2,
+  "final_source_archive": "PCI_FINAL_SOURCE.zip",
+  "final_deploy_archive": "NOT CREATED \u2014 official production build blocked",
+  "v1_1": {
+    "recommendations": "deterministic_explainable_existing_local_records",
+    "cross_module_journeys": [
+      "belief_goal_to_scene_rehearsal_feedback_archive",
+      "academy_concept_conditioning_review"
+    ],
+    "new_private_stores": 0,
+    "private_db_name": "pci-private-v1",
+    "private_db_version": 2,
+    "original_1799_ids_preserved": true,
+    "original_research_assets_unchanged": true,
+    "tested_node_suites": "139/139 PASS",
+    "chromium_compat_in_memory": "82/82 PASS, fake IndexedDB, not React18/Vite",
+    "native_idb_reload": "NOT_TESTED",
+    "iphone_safari": "NOT_TESTED"
+  }
+}

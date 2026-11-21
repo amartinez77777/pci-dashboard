@@ -1,0 +1,12 @@
+$ npm run test:stage10:assets
+
+> psycho-cybernetics-intelligence@0.12.0 test:stage10:assets
+> python tests/validate_stage10.py
+
+{
+  "status": "PASS",
+  "passed": 34,
+  "failed": 0
+}
+
+EXIT_CODE=0

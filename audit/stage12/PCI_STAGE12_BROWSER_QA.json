@@ -1,0 +1,260 @@
+{
+  "suite": "Stage 12 offline React16 in-memory Chromium + synthetic IndexedDB",
+  "status": "FAIL",
+  "passed": 48,
+  "failed": 2,
+  "checks": [
+    {
+      "name": "command-center-1440",
+      "status": "FAIL",
+      "detail": ""
+    },
+    {
+      "name": "feedback-route-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-empty-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-created-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prediction-visible-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "observation-visible-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenarios-valid-1440",
+      "status": "PASS",
+      "detail": "Case library\n16 playable\nTopic filter\nAll topics\nchoices\nreal world\nevidence check\nsensitive optional\nAfter the first failed presentation\n\nAn analyst forgets a "
+    },
+    {
+      "name": "scenario-first-decision-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-second-decision-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-outcome-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-completion-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-remount-observation-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-12-templates-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-nongeneric-default-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-written-alternative-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-written-phase-specific-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "two-scenes-saved-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "html-like-input-escaped-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scene-settings-distinct-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scene-context-distinct-1440",
+      "status": "PASS",
+      "detail": "('Your scene: <img src=x onerror=window.__sceneInjected=true> Scene beta\\n\\nYour private scene: <img src=x onerror=window.__sceneInjected=true> Scene beta\\n\\nWhat is still uncertain: You cannot predict every response.', 'Your scene: Scene alpha\\n\\nYour private"
+    },
+    {
+      "name": "private-html-remains-text-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "vault-preserved-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "beliefs-preserved-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-horizontal-overflow-1440",
+      "status": "PASS",
+      "detail": "{'w': 1440, 'viewport': 1440}"
+    },
+    {
+      "name": "no-js-errors-1440",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "command-center-390",
+      "status": "FAIL",
+      "detail": ""
+    },
+    {
+      "name": "feedback-route-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-empty-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-created-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "prediction-visible-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "observation-visible-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenarios-valid-390",
+      "status": "PASS",
+      "detail": "Case library\n16 playable\nTopic filter\nAll topics\nchoices\nreal world\nevidence check\nsensitive optional\nAfter the first failed presentation\n\nAn analyst forgets a "
+    },
+    {
+      "name": "scenario-first-decision-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-second-decision-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-outcome-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenario-completion-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "feedback-remount-observation-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-12-templates-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-nongeneric-default-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-written-alternative-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "theater-written-phase-specific-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "two-scenes-saved-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "html-like-input-escaped-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scene-settings-distinct-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scene-context-distinct-390",
+      "status": "PASS",
+      "detail": "('Your scene: <img src=x onerror=window.__sceneInjected=true> Scene beta\\n\\nYour private scene: <img src=x onerror=window.__sceneInjected=true> Scene beta\\n\\nWhat is still uncertain: You cannot predict every response.', 'Your scene: Scene alpha\\n\\nYour private"
+    },
+    {
+      "name": "private-html-remains-text-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "vault-preserved-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "beliefs-preserved-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no-horizontal-overflow-390",
+      "status": "PASS",
+      "detail": "{'w': 390, 'viewport': 390}"
+    },
+    {
+      "name": "no-js-errors-390",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ],
+  "exceptions": [],
+  "disclaimer": "NOT an official React18/Vite browser build; NOT a native IndexedDB reload; NOT an iPhone Safari test."
+}

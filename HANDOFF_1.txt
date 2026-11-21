@@ -1,0 +1,42 @@
+PCI — FINAL PROMPT 1/5 · FOUNDATION RESCUE CHECKPOINT
+App version: 0.12.1 | public research schema 1.0.0 | private envelope 2.0.0 | IndexedDB pci-private-v1 version 2 (25 unchanged stores)
+Output: PCI_APP_CHECKPOINT_1.zip. This is the complete LEAN Stage 12 source, NOT a replacement app.
+
+REPAIRS AND EXACT SOURCE CHANGES
+- src/theater-model.ts: settleClock now obeys timing.auto_advance=false; manual phases never advance or finish from elapsed time. Explicit Next/Finish remain user-controlled. Auto-enabled future templates additionally honor phase.pause_after.
+- src/theater.tsx: a visible 'suggested time reached' cue (no forced phase advance); central dirty-editor registration; source-linked guidance and private-scene playback retained.
+- src/route-guard.ts (new): one registry of dirty editors, beforeunload protection and hash-route confirmation; cancelled navigation restores prior hash, including sandboxed-browser fallback; one dialog per attempt.
+- src/app.tsx: guard installed at root to handle sidebar, direct hash, Back/Forward and module subroutes.
+- src/personal-labs.tsx: migrated both labs away from their independent hashchange listener to the shared guard; save/discard routines retained.
+- src/feedback.tsx: derived dirty detection for goals, planned iterations, observation revisions and adjustments; baseline cleared after successful save or explicit cancel.
+- src/scenarios.tsx: unsaved scenario reflection flagged; selected choices continue using existing private progress persistence.
+- app Archive draft: empty untouched entries do not warn; nonempty notes do.
+- Existing reference data, public/data, IndexedDB stores, types and 1,785 IDs unchanged; updated status/history on PCI-ISS-ST12-003 and PCI-ISS-ST12-004 to RESOLVED (IDs retained).
+- tests/checkpoint1.test.mjs, tests/browser_checkpoint1.py and tests/validate_checkpoint1.py added; inherited timing assertions updated from former incorrect auto-advance expectation; browser harnesses load shared guard; original Stage 11 static validator updated for explicitly authorized personal-labs change.
+- package.json version bumped to 0.12.1 and added checkpoint test commands; no new dependencies or fabricated lockfile.
+
+TEST EVIDENCE
+PASS: 95/95 combined Node tests (audit/checkpoint1/FINAL_ALL_NODE.log).
+PASS: 9/9 new deterministic timing/route-guard Node tests (tests/checkpoint1.test.mjs).
+PASS: 30/30 new Chromium in-memory route-guard interactions across 390px/1440px (tests/browser_checkpoint1.py; synthetic IndexedDB / React16 compatibility, not native persistence).
+PASS: 50/50 Stage 12 in-memory Chromium regressions (audit/checkpoint1/FINAL_BROWSER_STAGE12.log).
+PASS: 56/56 Stage 11 in-memory Chromium regressions on initial checkpoint run (audit/checkpoint1/browser_stage11.log); a later redundant rerun exceeded execution timeout and does not supersede the earlier PASS.
+PASS: Stage11 45/45, Stage12 38/38, asset 34/34, Vault 17/17, Stage10 34/34 structural checks (logs in audit/checkpoint1; checks are not empirical science).
+PASS: 42/42 new preservation assertions (audit/checkpoint1/SOURCE_PRESERVATION_QA.json).
+PASS: 246 original immutable public/reference/schema/registry/storage files compared byte-for-byte to uploaded lean input.
+PASS: tsc --noEmit; PASS: build:offline compatibility harness.
+BLOCKED: npm run build ends at 'vite: not found' (exit 127); this is not a verified React18/Vite production build.
+NOT_TESTED: physical iPhone Safari, HTTPS-origin native IndexedDB reload durability and browser Back behavior on physical devices. A browser navigation fallback was tested only in the synthetic in-memory environment.
+
+CHECKPOINT DESIGN
+- Original tiny rollbacks/ validation fixtures retained. dist-static offline compatibility harness rebuilt with latest app code.
+- No copyrighted PDF, real private records, screenshots, or full historical rollback archives newly added.
+- CHECKSUMS.sha256 and FILE_INVENTORY.json regenerated with all current project files except those two inventory files.
+- Source preservation hashes in PCI_PRESERVED_CONTENT_HASHES.json unchanged.
+
+OPEN RISKS
+- Secure-origin React18/Vite build, native IndexedDB durable export/import and physical Safari tests still required later; inherited Stage11 build/storage issues remain open.
+- Actual browser-history stack behavior after a rejected Back may vary by browser; confirmed/cancelled hash navigation tested only in Chromium in-memory sandbox.
+- Public book evidence statuses remain inherited; no independent research expansion in this checkpoint.
+
+PROMPT 2 INPUT: attach ONLY PCI_APP_CHECKPOINT_1.zip. HANDOFF_1.txt, root registries, reference packs, schemas, tests and offline build harness are inside.

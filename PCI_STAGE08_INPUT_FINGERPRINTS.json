@@ -1,0 +1,36 @@
+{
+  "inputs": [
+    {
+      "role": "knowledge",
+      "uploaded_file": "PCI_KNOWLEDGE_CANONICAL_v1(3).zip",
+      "sha256": "e26e80a5077efd4f39e3cf619e961e15b1acd84664759d02f5f7beebef1f7960",
+      "size_bytes": 748147
+    },
+    {
+      "role": "activity",
+      "uploaded_file": "PCI_ACTIVITY_ENGINE_DATA_v1(2).zip",
+      "sha256": "4a05f6cd19f49f7e07e9252187302ad427572e0cad28b2fc0e374c2bce4f75ac",
+      "size_bytes": 85406
+    },
+    {
+      "role": "personalization",
+      "uploaded_file": "PCI_PERSONALIZATION_ENGINE_v1(1).zip",
+      "sha256": "b726f90b2325b3527b37c2f156765b635dc08066b2377310b38c3b3d294bf271",
+      "size_bytes": 88966
+    },
+    {
+      "role": "handoff",
+      "uploaded_file": "PCI_STAGE_07_HANDOFF_iPhone(1).zip",
+      "sha256": "27a08dc4e3d877b9fb851460d4d957d8df968d7d257ff952dc1981ab7da43f22",
+      "size_bytes": 7722
+    },
+    {
+      "role": "guide",
+      "uploaded_file": "PCI_EXPERIENCE_INTEGRATION_GUIDE_iPhone(1).zip",
+      "sha256": "0f7d76ff8b5cbb2dce274ee89f98524e0e73b1fb7eef5aadfca0517f5dc40c9f",
+      "size_bytes": 11596
+    }
+  ],
+  "actual_unpacked": true,
+  "original_pdf_not_attached": true
+}

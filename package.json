@@ -1,0 +1,49 @@
+{
+  "name": "psycho-cybernetics-intelligence",
+  "private": true,
+  "version": "1.1.0-rc.1",
+  "type": "module",
+  "description": "PCI v1.1 enhanced local-first source candidate; real React18/Vite build not yet verified",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "build:offline": "node scripts/build-offline.mjs",
+    "test:assets": "python tests/validate_assets.py",
+    "test:browser": "python tests/browser_stage09_smoke.py",
+    "lint": "node scripts/lint-source.mjs",
+    "test:repo": "node --test tests/data_repo.test.mjs",
+    "test:vault": "node --test tests/vault_unit.test.mjs",
+    "test:vault:assets": "python tests/validate_vault.py",
+    "build:vault-data": "python scripts/build-vault-data.py",
+    "test:labs": "node --test tests/labs_model_repo.test.mjs",
+    "test:stage10:assets": "python tests/validate_stage10.py",
+    "test:stage10:browser": "python tests/browser_stage10_smoke.py",
+    "test:theater": "node --test tests/theater_model_repo.test.mjs",
+    "test:stage11:assets": "python tests/validate_stage11.py",
+    "test:stage11:browser": "python tests/browser_stage11_smoke.py",
+    "test:stage12": "node --test tests/stage12_model_repo.test.mjs",
+    "test:stage12:assets": "python tests/validate_stage12.py",
+    "test:stage12:browser": "python tests/browser_stage12_smoke.py",
+    "test:checkpoint1": "node --test tests/checkpoint1.test.mjs",
+    "test:checkpoint1:browser": "python tests/browser_checkpoint1.py",
+    "test:checkpoint2": "node --test tests/checkpoint2.test.mjs",
+    "test:checkpoint2:browser": "python tests/browser_checkpoint2.py",
+    "test:checkpoint3": "node --test tests/checkpoint3.test.mjs",
+    "test:checkpoint3:browser": "python tests/browser_checkpoint3.py",
+    "test:checkpoint4": "node --test tests/checkpoint4.test.mjs",
+    "test:checkpoint4:browser": "python tests/browser_checkpoint4.py",
+    "test:final:backup": "node --test tests/final_backup_safety.test.mjs",
+    "test:final:research": "python scripts/audit_final_research.py",
+    "test:final:mobile": "python tests/browser_final_responsive.py"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

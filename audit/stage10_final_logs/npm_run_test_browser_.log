@@ -1,0 +1,10 @@
+
+> psycho-cybernetics-intelligence@0.10.0 test:browser
+> python tests/browser_stage09_smoke.py
+
+{
+  "scope": "In-memory Chromium + React16 compatibility runtime, local assets fetch-mocked. Not a Vite/React18 hosted-browser or iPhone Safari test; no real IndexedDB.",
+  "status": "PASS",
+  "passed": 54,
+  "failed": 0
+}

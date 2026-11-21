@@ -1,0 +1,326 @@
+[
+  {
+    "id": "PCI-R-0007",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Built-in success instinct metaphor → Decision imagination and self-image work order",
+    "content": "The broader instinct metaphor introduces the target-setting formula.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-001",
+    "to_id": "PCI-C-CH02-002",
+    "relationship_type": "complements",
+    "rationale": "The broader instinct metaphor introduces the target-setting formula.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0008",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Two kinds of goal search → Negative feedback and iterative correction",
+    "content": "Known-goal steering uses discrepancy feedback and correction.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-040",
+        "pdf_page": 40,
+        "printed_page": 30,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-004",
+    "to_id": "PCI-C-CH02-005",
+    "relationship_type": "requires",
+    "rationale": "Known-goal steering uses discrepancy feedback and correction.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-040",
+        "pdf_page": 40,
+        "printed_page": 30,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0009",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Negative feedback and iterative correction → Implicit skill fluency and habit",
+    "content": "Repeated correction is presented as a route to fluent habit.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-005",
+    "to_id": "PCI-C-CH02-006",
+    "relationship_type": "supports",
+    "rationale": "Repeated correction is presented as a route to fluent habit.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-042",
+        "pdf_page": 42,
+        "printed_page": 32,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0010",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Incubation and retrieving ideas → Claims of universal mind and ESP",
+    "content": "Ordinary incubation is juxtaposed with unproven paranormal explanations, which require separation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-007",
+    "to_id": "PCI-C-CH02-008",
+    "relationship_type": "ethical_tension",
+    "rationale": "Ordinary incubation is juxtaposed with unproven paranormal explanations, which require separation.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-043",
+        "pdf_page": 43,
+        "printed_page": 33,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0011",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Credible self-reframing rather than arbitrary affirmations → Belief revision requires testing the premise",
+    "content": "Both texts require a credible reason to replace a fixed negative self-picture.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-049",
+        "pdf_page": 49,
+        "printed_page": 39,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-009",
+    "to_id": "PCI-C-CH04-001",
+    "relationship_type": "supports",
+    "rationale": "Both texts require a credible reason to replace a fixed negative self-picture.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-049",
+        "pdf_page": 49,
+        "printed_page": 39,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-079",
+        "pdf_page": 79,
+        "printed_page": 69,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0023",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-02",
+    "title": "Negative feedback and iterative correction → Specific, vivid targets and skill feedback",
+    "content": "Feedback correction complements concrete imagery of feasible skills.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH02-005",
+    "to_id": "PCI-C-CH03-009",
+    "relationship_type": "complements",
+    "rationale": "Feedback correction complements concrete imagery of feasible skills.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-041",
+        "pdf_page": 41,
+        "printed_page": 31,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-069",
+        "pdf_page": 69,
+        "printed_page": 59,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "confidence": "interpretive_source_grounded",
+    "not_a_scientific_inference": true
+  }
+]

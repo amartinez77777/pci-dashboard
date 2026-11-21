@@ -1,0 +1,60 @@
+PASS first-launch-title-1440
+PASS real-data-count-1440
+PASS prior-route-command-center
+PASS prior-route-self-image
+PASS prior-route-beliefs
+PASS prior-route-theater
+PASS prior-route-feedback
+PASS prior-route-conditioning
+PASS prior-route-scenarios
+PASS prior-route-knowledge
+PASS prior-route-academy
+PASS prior-route-archive
+PASS chapter-grid-16
+PASS chapter-one-header
+PASS chapter-full-index
+PASS chapter-author-practices
+PASS concept-full-thesis
+PASS concept-limits
+PASS concept-source-chip
+PASS source-citation-opens
+PASS source-modal-visible
+PASS citation-actual-page
+PASS citation-close
+PASS private-action-disabled-without-storage
+PASS unknown-concept-not-found
+PASS search-index-loaded
+PASS phrase-hits-original-id
+PASS phrase-chapter-filter-empty
+PASS clear-search-restores-results
+PASS editor-origin-filter-functional
+PASS graph-renders
+PASS graph-edge-list
+PASS graph-zoom-control
+PASS graph-edge-rationale
+PASS compare-two-source-dossiers
+PASS activity-steps-available
+PASS unknown-module-safe
+PASS no-javascript-errors-1440
+PASS first-launch-title-390
+PASS real-data-count-390
+PASS mobile-16-chapter-cards-390
+PASS mobile-vault-overflow-390
+PASS mobile-chapter-overflow-390
+PASS mobile-search-overflow-390
+PASS mobile-graph-overflow-390
+PASS no-javascript-errors-390
+PASS first-launch-title-320
+PASS real-data-count-320
+PASS mobile-16-chapter-cards-320
+PASS mobile-vault-overflow-320
+PASS mobile-chapter-overflow-320
+PASS mobile-search-overflow-320
+PASS mobile-graph-overflow-320
+PASS no-javascript-errors-320
+{
+  "scope": "In-memory Chromium + React16 compatibility runtime, local assets fetch-mocked. Not a Vite/React18 hosted-browser or iPhone Safari test; no real IndexedDB.",
+  "status": "PASS",
+  "passed": 54,
+  "failed": 0
+}

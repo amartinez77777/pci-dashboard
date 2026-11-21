@@ -1,0 +1,1897 @@
+{
+  "version": "1.0.0",
+  "source_packs": [
+    "PCI_KNOWLEDGE_CANONICAL_v1.zip",
+    "PCI_ACTIVITY_ENGINE_DATA_v1.zip"
+  ],
+  "items": [
+    {
+      "id": "PCI-ACT-CH01-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-01",
+      "title": "Identity statement audit",
+      "concept_ids": [
+        "PCI-C-CH01-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_01"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH01-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-01",
+      "title": "One identity-consistent action",
+      "concept_ids": [
+        "PCI-C-CH01-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_01"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-014",
+          "pdf_page": 14,
+          "printed_page": 4,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH02-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-02",
+      "title": "Feedback-loop observation",
+      "concept_ids": [
+        "PCI-C-CH02-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_02"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-041",
+          "pdf_page": 41,
+          "printed_page": 31,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH02-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-02",
+      "title": "Test one course correction",
+      "concept_ids": [
+        "PCI-C-CH02-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_02"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-042",
+          "pdf_page": 42,
+          "printed_page": 32,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH03-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-03",
+      "title": "Prediction versus observed social evidence",
+      "concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_03"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH03-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-03",
+      "title": "Short imagery plus real rehearsal",
+      "concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_03"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-062",
+          "pdf_page": 62,
+          "printed_page": 52,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH04-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-04",
+      "title": "Find the hidden comparison standard",
+      "concept_ids": [
+        "PCI-C-CH04-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_04"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-089",
+          "pdf_page": 89,
+          "printed_page": 79,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH04-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-04",
+      "title": "Safe belief prediction experiment",
+      "concept_ids": [
+        "PCI-C-CH04-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_04"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-079",
+          "pdf_page": 79,
+          "printed_page": 69,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH05-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-05",
+      "title": "Belief audit without self-blame",
+      "concept_ids": [
+        "PCI-C-CH05-001",
+        "PCI-C-CH05-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_05"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-102",
+          "pdf_page": 102,
+          "printed_page": 92,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH05-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-05",
+      "title": "Low-stakes hypothesis test",
+      "concept_ids": [
+        "PCI-C-CH05-001",
+        "PCI-C-CH05-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_05"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-094",
+          "pdf_page": 94,
+          "printed_page": 84,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH06-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-06",
+      "title": "Decision-loop observer",
+      "concept_ids": [
+        "PCI-C-CH06-001",
+        "PCI-C-CH06-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_06"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-117",
+          "pdf_page": 117,
+          "printed_page": 107,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH06-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-06",
+      "title": "One-task attention trial",
+      "concept_ids": [
+        "PCI-C-CH06-001",
+        "PCI-C-CH06-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_06"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-123",
+          "pdf_page": 123,
+          "printed_page": 113,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH07-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-07",
+      "title": "Fact and meaning in a hard day",
+      "concept_ids": [
+        "PCI-C-CH07-001",
+        "PCI-C-CH07-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_07"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-132",
+          "pdf_page": 132,
+          "printed_page": 122,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH07-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-07",
+      "title": "Prosocial action plus mood log",
+      "concept_ids": [
+        "PCI-C-CH07-001",
+        "PCI-C-CH07-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_07"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-129",
+          "pdf_page": 129,
+          "printed_page": 119,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH08-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-08",
+      "title": "SUCCESS as a nonclinical skill map",
+      "concept_ids": [
+        "PCI-C-CH08-001",
+        "PCI-C-CH08-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_08"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-146",
+          "pdf_page": 146,
+          "printed_page": 136,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH08-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-08",
+      "title": "Confidence ladder with repair",
+      "concept_ids": [
+        "PCI-C-CH08-001",
+        "PCI-C-CH08-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_08"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-156",
+          "pdf_page": 156,
+          "printed_page": 146,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH09-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-09",
+      "title": "Signal versus identity",
+      "concept_ids": [
+        "PCI-C-CH09-001",
+        "PCI-C-CH09-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_09"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-166",
+          "pdf_page": 166,
+          "printed_page": 156,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH09-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-09",
+      "title": "Correct course, keep destination",
+      "concept_ids": [
+        "PCI-C-CH09-004",
+        "PCI-C-CH09-013"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_09"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-188",
+          "pdf_page": 188,
+          "printed_page": 178,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH10-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-10",
+      "title": "Boundaries versus generalized withdrawal",
+      "concept_ids": [
+        "PCI-C-CH10-001",
+        "PCI-C-CH10-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_10"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-194",
+          "pdf_page": 194,
+          "printed_page": 184,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH10-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-10",
+      "title": "Action not identity",
+      "concept_ids": [
+        "PCI-C-CH10-004",
+        "PCI-C-CH10-015"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_10"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-209",
+          "pdf_page": 209,
+          "printed_page": 199,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH11-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-11",
+      "title": "Others-mindreading audit",
+      "concept_ids": [
+        "PCI-C-CH11-001",
+        "PCI-C-CH11-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_11"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-222",
+          "pdf_page": 222,
+          "printed_page": 212,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH11-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-11",
+      "title": "One minute of authentic expression",
+      "concept_ids": [
+        "PCI-C-CH11-004",
+        "PCI-C-CH11-014"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_11"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-233",
+          "pdf_page": 233,
+          "printed_page": 223,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH12-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-12",
+      "title": "Notification cue inventory",
+      "concept_ids": [
+        "PCI-C-CH12-001",
+        "PCI-C-CH12-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_12"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-235",
+          "pdf_page": 235,
+          "printed_page": 225,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH12-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-12",
+      "title": "Transition pause test",
+      "concept_ids": [
+        "PCI-C-CH12-004",
+        "PCI-C-CH12-017"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_12"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-246",
+          "pdf_page": 246,
+          "printed_page": 236,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH13-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-13",
+      "title": "Pressure map with realistic stakes",
+      "concept_ids": [
+        "PCI-C-CH13-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_13"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-255",
+          "pdf_page": 255,
+          "printed_page": 245,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH13-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-13",
+      "title": "Low-pressure rehearsal and feedback",
+      "concept_ids": [
+        "PCI-C-CH13-005"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_13"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-270",
+          "pdf_page": 270,
+          "printed_page": 260,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH14-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-14",
+      "title": "Success evidence without magical certainty",
+      "concept_ids": [
+        "PCI-C-CH14-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_14"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-273",
+          "pdf_page": 273,
+          "printed_page": 263,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH14-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-14",
+      "title": "Small-wins ladder",
+      "concept_ids": [
+        "PCI-C-CH14-005"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_14"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": false,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-289",
+          "pdf_page": 289,
+          "printed_page": 279,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH15-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-15",
+      "title": "Engagement without longevity claims",
+      "concept_ids": [
+        "PCI-C-CH15-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_15"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-292",
+          "pdf_page": 292,
+          "printed_page": 282,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH15-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-15",
+      "title": "Future-oriented connection experiment",
+      "concept_ids": [
+        "PCI-C-CH15-005"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_15"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-306",
+          "pdf_page": 306,
+          "printed_page": 296,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH16-001",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-16",
+      "title": "Testimony evidence audit",
+      "concept_ids": [
+        "PCI-C-CH16-003"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "observation",
+        "reasoning",
+        "self_review",
+        "exercise",
+        "chapter_16"
+      ],
+      "estimated_minutes": 8,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-309",
+          "pdf_page": 309,
+          "printed_page": 299,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-ACT-CH16-002",
+      "kind": "activity",
+      "chapter_id": "PCI-CH-16",
+      "title": "Link imagining with action",
+      "concept_ids": [
+        "PCI-C-CH16-005"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_feedback",
+        "decision",
+        "observable_action",
+        "exercise",
+        "chapter_16"
+      ],
+      "estimated_minutes": 12,
+      "sensitive": true,
+      "evidence_status": "not_assessed",
+      "source_status": "provisional",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-316",
+          "pdf_page": 316,
+          "printed_page": 306,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH01-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-01",
+      "title": "After the first failed presentation",
+      "concept_ids": [
+        "PCI-C-CH01-001",
+        "PCI-C-CH01-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_01"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH02-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-02",
+      "title": "Learning a new work skill",
+      "concept_ids": [
+        "PCI-C-CH02-001",
+        "PCI-C-CH02-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_02"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-036",
+          "pdf_page": 36,
+          "printed_page": 26,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH03-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-03",
+      "title": "Before a difficult introduction",
+      "concept_ids": [
+        "PCI-C-CH03-001",
+        "PCI-C-CH03-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_03"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH04-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-04",
+      "title": "A limiting benchmark",
+      "concept_ids": [
+        "PCI-C-CH04-001",
+        "PCI-C-CH04-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_04"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-079",
+          "pdf_page": 79,
+          "printed_page": 69,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH05-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-05",
+      "title": "A harsh self-belief",
+      "concept_ids": [
+        "PCI-C-CH05-001",
+        "PCI-C-CH05-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_05"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-092",
+          "pdf_page": 92,
+          "printed_page": 82,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH06-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-06",
+      "title": "Overchecking a prepared task",
+      "concept_ids": [
+        "PCI-C-CH06-001",
+        "PCI-C-CH06-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_06"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-112",
+          "pdf_page": 112,
+          "printed_page": 102,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH07-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-07",
+      "title": "A frustrating commute",
+      "concept_ids": [
+        "PCI-C-CH07-001",
+        "PCI-C-CH07-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_07"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-127",
+          "pdf_page": 127,
+          "printed_page": 117,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH08-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-08",
+      "title": "Constructive courage on a team",
+      "concept_ids": [
+        "PCI-C-CH08-001",
+        "PCI-C-CH08-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_08"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-145",
+          "pdf_page": 145,
+          "printed_page": 135,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH09-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-09",
+      "title": "Tension after performance feedback",
+      "concept_ids": [
+        "PCI-C-CH09-001",
+        "PCI-C-CH09-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "sensitive_optional",
+        "scenario",
+        "decision",
+        "chapter_09"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-166",
+          "pdf_page": 166,
+          "printed_page": 156,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH10-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-10",
+      "title": "Boundary after an insensitive joke",
+      "concept_ids": [
+        "PCI-C-CH10-001",
+        "PCI-C-CH10-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "sensitive_optional",
+        "scenario",
+        "decision",
+        "chapter_10"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": true,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-190",
+          "pdf_page": 190,
+          "printed_page": 180,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH11-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-11",
+      "title": "Speaking in a group",
+      "concept_ids": [
+        "PCI-C-CH11-001",
+        "PCI-C-CH11-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_11"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-213",
+          "pdf_page": 213,
+          "printed_page": 203,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH12-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-12",
+      "title": "Notification during focus work",
+      "concept_ids": [
+        "PCI-C-CH12-001",
+        "PCI-C-CH12-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_12"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-234",
+          "pdf_page": 234,
+          "printed_page": 224,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH13-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-13",
+      "title": "Performing under deadline pressure",
+      "concept_ids": [
+        "PCI-C-CH13-001",
+        "PCI-C-CH13-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_13"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-253",
+          "pdf_page": 253,
+          "printed_page": 243,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH14-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-14",
+      "title": "Using a past success responsibly",
+      "concept_ids": [
+        "PCI-C-CH14-001",
+        "PCI-C-CH14-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "scenario",
+        "decision",
+        "chapter_14"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-271",
+          "pdf_page": 271,
+          "printed_page": 261,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH15-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-15",
+      "title": "Meaningful activity without medical promises",
+      "concept_ids": [
+        "PCI-C-CH15-001",
+        "PCI-C-CH15-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "sensitive_optional",
+        "scenario",
+        "decision",
+        "chapter_15"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-290",
+          "pdf_page": 290,
+          "printed_page": 280,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-SC-CH16-001",
+      "kind": "scenario",
+      "chapter_id": "PCI-CH-16",
+      "title": "Interpreting a transformation testimonial",
+      "concept_ids": [
+        "PCI-C-CH16-001",
+        "PCI-C-CH16-002"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "choices",
+        "real_world",
+        "evidence_check",
+        "sensitive_optional",
+        "scenario",
+        "decision",
+        "chapter_16"
+      ],
+      "estimated_minutes": 10,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-307",
+          "pdf_page": 307,
+          "printed_page": 297,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-001",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-03",
+      "title": "Realistic goal scene",
+      "concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "goal_scene",
+        "rehearsal",
+        "chapter_03"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-002",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-03",
+      "title": "Preparing an introduction",
+      "concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "communication",
+        "rehearsal",
+        "chapter_03"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-003",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-04",
+      "title": "Testing a feared prediction",
+      "concept_ids": [
+        "PCI-C-CH04-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "belief_testing",
+        "rehearsal",
+        "chapter_04"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-079",
+          "pdf_page": 79,
+          "printed_page": 69,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-004",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-05",
+      "title": "Narrowing an absolute self-statement",
+      "concept_ids": [
+        "PCI-C-CH05-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "reasoning",
+        "rehearsal",
+        "chapter_05"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-092",
+          "pdf_page": 92,
+          "printed_page": 82,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-005",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-06",
+      "title": "Prepare then release overcontrol",
+      "concept_ids": [
+        "PCI-C-CH06-005"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "attention",
+        "rehearsal",
+        "chapter_06"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-116",
+          "pdf_page": 116,
+          "printed_page": 106,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-006",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-08",
+      "title": "Courage with a small voice",
+      "concept_ids": [
+        "PCI-C-CH08-006"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "confidence",
+        "rehearsal",
+        "chapter_08"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-150",
+          "pdf_page": 150,
+          "printed_page": 140,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-007",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-09",
+      "title": "After-mistake reset",
+      "concept_ids": [
+        "PCI-C-CH09-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "setback",
+        "rehearsal",
+        "chapter_09"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-166",
+          "pdf_page": 166,
+          "printed_page": 156,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-008",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-10",
+      "title": "Boundaries without forced reconciliation",
+      "concept_ids": [
+        "PCI-C-CH10-009"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "relationships",
+        "rehearsal",
+        "chapter_10"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": true,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-200",
+          "pdf_page": 200,
+          "printed_page": 190,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-009",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-12",
+      "title": "Nonurgent attention reset",
+      "concept_ids": [
+        "PCI-C-CH12-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "attention_reset",
+        "rehearsal",
+        "chapter_12"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-234",
+          "pdf_page": 234,
+          "printed_page": 224,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-010",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-13",
+      "title": "Pressure-event obstacle rehearsal",
+      "concept_ids": [
+        "PCI-C-CH13-007"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "pressure",
+        "rehearsal",
+        "chapter_13"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-259",
+          "pdf_page": 259,
+          "printed_page": 249,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-011",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-14",
+      "title": "Recall a bounded past success",
+      "concept_ids": [
+        "PCI-C-CH14-001"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "skill_transfer",
+        "rehearsal",
+        "chapter_14"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-271",
+          "pdf_page": 271,
+          "printed_page": 261,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    },
+    {
+      "id": "PCI-RH-012",
+      "kind": "rehearsal",
+      "chapter_id": "PCI-CH-16",
+      "title": "Imagination followed by action",
+      "concept_ids": [
+        "PCI-C-CH16-007"
+      ],
+      "prerequisite_ids": [],
+      "tags": [
+        "action_bridge",
+        "rehearsal",
+        "chapter_16"
+      ],
+      "estimated_minutes": 5,
+      "sensitive": false,
+      "evidence_status": "book_assertion_only",
+      "source_status": "verified_in_pdf",
+      "origin": "PCI_adaptation",
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-316",
+          "pdf_page": 316,
+          "printed_page": 306,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ]
+    }
+  ]
+}

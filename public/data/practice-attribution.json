@@ -1,0 +1,1472 @@
+[
+  {
+    "practice_id": "PCI-AP-CH01-001",
+    "chapter_id": "PCI-CH-01",
+    "title": "Collect characteristic-specific exemplar scrapbooks",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "ongoing hobby; no exact duration prescribed",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-033",
+        "pdf_page": 33,
+        "printed_page": 23,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH01-002",
+    "chapter_id": "PCI-CH-01",
+    "title": "Study one imagined adviser for a month",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "one month of study",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-034",
+        "pdf_page": 34,
+        "printed_page": 24,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH02-001",
+    "chapter_id": "PCI-CH-02",
+    "title": "Repeated review of Chapter 2",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "first 21 days",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": 3,
+    "program_days": 21,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-050",
+        "pdf_page": 50,
+        "printed_page": 40,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH02-002",
+    "chapter_id": "PCI-CH-02",
+    "title": "Memorize five principles AIM TRUST RELAX LEARN DO",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "no cadence specified",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-051",
+        "pdf_page": 51,
+        "printed_page": 41,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH02-003",
+    "chapter_id": "PCI-CH-02",
+    "title": "Clarify a single target through mental sketching",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "10\u201315 minutes daily for 21 days",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": 7,
+    "program_days": 21,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-052",
+        "pdf_page": 52,
+        "printed_page": 42,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH03-001",
+    "chapter_id": "PCI-CH-03",
+    "title": "Theater of the Mind mental movie",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "30 minutes daily; first 10 days refine; remaining 11 days replay",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": 7,
+    "program_days": 21,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH04-001",
+    "chapter_id": "PCI-CH-04",
+    "title": "Dehypnotization relaxation imagery",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition; individual original author not independently attributable",
+    "timing_as_printed_or_paraphrased": "at least 30 minutes daily; initial approximately 5-minute muscle relaxation",
+    "duration_provenance": "not_further_verified_at_stage06",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-090",
+        "pdf_page": 90,
+        "printed_page": 80,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH05-001",
+    "chapter_id": "PCI-CH-05",
+    "title": "Rational self-inquiry about assumed impossibilities",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; revisit when a fixed belief is discovered",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-109",
+        "pdf_page": 109,
+        "printed_page": 99,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH05-002",
+    "chapter_id": "PCI-CH-05",
+    "title": "Translate reviewed assumptions into a new target",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; contingent on finding a workable goal",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-109",
+        "pdf_page": 109,
+        "printed_page": 99,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH05-003",
+    "chapter_id": "PCI-CH-05",
+    "title": "Four uses of rational thought checklist",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; summary checklist, no fixed cycle",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-110",
+        "pdf_page": 110,
+        "printed_page": 100,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-001",
+    "chapter_id": "PCI-CH-06",
+    "title": "Practice small decisive choices",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "no set duration; situational repetition in small choices",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-002",
+    "chapter_id": "PCI-CH-06",
+    "title": "Lock-box mental movie after a decision",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; immediately after a decision; can shorten after several viewings",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-003",
+    "chapter_id": "PCI-CH-06",
+    "title": "Return attention to the present",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; during ordinary daily activity",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-004",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall details after leaving a location",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; after an ordinary visit",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-005",
+    "chapter_id": "PCI-CH-06",
+    "title": "Hourglass one-grain reminder",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; visual reminder whenever noticed",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-006",
+    "chapter_id": "PCI-CH-06",
+    "title": "Sleep on a stubborn question",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; after a day of unsuccessful work, then one night or later",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-007",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall relaxed sensation at work",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "a moment at a time, several times per day; exact minutes and overall program days not specified",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH06-008",
+    "chapter_id": "PCI-CH-06",
+    "title": "Single-tasking as an attention prescription",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice while working",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH07-001",
+    "chapter_id": "PCI-CH-07",
+    "title": "Rehearse an active response to an obstacle",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; everyday practice and imagination, no fixed day count",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-134",
+        "pdf_page": 134,
+        "printed_page": 124,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH07-002",
+    "chapter_id": "PCI-CH-07",
+    "title": "Milteer\u2019s negative-script interruption",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "whenever an unwanted repeated statement recurs; no session length",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-137",
+        "pdf_page": 137,
+        "printed_page": 127,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH07-003",
+    "chapter_id": "PCI-CH-07",
+    "title": "Lee and Norris symbolic paper disposal",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; optional illustration, no frequency stated",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-138",
+        "pdf_page": 138,
+        "printed_page": 128,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH07-004",
+    "chapter_id": "PCI-CH-07",
+    "title": "Gates\u2019 pleasant-memory rehearsal",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "regular practice; the cited Gates passage says gradually lengthen and reflect after a month, not 30 minutes daily",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-140",
+        "pdf_page": 140,
+        "printed_page": 130,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH07-005",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty-day shoe-order and daily-intention experiment",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "30 days; each morning shoe cue; 3 smiles during each day among other daily intentions",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": 30,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-001",
+    "chapter_id": "PCI-CH-08",
+    "title": "Set a worthwhile future project",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; continue to have forward-looking goals",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-002",
+    "chapter_id": "PCI-CH-08",
+    "title": "Seek facts and acknowledge errors",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; in ordinary decisions and disagreements",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-003",
+    "chapter_id": "PCI-CH-08",
+    "title": "Small acts of courage",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "daily little things; no prescribed number of minutes or program days",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-151",
+        "pdf_page": 151,
+        "printed_page": 141,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-004",
+    "chapter_id": "PCI-CH-08",
+    "title": "Three-part charity routine",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; recurring interpersonal practice",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-153",
+        "pdf_page": 153,
+        "printed_page": 143,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-005",
+    "chapter_id": "PCI-CH-08",
+    "title": "Esteem by fair comparison and respect",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; recurring reflection and social practice",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-155",
+        "pdf_page": 155,
+        "printed_page": 145,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-006",
+    "chapter_id": "PCI-CH-08",
+    "title": "Recall concrete successes",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; especially before a novel or difficult task",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-157",
+        "pdf_page": 157,
+        "printed_page": 147,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-007",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-acceptance and imperfection",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "duration_unknown; ongoing self-appraisal",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-159",
+        "pdf_page": 159,
+        "printed_page": 149,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH08-008",
+    "chapter_id": "PCI-CH-08",
+    "title": "Leave symbolic bricks in the car",
+    "exercise_origin": "book",
+    "source_status": "verified_in_pdf",
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "timing_as_printed_or_paraphrased": "morning departure and evening return; program length not specified",
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH09-001",
+    "chapter_id": "PCI-CH-09",
+    "title": "Glance at negatives, then refocus",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; as warning signals arise",
+    "duration_provenance": "PDF page 178 / printed 168; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH09-002",
+    "chapter_id": "PCI-CH-09",
+    "title": "Golf-bunker style negative thinking",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; whenever a genuine warning occurs",
+    "duration_provenance": "PDF page 188 / printed 178; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH09-003",
+    "chapter_id": "PCI-CH-09",
+    "title": "End-of-day self-coaching review",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "A few minutes toward each day\u2019s end; optional midday plus end-of-day",
+    "duration_provenance": "PDF page 188 / printed 178; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH10-001",
+    "chapter_id": "PCI-CH-10",
+    "title": "Big and small potato visual reminder",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; see reminder during ordinary days",
+    "duration_provenance": "PDF page 200 / printed 190; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH10-002",
+    "chapter_id": "PCI-CH-10",
+    "title": "Daily relaxation and success diary",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "Each and every day; minutes unspecified",
+    "duration_provenance": "PDF page 203 / printed 193; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-203",
+        "pdf_page": 203,
+        "printed_page": 193,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH10-003",
+    "chapter_id": "PCI-CH-10",
+    "title": "Therapeutic forgiveness as giving up resentment",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; voluntary only; no obligatory forgiveness",
+    "duration_provenance": "PDF page 205 / printed 195; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-205",
+        "pdf_page": 205,
+        "printed_page": 195,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH10-004",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-forgiveness instead of permanent condemnation",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; context driven",
+    "duration_provenance": "PDF page 207 / printed 197; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH10-005",
+    "chapter_id": "PCI-CH-10",
+    "title": "21-day forgiveness and self-forgiveness reflection",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "Original: 30 minutes daily for 21 consecutive days; do not impose outside this Chapter 10 author prescription",
+    "duration_provenance": "PDF page 211 / printed 201; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH11-001",
+    "chapter_id": "PCI-CH-11",
+    "title": "Speak spontaneously in a low-stakes setting",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; when opportunity safely arises",
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH11-002",
+    "chapter_id": "PCI-CH-11",
+    "title": "Act and correct ordinary reversible actions",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; no instruction to act recklessly",
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH11-003",
+    "chapter_id": "PCI-CH-11",
+    "title": "Reduce continual self-criticism",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; during repetitive self-criticism",
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH11-004",
+    "chapter_id": "PCI-CH-11",
+    "title": "Practice a more audible voice",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice when appropriate",
+    "duration_provenance": "PDF page 233 / printed 223; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH11-005",
+    "chapter_id": "PCI-CH-11",
+    "title": "Specific compliments and affection",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "At least three compliments each day; chapter also suggests \u201cI love you\u201d to spouse twice daily if married; use consent and cultural sensitivity",
+    "duration_provenance": "PDF page 233 / printed 223; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-001",
+    "chapter_id": "PCI-CH-12",
+    "title": "Let the nonurgent telephone ring",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice only when nonurgent",
+    "duration_provenance": "PDF page 235 / printed 225; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-235",
+        "pdf_page": 235,
+        "printed_page": 225,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-002",
+    "chapter_id": "PCI-CH-12",
+    "title": "Delay a habitual reply",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "Book suggestions: slowly count to ten (about ten seconds) for anger; anecdote reports a two-minute delay for a fear-of-crowds response. Not universal clinical exposure guidance",
+    "duration_provenance": "PDF page 238 / printed 228; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-238",
+        "pdf_page": 238,
+        "printed_page": 228,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-003",
+    "chapter_id": "PCI-CH-12",
+    "title": "Design an imaginary quiet room",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; use voluntarily",
+    "duration_provenance": "PDF page 240 / printed 230; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-240",
+        "pdf_page": 240,
+        "printed_page": 230,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-004",
+    "chapter_id": "PCI-CH-12",
+    "title": "Daily brief mental vacation",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "Whenever a few spare moments arise; the author states just a very few minutes; no fixed daily minimum specified",
+    "duration_provenance": "PDF page 242 / printed 232; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-242",
+        "pdf_page": 242,
+        "printed_page": 232,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-005",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator mental reset",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "Can occur in a few seconds; exact routine flexible",
+    "duration_provenance": "PDF page 246 / printed 236; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-006",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator prescription and follow-on rehearsal",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; repeated practice advised; no universal 40 repetitions",
+    "duration_provenance": "PDF page 247 / printed 237; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-247",
+        "pdf_page": 247,
+        "printed_page": 237,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH12-007",
+    "chapter_id": "PCI-CH-12",
+    "title": "Telephone nonresponse mental training",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "timing_as_printed_or_paraphrased": "duration_unknown; repeat in everyday suitable situations",
+    "duration_provenance": "PDF page 251 / printed 241; exact timing preserved when explicitly described; unknown otherwise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-251",
+        "pdf_page": 251,
+        "printed_page": 241,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-001",
+    "chapter_id": "PCI-CH-13",
+    "title": "Prepare, approach and appraise",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.255 / printed p.245; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-002",
+    "chapter_id": "PCI-CH-13",
+    "title": "Safe drill before the emergency",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.257 / printed p.247; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-257",
+        "pdf_page": 257,
+        "printed_page": 247,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-003",
+    "chapter_id": "PCI-CH-13",
+    "title": "Private shadow-boxing",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.258 / printed p.248; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-004",
+    "chapter_id": "PCI-CH-13",
+    "title": "Watch without trying to hit",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "ten pitches, anecdote not general protocol",
+    "duration_provenance": "PDF p.260 / printed p.250; ten pitches, anecdote not general protocol. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-260",
+        "pdf_page": 260,
+        "printed_page": 250,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-005",
+    "chapter_id": "PCI-CH-13",
+    "title": "Reinterpret mild nerves as excitement",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.264 / printed p.254; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-006",
+    "chapter_id": "PCI-CH-13",
+    "title": "Assess worst-case realistically",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.268 / printed p.258; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH13-007",
+    "chapter_id": "PCI-CH-13",
+    "title": "Create hindsight as foresight",
+    "exercise_origin": "updated_edition_editor",
+    "source_status": "verified_in_pdf",
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "timing_as_printed_or_paraphrased": "three, four or five years future perspective; session duration unknown",
+    "duration_provenance": "PDF p.270 / printed p.260; three, four or five years future perspective; session duration unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-001",
+    "chapter_id": "PCI-CH-14",
+    "title": "Revisit a remembered success",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.282 / printed p.272; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-282",
+        "pdf_page": 282,
+        "printed_page": 272,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-002",
+    "chapter_id": "PCI-CH-14",
+    "title": "Constructive positive supposing",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.283 / printed p.273; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-003",
+    "chapter_id": "PCI-CH-14",
+    "title": "Arrange small attainable wins",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.280 / printed p.270; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-004",
+    "chapter_id": "PCI-CH-14",
+    "title": "Substitute a neutral or constructive focus",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.286 / printed p.276; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-286",
+        "pdf_page": 286,
+        "printed_page": 276,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-005",
+    "chapter_id": "PCI-CH-14",
+    "title": "Debate an alternative self-interpretation",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.278 / printed p.268; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-278",
+        "pdf_page": 278,
+        "printed_page": 268,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH14-006",
+    "chapter_id": "PCI-CH-14",
+    "title": "I am the kind of person affirmation",
+    "exercise_origin": "updated_edition_editor",
+    "source_status": "verified_in_pdf",
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "timing_as_printed_or_paraphrased": "until habitual according to book; exact minutes/days unspecified",
+    "duration_provenance": "PDF p.289 / printed p.279; until habitual according to book; exact minutes/days unspecified. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH15-001",
+    "chapter_id": "PCI-CH-15",
+    "title": "Maintain a personally meaningful future goal",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.299 / printed p.289; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-299",
+        "pdf_page": 299,
+        "printed_page": 289,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH15-002",
+    "chapter_id": "PCI-CH-15",
+    "title": "Nostalgia for the future",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.301 / printed p.291; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-301",
+        "pdf_page": 301,
+        "printed_page": 291,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH15-003",
+    "chapter_id": "PCI-CH-15",
+    "title": "Retire from a job, remain engaged",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.302 / printed p.292; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-302",
+        "pdf_page": 302,
+        "printed_page": 292,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH15-004",
+    "chapter_id": "PCI-CH-15",
+    "title": "Seek suitable assistance",
+    "exercise_origin": "uncertain",
+    "source_status": "verified_in_pdf",
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.305 / printed p.295; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-305",
+        "pdf_page": 305,
+        "printed_page": 295,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH16-001",
+    "chapter_id": "PCI-CH-16",
+    "title": "Test limiting truths",
+    "exercise_origin": "updated_edition_editor",
+    "source_status": "verified_in_pdf",
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.309 / printed p.299; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-309",
+        "pdf_page": 309,
+        "printed_page": 299,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  },
+  {
+    "practice_id": "PCI-AP-CH16-002",
+    "chapter_id": "PCI-CH-16",
+    "title": "Act on a concrete goal",
+    "exercise_origin": "updated_edition_editor",
+    "source_status": "verified_in_pdf",
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "duration_provenance": "PDF p.316 / printed p.306; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "frequency_per_week": null,
+    "program_days": null,
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ]
+  }
+]

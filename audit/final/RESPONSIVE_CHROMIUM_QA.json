@@ -1,0 +1,578 @@
+{
+  "status": "PASS",
+  "passed": 114,
+  "failed": 0,
+  "conditions": "Chromium real rendering with React16 offline compatibility bridge, synthetic IndexedDB, in-memory about:blank, not hosted origin / React18 / Safari",
+  "checks": [
+    {
+      "check": "320px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "320px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 320, 'viewport': 320}"
+    },
+    {
+      "check": "320px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "320px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "375px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 375, 'viewport': 375}"
+    },
+    {
+      "check": "375px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "375px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "390px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 390, 'viewport': 390}"
+    },
+    {
+      "check": "390px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "390px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "430px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 430, 'viewport': 430}"
+    },
+    {
+      "check": "430px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "430px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "768px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 768, 'viewport': 768}"
+    },
+    {
+      "check": "768px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "768px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_command-center_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_command-center_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_self-image_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_beliefs_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_theater_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_theater_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_feedback_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_feedback_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_conditioning_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_conditioning_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_scenarios_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_knowledge_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_knowledge_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_academy_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_academy_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_archive_render",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1440px_archive_no_overflow",
+      "result": "PASS",
+      "detail": "{'doc': 1440, 'viewport': 1440}"
+    },
+    {
+      "check": "1440px_no_unhandled_js_errors",
+      "result": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "1440px_visible_focus_element",
+      "result": "PASS",
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "FAIL",
+  "passed": 10,
+  "failed": 1,
+  "changed_protected": [
+    "reference/personalization/dist/impl/pci-core.js",
+    "reference/personalization/dist/impl/pci-private.js",
+    "reference/personalization/dist/types/PCI_PERSONALIZATION_TYPES.js",
+    "src/storage.ts"
+  ],
+  "scope": "Static/source preservation only; no native browser/clinical efficacy claims",
+  "checks": [
+    {
+      "name": "281 original source/data/reference/contract files preserved, except approved storage repair",
+      "status": "FAIL"
+    },
+    {
+      "name": "all 1799 stable registered IDs preserved byte-for-byte",
+      "status": "PASS"
+    },
+    {
+      "name": "same local DB v2 and 25 stores",
+      "status": "PASS"
+    },
+    {
+      "name": "all 10 module routes and global guard preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "Command Center and Evolution Archive mounted as actual components",
+      "status": "PASS"
+    },
+    {
+      "name": "explainable counts and explicit links; no derived psychological scores",
+      "status": "PASS"
+    },
+    {
+      "name": "private note revision, undo, and sensitive search checks",
+      "status": "PASS"
+    },
+    {
+      "name": "app uses inherited SQLite-free IndexedDB and export/import",
+      "status": "PASS"
+    },
+    {
+      "name": "never ship user data/PDF in public assets",
+      "status": "PASS"
+    },
+    {
+      "name": "CP4 compiled assets, tests and handoff present",
+      "status": "PASS"
+    },
+    {
+      "name": "original release blockers remain unresolved",
+      "status": "PASS"
+    }
+  ]
+}

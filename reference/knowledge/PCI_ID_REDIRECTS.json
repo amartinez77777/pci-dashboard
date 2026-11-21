@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0.0",
+  "redirects": {},
+  "tombstones": {},
+  "no_duplicate_id_retired": true,
+  "policy": "Never delete; redirects require explicit audited same-concept decision and preserve original identifiers."
+}

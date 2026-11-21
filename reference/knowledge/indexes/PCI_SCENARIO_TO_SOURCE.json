@@ -1,0 +1,50 @@
+{
+  "PCI-SC-CAND-CH09-01": {
+    "concept_id": "PCI-C-CH09-002",
+    "citation_id": "PCI-SRC-PDF-167",
+    "chapter_id": "PCI-CH-09",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH09-02": {
+    "concept_id": "PCI-C-CH09-003",
+    "citation_id": "PCI-SRC-PDF-168",
+    "chapter_id": "PCI-CH-09",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH10-01": {
+    "concept_id": "PCI-C-CH10-002",
+    "citation_id": "PCI-SRC-PDF-192",
+    "chapter_id": "PCI-CH-10",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH10-02": {
+    "concept_id": "PCI-C-CH10-003",
+    "citation_id": "PCI-SRC-PDF-193",
+    "chapter_id": "PCI-CH-10",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH11-01": {
+    "concept_id": "PCI-C-CH11-002",
+    "citation_id": "PCI-SRC-PDF-214",
+    "chapter_id": "PCI-CH-11",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH11-02": {
+    "concept_id": "PCI-C-CH11-003",
+    "citation_id": "PCI-SRC-PDF-216",
+    "chapter_id": "PCI-CH-11",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH12-01": {
+    "concept_id": "PCI-C-CH12-002",
+    "citation_id": "PCI-SRC-PDF-235",
+    "chapter_id": "PCI-CH-12",
+    "canonical_id_issued": false
+  },
+  "PCI-SC-CAND-CH12-02": {
+    "concept_id": "PCI-C-CH12-003",
+    "citation_id": "PCI-SRC-PDF-236",
+    "chapter_id": "PCI-CH-12",
+    "canonical_id_issued": false
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "stage": "Checkpoint 3",
+  "node_tests": {
+    "status": "PASS",
+    "count": 116,
+    "failures": 0,
+    "command": "node --test tests/*.test.mjs"
+  },
+  "typecheck": {
+    "status": "PASS",
+    "command": "npm run typecheck",
+    "exit_code": 0
+  },
+  "offline_compatibility_build": {
+    "status": "PASS",
+    "command": "npm run build:offline",
+    "exit_code": 0,
+    "real_vite_build": false
+  },
+  "vite_production_build": {
+    "status": "BLOCKED",
+    "command": "npm run build",
+    "exit_code": 127,
+    "detail": "vite: not found"
+  },
+  "browser": {
+    "status": "PASS",
+    "passed": 32,
+    "failed": 0,
+    "environment": "in-memory Chromium React16 compatibility, synthetic IndexedDB; no native reload or Safari",
+    "checks": [
+      {
+        "name": "21-authored-days-390",
+        "status": "PASS"
+      },
+      {
+        "name": "honest-no-progress-390",
+        "status": "PASS"
+      },
+      {
+        "name": "first-day-task-390",
+        "status": "PASS"
+      },
+      {
+        "name": "day1-first-390",
+        "status": "PASS"
+      },
+      {
+        "name": "explicit-day1-to-day2-390",
+        "status": "PASS"
+      },
+      {
+        "name": "only-one-acknowledged-390",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-day4-shown-390",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-prevents-auto-advance-390",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-review-added-390",
+        "status": "PASS"
+      },
+      {
+        "name": "explainable-review-390",
+        "status": "PASS"
+      },
+      {
+        "name": "completed-and-skipped-history-390",
+        "status": "PASS"
+      },
+      {
+        "name": "no-horizontal-overflow-390",
+        "status": "PASS"
+      },
+      {
+        "name": "route-feedback-390",
+        "status": "PASS"
+      },
+      {
+        "name": "route-scenarios-390",
+        "status": "PASS"
+      },
+      {
+        "name": "route-knowledge-390",
+        "status": "PASS"
+      },
+      {
+        "name": "route-conditioning-390",
+        "status": "PASS"
+      },
+      {
+        "name": "21-authored-days-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "honest-no-progress-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "first-day-task-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "day1-first-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "explicit-day1-to-day2-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "only-one-acknowledged-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-day4-shown-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-prevents-auto-advance-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "checkpoint-review-added-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "explainable-review-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "completed-and-skipped-history-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "no-horizontal-overflow-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "route-feedback-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "route-scenarios-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "route-knowledge-1440",
+        "status": "PASS"
+      },
+      {
+        "name": "route-conditioning-1440",
+        "status": "PASS"
+      }
+    ]
+  },
+  "source_audit": {
+    "status": "PASS",
+    "passed": 9,
+    "failed": 0,
+    "preserved_file_count": 241,
+    "baseline_zip_sha256": "b3bdbb46f225558634eb638024fbec87420bae412f7e4cf53cff8bf12d12d343",
+    "scope": "Static/byte-level verification, not native browser persistence",
+    "checks": [
+      {
+        "name": "1791 inherited permanent IDs and exact metadata unchanged",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "exactly 8 new immutable educational question IDs",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "canonical research, storage and prior lab files byte-identical",
+        "status": "PASS",
+        "detail": "241 checked; changed=[]"
+      },
+      {
+        "name": "21 authored curriculum records intact",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "four checkpoints preserved",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "all 10 routes and functioning Academy mounted",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "25 original v2 stores, no schema migration",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "source/repo/tests and offline compiled entry exist",
+        "status": "PASS",
+        "detail": ""
+      },
+      {
+        "name": "no PDF or personal fixtures in public",
+        "status": "PASS",
+        "detail": ""
+      }
+    ]
+  },
+  "previous_validators": {
+    "CP1": "42/42 PASS",
+    "CP2": "11/11 PASS",
+    "Stage11": "45/45 PASS",
+    "Stage12": "38/38 PASS"
+  },
+  "native_indexeddb_reload": "NOT_TESTED",
+  "physical_iphone_safari": "NOT_TESTED",
+  "cross_tab_reliability": "NOT_TESTED"
+}

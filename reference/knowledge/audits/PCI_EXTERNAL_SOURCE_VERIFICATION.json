@@ -1,0 +1,46 @@
+{
+  "checked_on": "2026-11-20",
+  "source_set": [
+    {
+      "source_id": "PCI-SRC-EXT-001",
+      "source_title": "Mental imagery training programs for developing sport-specific motor skills: a systematic review and meta-analysis",
+      "url": "https://doi.org/10.1080/17408989.2021.1991297",
+      "verification": "BIBLIOGRAPHIC_MATCH_ON_PUBLISHER_SEARCH",
+      "accessible_material": "abstract and bibliographic search results; publisher direct fetch restricted",
+      "finding_scope": "Task-specific sport mental imagery may supplement physical motor practice; general efficacy and equivalence to actual practice not established",
+      "status": "PARTIAL",
+      "original_record_preserved": true
+    },
+    {
+      "source_id": "PCI-SRC-EXT-002",
+      "source_title": "Learning motor actions via imagery\u2014perceptual or motor learning?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315805/",
+      "verification": "BIBLIOGRAPHIC_MATCH_ON_PMC_SEARCH",
+      "accessible_material": "indexed abstract/results, browser full text challenged",
+      "finding_scope": "Debates mechanisms of motor imagery learning; does not establish guaranteed skill acquisition through visualization",
+      "status": "PARTIAL",
+      "original_record_preserved": true
+    },
+    {
+      "source_id": "PCI-SRC-EXT-003",
+      "source_title": "Hypnosis",
+      "url": "https://www.nccih.nih.gov/health/hypnosis",
+      "verification": "OFFICIAL_NIH_PAGE_READ",
+      "accessible_material": "NCCIH full webpage accessed",
+      "finding_scope": "Condition-specific evidence, including conditional IBS recommendation with very low-quality evidence and inconclusive procedural anxiety results; not blanket treatment efficacy",
+      "status": "PASS_FOR_PAGE_EXISTENCE_AND_SUMMARY",
+      "original_record_preserved": true
+    },
+    {
+      "source_id": "PCI-SRC-EXT-004",
+      "source_title": "Neuroimaging studies of extra-sensory perception: A systematic and critical review",
+      "url": "https://doi.org/10.1016/j.neuroimage.2026.121937",
+      "verification": "DOI_AND_PUBMED_RECORD_MATCH",
+      "accessible_material": "publisher and PubMed metadata, search excerpts; no full risk-of-bias review reproduced",
+      "finding_scope": "Review describes a heterogeneous ESP literature; presence of a review does NOT establish a valid ESP mechanism or telepathy",
+      "status": "PARTIAL",
+      "original_record_preserved": true
+    }
+  ],
+  "important": "These are reference-identity and limited scope checks. No inherited causal claim is promoted to independently established scientific proof."
+}

@@ -1,0 +1,16 @@
+import {execFileSync} from 'node:child_process';
+import {cpSync,rmSync,mkdirSync,readFileSync,writeFileSync} from 'node:fs';
+import {join} from 'node:path';
+const root=process.cwd(),out=join(root,'dist-static');
+rmSync(out,{recursive:true,force:true});mkdirSync(out,{recursive:true});
+execFileSync('tsc',['-p','tsconfig.offline.json'],{cwd:root,stdio:'inherit'});
+cpSync(join(root,'public'),out,{recursive:true});
+cpSync(join(root,'offline-vendor'),join(out,'vendor'),{recursive:true});
+let main=readFileSync(join(out,'assets/main.js'),'utf8');
+main=main.replace(/import ReactRuntime from 'react';\s*/,'').replace(/import \{ createRoot \} from 'react-dom\/client';\s*/,'').replace('globalThis.React = ReactRuntime;','globalThis.React = globalThis.React;').replace('createRoot(root).render(ReactRuntime.createElement(App));','ReactDOM.render(React.createElement(App), root);');
+if(main.includes('ReactRuntime')||main.includes('createRoot('))throw new Error('Offline entry rewrite failed');
+writeFileSync(join(out,'assets/main.js'),main);
+let html=readFileSync(join(root,'index.html'),'utf8');
+html=html.replace('<script type="module" src="./src/main.tsx"></script>','<script src="./vendor/react.production.min.js"></script><script src="./vendor/react-dom.production.min.js"></script><script src="./vendor/react16-hooks-bridge.js"></script><script type="module" src="./assets/main.js"></script>');
+writeFileSync(join(out,'index.html'),html);
+console.log('OFFLINE STATIC BUILD PASS:',out,'(React 16 hooks compatibility test harness, not production Vite)');

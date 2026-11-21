@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "passed": 41,
+  "failed": 0,
+  "counts": {
+    "new_program_ids": 22,
+    "21_day_records": 21,
+    "catalog_items": 60,
+    "private_stores": 25,
+    "review_seeds": 201
+  }
+}

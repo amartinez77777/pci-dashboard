@@ -1,0 +1,499 @@
+[
+  {
+    "id": "PCI-R-0067",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Negative emotions as warning lights ↔ Short-memory performance reset",
+    "content": "Warning gauges extend the earlier rational interpretation of uncomfortable thoughts into a feedback metaphor.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-001",
+    "to_id": "PCI-C-CH05-005",
+    "relationship_type": "complements",
+    "rationale": "Warning gauges extend the earlier rational interpretation of uncomfortable thoughts into a feedback metaphor.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-001": {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-005": {
+        "source_id": "PCI-SRC-PDF-096",
+        "pdf_page": 96,
+        "printed_page": 86,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0068",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "FAILURE as a mnemonic, not a diagnosis ↔ Role transition can unsettle identity",
+    "content": "The failure mnemonic is best read beside the earlier success-type framework, avoiding moral labels.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-167",
+        "pdf_page": 167,
+        "printed_page": 157,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-002",
+    "to_id": "PCI-C-CH08-001",
+    "relationship_type": "qualifies",
+    "rationale": "The failure mnemonic is best read beside the earlier success-type framework, avoiding moral labels.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-167",
+        "pdf_page": 167,
+        "printed_page": 157,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-002": {
+        "source_id": "PCI-SRC-PDF-167",
+        "pdf_page": 167,
+        "printed_page": 157,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH08-001": {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0069",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Frustration versus perfectionism ↔ Test a self-imposed limit experimentally",
+    "content": "Flexible standards connect to the earlier discussion of rationally challenging absolute claims.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-168",
+        "pdf_page": 168,
+        "printed_page": 158,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-003",
+    "to_id": "PCI-C-CH05-003",
+    "relationship_type": "complements",
+    "rationale": "Flexible standards connect to the earlier discussion of rationally challenging absolute claims.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-168",
+        "pdf_page": 168,
+        "printed_page": 158,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-003": {
+        "source_id": "PCI-SRC-PDF-168",
+        "pdf_page": 168,
+        "printed_page": 158,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH05-003": {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0070",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Failure expectations and self-confirming behavior ↔ Snap-back and self-confirming loops",
+    "content": "A restricted self-image can contribute to self-confirming action in both passages, presented as theory.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-169",
+        "pdf_page": 169,
+        "printed_page": 159,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-004",
+    "to_id": "PCI-C-CH01-002",
+    "relationship_type": "supports",
+    "rationale": "A restricted self-image can contribute to self-confirming action in both passages, presented as theory.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-169",
+        "pdf_page": 169,
+        "printed_page": 159,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-004": {
+        "source_id": "PCI-SRC-PDF-169",
+        "pdf_page": 169,
+        "printed_page": 159,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH01-002": {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0071",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Misdirected aggressiveness ↔ Spontaneous skill and overcontrol",
+    "content": "The aggression chapter complicates the earlier relax-and-let-work approach by addressing displaced action.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-170",
+        "pdf_page": 170,
+        "printed_page": 160,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-005",
+    "to_id": "PCI-C-CH06-005",
+    "relationship_type": "qualifies",
+    "rationale": "The aggression chapter complicates the earlier relax-and-let-work approach by addressing displaced action.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-170",
+        "pdf_page": 170,
+        "printed_page": 160,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-005": {
+        "source_id": "PCI-SRC-PDF-170",
+        "pdf_page": 170,
+        "printed_page": 160,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH06-005": {
+        "source_id": "PCI-SRC-PDF-116",
+        "pdf_page": 116,
+        "printed_page": 106,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0072",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Emptiness despite status and achievement ↔ Happiness as pleasant mental activity",
+    "content": "The emptiness discussion distinguishes durable contentment from simple habit-of-happiness prescriptions.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-185",
+        "pdf_page": 185,
+        "printed_page": 175,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-012",
+    "to_id": "PCI-C-CH07-001",
+    "relationship_type": "qualifies",
+    "rationale": "The emptiness discussion distinguishes durable contentment from simple habit-of-happiness prescriptions.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-185",
+        "pdf_page": 185,
+        "printed_page": 175,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-012": {
+        "source_id": "PCI-SRC-PDF-185",
+        "pdf_page": 185,
+        "printed_page": 175,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH07-001": {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0073",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-09",
+    "title": "Glance at the negative and return to the road ↔ Built-in success instinct metaphor",
+    "content": "The end-of-day feedback model returns to the early chapter’s goal-directed corrections.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH09-013",
+    "to_id": "PCI-C-CH02-001",
+    "relationship_type": "complements",
+    "rationale": "The end-of-day feedback model returns to the early chapter’s goal-directed corrections.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH09-013": {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-001": {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  }
+]

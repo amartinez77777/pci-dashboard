@@ -1,0 +1,128 @@
+{
+  "status": "PASS",
+  "passed": 30,
+  "failed": 0,
+  "tests": [
+    {
+      "check": "self-image-form-present-390",
+      "status": "PASS"
+    },
+    {
+      "check": "dirty-editor-registers-390",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-keeps-route-390",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-keeps-input-390",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-prompts-once-390",
+      "status": "PASS"
+    },
+    {
+      "check": "accepted-route-works-390",
+      "status": "PASS"
+    },
+    {
+      "check": "accepted-prompts-only-once-390",
+      "status": "PASS"
+    },
+    {
+      "check": "theater-cancel-keeps-route-390",
+      "status": "PASS"
+    },
+    {
+      "check": "theater-cancel-keeps-scene-390",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-still-loads-390",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-registers-unsaved-390",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-cancel-preserves-route-390",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-cancel-preserves-goal-390",
+      "status": "PASS"
+    },
+    {
+      "check": "scenarios-still-load-390",
+      "status": "PASS"
+    },
+    {
+      "check": "no-horizontal-overflow-390",
+      "status": "PASS"
+    },
+    {
+      "check": "self-image-form-present-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "dirty-editor-registers-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-keeps-route-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-keeps-input-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "cancel-prompts-once-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "accepted-route-works-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "accepted-prompts-only-once-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "theater-cancel-keeps-route-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "theater-cancel-keeps-scene-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-still-loads-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-registers-unsaved-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-cancel-preserves-route-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "feedback-cancel-preserves-goal-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "scenarios-still-load-1440",
+      "status": "PASS"
+    },
+    {
+      "check": "no-horizontal-overflow-1440",
+      "status": "PASS"
+    }
+  ],
+  "environment": "Chromium in-memory React16-compat with synthetic IndexedDB, not native browser storage"
+}

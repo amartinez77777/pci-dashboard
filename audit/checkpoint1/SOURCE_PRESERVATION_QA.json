@@ -1,0 +1,176 @@
+{
+  "status": "PASS",
+  "passed": 42,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "all inherited 1785 IDs, six conditioning IDs and eight Academy quiz IDs retained",
+      "status": "PASS"
+    },
+    {
+      "name": "issue PCI-ISS-ST12-003 repaired with documented verification",
+      "status": "PASS"
+    },
+    {
+      "name": "issue PCI-ISS-ST12-004 repaired with documented verification",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_EVIDENCE_ASSESSMENTS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_CHAPTER_COVERAGE.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_CHAPTERS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_SECTIONS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_APPLICATIONS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_MECHANISMS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_ANECDOTES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_CLAIMS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_AUTHOR_PRACTICE_ORIGIN_INDEX.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_EDUCATIONAL_EXERCISES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_CITATIONS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_CONCEPTS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_BOOK.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_AUTHOR_PRACTICES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical knowledge/data/PCI_RELATIONSHIPS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_BRANCHING_SCENARIOS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_EXECUTABLE_ACTIVITIES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_REHEARSAL_TEMPLATES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_FEEDBACK_CYCLES.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_FEEDBACK_PATTERNS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_REVIEW_RUBRICS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical activity/data/PCI_AUTHOR_PRACTICE_LOOKUP.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical personalization/data/PCI_MODULE_EVENT_MAP.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical personalization/data/PCI_REVIEW_SEEDS.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical personalization/data/PCI_21_DAY_CURRICULUM.json",
+      "status": "PASS"
+    },
+    {
+      "name": "unchanged preserved canonical personalization/data/PCI_RECOMMENDATION_CATALOG.json",
+      "status": "PASS"
+    },
+    {
+      "name": "preserved contract exists src/storage.ts",
+      "status": "PASS"
+    },
+    {
+      "name": "preserved contract exists src/types.ts",
+      "status": "PASS"
+    },
+    {
+      "name": "preserved contract exists src/theater-guidance.ts",
+      "status": "PASS"
+    },
+    {
+      "name": "preserved contract exists src/feedback-model.ts",
+      "status": "PASS"
+    },
+    {
+      "name": "preserved contract exists src/scenario-model.ts",
+      "status": "PASS"
+    },
+    {
+      "name": "storage v2 contract retained",
+      "status": "PASS"
+    },
+    {
+      "name": "ten module routes remain",
+      "status": "PASS"
+    },
+    {
+      "name": "global guard intercepts hashchange",
+      "status": "PASS"
+    },
+    {
+      "name": "scene and guidance not removed",
+      "status": "PASS"
+    },
+    {
+      "name": "private data never bundled in public",
+      "status": "PASS"
+    },
+    {
+      "name": "manual phase budget is not automatic",
+      "status": "PASS"
+    },
+    {
+      "name": "existing baseline rollbacks kept",
+      "status": "PASS"
+    },
+    {
+      "name": "offline compiler and tests remain",
+      "status": "PASS"
+    }
+  ],
+  "limits": "Structural checks only; native IndexedDB and production build require independent runtime verification."
+}

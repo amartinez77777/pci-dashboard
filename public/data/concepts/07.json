@@ -1,0 +1,739 @@
+[
+  {
+    "id": "PCI-C-CH07-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness as pleasant mental activity",
+    "content": "The chapter adopts Schindler’s description of happiness as having pleasant thoughts much of the time. The author uses a practical mental-habit definition to shift the discussion from reward and entitlement to attention and experience.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-127",
+        "pdf_page": 127,
+        "printed_page": 117,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter adopts Schindler’s description of happiness as having pleasant thoughts much of the time.",
+    "terms": {
+      "primary": "Happiness as pleasant mental activity",
+      "definition": "The chapter adopts Schindler’s description of happiness as having pleasant thoughts much of the time."
+    },
+    "author_mechanism": "The author uses a practical mental-habit definition to shift the discussion from reward and entitlement to attention and experience.",
+    "conditions_and_limits": "Pleasant thoughts are not the only recognized account of wellbeing; grief and sadness can be appropriate.",
+    "application": "Record one situation that was enjoyable without needing a major achievement.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Wellbeing can also depend on relationships, health, financial security and context.",
+    "ethical_clinical_cautions": "Pleasant thoughts are not the only recognized account of wellbeing; grief and sadness can be appropriate.",
+    "substantive_paraphrase": "The chapter adopts Schindler’s description of happiness as having pleasant thoughts much of the time. As presented in Chapter 7, The author uses a practical mental-habit definition to shift the discussion from reward and entitlement to attention and experience. The text illustrates this idea through schindler’s definition is quoted as a working premise, not validated as a universal measure. A limited, realistic application is to record one situation that was enjoyable without needing a major achievement. However, pleasant thoughts are not the only recognized account of wellbeing; grief and sadness can be appropriate. An alternative interpretation is that wellbeing can also depend on relationships, health, financial security and context. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Schindler’s definition is quoted as a working premise, not validated as a universal measure.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-001"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-007"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-017",
+      "PCI-EA-018"
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Mental-state medical claims require boundaries",
+    "content": "The text draws a broad connection between cheerful thinking and health, citing anecdotes and older medical assertions. Emotional state and physiology are presented as tightly linked, often extending well beyond what is actually demonstrated.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text draws a broad connection between cheerful thinking and health, citing anecdotes and older medical assertions.",
+    "terms": {
+      "primary": "Mental-state medical claims require boundaries",
+      "definition": "The text draws a broad connection between cheerful thinking and health, citing anecdotes and older medical assertions."
+    },
+    "author_mechanism": "Emotional state and physiology are presented as tightly linked, often extending well beyond what is actually demonstrated.",
+    "conditions_and_limits": "Claims that happiness cures illness or is the only cure are unsupported and dangerous to repeat as medical guidance.",
+    "application": "Use positive experiences as optional comfort while continuing ordinary healthcare and evidence-based treatment.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Health status, support, treatment and stress can relate bidirectionally to mood.",
+    "ethical_clinical_cautions": "Claims that happiness cures illness or is the only cure are unsupported and dangerous to repeat as medical guidance.",
+    "substantive_paraphrase": "The text draws a broad connection between cheerful thinking and health, citing anecdotes and older medical assertions. As presented in Chapter 7, Emotional state and physiology are presented as tightly linked, often extending well beyond what is actually demonstrated. The text illustrates this idea through the revised book attributes a humorous-hospital-video account to Norman Cousins and a universal psychosomatic claim to Schindler. A limited, realistic application is to use positive experiences as optional comfort while continuing ordinary healthcare and evidence-based treatment. However, claims that happiness cures illness or is the only cure are unsupported and dangerous to repeat as medical guidance. An alternative interpretation is that health status, support, treatment and stress can relate bidirectionally to mood. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The revised book attributes a humorous-hospital-video account to Norman Cousins and a universal psychosomatic claim to Schindler.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-001",
+      "PCI-EX-CH07-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-007"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-017",
+      "PCI-EA-018"
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Prosocial attention and nontransactional happiness",
+    "content": "Helping others is portrayed as a potential source of satisfaction rather than a tax on a fixed happiness supply. Shifting attention toward another person’s needs may foster meaning and appreciation; it need not require self-sacrifice.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-129",
+        "pdf_page": 129,
+        "printed_page": 119,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Helping others is portrayed as a potential source of satisfaction rather than a tax on a fixed happiness supply.",
+    "terms": {
+      "primary": "Prosocial attention and nontransactional happiness",
+      "definition": "Helping others is portrayed as a potential source of satisfaction rather than a tax on a fixed happiness supply."
+    },
+    "author_mechanism": "Shifting attention toward another person’s needs may foster meaning and appreciation; it need not require self-sacrifice.",
+    "conditions_and_limits": "Do not encourage overgiving, unequal caregiving burdens or ignoring one’s own needs.",
+    "application": "Perform one respectful helpful act with consent and notice the impact without expecting repayment.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Social belonging and reciprocal support can affect experience independently.",
+    "ethical_clinical_cautions": "Do not encourage overgiving, unequal caregiving burdens or ignoring one’s own needs.",
+    "substantive_paraphrase": "Helping others is portrayed as a potential source of satisfaction rather than a tax on a fixed happiness supply. As presented in Chapter 7, Shifting attention toward another person’s needs may foster meaning and appreciation; it need not require self-sacrifice. The text illustrates this idea through an office worker feels guilty being cheerful near unhappy colleagues; the chapter challenges this zero-sum view. A limited, realistic application is to perform one respectful helpful act with consent and notice the impact without expecting repayment. However, do not encourage overgiving, unequal caregiving burdens or ignoring one’s own needs. An alternative interpretation is that social belonging and reciprocal support can affect experience independently. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "An office worker feels guilty being cheerful near unhappy colleagues; the chapter challenges this zero-sum view.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-001",
+      "PCI-EX-CH07-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-017",
+      "PCI-EA-018"
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Deferring happiness until a milestone",
+    "content": "The author criticizes making contentment contingent on a future promotion, wedding or paid-off home. Repeatedly relocating satisfaction to the next achievement can prevent noticing present rewards.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-130",
+        "pdf_page": 130,
+        "printed_page": 120,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author criticizes making contentment contingent on a future promotion, wedding or paid-off home.",
+    "terms": {
+      "primary": "Deferring happiness until a milestone",
+      "definition": "The author criticizes making contentment contingent on a future promotion, wedding or paid-off home."
+    },
+    "author_mechanism": "Repeatedly relocating satisfaction to the next achievement can prevent noticing present rewards.",
+    "conditions_and_limits": "Immediate satisfaction cannot cancel real structural hardships or obligations.",
+    "application": "Name one worthwhile future goal and one presently available good experience; pursue both.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Adaptation, expectations and changes in goals might explain disappointment after milestones.",
+    "ethical_clinical_cautions": "Immediate satisfaction cannot cancel real structural hardships or obligations.",
+    "substantive_paraphrase": "The author criticizes making contentment contingent on a future promotion, wedding or paid-off home. As presented in Chapter 7, Repeatedly relocating satisfaction to the next achievement can prevent noticing present rewards. The text illustrates this idea through patients are described waiting for a series of major life events before allowing happiness. A limited, realistic application is to name one worthwhile future goal and one presently available good experience; pursue both. However, immediate satisfaction cannot cancel real structural hardships or obligations. An alternative interpretation is that adaptation, expectations and changes in goals might explain disappointment after milestones. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Patients are described waiting for a series of major life events before allowing happiness.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-009"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Impersonal events interpreted as personal insults",
+    "content": "The chapter explains habitual irritation partly as construing random circumstances as attacks on esteem. When a late bus or interruption is treated as directed at the self, anger can become a rehearsed default.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-131",
+        "pdf_page": 131,
+        "printed_page": 121,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter explains habitual irritation partly as construing random circumstances as attacks on esteem.",
+    "terms": {
+      "primary": "Impersonal events interpreted as personal insults",
+      "definition": "The chapter explains habitual irritation partly as construing random circumstances as attacks on esteem."
+    },
+    "author_mechanism": "When a late bus or interruption is treated as directed at the self, anger can become a rehearsed default.",
+    "conditions_and_limits": "Some disrespect is real, and genuine boundary violations should not be minimized.",
+    "application": "At the next low-stakes irritation generate 2 plausible interpretations and choose a proportional action.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Stress, fatigue and unmet needs can also influence a reaction.",
+    "ethical_clinical_cautions": "Some disrespect is real, and genuine boundary violations should not be minimized.",
+    "substantive_paraphrase": "The chapter explains habitual irritation partly as construing random circumstances as attacks on esteem. As presented in Chapter 7, When a late bus or interruption is treated as directed at the self, anger can become a rehearsed default. The text illustrates this idea through traffic, weather, an interrupting acquaintance, and an over-late bus illustrate the point. A limited, realistic application is to at the next low-stakes irritation generate 2 plausible interpretations and choose a proportional action. However, some disrespect is real, and genuine boundary violations should not be minimized. An alternative interpretation is that stress, fatigue and unmet needs can also influence a reaction. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Traffic, weather, an interrupting acquaintance, and an over-late bus illustrate the point.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-003"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH03-003"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Separate event facts from identity verdicts",
+    "content": "The text contrasts losing money or experiencing romantic rejection with catastrophic judgments about the self. The proposed intervention separates verifiable events from interpretations and permits active problem solving.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-132",
+        "pdf_page": 132,
+        "printed_page": 122,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text contrasts losing money or experiencing romantic rejection with catastrophic judgments about the self.",
+    "terms": {
+      "primary": "Separate event facts from identity verdicts",
+      "definition": "The text contrasts losing money or experiencing romantic rejection with catastrophic judgments about the self."
+    },
+    "author_mechanism": "The proposed intervention separates verifiable events from interpretations and permits active problem solving.",
+    "conditions_and_limits": "Financial loss, abuse or bereavement can carry actual consequences that thought-labeling cannot erase.",
+    "application": "Write a two-column facts/opinions list about a manageable setback and check each statement for evidence.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Cognitive appraisal and coping resources can influence feelings without fully determining them.",
+    "ethical_clinical_cautions": "Financial loss, abuse or bereavement can carry actual consequences that thought-labeling cannot erase.",
+    "substantive_paraphrase": "The text contrasts losing money or experiencing romantic rejection with catastrophic judgments about the self. As presented in Chapter 7, The proposed intervention separates verifiable events from interpretations and permits active problem solving. The text illustrates this idea through a businessman interprets a $200,000 loss as being ruined and disgraced. A limited, realistic application is to write a two-column facts/opinions list about a manageable setback and check each statement for evidence. However, financial loss, abuse or bereavement can carry actual consequences that thought-labeling cannot erase. An alternative interpretation is that cognitive appraisal and coping resources can influence feelings without fully determining them. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A businessman interprets a $200,000 loss as being ruined and disgraced.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-003",
+      "PCI-EX-CH07-004"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH05-010"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Goal orientation after setbacks",
+    "content": "The chapter associates chosen goals with a less passive and more hopeful response to loss. Restoring a feasible direction is presented as increasing agency, although the text overstates its universality.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-133",
+        "pdf_page": 133,
+        "printed_page": 123,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter associates chosen goals with a less passive and more hopeful response to loss.",
+    "terms": {
+      "primary": "Goal orientation after setbacks",
+      "definition": "The chapter associates chosen goals with a less passive and more hopeful response to loss."
+    },
+    "author_mechanism": "Restoring a feasible direction is presented as increasing agency, although the text overstates its universality.",
+    "conditions_and_limits": "Not all setbacks allow rapid reorientation; do not blame someone who needs recovery time.",
+    "application": "After a disappointment choose one meaningful repair action while acknowledging real losses.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Agency, social support and actual opportunities may contribute to coping.",
+    "ethical_clinical_cautions": "Not all setbacks allow rapid reorientation; do not blame someone who needs recovery time.",
+    "substantive_paraphrase": "The chapter associates chosen goals with a less passive and more hopeful response to loss. As presented in Chapter 7, Restoring a feasible direction is presented as increasing agency, although the text overstates its universality. The text illustrates this idea through a loss-making businessman moves to a new business; Edison’s laboratory fire is a separate illustrative comparison. A limited, realistic application is to after a disappointment choose one meaningful repair action while acknowledging real losses. However, not all setbacks allow rapid reorientation; do not blame someone who needs recovery time. An alternative interpretation is that agency, social support and actual opportunities may contribute to coping. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A loss-making businessman moves to a new business; Edison’s laboratory fire is a separate illustrative comparison.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-007"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-003",
+      "PCI-EX-CH07-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH07-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH06-008"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Attention and agency without denial",
+    "content": "The book suggests choosing which aspects of a mixed day receive attention and acting rather than awaiting emotional rescue. Repeatedly attending to workable and pleasant elements is depicted as constructing a happiness habit.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-135",
+        "pdf_page": 135,
+        "printed_page": 125,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book suggests choosing which aspects of a mixed day receive attention and acting rather than awaiting emotional rescue.",
+    "terms": {
+      "primary": "Attention and agency without denial",
+      "definition": "The book suggests choosing which aspects of a mixed day receive attention and acting rather than awaiting emotional rescue."
+    },
+    "author_mechanism": "Repeatedly attending to workable and pleasant elements is depicted as constructing a happiness habit.",
+    "conditions_and_limits": "Agency is constrained by illness, harm and resources; sadness is not failure.",
+    "application": "Choose one truthful enjoyable detail today and one concrete response to an unpleasant detail.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Selective attention can affect mood, but mood is not fully voluntary.",
+    "ethical_clinical_cautions": "Agency is constrained by illness, harm and resources; sadness is not failure.",
+    "substantive_paraphrase": "The book suggests choosing which aspects of a mixed day receive attention and acting rather than awaiting emotional rescue. As presented in Chapter 7, Repeatedly attending to workable and pleasant elements is depicted as constructing a happiness habit. The text illustrates this idea through the film State and Main supplies a conversational analogy about making one’s own enjoyment. A limited, realistic application is to choose one truthful enjoyable detail today and one concrete response to an unpleasant detail. However, agency is constrained by illness, harm and resources; sadness is not failure. An alternative interpretation is that selective attention can affect mood, but mood is not fully voluntary. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The film State and Main supplies a conversational analogy about making one’s own enjoyment.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-008"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-005",
+      "PCI-EX-CH07-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH07-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Interrupting repetitive pessimistic scripts",
+    "content": "The chapter describes a mental pattern interrupt when the mind automatically repeats a discouraging story. A deliberate change of attention or action breaks a habitual loop and opens the possibility of a different behavioral response.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-137",
+        "pdf_page": 137,
+        "printed_page": 127,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter describes a mental pattern interrupt when the mind automatically repeats a discouraging story.",
+    "terms": {
+      "primary": "Interrupting repetitive pessimistic scripts",
+      "definition": "The chapter describes a mental pattern interrupt when the mind automatically repeats a discouraging story."
+    },
+    "author_mechanism": "A deliberate change of attention or action breaks a habitual loop and opens the possibility of a different behavioral response.",
+    "conditions_and_limits": "Avoid using abrupt suppression to bypass trauma, grief or other serious distress.",
+    "application": "When a small irritation recurs, name the script and change one observable action rather than demand instant happiness.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Attention redirection and behavioral changes could account for effects.",
+    "ethical_clinical_cautions": "Avoid using abrupt suppression to bypass trauma, grief or other serious distress.",
+    "substantive_paraphrase": "The chapter describes a mental pattern interrupt when the mind automatically repeats a discouraging story. As presented in Chapter 7, A deliberate change of attention or action breaks a habitual loop and opens the possibility of a different behavioral response. The text illustrates this idea through the author shifts a recurring reaction pattern toward an intentional alternative. A limited, realistic application is to when a small irritation recurs, name the script and change one observable action rather than demand instant happiness. However, avoid using abrupt suppression to bypass trauma, grief or other serious distress. An alternative interpretation is that attention redirection and behavioral changes could account for effects. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The author shifts a recurring reaction pattern toward an intentional alternative.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-005",
+      "PCI-EX-CH07-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH07-002",
+      "PCI-AP-CH07-003"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Skeptical one-month thought experiment",
+    "content": "A historical account describes a skeptical person deliberately selecting constructive memories and ambitions for one month. The book attributes several later improvements to changed thought habits; the story cannot establish causation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-139",
+        "pdf_page": 139,
+        "printed_page": 129,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A historical account describes a skeptical person deliberately selecting constructive memories and ambitions for one month.",
+    "terms": {
+      "primary": "Skeptical one-month thought experiment",
+      "definition": "A historical account describes a skeptical person deliberately selecting constructive memories and ambitions for one month."
+    },
+    "author_mechanism": "The book attributes several later improvements to changed thought habits; the story cannot establish causation.",
+    "conditions_and_limits": "Do not treat a testimonial as an experiment or pressure patients to reject necessary treatment.",
+    "application": "Try a gentle 7-day optional observational trial recording both mood and external circumstances, without promised results.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Time, social changes and other activities may have contributed to improvement.",
+    "ethical_clinical_cautions": "Do not treat a testimonial as an experiment or pressure patients to reject necessary treatment.",
+    "substantive_paraphrase": "A historical account describes a skeptical person deliberately selecting constructive memories and ambitions for one month. As presented in Chapter 7, The book attributes several later improvements to changed thought habits; the story cannot establish causation. The text illustrates this idea through elwood Worcester recounts a scientist’s autobiographical one-month experiment. A limited, realistic application is to try a gentle 7-day optional observational trial recording both mood and external circumstances, without promised results. However, do not treat a testimonial as an experiment or pressure patients to reject necessary treatment. An alternative interpretation is that time, social changes and other activities may have contributed to improvement. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Elwood Worcester recounts a scientist’s autobiographical one-month experiment.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-010"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-007",
+      "PCI-EX-CH07-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH07-003",
+      "PCI-AP-CH07-004"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH01-009"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH07-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Habits differ from addiction",
+    "content": "The book explains everyday behavioral routines as modifiable responses while explicitly separating clinical addictions. A habit can be changed through repeated intentional alternatives, whereas addictive behavior may require specialized help.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book explains everyday behavioral routines as modifiable responses while explicitly separating clinical addictions.",
+    "terms": {
+      "primary": "Habits differ from addiction",
+      "definition": "The book explains everyday behavioral routines as modifiable responses while explicitly separating clinical addictions."
+    },
+    "author_mechanism": "A habit can be changed through repeated intentional alternatives, whereas addictive behavior may require specialized help.",
+    "conditions_and_limits": "Do not imply addictions can be overcome through shoe-tying practice or mere willpower.",
+    "application": "Choose a neutral morning routine and trial a reversible variation while observing what changes.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Habit acquisition is domain-specific; the book’s 95% number is not verified here.",
+    "ethical_clinical_cautions": "Do not imply addictions can be overcome through shoe-tying practice or mere willpower.",
+    "substantive_paraphrase": "The book explains everyday behavioral routines as modifiable responses while explicitly separating clinical addictions. As presented in Chapter 7, A habit can be changed through repeated intentional alternatives, whereas addictive behavior may require specialized help. The text illustrates this idea through the chapter expressly recommends seeking help for physical, chemical or emotional addiction. A limited, realistic application is to choose a neutral morning routine and trial a reversible variation while observing what changes. However, do not imply addictions can be overcome through shoe-tying practice or mere willpower. An alternative interpretation is that habit acquisition is domain-specific; the book’s 95% number is not verified here. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The chapter expressly recommends seeking help for physical, chemical or emotional addiction.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-011"
+    ],
+    "case_ids": [
+      "PCI-EX-CH07-008"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH07-004",
+      "PCI-AP-CH07-005"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-009"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-019",
+      "PCI-EA-020"
+    ]
+  },
+  {
+    "id": "PCI-C-CH07-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty-day shoe and mood habit experiment",
+    "content": "A deliberately changed shoe routine is used as a daily cue to choose more constructive emotional and social responses. The 30-day activity ties an easy motor habit change to repeated reminders about kindness, calmness and realistic interpretation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "A deliberately changed shoe routine is used as a daily cue to choose more constructive emotional and social responses.",
+    "terms": {
+      "primary": "Thirty-day shoe and mood habit experiment",
+      "definition": "A deliberately changed shoe routine is used as a daily cue to choose more constructive emotional and social responses."
+    },
+    "author_mechanism": "The 30-day activity ties an easy motor habit change to repeated reminders about kindness, calmness and realistic interpretation.",
+    "conditions_and_limits": "Thirty days is the author’s chosen trial, not a scientifically universal habit-formation deadline.",
+    "application": "Try a safe variation and log whether the reminder influenced any actual response, not just an intended one.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Prompting, deliberate practice and external circumstances may explain any observed change.",
+    "ethical_clinical_cautions": "Thirty days is the author’s chosen trial, not a scientifically universal habit-formation deadline.",
+    "substantive_paraphrase": "A deliberately changed shoe routine is used as a daily cue to choose more constructive emotional and social responses. As presented in Chapter 7, The 30-day activity ties an easy motor habit change to repeated reminders about kindness, calmness and realistic interpretation. The text illustrates this idea through the mental training box specifies changing shoe order and lacing plus 8 daily behavior intentions. A limited, realistic application is to try a safe variation and log whether the reminder influenced any actual response, not just an intended one. However, thirty days is the author’s chosen trial, not a scientifically universal habit-formation deadline. An alternative interpretation is that prompting, deliberate practice and external circumstances may explain any observed change. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The mental training box specifies changing shoe order and lacing plus 8 daily behavior intentions.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH07-012"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH07-005"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-010"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-019",
+      "PCI-EA-020"
+    ]
+  }
+]

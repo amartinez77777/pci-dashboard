@@ -1,0 +1,1 @@
+The rollbacks/ ZIPs in this lean source are SMALL PRUNED TEST FIXTURES, preserving original IDs, reference/public source data and just the source files needed for inherited baseline comparisons. They are NOT full historical rollbacks and must not be used for restoring earlier stages. The full authentic original is in the user-provided Stage12 main ZIP.

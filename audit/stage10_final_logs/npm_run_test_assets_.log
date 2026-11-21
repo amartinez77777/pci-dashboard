@@ -1,0 +1,9 @@
+
+> psycho-cybernetics-intelligence@0.10.0 test:assets
+> python tests/validate_assets.py
+
+{
+  "status": "PASS",
+  "passed": 34,
+  "failed": 0
+}

@@ -1,0 +1,257 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCI versioned user-owned export v2",
+  "type": "object",
+  "required": [
+    "format",
+    "version",
+    "created_at",
+    "schema_version",
+    "source_app",
+    "records",
+    "metadata"
+  ],
+  "properties": {
+    "format": {
+      "const": "PCI_PRIVATE_EXPORT"
+    },
+    "version": {
+      "const": 2
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "schema_version": {
+      "const": "2.0.0"
+    },
+    "source_app": {
+      "const": "PSYCHO-CYBERNETICS-INTELLIGENCE"
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "time_zone",
+        "included_stores",
+        "sensitive_data_warning",
+        "export_mode"
+      ],
+      "properties": {
+        "time_zone": {
+          "type": "string"
+        },
+        "included_stores": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "journal_entries",
+              "identity_notes",
+              "belief_tests",
+              "rehearsals",
+              "goal_metrics",
+              "quiz_attempts",
+              "profile_preferences",
+              "goals",
+              "beliefs",
+              "belief_revisions",
+              "evidence_entries",
+              "reflection_notes",
+              "rehearsal_sessions",
+              "activity_events",
+              "review_ratings",
+              "practice_sessions",
+              "scenario_progress",
+              "experiments",
+              "predicted_outcomes",
+              "observed_outcomes",
+              "bookmarks",
+              "backups",
+              "events",
+              "program_progress",
+              "consents"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "sensitive_data_warning": {
+          "const": "Unencrypted unless user explicitly encrypts the file"
+        },
+        "export_mode": {
+          "enum": [
+            "all",
+            "selected_stores",
+            "redacted"
+          ]
+        },
+        "source_content_versions": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": false
+    },
+    "records": {
+      "type": "object",
+      "properties": {
+        "journal_entries": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "identity_notes": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "belief_tests": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "rehearsals": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "goal_metrics": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "quiz_attempts": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "profile_preferences": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "goals": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "beliefs": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "belief_revisions": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "evidence_entries": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "reflection_notes": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "rehearsal_sessions": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "activity_events": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "review_ratings": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "practice_sessions": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "scenario_progress": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "experiments": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "predicted_outcomes": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "observed_outcomes": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "bookmarks": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "backups": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "program_progress": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        },
+        "consents": {
+          "type": "array",
+          "items": {
+            "$ref": "PCI_PRIVATE_RECORD_v2.schema.json"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "checksum_sha256": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[0-9a-f]{64}$"
+    }
+  },
+  "additionalProperties": false
+}

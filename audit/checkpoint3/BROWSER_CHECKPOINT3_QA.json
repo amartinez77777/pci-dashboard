@@ -1,0 +1,136 @@
+{
+  "status": "PASS",
+  "passed": 32,
+  "failed": 0,
+  "environment": "in-memory Chromium React16 compatibility, synthetic IndexedDB; no native reload or Safari",
+  "checks": [
+    {
+      "name": "21-authored-days-390",
+      "status": "PASS"
+    },
+    {
+      "name": "honest-no-progress-390",
+      "status": "PASS"
+    },
+    {
+      "name": "first-day-task-390",
+      "status": "PASS"
+    },
+    {
+      "name": "day1-first-390",
+      "status": "PASS"
+    },
+    {
+      "name": "explicit-day1-to-day2-390",
+      "status": "PASS"
+    },
+    {
+      "name": "only-one-acknowledged-390",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-day4-shown-390",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-prevents-auto-advance-390",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-review-added-390",
+      "status": "PASS"
+    },
+    {
+      "name": "explainable-review-390",
+      "status": "PASS"
+    },
+    {
+      "name": "completed-and-skipped-history-390",
+      "status": "PASS"
+    },
+    {
+      "name": "no-horizontal-overflow-390",
+      "status": "PASS"
+    },
+    {
+      "name": "route-feedback-390",
+      "status": "PASS"
+    },
+    {
+      "name": "route-scenarios-390",
+      "status": "PASS"
+    },
+    {
+      "name": "route-knowledge-390",
+      "status": "PASS"
+    },
+    {
+      "name": "route-conditioning-390",
+      "status": "PASS"
+    },
+    {
+      "name": "21-authored-days-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "honest-no-progress-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "first-day-task-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "day1-first-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "explicit-day1-to-day2-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "only-one-acknowledged-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-day4-shown-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-prevents-auto-advance-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "checkpoint-review-added-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "explainable-review-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "completed-and-skipped-history-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "no-horizontal-overflow-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "route-feedback-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "route-scenarios-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "route-knowledge-1440",
+      "status": "PASS"
+    },
+    {
+      "name": "route-conditioning-1440",
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,2176 @@
+[
+  {
+    "id": "PCI-ISS-001",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Paper ISBN is not independently legible in the supplied copyright/catalog page; block pr",
+    "content": "Paper ISBN is not independently legible in the supplied copyright/catalog page; block prints hardcover ISBN 0-7352-0275-3. Verify paperback 9780735202856 via cover/barcode or publisher record.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Paper ISBN is not independently legible in the supplied copyright/catalog page; block prints hardcover ISBN 0-7352-0275-3. Verify paperback 9780735202856 via cover/barcode or publisher record.",
+    "category": "source_authentication",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-002",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "OCR/text layer has garbled letters, hyphenation and names (e.g. Weiner/Wiener, Steinheim",
+    "content": "OCR/text layer has garbled letters, hyphenation and names (e.g. Weiner/Wiener, Steinheim/Steinem); recheck names and all exact quotations in page images before republication.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "OCR/text layer has garbled letters, hyphenation and names (e.g. Weiner/Wiener, Steinheim/Steinem); recheck names and all exact quotations in page images before republication.",
+    "category": "source_integrity",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-003",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "All headings in Chapters 5-16 are machine-derived candidates and not source-checked indi",
+    "content": "Stage 02 verified headings and page-level boundaries for Chapters 5–8, but headings in Chapters 9–16 remain Stage 01 machine candidates.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 2,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Progress update; original finding preserved, scope narrowed to Chapters 9–16."
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Stage 02 verified headings and page-level boundaries for Chapters 5–8, but headings in Chapters 9–16 remain Stage 01 machine candidates.",
+    "category": "chapter_coverage",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify sections in Chapters 9–16 during subsequent source ingestion; do not label candidate headings verified."
+  },
+  {
+    "id": "PCI-ISS-004",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Original basketball imagery/free-throw study citation lacks study design, author/year an",
+    "content": "Original basketball imagery/free-throw study citation lacks study design, author/year and independent replication in source pack.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Original basketball imagery/free-throw study citation lacks study design, author/year and independent replication in source pack.",
+    "category": "evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-005",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Paranormal/ESP assertions are not validated; maintain explicit caution and prohibit trea",
+    "content": "Paranormal/ESP assertions are not validated; maintain explicit caution and prohibit treatment or success promises.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Paranormal/ESP assertions are not validated; maintain explicit caution and prohibit treatment or success promises.",
+    "category": "evidence",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-006",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Some clinical and historically named anecdotes lack primary documentation and independen",
+    "content": "Some clinical and historically named anecdotes lack primary documentation and independent fact-checking.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Some clinical and historically named anecdotes lack primary documentation and independent fact-checking.",
+    "category": "external_corroboration",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-007",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Stage 01 creates research/validator contracts only; no browser application, IndexedDB im",
+    "content": "Stage 01 creates research/validator contracts only; no browser application, IndexedDB implementation, GitHub Pages build or live user test exists yet.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Stage 01 creates research/validator contracts only; no browser application, IndexedDB implementation, GitHub Pages build or live user test exists yet.",
+    "category": "engineering_future",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-008",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Cover/copyright printed imprint verification: physical cover/back cover not in the 332-p",
+    "content": "Cover/copyright printed imprint verification: physical cover/back cover not in the 332-page scan; target paperback barcode ISBN must be corroborated externally.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Cover/copyright printed imprint verification: physical cover/back cover not in the 332-page scan; target paperback barcode ISBN must be corroborated externally.",
+    "category": "edition_metadata",
+    "severity": "low",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-009",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Medical statements about imagination, anorexia, weight, hypnosis, suicide and apparent r",
+    "content": "Medical statements about imagination, anorexia, weight, hypnosis, suicide and apparent reverse aging must not be encoded as self-care medical directions.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Medical statements about imagination, anorexia, weight, hypnosis, suicide and apparent reverse aging must not be encoded as self-care medical directions.",
+    "category": "safety",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-010",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Causal authorship in the revised edition cannot be assigned paragraph-by-paragraph becau",
+    "content": "Causal authorship in the revised edition cannot be assigned paragraph-by-paragraph because the editor states original and newly added text share one voice.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-002",
+        "pdf_page": 2,
+        "printed_page": null,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Causal authorship in the revised edition cannot be assigned paragraph-by-paragraph because the editor states original and newly added text share one voice.",
+    "category": "attribution",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19",
+    "source_ref_id": "PCI-SRC-PDF-002",
+    "next_action": "Verify from exact PDF or specified external record and update status with evidence."
+  },
+  {
+    "id": "PCI-ISS-011",
+    "type": "issue",
+    "chapter_id": "PCI-CH-05",
+    "title": "Psychotherapy generalization without independent review",
+    "content": "Book suggests many can address self-sabotage without past-oriented work; needs qualified clinical sourcing. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Book suggests many can address self-sabotage without past-oriented work; needs qualified clinical sourcing.",
+    "severity": "medium",
+    "category": "clinical_scope",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-012",
+    "type": "issue",
+    "chapter_id": "PCI-CH-06",
+    "title": "Unlimited mechanism and stress-free performance claim",
+    "content": "The alleged unlimited capacity and universal absence of stress are unproven metaphors. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "The alleged unlimited capacity and universal absence of stress are unproven metaphors.",
+    "severity": "high",
+    "category": "extraordinary_mechanism",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-013",
+    "type": "issue",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness as exclusive cure for psychosomatic illness",
+    "content": "Never embed as medical guidance. Independently evaluate historical assertions and treatment claims. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Never embed as medical guidance. Independently evaluate historical assertions and treatment claims.",
+    "severity": "critical",
+    "category": "medical_claim",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-014",
+    "type": "issue",
+    "chapter_id": "PCI-CH-07",
+    "title": "Unattributed 95 percent habitual behavior statistic",
+    "content": "No denominator or research citation confirmed; keep source-attributed only. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "No denominator or research citation confirmed; keep source-attributed only.",
+    "severity": "medium",
+    "category": "unsupported_statistic",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-015",
+    "type": "issue",
+    "chapter_id": "PCI-CH-08",
+    "title": "Retirement no-goal mortality assertion",
+    "content": "Do not repeat as evidence-backed mortality causation. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Do not repeat as evidence-backed mortality causation.",
+    "severity": "high",
+    "category": "medical_claim",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-016",
+    "type": "issue",
+    "chapter_id": "PCI-CH-08",
+    "title": "AQ psychometric and self-image equivalence is not independently checked",
+    "content": "Review construct origin, standardization and validation before designing any measurement. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-161",
+        "pdf_page": 161,
+        "printed_page": 151,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Review construct origin, standardization and validation before designing any measurement.",
+    "severity": "high",
+    "category": "measurement_validity",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-017",
+    "type": "issue",
+    "chapter_id": "PCI-CH-08",
+    "title": "Eating-disorder causation oversimplified",
+    "content": "Keep clinical caution and avoid self-guided treatment suggestions. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Keep clinical caution and avoid self-guided treatment suggestions.",
+    "severity": "critical",
+    "category": "medical_claim",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-018",
+    "type": "issue",
+    "chapter_id": "PCI-CH-06",
+    "title": "Original practices involving actual burning or heavy bricks need safer app adaptation",
+    "content": "Use safe paper-disposal and symbolic burdens; preserve what book instructed without recommending hazards. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Use safe paper-disposal and symbolic burdens; preserve what book instructed without recommending hazards.",
+    "severity": "medium",
+    "category": "practice_safety",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-019",
+    "type": "issue",
+    "chapter_id": "PCI-CH-05",
+    "title": "Scientific claims across Chapters 5–8 lack independent literature synthesis",
+    "content": "Only primary source was studied; do not call any external research corroborated. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Only primary source was studied; do not call any external research corroborated.",
+    "severity": "medium",
+    "category": "evidence_backlog",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-020",
+    "type": "issue",
+    "chapter_id": "PCI-CH-08",
+    "title": "Some historical anecdotes and third-party quotations still lack independent corroboration",
+    "content": "Trace primary references and verify dates, people, and context in a later evidence stage. Open action: retain caution, verify independent sources if later required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-163",
+        "pdf_page": 163,
+        "printed_page": 153,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Trace primary references and verify dates, people, and context in a later evidence stage.",
+    "severity": "medium",
+    "category": "historical_source",
+    "status": "open",
+    "next_action": "Audit against named primary research before upgrading evidence status; maintain practical safety caveats.",
+    "owner": "PCI_research",
+    "created_at": "2026-11-19"
+  },
+  {
+    "id": "PCI-ISS-021",
+    "type": "issue",
+    "chapter_id": "PCI-CH-09",
+    "title": "Three Mile Island coffee-story causality",
+    "content": "A dramatic nuclear plant reference is included as illustration without traceable incident verification.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-165",
+        "pdf_page": 165,
+        "printed_page": 155,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "A dramatic nuclear plant reference is included as illustration without traceable incident verification.",
+    "category": "historical_verification",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-165",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-022",
+    "type": "issue",
+    "chapter_id": "PCI-CH-09",
+    "title": "Negative affect miscast as a failure mechanism",
+    "content": "Persistent depression and anxiety cannot safely be reduced to a self-help warning light.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Persistent depression and anxiety cannot safely be reduced to a self-help warning light.",
+    "category": "clinical_safety",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-166",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-023",
+    "type": "issue",
+    "chapter_id": "PCI-CH-09",
+    "title": "Printed page header inconsistency",
+    "content": "Physical PDF page 187 visibly prints chapter header number 171 though the logical printed-page position is 177; edition page index remains PDF minus 10.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-187",
+        "pdf_page": 187,
+        "printed_page": 177,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Physical PDF page 187 visibly prints chapter header number 171 though the logical printed-page position is 177; edition page index remains PDF minus 10.",
+    "category": "source_extraction",
+    "severity": "low",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-187",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-024",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Confrontational juvenile boot camps",
+    "content": "Source rhetoric treats extreme juvenile programs as emotional healing; may be harmful and unverified.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-196",
+        "pdf_page": 196,
+        "printed_page": 186,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Source rhetoric treats extreme juvenile programs as emotional healing; may be harmful and unverified.",
+    "category": "clinical_safety",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-196",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-025",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgiveness pressure and unsafe reconciliation",
+    "content": "Original text strongly asserts full forgiveness; application must prohibit compulsory forgiveness, contact or pressure on survivors.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-204",
+        "pdf_page": 204,
+        "printed_page": 194,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Original text strongly asserts full forgiveness; application must prohibit compulsory forgiveness, contact or pressure on survivors.",
+    "category": "ethical_safety",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-204",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-026",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Medical rejuvenation claims",
+    "content": "Multi-year younger appearance through emotional relief asserted without controlled clinical evidence.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Multi-year younger appearance through emotional relief asserted without controlled clinical evidence.",
+    "category": "medical_assertion",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-211",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-027",
+    "type": "issue",
+    "chapter_id": "PCI-CH-11",
+    "title": "Stuttering etiology oversimplification",
+    "content": "Speech fluency and family-label causation are not settled by historical anecdotes; clinical review required.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-216",
+        "pdf_page": 216,
+        "printed_page": 206,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Speech fluency and family-label causation are not settled by historical anecdotes; clinical review required.",
+    "category": "clinical_safety",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-216",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-028",
+    "type": "issue",
+    "chapter_id": "PCI-CH-11",
+    "title": "Disinhibition advice may be unsafe",
+    "content": "Act-before-think advice requires clear bounds on consent, danger, irreversible actions, and financial/legal decisions.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Act-before-think advice requires clear bounds on consent, danger, irreversible actions, and financial/legal decisions.",
+    "category": "ethical_safety",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-232",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-029",
+    "type": "issue",
+    "chapter_id": "PCI-CH-12",
+    "title": "Medication substitution rhetoric",
+    "content": "Book contrasts self-help routines with prescribed medicines; must never trigger unsupported discontinuation or avoidance of evidence-based care.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Book contrasts self-help routines with prescribed medicines; must never trigger unsupported discontinuation or avoidance of evidence-based care.",
+    "category": "clinical_safety",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-234",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-030",
+    "type": "issue",
+    "chapter_id": "PCI-CH-12",
+    "title": "Louganis reported 40 mental repetitions",
+    "content": "High-diver story is unverified externally and is not a universal training dose.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "High-diver story is unverified externally and is not a universal training dose.",
+    "category": "historical_verification",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-246",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-031",
+    "type": "issue",
+    "chapter_id": "PCI-CH-12",
+    "title": "Universal nonresponse theory",
+    "content": "“Impossible to feel disturbed” claims and other universal affect statements not validated by the PDF alone.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-249",
+        "pdf_page": 249,
+        "printed_page": 239,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "“Impossible to feel disturbed” claims and other universal affect statements not validated by the PDF alone.",
+    "category": "evidence_integrity",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-249",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-032",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Chapter 10 final schematic is a conceptual diagram",
+    "content": "The PDF 212 figure describes self-image guarding access to talents, abilities, skill, confidence and action; diagram is not independently proven and must not be mistaken for brain anatomy.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-212",
+        "pdf_page": 212,
+        "printed_page": 202,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "The PDF 212 figure describes self-image guarding access to talents, abilities, skill, confidence and action; diagram is not independently proven and must not be mistaken for brain anatomy.",
+    "category": "evidence_integrity",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI_research_Stage05",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-212",
+    "next_action": "Check independent evidence or relevant PDF page image; do not promote book attribution to evidence or run any risky exercise from this claim."
+  },
+  {
+    "id": "PCI-ISS-033",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Adaptation energy as physical life force",
+    "content": "Adaptation energy as physical life force. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Adaptation energy as physical life force",
+    "category": "scientific_verification_or_ethics",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-293",
+    "next_action": "Locate and critically assess Selye’s original scientific account and modern review."
+  },
+  {
+    "id": "PCI-ISS-034",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Placebo data and medical causal generalization",
+    "content": "Placebo data and medical causal generalization. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Placebo data and medical causal generalization",
+    "category": "scientific_verification_or_ethics",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-297",
+    "next_action": "Locate Canadian Navy and other cited trial reports; separate symptom response from disease treatment."
+  },
+  {
+    "id": "PCI-ISS-035",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Creative activity extends longevity",
+    "content": "Creative activity extends longevity. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Creative activity extends longevity",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-300",
+    "next_action": "Examine survivorship bias and cohort evidence; no lifespan promise."
+  },
+  {
+    "id": "PCI-ISS-036",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Lourdes miracle as medical evidence",
+    "content": "Lourdes miracle as medical evidence. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-303",
+        "pdf_page": 303,
+        "printed_page": 293,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Lourdes miracle as medical evidence",
+    "category": "scientific_verification_or_ethics",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-303",
+    "next_action": "Keep faith claim personal; no presumption of miraculous or medical cure without records."
+  },
+  {
+    "id": "PCI-ISS-037",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Jeanne Sanders muscular dystrophy cure narrative",
+    "content": "Jeanne Sanders muscular dystrophy cure narrative. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Jeanne Sanders muscular dystrophy cure narrative",
+    "category": "scientific_verification_or_ethics",
+    "severity": "critical",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-313",
+    "next_action": "Confirm medical attribution where possible; explicitly avoid suggesting psychological cure of muscular dystrophy."
+  },
+  {
+    "id": "PCI-ISS-038",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Rodeo team visualization efficacy",
+    "content": "Rodeo team visualization efficacy. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-311",
+        "pdf_page": 311,
+        "printed_page": 301,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Rodeo team visualization efficacy",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-311",
+    "next_action": "Separate physical conditioning, coaching, selection and imagery; verify external story if possible."
+  },
+  {
+    "id": "PCI-ISS-039",
+    "type": "issue",
+    "chapter_id": "PCI-CH-13",
+    "title": "Cognitive-map pressure causality",
+    "content": "Cognitive-map pressure causality. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-256",
+        "pdf_page": 256,
+        "printed_page": 246,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Cognitive-map pressure causality",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-256",
+    "next_action": "Check Tolman experiment and limits of generalizing rats to human pressure performance."
+  },
+  {
+    "id": "PCI-ISS-040",
+    "type": "issue",
+    "chapter_id": "PCI-CH-13",
+    "title": "Gun dry-fire anecdote and training safety",
+    "content": "Gun dry-fire anecdote and training safety. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-260",
+        "pdf_page": 260,
+        "printed_page": 250,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Gun dry-fire anecdote and training safety",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-260",
+    "next_action": "Preserve only as historical description and keep firearms instruction out of PCI app."
+  },
+  {
+    "id": "PCI-ISS-041",
+    "type": "issue",
+    "chapter_id": "PCI-CH-14",
+    "title": "Engram neuroscience model requires revision",
+    "content": "Engram neuroscience model requires revision. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-279",
+        "pdf_page": 279,
+        "printed_page": 269,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Engram neuroscience model requires revision",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-279",
+    "next_action": "Assess historical neural memory metaphor against modern neuroscience before release."
+  },
+  {
+    "id": "PCI-ISS-042",
+    "type": "issue",
+    "chapter_id": "PCI-CH-14",
+    "title": "Winning feeling guarantees victory rhetoric",
+    "content": "Winning feeling guarantees victory rhetoric. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Winning feeling guarantees victory rhetoric",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-273",
+    "next_action": "Flag contradictory internal claims about prediction and mechanism."
+  },
+  {
+    "id": "PCI-ISS-043",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Age and gender stereotypes",
+    "content": "Age and gender stereotypes. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Age and gender stereotypes",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-300",
+    "next_action": "Review cultural bias in claims about women aging after leaving competition."
+  },
+  {
+    "id": "PCI-ISS-044",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Suicidality appearing in testimonial",
+    "content": "Suicidality appearing in testimonial. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-309",
+        "pdf_page": 309,
+        "printed_page": 299,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Suicidality appearing in testimonial",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-309",
+    "next_action": "Ensure interactive exercises do not invite unsupported clinical interpretation or exposure to sensitive autobiography."
+  },
+  {
+    "id": "PCI-ISS-045",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Medical care versus spiritual care distinction",
+    "content": "Medical care versus spiritual care distinction. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-304",
+        "pdf_page": 304,
+        "printed_page": 294,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Medical care versus spiritual care distinction",
+    "category": "scientific_verification_or_ethics",
+    "severity": "major",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-304",
+    "next_action": "Preserve author’s rejection of treatment refusal while reviewing equivalence claims."
+  },
+  {
+    "id": "PCI-ISS-046",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Unverified named biographies",
+    "content": "Unverified named biographies. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-307",
+        "pdf_page": 307,
+        "printed_page": 297,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Unverified named biographies",
+    "category": "scientific_verification_or_ethics",
+    "severity": "minor",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-307",
+    "next_action": "Check publicly verifiable facts and degrees only as needed in Stage 05."
+  },
+  {
+    "id": "PCI-ISS-047",
+    "type": "issue",
+    "chapter_id": "PCI-CH-13",
+    "title": "Future perspective not universal for trauma",
+    "content": "Future perspective not universal for trauma. Source issue pending Stage 05 evidence/ethics review; no silently presumed truth.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Future perspective not universal for trauma",
+    "category": "scientific_verification_or_ethics",
+    "severity": "minor",
+    "status": "open",
+    "owner": "PCI Stage05 evidence and ethics audit",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-270",
+    "next_action": "Restrict optional adaptation to mild ordinary stressors; preserve immediate safety actions."
+  },
+  {
+    "id": "PCI-ISS-048",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "Cross-stage section representations differ",
+    "content": "Section metadata mixes inline nested records, freeform label dictionaries, and section_id pointers. The canonical output preserves original chapters and supplies a normalized app section view; its normalization is not equivalent to fresh source verification.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [],
+    "description": "Section metadata mixes inline nested records, freeform label dictionaries, and section_id pointers. The canonical output preserves original chapters and supplies a normalized app section view; its normalization is not equivalent to fresh source verification.",
+    "category": "data_integrity_or_evidence",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": null,
+    "next_action": "Stage 06 consume normalized derived sections; Stage 05 keeps original source records."
+  },
+  {
+    "id": "PCI-ISS-049",
+    "type": "issue",
+    "chapter_id": "PCI-CH-05",
+    "title": "Chapter 5-12 subsection review statuses conflict with substantive coverage labels",
+    "content": "Stage04 full-book coverage has sections_review_status NOT_REVIEWED_CANDIDATES for Chapters 05–12 despite substantive research dossiers. Subsection-boundary certainty and deep-coverage claims must not be conflated.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Stage04 full-book coverage has sections_review_status NOT_REVIEWED_CANDIDATES for Chapters 05–12 despite substantive research dossiers. Subsection-boundary certainty and deep-coverage claims must not be conflated.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-092",
+    "next_action": "Recheck each titled subsection against PDF in Stage 07; preserve substantive dossier status with an explicit uncertainty."
+  },
+  {
+    "id": "PCI-ISS-050",
+    "type": "issue",
+    "chapter_id": "PCI-CH-01",
+    "title": "Source-page geometry cannot prove semantic claim accuracy",
+    "content": "Earlier validators check page bounds and source IDs, not whether every source-based paraphrase is semantically exact. Stage05 manually checks a limited number of actual pages.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Earlier validators check page bounds and source IDs, not whether every source-based paraphrase is semantically exact. Stage05 manually checks a limited number of actual pages.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-013",
+    "next_action": "Perform targeted source-level audit for higher-stakes concepts; independently sample claims in Stage 07."
+  },
+  {
+    "id": "PCI-ISS-051",
+    "type": "issue",
+    "chapter_id": "PCI-CH-16",
+    "title": "Anecdotes and testimonials require external substantiation",
+    "content": "Chapter16 experiences remain self-reported book narratives. They cannot be used as causal efficacy proof.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-307",
+        "pdf_page": 307,
+        "printed_page": 297,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Chapter16 experiences remain self-reported book narratives. They cannot be used as causal efficacy proof.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-307",
+    "next_action": "Mark testimonial provenance in every app presentation; retain external_not_assessed until reviewed."
+  },
+  {
+    "id": "PCI-ISS-052",
+    "type": "issue",
+    "chapter_id": "PCI-CH-15",
+    "title": "Aging, medical and recovery extrapolations require separate evidence review",
+    "content": "Claims about aging, biological recovery, psychosomatic mechanisms, and longevity are not established by their presence in the PDF.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-290",
+        "pdf_page": 290,
+        "printed_page": 280,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "Claims about aging, biological recovery, psychosomatic mechanisms, and longevity are not established by their presence in the PDF.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-290",
+    "next_action": "Prioritize independent systematic reviews and current medical guidance before writing prescriptive app copy."
+  },
+  {
+    "id": "PCI-ISS-053",
+    "type": "issue",
+    "chapter_id": "PCI-CH-02",
+    "title": "ESP claim and neuroimaging-review inference require separation",
+    "content": "A 2026 review of ESP neuroimaging literature exists, but reviewing inconsistent studies is not proof that telepathy, precognition, or access to a universal mind is real.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "A 2026 review of ESP neuroimaging literature exists, but reviewing inconsistent studies is not proof that telepathy, precognition, or access to a universal mind is real.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-045",
+    "next_action": "Retain paranormal statements strictly as attributed book assertions and explicitly display an evidence caveat."
+  },
+  {
+    "id": "PCI-ISS-054",
+    "type": "issue",
+    "chapter_id": null,
+    "title": "External research references have incomplete bibliographic metadata",
+    "content": "Stage01 has four URLs/DOIs whose destinations can be found, but the source records are provisional and do not consistently contain author list, date, or appraisal methodology.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [],
+    "description": "Stage01 has four URLs/DOIs whose destinations can be found, but the source records are provisional and do not consistently contain author list, date, or appraisal methodology.",
+    "category": "data_integrity_or_evidence",
+    "severity": "medium",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": null,
+    "next_action": "Complete primary literature appraisal and contributor metadata before elevating evidence status."
+  },
+  {
+    "id": "PCI-ISS-055",
+    "type": "issue",
+    "chapter_id": "PCI-CH-10",
+    "title": "Original practices are distinct from optional PCI activities",
+    "content": "The 70 book-practice records include contributor-attribution uncertainty and different durations; no standard 21-day schedule applies to all practices.",
+    "source_type": "architectural_record",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage05 additive issue record; inherited issues untouched"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "description": "The 70 book-practice records include contributor-attribution uncertainty and different durations; no standard 21-day schedule applies to all practices.",
+    "category": "data_integrity_or_evidence",
+    "severity": "high",
+    "status": "open",
+    "owner": "PCI Stage06 / Stage07 QA",
+    "created_at": "2026-11-20",
+    "source_ref_id": "PCI-SRC-PDF-190",
+    "next_action": "Stage06 use full-book practice index, preserve timing unknown and origin, and enforce opt-out/privacy protections."
+  }
+]

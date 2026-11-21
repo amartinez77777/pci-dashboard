@@ -1,0 +1,62 @@
+[
+  {
+    "name": "asset",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 34,\n  \"failed\": 0\n}\n"
+  },
+  {
+    "name": "vault",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\"status\": \"PASS\", \"passed\": 17, \"failed\": 0}\n"
+  },
+  {
+    "name": "stage10",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 34,\n  \"failed\": 0\n}\n"
+  },
+  {
+    "name": "stage11",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 45,\n  \"failed\": 0\n}\n"
+  },
+  {
+    "name": "stage12",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\n  \"status\": \"PASS\",\n  \"passed\": 38,\n  \"failed\": 0\n}\n"
+  },
+  {
+    "name": "checkpoint1",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "{\"status\": \"PASS\", \"passed\": 42, \"failed\": 0}\n"
+  },
+  {
+    "name": "checkpoint2",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "CHECKPOINT2 AUDIT PASS 11 PASS 0 FAIL\n"
+  },
+  {
+    "name": "checkpoint3",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "CP3 SOURCE PASS 9 PASS 0 FAIL\n"
+  },
+  {
+    "name": "checkpoint4",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "CP4 SOURCE PASS 11 PASS 0 FAIL\n"
+  },
+  {
+    "name": "research",
+    "status": "PASS",
+    "exit": 0,
+    "output_tail": "\n    \"activities\": 32,\n    \"scenarios\": 16,\n    \"relationships\": 109,\n    \"book_practices\": 70,\n    \"curriculum_days\": 21\n  },\n  \"field_distribution\": {\n    \"conditions_and_limits\": {\n      \"unique\": 201,\n      \"largest_repeated_group\": 1\n    },\n    \"ethical_clinical_cautions\": {\n      \"unique\": 201,\n      \"largest_repeated_group\": 1\n    },\n    \"common_misreading\": {\n      \"unique\": 4,\n      \"largest_repeated_group\": 59\n    },\n    \"alternative_explanation\": {\n      \"unique\": 93,\n      \"largest_repeated_group\": 52\n    }\n  },\n  \"same_cautions\": 201,\n  \"link_errors\": 0,\n  \"priority_review\": 16\n}\n"
+  }
+]

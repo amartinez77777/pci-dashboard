@@ -1,0 +1,114 @@
+[
+  {
+    "id": "PCI-FB-001",
+    "record_type": "feedback_pattern",
+    "schema_version": "1.0.0",
+    "title": "Evidence and interpretation",
+    "purpose": "Compare a factual record with interpretations and alternatives.",
+    "ordered_fields": [
+      "situation",
+      "fact_vs_interpretation",
+      "reasoning_choice"
+    ],
+    "feedback_text": "Check the difference between facts and conclusions; no hidden thought or personality state is inferred.",
+    "engine": "deterministic_nonsemantic",
+    "no_ai_assessment": true,
+    "no_diagnostic_score": true,
+    "privacy_default": "private_future_storage",
+    "source_type": "PCI_original_adaptation",
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-FB-002",
+    "record_type": "feedback_pattern",
+    "schema_version": "1.0.0",
+    "title": "Goal to feedback",
+    "purpose": "Create a small action and compare predicted and observed results.",
+    "ordered_fields": [
+      "situation",
+      "bounded_plan",
+      "observation_mode"
+    ],
+    "feedback_text": "A completed action can be noted, but its outcome does not prove the book’s causal theory.",
+    "engine": "deterministic_nonsemantic",
+    "no_ai_assessment": true,
+    "no_diagnostic_score": true,
+    "privacy_default": "private_future_storage",
+    "source_type": "PCI_original_adaptation",
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-FB-003",
+    "record_type": "feedback_pattern",
+    "schema_version": "1.0.0",
+    "title": "Rehearsal to transfer",
+    "purpose": "Translate mental rehearsal into an optional real-world preparation step.",
+    "ordered_fields": [
+      "scene_goal",
+      "steps_done",
+      "real_world_action"
+    ],
+    "feedback_text": "Rehearsal is preparation, not a substitute for physical practice or consent.",
+    "engine": "deterministic_nonsemantic",
+    "no_ai_assessment": true,
+    "no_diagnostic_score": true,
+    "privacy_default": "private_future_storage",
+    "source_type": "PCI_original_adaptation",
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-FB-004",
+    "record_type": "feedback_pattern",
+    "schema_version": "1.0.0",
+    "title": "Scenario tradeoff",
+    "purpose": "Display the selected path and its possible downsides without grading people.",
+    "ordered_fields": [
+      "scenario_id",
+      "path",
+      "reflections"
+    ],
+    "feedback_text": "Different reasonable choices may have different costs depending on circumstances.",
+    "engine": "deterministic_nonsemantic",
+    "no_ai_assessment": true,
+    "no_diagnostic_score": true,
+    "privacy_default": "private_future_storage",
+    "source_type": "PCI_original_adaptation",
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  },
+  {
+    "id": "PCI-FB-005",
+    "record_type": "feedback_pattern",
+    "schema_version": "1.0.0",
+    "title": "Small revision loop",
+    "purpose": "Record a testable hypothesis, a boundary, an observed result and a revision.",
+    "ordered_fields": [
+      "goal",
+      "hypothesis",
+      "action",
+      "observation",
+      "revision"
+    ],
+    "feedback_text": "Revise the plan in proportion to the evidence; external constraints also matter.",
+    "engine": "deterministic_nonsemantic",
+    "no_ai_assessment": true,
+    "no_diagnostic_score": true,
+    "privacy_default": "private_future_storage",
+    "source_type": "PCI_original_adaptation",
+    "revision": {
+      "version": 1,
+      "recorded_at": "2026-11-20"
+    }
+  }
+]

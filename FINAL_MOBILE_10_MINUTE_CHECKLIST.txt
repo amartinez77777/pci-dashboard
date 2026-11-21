@@ -1,0 +1,18 @@
+PCI — 10-MINUTE iPHONE ACCEPTANCE CHECKLIST
+STATUS: NOT TESTED. Run only after a genuine React 18/Vite production dist is built and served from an HTTPS URL.
+Do not use the React16 dist-static compatibility harness as production proof.
+
+0:00–1:00 | Open the deployed HTTPS URL in iPhone Safari (normal mode), not a local ZIP. Check the page fully loads. Navigate the hamburger menu; verify all 10 module labels.
+1:00–2:00 | Knowledge Vault: search "self-image", open a concept, check citation drawer PDF page versus printed page, and use Safari Back.
+2:00–3:00 | Self-Image or Belief Studio: start a note, then tap another module. Cancel the discard prompt and confirm your words remain. Save the record locally.
+3:00–4:00 | Theater: use 2 different templates or saved scenes; confirm phase instructions differ. Start/Next/Pause/Resume. Let a manual phase exceed its suggested duration and verify it does not advance.
+4:00–5:00 | Conditioning: start 1 short practice, finish intentionally; check it appears in its local session history. Confirm no imaginary progress was prefilled.
+5:00–6:00 | Feedback: save a goal and prediction, then separately record an observed outcome. Confirm the 2 fields remain distinct after opening the item again.
+6:00–7:00 | Academy: open Day 1 and explicitly complete or skip; confirm Day 2 does not unlock merely from opening a linked exercise. Observe a review reason.
+7:00–8:00 | Scenario Simulator + Archive: complete a small branch and write a reflection. Find both by category/your title; sensitive entries should be concealed until explicitly revealed.
+8:00–9:00 | Refresh Safari and revisit all saved items. Export the JSON backup, verifying the UI warns that the file is unencrypted. Store in a secure user-controlled location; import only a synthetic test backup and check duplicate IDs are skipped.
+9:00–10:00 | Verify layout in portrait at default and larger Safari text size, no sideways scroll or clipped Save/Cancel. Check VoiceOver labels if available. Close Safari and reopen the same HTTPS URL to confirm local persistence.
+
+REPORT FOR EACH CHECK: PASS / FAIL / NOT_TESTED, URL, iOS version, Safari version, steps to reproduce, and whether an actual record survived reload. If records disappear, stop release. iOS private browsing / clearing site data may remove local IndexedDB.
+
+No accounts, cloud sync, live AI or encrypted backups are provided. Do not put real sensitive entries in test screenshots or public bug reports.

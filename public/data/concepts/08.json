@@ -1,0 +1,808 @@
+[
+  {
+    "id": "PCI-C-CH08-001",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Role transition can unsettle identity",
+    "content": "New responsibility may unsettle the picture a person holds of being competent even after objective success. An employee shifts from pursuing a desired promotion to worrying about fitting others’ expectations; the chapter calls for a new self-image.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-145",
+        "pdf_page": 145,
+        "printed_page": 135,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "New responsibility may unsettle the picture a person holds of being competent even after objective success.",
+    "terms": {
+      "primary": "Role transition can unsettle identity",
+      "definition": "New responsibility may unsettle the picture a person holds of being competent even after objective success."
+    },
+    "author_mechanism": "An employee shifts from pursuing a desired promotion to worrying about fitting others’ expectations; the chapter calls for a new self-image.",
+    "conditions_and_limits": "Not all role anxiety is internal; training, workload and workplace culture also matter.",
+    "application": "After a role change write responsibilities you can verify, skills you already hold and one skill to acquire.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Impostor-like uncertainty, poor onboarding or unfamiliar performance criteria are plausible contributors.",
+    "ethical_clinical_cautions": "Not all role anxiety is internal; training, workload and workplace culture also matter.",
+    "substantive_paraphrase": "New responsibility may unsettle the picture a person holds of being competent even after objective success. As presented in Chapter 8, An employee shifts from pursuing a desired promotion to worrying about fitting others’ expectations; the chapter calls for a new self-image. The text illustrates this idea through a recently promoted executive questions whether he looks or belongs like an executive. A limited, realistic application is to after a role change write responsibilities you can verify, skills you already hold and one skill to acquire. However, not all role anxiety is internal; training, workload and workplace culture also matter. An alternative interpretation is that impostor-like uncertainty, poor onboarding or unfamiliar performance criteria are plausible contributors. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A recently promoted executive questions whether he looks or belongs like an executive.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-001"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-001",
+      "PCI-EX-CH08-002"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH01-001"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-002",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "The seven-part SUCCESS mnemonic",
+    "content": "The chapter organizes its preferred “success-type” personality into direction, understanding, courage, charity, esteem, confidence and acceptance. The mnemonic is a pedagogical classification for seven attitudes and habits, not a validated personality test or clinical typology.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-146",
+        "pdf_page": 146,
+        "printed_page": 136,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The chapter organizes its preferred “success-type” personality into direction, understanding, courage, charity, esteem, confidence and acceptance.",
+    "terms": {
+      "primary": "The seven-part SUCCESS mnemonic",
+      "definition": "The chapter organizes its preferred “success-type” personality into direction, understanding, courage, charity, esteem, confidence and acceptance."
+    },
+    "author_mechanism": "The mnemonic is a pedagogical classification for seven attitudes and habits, not a validated personality test or clinical typology.",
+    "conditions_and_limits": "Do not assign a diagnostic success/failure score or turn traits into moral grades.",
+    "application": "Choose 1 category, define one observable action, and test it before selecting another.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Many other combinations of resources, skills and circumstances support achievement.",
+    "ethical_clinical_cautions": "Do not assign a diagnostic success/failure score or turn traits into moral grades.",
+    "substantive_paraphrase": "The chapter organizes its preferred “success-type” personality into direction, understanding, courage, charity, esteem, confidence and acceptance. As presented in Chapter 8, The mnemonic is a pedagogical classification for seven attitudes and habits, not a validated personality test or clinical typology. The text illustrates this idea through the word SUCCESS introduces the successive chapter sections. A limited, realistic application is to choose 1 category, define one observable action, and test it before selecting another. However, do not assign a diagnostic success/failure score or turn traits into moral grades. An alternative interpretation is that many other combinations of resources, skills and circumstances support achievement. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The word SUCCESS introduces the successive chapter sections.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-002"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-001",
+      "PCI-EX-CH08-002"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-001"
+    ],
+    "related_concept_ids": [],
+    "evidence_assessment_ids": [
+      "PCI-EA-021"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-003",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Sense of direction after a goal",
+    "content": "The author argues that goal-oriented movement matters even after a major achievement has been secured. A forward-looking personal project renews attention beyond protection of current status; the bicycle metaphor illustrates this.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author argues that goal-oriented movement matters even after a major achievement has been secured.",
+    "terms": {
+      "primary": "Sense of direction after a goal",
+      "definition": "The author argues that goal-oriented movement matters even after a major achievement has been secured."
+    },
+    "author_mechanism": "A forward-looking personal project renews attention beyond protection of current status; the bicycle metaphor illustrates this.",
+    "conditions_and_limits": "The book’s claim that retirement or lack of goals causes death is unsupported and must not be repeated as fact.",
+    "application": "After reaching a milestone identify a next meaningful and feasible project, including a nonselfish objective.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Purpose, routine, social connection, rest and health interact.",
+    "ethical_clinical_cautions": "The book’s claim that retirement or lack of goals causes death is unsupported and must not be repeated as fact.",
+    "substantive_paraphrase": "The author argues that goal-oriented movement matters even after a major achievement has been secured. As presented in Chapter 8, A forward-looking personal project renews attention beyond protection of current status; the bicycle metaphor illustrates this. The text illustrates this idea through the promoted executive recovers direction after setting goals within his new position. A limited, realistic application is to after reaching a milestone identify a next meaningful and feasible project, including a nonselfish objective. However, the book’s claim that retirement or lack of goals causes death is unsupported and must not be repeated as fact. An alternative interpretation is that purpose, routine, social connection, rest and health interact. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The promoted executive recovers direction after setting goals within his new position.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-003"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-003"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-001"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH02-002"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-021"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-004",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Understanding others and separating facts from opinion",
+    "content": "The source urges interpreting others’ actions from their vantage point rather than assuming malice. Conflicting interpretations of the same event can intensify conflict; checking facts can permit a calmer response.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-148",
+        "pdf_page": 148,
+        "printed_page": 138,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The source urges interpreting others’ actions from their vantage point rather than assuming malice.",
+    "terms": {
+      "primary": "Understanding others and separating facts from opinion",
+      "definition": "The source urges interpreting others’ actions from their vantage point rather than assuming malice."
+    },
+    "author_mechanism": "Conflicting interpretations of the same event can intensify conflict; checking facts can permit a calmer response.",
+    "conditions_and_limits": "Perspective-taking does not require excusing abuse or giving others unlimited benefit of the doubt.",
+    "application": "For a disagreement write observed behavior, your guess, and one respectful clarifying question.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Miscommunication, conflict of interest and contextual pressures may all be relevant.",
+    "ethical_clinical_cautions": "Perspective-taking does not require excusing abuse or giving others unlimited benefit of the doubt.",
+    "substantive_paraphrase": "The source urges interpreting others’ actions from their vantage point rather than assuming malice. As presented in Chapter 8, Conflicting interpretations of the same event can intensify conflict; checking facts can permit a calmer response. The text illustrates this idea through the chapter contrasts a husband’s mannerism with a spouse’s conclusion that it was deliberate disrespect. A limited, realistic application is to for a disagreement write observed behavior, your guess, and one respectful clarifying question. However, perspective-taking does not require excusing abuse or giving others unlimited benefit of the doubt. An alternative interpretation is that miscommunication, conflict of interest and contextual pressures may all be relevant. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The chapter contrasts a husband’s mannerism with a spouse’s conclusion that it was deliberate disrespect.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-004"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-003",
+      "PCI-EX-CH08-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-001",
+      "PCI-AP-CH08-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH07-006"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-021"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-005",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Truthful negative feedback without identity collapse",
+    "content": "The author advocates seeking accurate information, admitting mistakes and separating errors from personal worth. Feedback can correct action more efficiently when it is not received as proof that the entire self is a failure.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author advocates seeking accurate information, admitting mistakes and separating errors from personal worth.",
+    "terms": {
+      "primary": "Truthful negative feedback without identity collapse",
+      "definition": "The author advocates seeking accurate information, admitting mistakes and separating errors from personal worth."
+    },
+    "author_mechanism": "Feedback can correct action more efficiently when it is not received as proof that the entire self is a failure.",
+    "conditions_and_limits": "This does not absolve harm, excuse dishonesty or remove the need for repair.",
+    "application": "Ask for one specific critique, verify it, and implement a reversible change.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Growth-oriented feedback and psychological safety may underlie improvement.",
+    "ethical_clinical_cautions": "This does not absolve harm, excuse dishonesty or remove the need for repair.",
+    "substantive_paraphrase": "The author advocates seeking accurate information, admitting mistakes and separating errors from personal worth. As presented in Chapter 8, Feedback can correct action more efficiently when it is not received as proof that the entire self is a failure. The text illustrates this idea through a CEO says neither an excellent decision nor a bad one defines his entire character. A limited, realistic application is to ask for one specific critique, verify it, and implement a reversible change. However, this does not absolve harm, excuse dishonesty or remove the need for repair. An alternative interpretation is that growth-oriented feedback and psychological safety may underlie improvement. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A CEO says neither an excellent decision nor a bad one defines his entire character.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-005"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-003",
+      "PCI-EX-CH08-004"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-002"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH02-005"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-006",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Everyday courage as calculated action",
+    "content": "Courage is framed as acting with uncertainty after examining options, not as the absence of fear. The decision-maker compares reasonable paths, chooses one, and uses later feedback to adjust course.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Courage is framed as acting with uncertainty after examining options, not as the absence of fear.",
+    "terms": {
+      "primary": "Everyday courage as calculated action",
+      "definition": "Courage is framed as acting with uncertainty after examining options, not as the absence of fear."
+    },
+    "author_mechanism": "The decision-maker compares reasonable paths, chooses one, and uses later feedback to adjust course.",
+    "conditions_and_limits": "Do not encourage hazardous decisions or act outside one’s scope of competence.",
+    "application": "Select a low-risk avoided conversation, plan safety and likely consequences, then attempt it.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Practical preparation and graded exposure could matter more than a purported servo mechanism.",
+    "ethical_clinical_cautions": "Do not encourage hazardous decisions or act outside one’s scope of competence.",
+    "substantive_paraphrase": "Courage is framed as acting with uncertainty after examining options, not as the absence of fear. As presented in Chapter 8, The decision-maker compares reasonable paths, chooses one, and uses later feedback to adjust course. The text illustrates this idea through the book compares strategic decisions with leadership and everyday assertiveness. A limited, realistic application is to select a low-risk avoided conversation, plan safety and likely consequences, then attempt it. However, do not encourage hazardous decisions or act outside one’s scope of competence. An alternative interpretation is that practical preparation and graded exposure could matter more than a purported servo mechanism. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The book compares strategic decisions with leadership and everyday assertiveness.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-006"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-004",
+      "PCI-EX-CH08-005"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-002",
+      "PCI-AP-CH08-003"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-009"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-007",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Charity as respect for other people",
+    "content": "The text connects regard for others with a less harsh appraisal of oneself. Treating others with dignity is portrayed as strengthening reciprocal esteem and reducing condemnation.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The text connects regard for others with a less harsh appraisal of oneself.",
+    "terms": {
+      "primary": "Charity as respect for other people",
+      "definition": "The text connects regard for others with a less harsh appraisal of oneself."
+    },
+    "author_mechanism": "Treating others with dignity is portrayed as strengthening reciprocal esteem and reducing condemnation.",
+    "conditions_and_limits": "Universal respect does not eliminate boundaries or require enduring mistreatment.",
+    "application": "In one conversation ask about the other person’s needs and respond respectfully without expecting a favor.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Prosocial values and relationships may jointly influence self-regard.",
+    "ethical_clinical_cautions": "Universal respect does not eliminate boundaries or require enduring mistreatment.",
+    "substantive_paraphrase": "The text connects regard for others with a less harsh appraisal of oneself. As presented in Chapter 8, Treating others with dignity is portrayed as strengthening reciprocal esteem and reducing condemnation. The text illustrates this idea through the chapter discusses rushed service interactions and respect as nontransactional. A limited, realistic application is to in one conversation ask about the other person’s needs and respond respectfully without expecting a favor. However, universal respect does not eliminate boundaries or require enduring mistreatment. An alternative interpretation is that prosocial values and relationships may jointly influence self-regard. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The chapter discusses rushed service interactions and respect as nontransactional.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-007"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH08-003",
+      "PCI-AP-CH08-004"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH07-003"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-022"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-008",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Internal criticism and self-esteem",
+    "content": "The author personifies a harsh internal critic and advises consciously challenging its global accusations. The technique externalizes a discouraging thought to make it answerable with specific evidence.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-154",
+        "pdf_page": 154,
+        "printed_page": 144,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The author personifies a harsh internal critic and advises consciously challenging its global accusations.",
+    "terms": {
+      "primary": "Internal criticism and self-esteem",
+      "definition": "The author personifies a harsh internal critic and advises consciously challenging its global accusations."
+    },
+    "author_mechanism": "The technique externalizes a discouraging thought to make it answerable with specific evidence.",
+    "conditions_and_limits": "Do not treat intrusive thoughts or serious mental-health symptoms as something to shame or shout away.",
+    "application": "Write the exact criticism, identify its exaggeration, and answer with facts and a constructive next action.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Self-talk, compassionate reframing and social support may be relevant.",
+    "ethical_clinical_cautions": "Do not treat intrusive thoughts or serious mental-health symptoms as something to shame or shout away.",
+    "substantive_paraphrase": "The author personifies a harsh internal critic and advises consciously challenging its global accusations. As presented in Chapter 8, The technique externalizes a discouraging thought to make it answerable with specific evidence. The text illustrates this idea through the book cites Mary-Elaine Jacobsen and depicts an interview where the author imagines challenging his critic. A limited, realistic application is to write the exact criticism, identify its exaggeration, and answer with facts and a constructive next action. However, do not treat intrusive thoughts or serious mental-health symptoms as something to shame or shout away. An alternative interpretation is that self-talk, compassionate reframing and social support may be relevant. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The book cites Mary-Elaine Jacobsen and depicts an interview where the author imagines challenging his critic.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-008"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH08-004",
+      "PCI-AP-CH08-005"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-007"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-009",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Build confidence from graded mastery",
+    "content": "The source recommends small achievable trials and remembering genuine wins rather than replaying failures. Actual successful attempts provide feedback that can increase willingness to undertake harder work.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-156",
+        "pdf_page": 156,
+        "printed_page": 146,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The source recommends small achievable trials and remembering genuine wins rather than replaying failures.",
+    "terms": {
+      "primary": "Build confidence from graded mastery",
+      "definition": "The source recommends small achievable trials and remembering genuine wins rather than replaying failures."
+    },
+    "author_mechanism": "Actual successful attempts provide feedback that can increase willingness to undertake harder work.",
+    "conditions_and_limits": "Failure can carry information; wholesale forgetting can prevent needed learning.",
+    "application": "Create a skill ladder with a small first trial, success criteria, and a review of errors plus wins.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Repeated practice, coaching and self-efficacy may explain outcomes.",
+    "ethical_clinical_cautions": "Failure can carry information; wholesale forgetting can prevent needed learning.",
+    "substantive_paraphrase": "The source recommends small achievable trials and remembering genuine wins rather than replaying failures. As presented in Chapter 8, Actual successful attempts provide feedback that can increase willingness to undertake harder work. The text illustrates this idea through the chapter mentions boxers matched progressively and the horseshoe-pitching analogy. A limited, realistic application is to create a skill ladder with a small first trial, success criteria, and a review of errors plus wins. However, failure can carry information; wholesale forgetting can prevent needed learning. An alternative interpretation is that repeated practice, coaching and self-efficacy may explain outcomes. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The chapter mentions boxers matched progressively and the horseshoe-pitching analogy.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-009"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-006"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-005",
+      "PCI-AP-CH08-006"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-005"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-010",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Accept yourself while correcting behavior",
+    "content": "Self-acceptance is distinguished from pretending to have no weaknesses or from refusing growth. A person can acknowledge shortcomings as changeable behavior while regarding the self as worthy.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-158",
+        "pdf_page": 158,
+        "printed_page": 148,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "Self-acceptance is distinguished from pretending to have no weaknesses or from refusing growth.",
+    "terms": {
+      "primary": "Accept yourself while correcting behavior",
+      "definition": "Self-acceptance is distinguished from pretending to have no weaknesses or from refusing growth."
+    },
+    "author_mechanism": "A person can acknowledge shortcomings as changeable behavior while regarding the self as worthy.",
+    "conditions_and_limits": "Avoid implying acceptance alone treats depression, eating disorders or addiction.",
+    "application": "Name one strength and one genuine mistake; plan to address the behavior without a self-attack.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Compassionate self-evaluation and supportive conditions may support improvement.",
+    "ethical_clinical_cautions": "Avoid implying acceptance alone treats depression, eating disorders or addiction.",
+    "substantive_paraphrase": "Self-acceptance is distinguished from pretending to have no weaknesses or from refusing growth. As presented in Chapter 8, A person can acknowledge shortcomings as changeable behavior while regarding the self as worthy. The text illustrates this idea through the author distinguishes real self, actual expressed self and mistaken identity with errors. A limited, realistic application is to name one strength and one genuine mistake; plan to address the behavior without a self-attack. However, avoid implying acceptance alone treats depression, eating disorders or addiction. An alternative interpretation is that compassionate self-evaluation and supportive conditions may support improvement. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The author distinguishes real self, actual expressed self and mistaken identity with errors.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-010"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH08-006",
+      "PCI-AP-CH08-007"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH01-007"
+    ],
+    "evidence_assessment_ids": []
+  },
+  {
+    "id": "PCI-C-CH08-011",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Reject externally imposed identity rankings",
+    "content": "The book warns against judging one’s worth by changing appearance trends, wealth and comparisons. Comparison with an external and volatile ideal may produce shame that obstructs helpful action.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The book warns against judging one’s worth by changing appearance trends, wealth and comparisons.",
+    "terms": {
+      "primary": "Reject externally imposed identity rankings",
+      "definition": "The book warns against judging one’s worth by changing appearance trends, wealth and comparisons."
+    },
+    "author_mechanism": "Comparison with an external and volatile ideal may produce shame that obstructs helpful action.",
+    "conditions_and_limits": "Eating disorders require clinical care; do not reduce them to self-image alone.",
+    "application": "Identify one comparison standard, test its relevance, and use a value-based benchmark instead.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Social norms, media, relationships, biological and clinical factors matter.",
+    "ethical_clinical_cautions": "Eating disorders require clinical care; do not reduce them to self-image alone.",
+    "substantive_paraphrase": "The book warns against judging one’s worth by changing appearance trends, wealth and comparisons. As presented in Chapter 8, Comparison with an external and volatile ideal may produce shame that obstructs helpful action. The text illustrates this idea through the text contrasts fashion eras and discusses extreme body-image harm. A limited, realistic application is to identify one comparison standard, test its relevance, and use a value-based benchmark instead. However, eating disorders require clinical care; do not reduce them to self-image alone. An alternative interpretation is that social norms, media, relationships, biological and clinical factors matter. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "The text contrasts fashion eras and discusses extreme body-image harm.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-011"
+    ],
+    "case_ids": [],
+    "practice_ids": [
+      "PCI-AP-CH08-007"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH04-008"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-023",
+      "PCI-EA-024"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-012",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Adversity Quotient as a source-attributed construct",
+    "content": "The revised text invokes Paul Stoltz’s proprietary AQ framework to discuss controllability, blame and duration of adversity. It presents three proposed orientations: avoiding indiscriminate blame of others, avoiding personal worthlessness, and believing a problem has limits.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-162",
+        "pdf_page": 162,
+        "printed_page": 152,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The revised text invokes Paul Stoltz’s proprietary AQ framework to discuss controllability, blame and duration of adversity.",
+    "terms": {
+      "primary": "Adversity Quotient as a source-attributed construct",
+      "definition": "The revised text invokes Paul Stoltz’s proprietary AQ framework to discuss controllability, blame and duration of adversity."
+    },
+    "author_mechanism": "It presents three proposed orientations: avoiding indiscriminate blame of others, avoiding personal worthlessness, and believing a problem has limits.",
+    "conditions_and_limits": "Do not claim AQ is a validated PCI trait score or that serious illness can be overcome through optimism.",
+    "application": "For one setback distinguish responsibility, available choices and factors outside control.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Coping resources, health status and support may affect both responses and outcomes.",
+    "ethical_clinical_cautions": "Do not claim AQ is a validated PCI trait score or that serious illness can be overcome through optimism.",
+    "substantive_paraphrase": "The revised text invokes Paul Stoltz’s proprietary AQ framework to discuss controllability, blame and duration of adversity. As presented in Chapter 8, It presents three proposed orientations: avoiding indiscriminate blame of others, avoiding personal worthlessness, and believing a problem has limits. The text illustrates this idea through stoltz’s reported work and examples of Elizabeth Taylor and Christopher Reeve are cited without independent review. A limited, realistic application is to for one setback distinguish responsibility, available choices and factors outside control. However, do not claim AQ is a validated PCI trait score or that serious illness can be overcome through optimism. An alternative interpretation is that coping resources, health status and support may affect both responses and outcomes. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "Stoltz’s reported work and examples of Elizabeth Taylor and Christopher Reeve are cited without independent review.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-012"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-007",
+      "PCI-EX-CH08-008"
+    ],
+    "practice_ids": [],
+    "related_concept_ids": [
+      "PCI-C-CH07-007"
+    ],
+    "evidence_assessment_ids": [
+      "PCI-EA-023",
+      "PCI-EA-024"
+    ]
+  },
+  {
+    "id": "PCI-C-CH08-013",
+    "type": "concept",
+    "chapter_id": "PCI-CH-08",
+    "title": "Unburdening as an illustrative parable",
+    "content": "The concluding fable uses physical burdens to depict assumptions a person might not recognize as optional. Noticing an unnecessary load is represented as the first step to laying it down; the literal exercise uses bricks as a mnemonic.",
+    "source_type": "book_claim",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "thesis": "The concluding fable uses physical burdens to depict assumptions a person might not recognize as optional.",
+    "terms": {
+      "primary": "Unburdening as an illustrative parable",
+      "definition": "The concluding fable uses physical burdens to depict assumptions a person might not recognize as optional."
+    },
+    "author_mechanism": "Noticing an unnecessary load is represented as the first step to laying it down; the literal exercise uses bricks as a mnemonic.",
+    "conditions_and_limits": "Many burdens are real obligations and cannot responsibly be abandoned.",
+    "application": "Write 1 reversible obligation to reconsider and identify a safe adjustment without having to carry actual bricks.",
+    "common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+    "alternative_explanation": "Awareness, changed routines and social assistance may account for relief.",
+    "ethical_clinical_cautions": "Many burdens are real obligations and cannot responsibly be abandoned.",
+    "substantive_paraphrase": "The concluding fable uses physical burdens to depict assumptions a person might not recognize as optional. As presented in Chapter 8, Noticing an unnecessary load is represented as the first step to laying it down; the literal exercise uses bricks as a mnemonic. The text illustrates this idea through a traveler progressively discards a boulder, bag of bricks and entangling vines after others ask about them. A limited, realistic application is to write 1 reversible obligation to reconsider and identify a safe adjustment without having to carry actual bricks. However, many burdens are real obligations and cannot responsibly be abandoned. An alternative interpretation is that awareness, changed routines and social assistance may account for relief. This chapter citation verifies the published argument, not its scientific truth.",
+    "source_specific_illustration": "A traveler progressively discards a boulder, bag of bricks and entangling vines after others ask about them.",
+    "chapter_argument_role": "Chapter-specific interpretation derived from the directly inspected source page",
+    "evidence_assessment": "Verified as book content; independent empirical evidence not assessed in this stage.",
+    "independent_evidence_not_assessed": true,
+    "claim_ids": [
+      "PCI-CL-CH08-013"
+    ],
+    "case_ids": [
+      "PCI-EX-CH08-008",
+      "PCI-EX-CH08-009"
+    ],
+    "practice_ids": [
+      "PCI-AP-CH08-008"
+    ],
+    "related_concept_ids": [
+      "PCI-C-CH05-010"
+    ],
+    "evidence_assessment_ids": []
+  }
+]

@@ -1,0 +1,1680 @@
+[
+  {
+    "id": "PCI-EA-001",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-01",
+    "title": "Absolute self-image control",
+    "content": "Book uses language implying all actions conform to self-image. Critical evaluation: Categorical statements not independently demonstrated. A person’s available options also depend on social and physical circumstances.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Book uses language implying all actions conform to self-image.",
+    "review_conclusion": "Categorical statements not independently demonstrated. A person’s available options also depend on social and physical circumstances.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-002",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-01",
+    "title": "Genetics irrelevant to success",
+    "content": "The chapter calls genetic limits bunk and argues nurture entirely governs achievement. Critical evaluation: Examples of talented people do not refute genetic influences on particular traits or functional limitations.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-032",
+        "pdf_page": 32,
+        "printed_page": 22,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter calls genetic limits bunk and argues nurture entirely governs achievement.",
+    "review_conclusion": "Examples of talented people do not refute genetic influences on particular traits or functional limitations.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-003",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-02",
+    "title": "Literal success mechanism in brain",
+    "content": "Author likens the brain and nervous system to a goal-striving servo. Critical evaluation: Useful instructional analogy, not a discrete verified brain subsystem.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-040",
+        "pdf_page": 40,
+        "printed_page": 30,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Author likens the brain and nervous system to a goal-striving servo.",
+    "review_conclusion": "Useful instructional analogy, not a discrete verified brain subsystem.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-004",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-02",
+    "title": "Paranormal memory access",
+    "content": "The book reports telepathy, clairvoyance and precognition as experimentally established. Critical evaluation: The independent critical review found heterogeneous neuroimaging work without converging neurophysiological signatures; this does not demonstrate the ESP claims.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "disputed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-045",
+        "pdf_page": 45,
+        "printed_page": 35,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The book reports telepathy, clairvoyance and precognition as experimentally established.",
+    "review_conclusion": "The independent critical review found heterogeneous neuroimaging work without converging neurophysiological signatures; this does not demonstrate the ESP claims.",
+    "external_ref_ids": [
+      "PCI-SRC-EXT-004"
+    ],
+    "appraisal_level": "limited targeted external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-005",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagined events equal actual events for nervous system",
+    "content": "Book says nervous system cannot tell the difference. Critical evaluation: Some imagery shares features of real perception/action, but equivalence across outcomes is not demonstrated.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-055",
+        "pdf_page": 55,
+        "printed_page": 45,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Book says nervous system cannot tell the difference.",
+    "review_conclusion": "Some imagery shares features of real perception/action, but equivalence across outcomes is not demonstrated.",
+    "external_ref_ids": [
+      "PCI-SRC-EXT-002"
+    ],
+    "appraisal_level": "limited targeted external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-006",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagery can support specific motor practice",
+    "content": "Book encourages rehearsal of sport motor actions. Critical evaluation: Systematic review evidence supports average skill benefits in selected settings, often stronger as an adjunct. Does not corroborate the book’s exact basketball percentages.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "corroborated_external",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-063",
+        "pdf_page": 63,
+        "printed_page": 53,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Book encourages rehearsal of sport motor actions.",
+    "review_conclusion": "Systematic review evidence supports average skill benefits in selected settings, often stronger as an adjunct. Does not corroborate the book’s exact basketball percentages.",
+    "external_ref_ids": [
+      "PCI-SRC-EXT-001",
+      "PCI-SRC-EXT-002"
+    ],
+    "appraisal_level": "limited targeted external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-007",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagery accelerates wound or injury healing",
+    "content": "The chapter calls imagery-based bodily recovery a scientific medical fact. Critical evaluation: No direct injury healing clinical protocol and comparative evidence were appraised here; not a therapeutic instruction.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter calls imagery-based bodily recovery a scientific medical fact.",
+    "review_conclusion": "No direct injury healing clinical protocol and comparative evidence were appraised here; not a therapeutic instruction.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-008",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-03",
+    "title": "Clinical hypnosis treats a wide range of conditions",
+    "content": "The book presents diverse examples and strong confidence. Critical evaluation: NCCIH discusses condition-specific mixed evidence; narrow applications may help, but broad generalizations are not warranted.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "corroborated_external",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The book presents diverse examples and strong confidence.",
+    "review_conclusion": "NCCIH discusses condition-specific mixed evidence; narrow applications may help, but broad generalizations are not warranted.",
+    "external_ref_ids": [
+      "PCI-SRC-EXT-003"
+    ],
+    "appraisal_level": "limited targeted external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-009",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-04",
+    "title": "False belief reversed aging by 20 years",
+    "content": "Book interprets Mr Russell’s recovery as literal aging reversal. Critical evaluation: Anecdote with no objective physiological-age measurement; cannot substantiate rejuvenation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-082",
+        "pdf_page": 82,
+        "printed_page": 72,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Book interprets Mr Russell’s recovery as literal aging reversal.",
+    "review_conclusion": "Anecdote with no objective physiological-age measurement; cannot substantiate rejuvenation.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-010",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-04",
+    "title": "Hypnotic suggestion raises measured strength",
+    "content": "Dynamometer story reports 100 versus 125 pounds. Critical evaluation: No source study protocol, independent replication or instrument details provided in the PDF.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-085",
+        "pdf_page": 85,
+        "printed_page": 75,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Dynamometer story reports 100 versus 125 pounds.",
+    "review_conclusion": "No source study protocol, independent replication or instrument details provided in the PDF.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-011",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-04",
+    "title": "95 percent suffer inferiority",
+    "content": "Book asserts a near-universal prevalence. Critical evaluation: No survey method or population definition given for 95 percent; do not convert to reliable prevalence.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-086",
+        "pdf_page": 86,
+        "printed_page": 76,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Book asserts a near-universal prevalence.",
+    "review_conclusion": "No survey method or population definition given for 95 percent; do not convert to reliable prevalence.",
+    "external_ref_ids": [],
+    "appraisal_level": "source-only caution; no full external review",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false
+  },
+  {
+    "id": "PCI-EA-012",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-05",
+    "title": "Conscious reason can overwrite every negative response",
+    "content": "The revised chapter sometimes claims a universal mechanism controlled by rational thought. No sourced controlled study or clinical scope is established within Chapter 5. It should be rendered as attributed theory, not cure.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-092",
+        "pdf_page": 92,
+        "printed_page": 82,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The revised chapter sometimes claims a universal mechanism controlled by rational thought.",
+    "review_conclusion": "No sourced controlled study or clinical scope is established within Chapter 5. It should be rendered as attributed theory, not cure.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-013",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-05",
+    "title": "Most self-sabotage does not need past-oriented therapy",
+    "content": "The generalization from trivial preference and clinical anecdote to most psychological difficulties is unsupported. Do not discourage indicated assessment, psychotherapy or trauma-informed approaches.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-094",
+        "pdf_page": 94,
+        "printed_page": 84,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The generalization from trivial preference and clinical anecdote to most psychological difficulties is unsupported.",
+    "review_conclusion": "Do not discourage indicated assessment, psychotherapy or trauma-informed approaches.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-014",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-05",
+    "title": "Lecky and NLP as proof of self-consistency theory",
+    "content": "The chapter appeals to reported cases and NLP without establishing rigorous comparative evidence. Treat the cases as secondary attributions, not independent empirical confirmation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-099",
+        "pdf_page": 99,
+        "printed_page": 89,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter appeals to reported cases and NLP without establishing rigorous comparative evidence.",
+    "review_conclusion": "Treat the cases as secondary attributions, not independent empirical confirmation.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-015",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-06",
+    "title": "Unlimited creative mechanism and stress-free work",
+    "content": "The text characterizes an inner mechanism as having unlimited capacity. Metaphor cannot prove unlimited mental resources or eliminate fatigue and stress.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The text characterizes an inner mechanism as having unlimited capacity.",
+    "review_conclusion": "Metaphor cannot prove unlimited mental resources or eliminate fatigue and stress.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-016",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-06",
+    "title": "Sleep-driven unconscious problem solving guarantees answers",
+    "content": "Creative-insight stories provide personal testimony but not controlled comparison. Check any post-rest idea critically; direct evidence not assessed.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-113",
+        "pdf_page": 113,
+        "printed_page": 103,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Creative-insight stories provide personal testimony but not controlled comparison.",
+    "review_conclusion": "Check any post-rest idea critically; direct evidence not assessed.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-017",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness is the sole cure for psychosomatic ills",
+    "content": "The chapter repeats a medically extraordinary statement attributed to Schindler. Unsupported from PDF alone, potentially harmful if substituted for healthcare.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter repeats a medically extraordinary statement attributed to Schindler.",
+    "review_conclusion": "Unsupported from PDF alone, potentially harmful if substituted for healthcare.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-018",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-07",
+    "title": "Eyesight and organ function immediately improve with pleasant thoughts",
+    "content": "Old claims are quoted without study details or reliable causal support. No scientific verification performed; do not present as health advice.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Old claims are quoted without study details or reliable causal support.",
+    "review_conclusion": "No scientific verification performed; do not present as health advice.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-019",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-07",
+    "title": "95 percent of behavior is habitual",
+    "content": "The chapter presents this percentage without an audit-ready source and denominator. Do not use as a real measured statistic in application content.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-141",
+        "pdf_page": 141,
+        "printed_page": 131,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter presents this percentage without an audit-ready source and denominator.",
+    "review_conclusion": "Do not use as a real measured statistic in application content.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-020",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty days creates a new happiness habit",
+    "content": "The practice is prescribed for 30 days but guarantees of durable change are unwarranted. Preserve timing as authored experimentation, not neuroscience.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The practice is prescribed for 30 days but guarantees of durable change are unwarranted.",
+    "review_conclusion": "Preserve timing as authored experimentation, not neuroscience.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-021",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-08",
+    "title": "Goal orientation prevents death after retirement",
+    "content": "The text infers mortality consequences from having no goals. No epidemiological or medical study verified; avoid alarming users.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The text infers mortality consequences from having no goals.",
+    "review_conclusion": "No epidemiological or medical study verified; avoid alarming users.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-022",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-08",
+    "title": "Caring for others invariably produces self-esteem",
+    "content": "A broad causal relationship is claimed between respect for others and personal esteem. Helpful interpretive recommendation but not universally proven.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-152",
+        "pdf_page": 152,
+        "printed_page": 142,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "A broad causal relationship is claimed between respect for others and personal esteem.",
+    "review_conclusion": "Helpful interpretive recommendation but not universally proven.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-023",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-image rather than intelligence determines all achievement",
+    "content": "The book asserts an expansive dismissal of intelligence testing. No empirical basis demonstrated in this project for such exclusivity.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-161",
+        "pdf_page": 161,
+        "printed_page": 151,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The book asserts an expansive dismissal of intelligence testing.",
+    "review_conclusion": "No empirical basis demonstrated in this project for such exclusivity.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-024",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-08",
+    "title": "AQ is a scientifically measured part of self-image",
+    "content": "Adversity Quotient is described with company and sample counts and linked to self-image. No independent psychometric validation or causal generalization checked; no PCI AQ score should be generated.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-161",
+        "pdf_page": 161,
+        "printed_page": 151,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Adversity Quotient is described with company and sample counts and linked to self-image.",
+    "review_conclusion": "No independent psychometric validation or causal generalization checked; no PCI AQ score should be generated.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-025",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-08",
+    "title": "Eating disorders explained chiefly by self-image",
+    "content": "The chapter invokes anorexia in an argument about external comparison. Serious multifactorial medical conditions require evidence-based clinical care; not an identity-training problem alone.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-160",
+        "pdf_page": 160,
+        "printed_page": 150,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "The chapter invokes anorexia in an argument about external comparison.",
+    "review_conclusion": "Serious multifactorial medical conditions require evidence-based clinical care; not an identity-training problem alone.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-026",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-09",
+    "title": "Universal affect explained by automatic failure mechanism",
+    "content": "Universal affect explained by automatic failure mechanism. No discrete causal module or psychological diagnostic classification is demonstrated.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-166",
+        "pdf_page": 166,
+        "printed_page": 156,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Universal affect explained by automatic failure mechanism",
+    "review_conclusion": "No discrete causal module or psychological diagnostic classification is demonstrated.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-027",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-09",
+    "title": "Emptiness universally indicates lack of meaningful goals",
+    "content": "Emptiness universally indicates lack of meaningful goals. Clinical mood symptoms and external pressures require independent contextual assessment.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-187",
+        "pdf_page": 187,
+        "printed_page": 177,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Emptiness universally indicates lack of meaningful goals",
+    "review_conclusion": "Clinical mood symptoms and external pressures require independent contextual assessment.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-028",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional scars are comparable to biological scar tissue",
+    "content": "Emotional scars are comparable to biological scar tissue. The physical analogy does not establish psychological causation or one-size-fits-all recovery.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-194",
+        "pdf_page": 194,
+        "printed_page": 184,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Emotional scars are comparable to biological scar tissue",
+    "review_conclusion": "The physical analogy does not establish psychological causation or one-size-fits-all recovery.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-029",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional surgery makes people look physically years younger",
+    "content": "Emotional surgery makes people look physically years younger. The book provides no controlled comparison or objective measurement for this clinical claim.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Emotional surgery makes people look physically years younger",
+    "review_conclusion": "The book provides no controlled comparison or objective measurement for this clinical claim.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-030",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-11",
+    "title": "Parental labeling causes stuttering",
+    "content": "Parental labeling causes stuttering. Stuttering etiology is multifactorial; no modern external clinical literature was verified in Stage03.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-216",
+        "pdf_page": 216,
+        "printed_page": 206,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Parental labeling causes stuttering",
+    "review_conclusion": "Stuttering etiology is multifactorial; no modern external clinical literature was verified in Stage03.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-031",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-11",
+    "title": "Uninhibited action can universally improve outcomes",
+    "content": "Uninhibited action can universally improve outcomes. The advice is context dependent and requires behavioral and ethical safety controls.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-230",
+        "pdf_page": 230,
+        "printed_page": 220,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Uninhibited action can universally improve outcomes",
+    "review_conclusion": "The advice is context dependent and requires behavioral and ethical safety controls.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-032",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-12",
+    "title": "Self-directed relaxation can substitute for psychiatric medication",
+    "content": "Self-directed relaxation can substitute for psychiatric medication. The claim is medically unsupported in this primary-source-only assessment; ongoing treatment must not be changed.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-234",
+        "pdf_page": 234,
+        "printed_page": 224,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Self-directed relaxation can substitute for psychiatric medication",
+    "review_conclusion": "The claim is medically unsupported in this primary-source-only assessment; ongoing treatment must not be changed.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-033",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-12",
+    "title": "40 vivid rehearsals automatically create successful physical performance",
+    "content": "40 vivid rehearsals automatically create successful physical performance. The elite-athlete anecdote does not establish a universal dose or replace technical training.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "40 vivid rehearsals automatically create successful physical performance",
+    "review_conclusion": "The elite-athlete anecdote does not establish a universal dose or replace technical training.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-034",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-13",
+    "title": "Cognitive map and pressure generalization",
+    "content": "Cognitive map and pressure generalization. Historical animal/learning inference needs original Tolman study and modern human task evidence.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-256",
+        "pdf_page": 256,
+        "printed_page": 246,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Cognitive map and pressure generalization",
+    "review_conclusion": "Historical animal/learning inference needs original Tolman study and modern human task evidence.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-035",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-14",
+    "title": "Engram replay and certainty claims",
+    "content": "Engram replay and certainty claims. Brain-mapping claims mix descriptive neuron language and historical theory; require modern neural-coding verification.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-279",
+        "pdf_page": 279,
+        "printed_page": 269,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Engram replay and certainty claims",
+    "review_conclusion": "Brain-mapping claims mix descriptive neuron language and historical theory; require modern neural-coding verification.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-036",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-14",
+    "title": "Winning feeling cannot guarantee success",
+    "content": "Winning feeling cannot guarantee success. Confidence can be misleading; the text both qualifies and overstates state-outcome links.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-273",
+        "pdf_page": 273,
+        "printed_page": 263,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Winning feeling cannot guarantee success",
+    "review_conclusion": "Confidence can be misleading; the text both qualifies and overstates state-outcome links.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-037",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-15",
+    "title": "Life-force and adaptation energy",
+    "content": "Life-force and adaptation energy. Selye quote explicitly lacks precise definition; not an empirically characterized energy store.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-293",
+        "pdf_page": 293,
+        "printed_page": 283,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Life-force and adaptation energy",
+    "review_conclusion": "Selye quote explicitly lacks precise definition; not an empirically characterized energy store.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-038",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-15",
+    "title": "Placebo as cure without medicine",
+    "content": "Placebo as cure without medicine. Placebo claims and military numbers lack checked primary trials and cannot replace effective medicine.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Placebo as cure without medicine",
+    "review_conclusion": "Placebo claims and military numbers lack checked primary trials and cannot replace effective medicine.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-039",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-15",
+    "title": "Creativity causes longer life",
+    "content": "Creativity causes longer life. Creative-biography lists do not establish population causal effects.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-300",
+        "pdf_page": 300,
+        "printed_page": 290,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Creativity causes longer life",
+    "review_conclusion": "Creative-biography lists do not establish population causal effects.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-040",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-15",
+    "title": "Miracle healing and faith",
+    "content": "Miracle healing and faith. Extraordinary recoveries lack independently assessed controls or records.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-303",
+        "pdf_page": 303,
+        "printed_page": 293,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Miracle healing and faith",
+    "review_conclusion": "Extraordinary recoveries lack independently assessed controls or records.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-041",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-16",
+    "title": "Muscular dystrophy letter and attributed walking",
+    "content": "Muscular dystrophy letter and attributed walking. Medical claim rests on testimony, not independently verified clinical documentation.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Muscular dystrophy letter and attributed walking",
+    "review_conclusion": "Medical claim rests on testimony, not independently verified clinical documentation.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  },
+  {
+    "id": "PCI-EA-042",
+    "type": "evidence_assessment",
+    "chapter_id": "PCI-CH-16",
+    "title": "Visualization as rodeo-team causal factor",
+    "content": "Visualization as rodeo-team causal factor. Physical conditioning and coaching confound the reported outcome.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-312",
+        "pdf_page": 312,
+        "printed_page": 302,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "evaluated_claim": "Visualization as rodeo-team causal factor",
+    "review_conclusion": "Physical conditioning and coaching confound the reported outcome.",
+    "external_ref_ids": [],
+    "appraisal_level": "primary-source-only: independent_evidence_not_assessed",
+    "confidence": "limited",
+    "book_claim_presence": "verified_in_pdf",
+    "independently_proven": false,
+    "independent_evidence_not_assessed": true
+  }
+]

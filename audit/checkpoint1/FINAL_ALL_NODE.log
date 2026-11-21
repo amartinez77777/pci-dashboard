@@ -1,0 +1,580 @@
+TAP version 13
+# Subtest: all 12 real templates have explicit manual advancement; budgets are cues
+ok 1 - all 12 real templates have explicit manual advancement; budgets are cues
+  ---
+  duration_ms: 0.828993
+  type: 'test'
+  ...
+# Subtest: manual phase remains running after 30 minutes; only Next changes it
+ok 2 - manual phase remains running after 30 minutes; only Next changes it
+  ---
+  duration_ms: 0.709976
+  type: 'test'
+  ...
+# Subtest: all optional timing modes retain manual step behavior
+ok 3 - all optional timing modes retain manual step behavior
+  ---
+  duration_ms: 0.171185
+  type: 'test'
+  ...
+# Subtest: pausing freezes clock, resuming excludes paused interval, refresh safely pauses
+ok 4 - pausing freezes clock, resuming excludes paused interval, refresh safely pauses
+  ---
+  duration_ms: 0.326836
+  type: 'test'
+  ...
+# Subtest: autoplay applies only to explicit auto mode and respects per-phase pause_after
+ok 5 - autoplay applies only to explicit auto mode and respects per-phase pause_after
+  ---
+  duration_ms: 0.273737
+  type: 'test'
+  ...
+# Subtest: manual final phase requires an explicit Next or Finish, never timer completion
+ok 6 - manual final phase requires an explicit Next or Finish, never timer completion
+  ---
+  duration_ms: 0.19448
+  type: 'test'
+  ...
+# Subtest: untouched editor has no warning; dirty editor prompts only when leaving its module
+ok 7 - untouched editor has no warning; dirty editor prompts only when leaving its module
+  ---
+  duration_ms: 0.241018
+  type: 'test'
+  ...
+# Subtest: cancelled hash navigation restores URL without triggering an additional hashchange
+ok 8 - cancelled hash navigation restores URL without triggering an additional hashchange
+  ---
+  duration_ms: 0.144135
+  type: 'test'
+  ...
+# Subtest: beforeunload registers protection only for meaningful dirty work
+ok 9 - beforeunload registers protection only for meaningful dirty work
+  ---
+  duration_ms: 0.431873
+  type: 'test'
+  ...
+# Subtest: 16 actual chapters load
+ok 10 - 16 actual chapters load
+  ---
+  duration_ms: 1.244931
+  type: 'test'
+  ...
+# Subtest: 201 concept index records load
+ok 11 - 201 concept index records load
+  ---
+  duration_ms: 0.864976
+  type: 'test'
+  ...
+# Subtest: valid concept resolves its full dossier with page
+ok 12 - valid concept resolves its full dossier with page
+  ---
+  duration_ms: 2.0234
+  type: 'test'
+  ...
+# Subtest: unknown concept resolves null
+ok 13 - unknown concept resolves null
+  ---
+  duration_ms: 0.271043
+  type: 'test'
+  ...
+# Subtest: missing concept in valid chapter resolves null
+ok 14 - missing concept in valid chapter resolves null
+  ---
+  duration_ms: 0.176802
+  type: 'test'
+  ...
+# Subtest: an actual activity resolves its exact source ID
+ok 15 - an actual activity resolves its exact source ID
+  ---
+  duration_ms: 0.546232
+  type: 'test'
+  ...
+# Subtest: word search returns meaningful results
+ok 16 - word search returns meaningful results
+  ---
+  duration_ms: 0.529898
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts returned records
+ok 17 - chapter filter restricts returned records
+  ---
+  duration_ms: 0.299455
+  type: 'test'
+  ...
+# Subtest: all 21 authored days resolve
+ok 18 - all 21 authored days resolve
+  ---
+  duration_ms: 0.666922
+  type: 'test'
+  ...
+# Subtest: all 12 rehearsal template records load
+ok 19 - all 12 rehearsal template records load
+  ---
+  duration_ms: 2.157289
+  type: 'test'
+  ...
+# Subtest: 25 declared IndexedDB stores, v2 schema
+ok 20 - 25 declared IndexedDB stores, v2 schema
+  ---
+  duration_ms: 0.15478
+  type: 'test'
+  ...
+# Subtest: new private record is UUID style, versioned, unseeded
+ok 21 - new private record is UUID style, versioned, unseeded
+  ---
+  duration_ms: 1.821059
+  type: 'test'
+  ...
+# Subtest: sensitive schema metadata without consent is rejected by export guard
+ok 22 - sensitive schema metadata without consent is rejected by export guard
+  ---
+  duration_ms: 0.202661
+  type: 'test'
+  ...
+# Subtest: export guard rejects unsupported envelope version
+ok 23 - export guard rejects unsupported envelope version
+  ---
+  duration_ms: 0.070655
+  type: 'test'
+  ...
+# Subtest: model: a draft can be partial, an active belief needs context and hypothesis
+ok 24 - model: a draft can be partial, an active belief needs context and hypothesis
+  ---
+  duration_ms: 2.384756
+  type: 'test'
+  ...
+# Subtest: model: evidence for and against remain distinct
+ok 25 - model: evidence for and against remain distinct
+  ---
+  duration_ms: 0.218185
+  type: 'test'
+  ...
+# Subtest: model: rating rejects out of range and noninteger
+ok 26 - model: rating rejects out of range and noninteger
+  ---
+  duration_ms: 0.389579
+  type: 'test'
+  ...
+# Subtest: model: comparison reports changed fields, never proof
+ok 27 - model: comparison reports changed fields, never proof
+  ---
+  duration_ms: 0.275941
+  type: 'test'
+  ...
+# Subtest: model: recommendations are based on chosen domain and explicit IDs
+ok 28 - model: recommendations are based on chosen domain and explicit IDs
+  ---
+  duration_ms: 1.062671
+  type: 'test'
+  ...
+# Subtest: repository: initializes 25 inherited stores without migration
+ok 29 - repository: initializes 25 inherited stores without migration
+  ---
+  duration_ms: 6.783339
+  type: 'test'
+  ...
+# Subtest: repository: creates belief with revisions, evidence, experiments and minimal event
+ok 30 - repository: creates belief with revisions, evidence, experiments and minimal event
+  ---
+  duration_ms: 34.631918
+  type: 'test'
+  ...
+# Subtest: repository: revision saves before and after with same stable ID
+ok 31 - repository: revision saves before and after with same stable ID
+  ---
+  duration_ms: 7.485923
+  type: 'test'
+  ...
+# Subtest: repository: stale revision guard rejects conflicting edits
+ok 32 - repository: stale revision guard rejects conflicting edits
+  ---
+  duration_ms: 6.89197
+  type: 'test'
+  ...
+# Subtest: repository: saves explicit draft without hypothesis
+ok 33 - repository: saves explicit draft without hypothesis
+  ---
+  duration_ms: 2.290507
+  type: 'test'
+  ...
+# Subtest: repository: inventory/edit history remains in local v2 store
+ok 34 - repository: inventory/edit history remains in local v2 store
+  ---
+  duration_ms: 7.171717
+  type: 'test'
+  ...
+# Subtest: repository: reflection has independent observation/interpretation and snapshot
+ok 35 - repository: reflection has independent observation/interpretation and snapshot
+  ---
+  duration_ms: 5.407122
+  type: 'test'
+  ...
+# Subtest: repository: sensitive data cannot be saved without recorded consent or declassified while history remains
+ok 36 - repository: sensitive data cannot be saved without recorded consent or declassified while history remains
+  ---
+  duration_ms: 119.357338
+  type: 'test'
+  ...
+# Subtest: repository: experiment outcome records actual result, not inferred mental change
+ok 37 - repository: experiment outcome records actual result, not inferred mental change
+  ---
+  duration_ms: 6.751161
+  type: 'test'
+  ...
+# Subtest: repository: export v2 works with existing import validation
+ok 38 - repository: export v2 works with existing import validation
+  ---
+  duration_ms: 61.290267
+  type: 'test'
+  ...
+# Subtest: repository: cascade delete removes belief evidence, history and experiment events
+ok 39 - repository: cascade delete removes belief evidence, history and experiment events
+  ---
+  duration_ms: 12.652697
+  type: 'test'
+  ...
+# Subtest: Theater default shows template-specific phase text
+ok 40 - Theater default shows template-specific phase text
+  ---
+  duration_ms: 1.148598
+  type: 'test'
+  ...
+# Subtest: all 60 text alternatives are phase-specific and not the inherited generic string
+ok 41 - all 60 text alternatives are phase-specific and not the inherited generic string
+  ---
+  duration_ms: 0.521535
+  type: 'test'
+  ...
+# Subtest: scene A and B on same template produce different visible live context in every relevant phase
+ok 42 - scene A and B on same template produce different visible live context in every relevant phase
+  ---
+  duration_ms: 1.088989
+  type: 'test'
+  ...
+# Subtest: missing private scene falls back safely and no personal strings enter public template
+ok 43 - missing private scene falls back safely and no personal strings enter public template
+  ---
+  duration_ms: 1.992083
+  type: 'test'
+  ...
+# Subtest: feedback validation enforces distinct action, prediction, observation and valid dates
+ok 44 - feedback validation enforces distinct action, prediction, observation and valid dates
+  ---
+  duration_ms: 0.646011
+  type: 'test'
+  ...
+# Subtest: existing 25 private stores preserved
+ok 45 - existing 25 private stores preserved
+  ---
+  duration_ms: 7.138638
+  type: 'test'
+  ...
+# Subtest: multiple goals create and revisions retain permanent ID
+ok 46 - multiple goals create and revisions retain permanent ID
+  ---
+  duration_ms: 14.572744
+  type: 'test'
+  ...
+# Subtest: experiment prediction stored separately; observation is absent until recorded
+ok 47 - experiment prediction stored separately; observation is absent until recorded
+  ---
+  duration_ms: 7.263232
+  type: 'test'
+  ...
+# Subtest: outcome edit retains revision and event is idempotent, no private text in event
+ok 48 - outcome edit retains revision and event is idempotent, no private text in event
+  ---
+  duration_ms: 16.147647
+  type: 'test'
+  ...
+# Subtest: feedback follow-up revision and multiple distinct cycles possible
+ok 49 - feedback follow-up revision and multiple distinct cycles possible
+  ---
+  duration_ms: 12.444689
+  type: 'test'
+  ...
+# Subtest: scenario source IDs, every node and path validated across all 16
+ok 50 - scenario source IDs, every node and path validated across all 16
+  ---
+  duration_ms: 1.408646
+  type: 'test'
+  ...
+# Subtest: scenario quarantine rejects broken edges and unreachable nodes
+ok 51 - scenario quarantine rejects broken edges and unreachable nodes
+  ---
+  duration_ms: 0.587353
+  type: 'test'
+  ...
+# Subtest: two divergent choices and two decision points produce meaningful different ends
+ok 52 - two divergent choices and two decision points produce meaningful different ends
+  ---
+  duration_ms: 0.622796
+  type: 'test'
+  ...
+# Subtest: scenario backtrack and safe exit cannot create false completion
+ok 53 - scenario backtrack and safe exit cannot create false completion
+  ---
+  duration_ms: 0.509248
+  type: 'test'
+  ...
+# Subtest: scenario resumable progress with exactly one completion event and minimal event payload
+ok 54 - scenario resumable progress with exactly one completion event and minimal event payload
+  ---
+  duration_ms: 22.234839
+  type: 'test'
+  ...
+# Subtest: private export includes separate feedback and scenario stores without public research or private fixtures in assets
+ok 55 - private export includes separate feedback and scenario stores without public research or private fixtures in assets
+  ---
+  duration_ms: 70.203268
+  type: 'test'
+  ...
+# Subtest: deletion of scenario and feedback goals removes linked records/events
+ok 56 - deletion of scenario and feedback goals removes linked records/events
+  ---
+  duration_ms: 21.679013
+  type: 'test'
+  ...
+# Subtest: all 12 canonical PCI adaptations have validated phase plans
+ok 57 - all 12 canonical PCI adaptations have validated phase plans
+  ---
+  duration_ms: 1.554922
+  type: 'test'
+  ...
+# Subtest: 70 inherited source-practices retain ambiguous editor attribution
+ok 58 - 70 inherited source-practices retain ambiguous editor attribution
+  ---
+  duration_ms: 0.176893
+  type: 'test'
+  ...
+# Subtest: 5m / 60s / no timer budgets are app-only
+ok 59 - 5m / 60s / no timer budgets are app-only
+  ---
+  duration_ms: 0.211104
+  type: 'test'
+  ...
+# Subtest: custom session length rejects out-of-range durations
+ok 60 - custom session length rejects out-of-range durations
+  ---
+  duration_ms: 0.31597
+  type: 'test'
+  ...
+# Subtest: start, pause, resume exclude paused wall time and count background wall time
+ok 61 - start, pause, resume exclude paused wall time and count background wall time
+  ---
+  duration_ms: 0.4772
+  type: 'test'
+  ...
+# Subtest: background time never auto-advances manual phase
+ok 62 - background time never auto-advances manual phase
+  ---
+  duration_ms: 0.111505
+  type: 'test'
+  ...
+# Subtest: manual timer reaching or exceeding budget requires deliberate Next even at final phase
+ok 63 - manual timer reaching or exceeding budget requires deliberate Next even at final phase
+  ---
+  duration_ms: 0.228439
+  type: 'test'
+  ...
+# Subtest: manual skip flags exactly the skipped phase, with rewind and reset
+ok 64 - manual skip flags exactly the skipped phase, with rewind and reset
+  ---
+  duration_ms: 0.242881
+  type: 'test'
+  ...
+# Subtest: an interrupted saved active timer opens paused without counting closed-browser time
+ok 65 - an interrupted saved active timer opens paused without counting closed-browser time
+  ---
+  duration_ms: 0.327627
+  type: 'test'
+  ...
+# Subtest: explicit early stop cannot be misreported as completed
+ok 66 - explicit early stop cannot be misreported as completed
+  ---
+  duration_ms: 0.355008
+  type: 'test'
+  ...
+# Subtest: completion is an explicit transition and never a predicted outcome
+ok 67 - completion is an explicit transition and never a predicted outcome
+  ---
+  duration_ms: 0.1882
+  type: 'test'
+  ...
+# Subtest: scene validation enforces title, source template, text limits
+ok 68 - scene validation enforces title, source template, text limits
+  ---
+  duration_ms: 0.163043
+  type: 'test'
+  ...
+# Subtest: synthetic database retains the inherited v2 stores
+ok 69 - synthetic database retains the inherited v2 stores
+  ---
+  duration_ms: 7.228881
+  type: 'test'
+  ...
+# Subtest: private scene save/update/duplicate/delete work; separate user records
+ok 70 - private scene save/update/duplicate/delete work; separate user records
+  ---
+  duration_ms: 13.20631
+  type: 'test'
+  ...
+# Subtest: sensitive scene storage requires consent; redacted backup excludes it
+ok 71 - sensitive scene storage requires consent; redacted backup excludes it
+  ---
+  duration_ms: 125.81003
+  type: 'test'
+  ...
+# Subtest: started session stored with exactly one idempotency-key event
+ok 72 - started session stored with exactly one idempotency-key event
+  ---
+  duration_ms: 7.848208
+  type: 'test'
+  ...
+# Subtest: pause/resume, saved draft includes actual time and scene link only
+ok 73 - pause/resume, saved draft includes actual time and scene link only
+  ---
+  duration_ms: 6.684437
+  type: 'test'
+  ...
+# Subtest: repeated explicit completion produces one event and stable result
+ok 74 - repeated explicit completion produces one event and stable result
+  ---
+  duration_ms: 5.76506
+  type: 'test'
+  ...
+# Subtest: session history deletion also removes its own minimal events, not the scene
+ok 75 - session history deletion also removes its own minimal events, not the scene
+  ---
+  duration_ms: 9.614389
+  type: 'test'
+  ...
+# Subtest: no source template or source practice is mutated by user events
+ok 76 - no source template or source practice is mutated by user events
+  ---
+  duration_ms: 0.150003
+  type: 'test'
+  ...
+# Subtest: research index holds the expected 504 original records
+ok 77 - research index holds the expected 504 original records
+  ---
+  duration_ms: 0.90097
+  type: 'test'
+  ...
+# Subtest: 201 full concept destinations have stable canonical IDs
+ok 78 - 201 full concept destinations have stable canonical IDs
+  ---
+  duration_ms: 0.264914
+  type: 'test'
+  ...
+# Subtest: no source practice is relabeled an author-guided PCI exercise
+ok 79 - no source practice is relabeled an author-guided PCI exercise
+  ---
+  duration_ms: 0.182211
+  type: 'test'
+  ...
+# Subtest: quoted phrases are parsed independently from tokens
+ok 80 - quoted phrases are parsed independently from tokens
+  ---
+  duration_ms: 0.791426
+  type: 'test'
+  ...
+# Subtest: diacritics and non-alphanumeric normalization
+ok 81 - diacritics and non-alphanumeric normalization
+  ---
+  duration_ms: 0.212667
+  type: 'test'
+  ...
+# Subtest: audited exact title returns original concept ID
+ok 82 - audited exact title returns original concept ID
+  ---
+  duration_ms: 13.754317
+  type: 'test'
+  ...
+# Subtest: search by source ID finds exact record
+ok 83 - search by source ID finds exact record
+  ---
+  duration_ms: 17.089967
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts every hit
+ok 84 - chapter filter restricts every hit
+  ---
+  duration_ms: 1.096791
+  type: 'test'
+  ...
+# Subtest: concept-only filter and empty query return 201 records
+ok 85 - concept-only filter and empty query return 201 records
+  ---
+  duration_ms: 5.9771
+  type: 'test'
+  ...
+# Subtest: book practices are separated by origin
+ok 86 - book practices are separated by origin
+  ---
+  duration_ms: 1.488624
+  type: 'test'
+  ...
+# Subtest: evidence-status filter is genuine
+ok 87 - evidence-status filter is genuine
+  ---
+  duration_ms: 6.866402
+  type: 'test'
+  ...
+# Subtest: phrase and chapter mismatch produces an empty result
+ok 88 - phrase and chapter mismatch produces an empty result
+  ---
+  duration_ms: 0.463329
+  type: 'test'
+  ...
+# Subtest: search does not interpret user input as regex or HTML
+ok 89 - search does not interpret user input as regex or HTML
+  ---
+  duration_ms: 13.728514
+  type: 'test'
+  ...
+# Subtest: all 109 graph edges resolve and have rationale and citations
+ok 90 - all 109 graph edges resolve and have rationale and citations
+  ---
+  duration_ms: 0.857315
+  type: 'test'
+  ...
+# Subtest: source-supported neighborhood only loads direct adjacent edges
+ok 91 - source-supported neighborhood only loads direct adjacent edges
+  ---
+  duration_ms: 0.147109
+  type: 'test'
+  ...
+# Subtest: relationship type filter excludes other edge types
+ok 92 - relationship type filter excludes other edge types
+  ---
+  duration_ms: 0.078797
+  type: 'test'
+  ...
+# Subtest: invalid concept has zero source-supported graph edges
+ok 93 - invalid concept has zero source-supported graph edges
+  ---
+  duration_ms: 0.055893
+  type: 'test'
+  ...
+# Subtest: PDF vs printed pagination are distinguishable
+ok 94 - PDF vs printed pagination are distinguishable
+  ---
+  duration_ms: 0.078257
+  type: 'test'
+  ...
+# Subtest: zero recorded personal data in publicly accessible Vault files
+ok 95 - zero recorded personal data in publicly accessible Vault files
+  ---
+  duration_ms: 0.359354
+  type: 'test'
+  ...
+1..95
+# tests 95
+# suites 0
+# pass 95
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 450.523257

@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "all 16 chapter read models generated",
+      "status": "PASS"
+    },
+    {
+      "name": "all 201 full concept dossiers preserve identity",
+      "status": "PASS"
+    },
+    {
+      "name": "all chapter section records remain substantive",
+      "status": "PASS"
+    },
+    {
+      "name": "504 search records with valid original ids",
+      "status": "PASS"
+    },
+    {
+      "name": "source practice vs adaptation search identity",
+      "status": "PASS"
+    },
+    {
+      "name": "109 graph endpoints and rationale verified",
+      "status": "PASS"
+    },
+    {
+      "name": "search target exists in original normalized collections",
+      "status": "PASS"
+    },
+    {
+      "name": "all source citations have 1-based PDF page",
+      "status": "PASS"
+    },
+    {
+      "name": "all 1773 original registry mappings and Stage10 issue IDs retained",
+      "status": "PASS"
+    },
+    {
+      "name": "no PDFs or private entries included in public",
+      "status": "PASS"
+    },
+    {
+      "name": "Stage08 all ten routes retained",
+      "status": "PASS"
+    },
+    {
+      "name": "no localStorage use in new Vault code",
+      "status": "PASS"
+    },
+    {
+      "name": "same v2 private schema, no store added",
+      "status": "PASS"
+    },
+    {
+      "name": "app declares actual searchable/graph components",
+      "status": "PASS"
+    },
+    {
+      "name": "mappable source references (no public PDF)",
+      "status": "PASS"
+    },
+    {
+      "name": "fetched data segmented by chapter",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile stylesheet provides narrow-width layout",
+      "status": "PASS"
+    }
+  ],
+  "passed": 17,
+  "failed": 0
+}

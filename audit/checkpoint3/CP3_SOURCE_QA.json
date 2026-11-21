@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "passed": 9,
+  "failed": 0,
+  "preserved_file_count": 241,
+  "baseline_zip_sha256": "b3bdbb46f225558634eb638024fbec87420bae412f7e4cf53cff8bf12d12d343",
+  "scope": "Static/byte-level verification, not native browser persistence",
+  "checks": [
+    {
+      "name": "1791 inherited permanent IDs and exact metadata unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "exactly 8 new immutable educational question IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "canonical research and prior labs intact; only approved storage safety edit",
+      "status": "PASS",
+      "detail": "241 checked; approved change=['src/storage.ts']"
+    },
+    {
+      "name": "21 authored curriculum records intact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "four checkpoints preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all 10 routes and functioning Academy mounted",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "25 original v2 stores, no schema migration",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source/repo/tests and offline compiled entry exist",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no PDF or personal fixtures in public",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

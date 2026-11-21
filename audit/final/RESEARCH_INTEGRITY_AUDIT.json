@@ -1,0 +1,354 @@
+{
+  "scope": "INHERITED RESEARCH CONTENT ONLY; target edition PDF not supplied with this release request; page images NOT rechecked",
+  "status": "PASS",
+  "counts": {
+    "chapters": 16,
+    "concepts": 201,
+    "index_entries": 201,
+    "activities": 32,
+    "scenarios": 16,
+    "relationships": 109,
+    "book_practices": 70,
+    "curriculum_days": 21
+  },
+  "field_distribution": {
+    "conditions_and_limits": {
+      "unique": 201,
+      "largest_repeated_group": 1
+    },
+    "ethical_clinical_cautions": {
+      "unique": 201,
+      "largest_repeated_group": 1
+    },
+    "common_misreading": {
+      "unique": 4,
+      "largest_repeated_group": 59
+    },
+    "alternative_explanation": {
+      "unique": 93,
+      "largest_repeated_group": 52
+    }
+  },
+  "same_text_in_limits_and_clinical_cautions": 201,
+  "same_text_in_limits_and_clinical_cautions_percent": 100.0,
+  "evidence_status_counts": {
+    "book_assertion_only": 201
+  },
+  "source_status_counts": {
+    "verified_in_pdf": 201
+  },
+  "issues": [],
+  "priority_review": [
+    {
+      "id": "PCI-C-CH01-001",
+      "title": "Self-image as working self-description",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-013",
+        "pdf_page": 13,
+        "printed_page": 3,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "The working self-description may influence choices, but it does not control every action; resources, environment and prior learning also matter.",
+      "rationale_from_inherited_record": {
+        "thesis": "An accumulated working picture of what kind of person one is can influence what one attempts and expects.",
+        "conditions_and_limits": "The text claims absolute control over all actions; do not present that universal assertion as an established law.",
+        "alternative_explanation": "Expectancies, environment, available resources, habitual action and interpersonal feedback all shape behavior; no single self-image variable explains every outcome."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH01-005",
+      "title": "Surgery, appearance and subjective identity",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-019",
+        "pdf_page": 19,
+        "printed_page": 9,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "An altered appearance does not reliably produce an altered self-image; neither surgery nor self-reflection is a stand-alone treatment for body-image distress.",
+      "rationale_from_inherited_record": {
+        "thesis": "An external cosmetic change does not reliably produce a corresponding change in how someone perceives or values themself.",
+        "conditions_and_limits": "Never suggest cosmetic surgery or self-image exercises alone treat body-dysmorphic distress.",
+        "alternative_explanation": "Social treatment, reduced stigma, expectation and broader circumstances may account for some changes."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH02-001",
+      "title": "Built-in success instinct metaphor",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-036",
+        "pdf_page": 36,
+        "printed_page": 26,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "The book’s built-in success instinct is an analogy for goal pursuit, not a literal internal device or guarantee of achievement.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter presents purposeful human problem-solving as analogous to an organism pursuing survival and meaningful goals.",
+        "conditions_and_limits": "This is a book assertion and metaphor; reject claims of a guaranteed or literal internal success device.",
+        "alternative_explanation": "Biology, learning, motivation and cultural supports provide multiple explanations for goal pursuit."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH02-002",
+      "title": "Decision imagination and self-image work order",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-037",
+        "pdf_page": 37,
+        "printed_page": 27,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "The proposed sequence from decision to imagination to action is not an established neural circuit; planning and learning offer more limited accounts.",
+      "rationale_from_inherited_record": {
+        "thesis": "The author proposes a sequence: conscious decision and imagined target, filtered by self-image, guide action.",
+        "conditions_and_limits": "The proposed formula is not a demonstrated causal brain architecture.",
+        "alternative_explanation": "Goal intentions, mental simulation and implementation planning can produce effects without a hidden machine."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH03-002",
+      "title": "Imagination as goal picture",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-055",
+        "pdf_page": 55,
+        "printed_page": 45,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "Visualizing an event is not equivalent to actually performing it; claims that the nervous system makes no distinction are overstated.",
+      "rationale_from_inherited_record": {
+        "thesis": "The author says imagery supplies a target for behavior, but presents this as a near-universal law.",
+        "conditions_and_limits": "Absolute claims that the nervous system cannot distinguish imagined and actual events are overstatements.",
+        "alternative_explanation": "Expectancy, attention and motor preparation may mediate effects; physical and environmental limits remain."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH03-004",
+      "title": "Hypnosis and belief-based behavior",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "Hypnosis anecdotes do not establish reliable surgical pain control; suggestions and attention cannot replace anesthesia or clinical care.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter invokes Theodore Barber to argue that accepted suggestions can affect performance and behavior.",
+        "conditions_and_limits": "Claims of surgery without anesthesia or effortless recovery need clinical qualification; never substitute self-hypnosis for care.",
+        "alternative_explanation": "Expectancy, suggestion, attention and context may affect outcomes, depending on the task."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH03-007",
+      "title": "Imagery for pain and recovery: medical claim",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-064",
+        "pdf_page": 64,
+        "printed_page": 54,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "Relief of perceived stress or pain is not evidence of faster tissue repair; never use imagery as a substitute for medical treatment.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter asserts that positive mental imagery can improve healing and autonomic responses.",
+        "conditions_and_limits": "No medical outcome or healing rate is established by this source; never promise treatment effects.",
+        "alternative_explanation": "Relaxation, perceived stress and symptom coping are not equivalent to accelerated tissue repair."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH04-006",
+      "title": "Hypnosis demonstrations as skill-release analogy",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-084",
+        "pdf_page": 84,
+        "printed_page": 74,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a conceptual or anecdotal explanation as a universal causal law, without evaluating context, skills or competing explanations.",
+      "proposed_specific_caution_NOT_CANONICAL": "A reported grip-strength change under suggestion does not prove skill was magically unlocked; effort, measurement and demand effects remain plausible.",
+      "rationale_from_inherited_record": {
+        "thesis": "The author claims suggestion can inhibit or release measurable abilities already present.",
+        "conditions_and_limits": "No verified study protocol is provided for the exact numerical grip-force account.",
+        "alternative_explanation": "Demand effects, effort, measurement and altered attention might explain performance variations."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH07-002",
+      "title": "Mental-state medical claims require boundaries",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-128",
+        "pdf_page": 128,
+        "printed_page": 118,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+      "proposed_specific_caution_NOT_CANONICAL": "A positive mood must not be portrayed as the sole cause of good health or a cure for illness; medical treatment and other factors matter.",
+      "rationale_from_inherited_record": {
+        "thesis": "The text draws a broad connection between cheerful thinking and health, citing anecdotes and older medical assertions.",
+        "conditions_and_limits": "Claims that happiness cures illness or is the only cure are unsupported and dangerous to repeat as medical guidance.",
+        "alternative_explanation": "Health status, support, treatment and stress can relate bidirectionally to mood."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH08-002",
+      "title": "The seven-part SUCCESS mnemonic",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-146",
+        "pdf_page": 146,
+        "printed_page": 136,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating the book’s metaphor, attributed example or categorical advice as established science or a guarantee.",
+      "proposed_specific_caution_NOT_CANONICAL": "The SUCCESS mnemonic is a teaching framework, not a diagnostic personality score or moral ranking.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter organizes its preferred “success-type” personality into direction, understanding, courage, charity, esteem, confidence and acceptance.",
+        "conditions_and_limits": "Do not assign a diagnostic success/failure score or turn traits into moral grades.",
+        "alternative_explanation": "Many other combinations of resources, skills and circumstances support achievement."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH10-001",
+      "title": "Emotional scars are a protective analogy",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-190",
+        "pdf_page": 190,
+        "printed_page": 180,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+      "proposed_specific_caution_NOT_CANONICAL": "An emotional scar is the author’s metaphor for guarded responses, not literal scar tissue or a mental-health diagnosis.",
+      "rationale_from_inherited_record": {
+        "thesis": "The book compares protective physical scar tissue with emotional withdrawal after rejection or humiliation.",
+        "conditions_and_limits": "This is metaphor, not a diagnosis or a demonstrated biological scar mechanism.",
+        "alternative_explanation": "An alternative account may emphasize social context, personal safety, learning and individual differences rather than a literal emotional scar."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH12-006",
+      "title": "Relaxation as a self-regulation practice",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-239",
+        "pdf_page": 239,
+        "printed_page": 229,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating a book metaphor, a single attributed story, or optional behavior exercise as a clinical rule or guaranteed transformation.",
+      "proposed_specific_caution_NOT_CANONICAL": "Relaxation can be an optional coping response but cannot guarantee relief from trauma, panic or all anxiety.",
+      "rationale_from_inherited_record": {
+        "thesis": "Physical calm is described as a screen between events and automatic emotional escalation.",
+        "conditions_and_limits": "Relaxation cannot guarantee relief from panic, trauma or all anxiety conditions.",
+        "alternative_explanation": "A more limited explanation considers learned responses, contextual incentives, social conditions and task-specific behavior without accepting a dedicated automatic mechanism."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH14-009",
+      "title": "Brain engram claims require historical context",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-279",
+        "pdf_page": 279,
+        "printed_page": 269,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+      "proposed_specific_caution_NOT_CANONICAL": "Historical engram explanations should not be treated as current definitive neuroscience; the text combines neurobiology with speculation.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter proposes stored neural patterns as causal explanations of successful movements and feelings.",
+        "conditions_and_limits": "The source mixes real neurobiology with speculative oversimplification.",
+        "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH15-005",
+      "title": "Medical healing is more complex than one mechanism",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-294",
+        "pdf_page": 294,
+        "printed_page": 284,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+      "proposed_specific_caution_NOT_CANONICAL": "The life-force healing analogy does not establish that imagery or faith cures disease; biological recovery can have multiple causes.",
+      "rationale_from_inherited_record": {
+        "thesis": "The author connects bodily repair to a broad life-force metaphor.",
+        "conditions_and_limits": "Medical interventions can act through multiple mechanisms; do not claim faith or imagery can heal disease.",
+        "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH15-008",
+      "title": "Placebo examples cannot prove cure by expectation",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-297",
+        "pdf_page": 297,
+        "printed_page": 287,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+      "proposed_specific_caution_NOT_CANONICAL": "Reported placebo examples without verified study protocols do not establish clinical cure or justify stopping conventional treatment.",
+      "rationale_from_inherited_record": {
+        "thesis": "The chapter uses several reported placebo comparisons to support the image of bodily response to belief.",
+        "conditions_and_limits": "Trials, outcomes and study design not checked; placebo responses vary and are not a substitute for medicine.",
+        "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    },
+    {
+      "id": "PCI-C-CH16-006",
+      "title": "Medical recovery anecdotes require careful limits",
+      "inherited_source_locator": {
+        "source_id": "PCI-SRC-PDF-313",
+        "pdf_page": 313,
+        "printed_page": 303,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "original_common_misreading": "Treating source anecdotes, metaphors or motivating advice as guaranteed medical or performance outcomes.",
+      "proposed_specific_caution_NOT_CANONICAL": "An attributed recovery story cannot prove causation or imply that people with disabilities are responsible for their health outcomes.",
+      "rationale_from_inherited_record": {
+        "thesis": "The final story associates recovery, self-image and severe disability while describing medical interventions.",
+        "conditions_and_limits": "The reported medical explanation is unverified and cannot justify curative claims or blame patients.",
+        "alternative_explanation": "Task learning, environmental supports, health, chance and external constraints could contribute without a discrete automatic mechanism."
+      },
+      "publication_status": "editorial proposal only; requires PDF source re-review before canonical replacement"
+    }
+  ],
+  "remaining_debt": {
+    "concepts_without_nonredundant_clinical_cautions": 201,
+    "concepts_without_individually_reviewed_common_misreading": 185,
+    "pdf_image_verified_this_stage": 0
+  },
+  "changes_to_canonical_research": 0,
+  "note": "Prior reports described identical conditions_and_limits across concepts; this audit shows those 201 entries are distinct. The duplicated fields are conditions_and_limits vs ethical_clinical_cautions WITHIN each record."
+}

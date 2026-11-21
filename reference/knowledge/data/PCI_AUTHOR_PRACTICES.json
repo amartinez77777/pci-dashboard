@@ -1,0 +1,4110 @@
+[
+  {
+    "id": "PCI-AP-CH01-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-01",
+    "title": "Collect characteristic-specific exemplar scrapbooks",
+    "content": "The revised book prescribes: Choose separate exemplars for qualities and accomplishments sought. Collect biographies, articles, speeches and analyses. Study influences and behaviors that shaped the exemplars. Timing: ongoing hobby; no exact duration prescribed",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-033",
+        "pdf_page": 33,
+        "printed_page": 23,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose separate exemplars for qualities and accomplishments sought.",
+      "Collect biographies, articles, speeches and analyses.",
+      "Study influences and behaviors that shaped the exemplars."
+    ],
+    "timing_as_printed_or_paraphrased": "ongoing hobby; no exact duration prescribed",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 33,
+      "pdf_end": 33
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "Prescription box in chapter 1. Do not present inheritance as irrelevant to achievement.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH01-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-01",
+    "title": "Study one imagined adviser for a month",
+    "content": "The revised book prescribes: Choose one person to study thoroughly. Learn how the person thinks from available material. Imagine a conversation asking the adviser for coaching. Timing: one month of study",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-034",
+        "pdf_page": 34,
+        "printed_page": 24,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose one person to study thoroughly.",
+      "Learn how the person thinks from available material.",
+      "Imagine a conversation asking the adviser for coaching."
+    ],
+    "timing_as_printed_or_paraphrased": "one month of study",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 34,
+      "pdf_end": 34
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "Mental training exercise in chapter 1. Imagined advice is not real access to the person.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH02-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-02",
+    "title": "Repeated review of Chapter 2",
+    "content": "The revised book prescribes: Read the chapter, study it and seek examples in experience. Observe limiting ideas about self. Timing: first 21 days",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-050",
+        "pdf_page": 50,
+        "printed_page": 40,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Read the chapter, study it and seek examples in experience.",
+      "Observe limiting ideas about self."
+    ],
+    "timing_as_printed_or_paraphrased": "first 21 days",
+    "frequency_per_week": 3,
+    "program_days": 21,
+    "page_range": {
+      "pdf_start": 50,
+      "pdf_end": 50
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "At least 3 rereads per week; not a universal recommendation for all chapters.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH02-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-02",
+    "title": "Memorize five principles AIM TRUST RELAX LEARN DO",
+    "content": "The revised book prescribes: Study the five named labels and their chapter-specific explanations. Distinguish purpose, feedback, skill learning and action. Timing: no cadence specified",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-051",
+        "pdf_page": 51,
+        "printed_page": 41,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Study the five named labels and their chapter-specific explanations.",
+      "Distinguish purpose, feedback, skill learning and action."
+    ],
+    "timing_as_printed_or_paraphrased": "no cadence specified",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 51,
+      "pdf_end": 52
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "Five mnemonic concepts appear in the printed p41 mental training box.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH02-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-02",
+    "title": "Clarify a single target through mental sketching",
+    "content": "The revised book prescribes: Select a clearly described desired outcome. Optionally describe or draw the image; make details concrete. Consider changes in real performance separately. Timing: 10–15 minutes daily for 21 days",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-052",
+        "pdf_page": 52,
+        "printed_page": 42,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Select a clearly described desired outcome.",
+      "Optionally describe or draw the image; make details concrete.",
+      "Consider changes in real performance separately."
+    ],
+    "timing_as_printed_or_paraphrased": "10–15 minutes daily for 21 days",
+    "frequency_per_week": 7,
+    "program_days": 21,
+    "page_range": {
+      "pdf_start": 52,
+      "pdf_end": 52
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "The book instructs 10 or 15 minutes per day and 21-day trial; this is not proven rewiring.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH03-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-03",
+    "title": "Theater of the Mind mental movie",
+    "content": "The revised book prescribes: Choose a scene of acting appropriately and successfully. Make sights, sounds and environmental details vivid. Develop or edit the movie in the first 10 days. Replay the final version without changing it during the remaining 11 days. Timing: 30 minutes daily; first 10 days refine; remaining 11 days replay",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-076",
+        "pdf_page": 76,
+        "printed_page": 66,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose a scene of acting appropriately and successfully.",
+      "Make sights, sounds and environmental details vivid.",
+      "Develop or edit the movie in the first 10 days.",
+      "Replay the final version without changing it during the remaining 11 days."
+    ],
+    "timing_as_printed_or_paraphrased": "30 minutes daily; first 10 days refine; remaining 11 days replay",
+    "frequency_per_week": 7,
+    "program_days": 21,
+    "page_range": {
+      "pdf_start": 76,
+      "pdf_end": 78
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "Structured chapter 3 practice occupies printed pp66–68; not a guarantee of behavior change.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH04-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-04",
+    "title": "Dehypnotization relaxation imagery",
+    "content": "The revised book prescribes: Sit or lie comfortably and soften muscles for about 5 minutes. Imagine heavy concrete limbs (Mental Picture 1). Imagine loosened marionette strings (Mental Picture 2). Remember a safe, peaceful scene with sensory detail (Mental Picture 3). Timing: at least 30 minutes daily; initial approximately 5-minute muscle relaxation",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "PyMuPDF text layer plus selected image checks; printed page and PDF page retained separately",
+      "attribution": "composite revised edition (Maltz / Kennedy / Foundation), unless explicitly editorial"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 01 initial canonical record; immutable id"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-090",
+        "pdf_page": 90,
+        "printed_page": 80,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Sit or lie comfortably and soften muscles for about 5 minutes.",
+      "Imagine heavy concrete limbs (Mental Picture 1).",
+      "Imagine loosened marionette strings (Mental Picture 2).",
+      "Remember a safe, peaceful scene with sensory detail (Mental Picture 3)."
+    ],
+    "timing_as_printed_or_paraphrased": "at least 30 minutes daily; initial approximately 5-minute muscle relaxation",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 90,
+      "pdf_end": 91
+    },
+    "prerequisites": [
+      "A personally acceptable, safe goal",
+      "No requirement to disclose private experiences"
+    ],
+    "cautions": [
+      "Book exercise printed pp80–81. Reader may choose pictures; 21 days not prescribed for this chapter.",
+      "Opt out or shorten the exercise if it causes distress; it is educational, not medical treatment."
+    ],
+    "attribution": "Revised edition; individual original author not independently attributable"
+  },
+  {
+    "id": "PCI-AP-CH05-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-05",
+    "title": "Rational self-inquiry about assumed impossibilities",
+    "content": "Book structure: Choose a life difficulty you have stopped trying to change because it seems impossible. Ask what facts genuinely support the conclusion, whether another explanation exists, and whether you would judge someone else the same way. Review one possibility that was prematurely ruled out. Timing: duration_unknown; revisit when a fixed belief is discovered",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-109",
+        "pdf_page": 109,
+        "printed_page": 99,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose a life difficulty you have stopped trying to change because it seems impossible.",
+      "Ask what facts genuinely support the conclusion, whether another explanation exists, and whether you would judge someone else the same way.",
+      "Review one possibility that was prematurely ruled out."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; revisit when a fixed belief is discovered",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 109,
+      "pdf_end": 109
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Mental Training Exercises box, exercise 1. Persistent rumination or intense distress is not the goal.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Choose a life difficulty you have stopped trying to change because it seems impossible.",
+      "Ask what facts genuinely support the conclusion, whether another explanation exists, and whether you would judge someone else the same way.",
+      "Review one possibility that was prematurely ruled out."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH05-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-05",
+    "title": "Translate reviewed assumptions into a new target",
+    "content": "Book structure: After checking fixed beliefs, consider whether the findings justify setting a revised target. If a target emerges, use the relevant earlier-chapter goal imagery or action practice without claiming the target is automatically achieved. Timing: duration_unknown; contingent on finding a workable goal",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-109",
+        "pdf_page": 109,
+        "printed_page": 99,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "After checking fixed beliefs, consider whether the findings justify setting a revised target.",
+      "If a target emerges, use the relevant earlier-chapter goal imagery or action practice without claiming the target is automatically achieved."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; contingent on finding a workable goal",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 109,
+      "pdf_end": 109
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Mental Training Exercises box, exercise 2. This explicitly refers to earlier exercises but does not reset their durations.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "After checking fixed beliefs, consider whether the findings justify setting a revised target.",
+      "If a target emerges, use the relevant earlier-chapter goal imagery or action practice without claiming the target is automatically achieved."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH05-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-05",
+    "title": "Four uses of rational thought checklist",
+    "content": "Book structure: Check the credibility of messages; accept what can be supported and reject the unsupported. Make careful conclusions and decide the desired goal. Keep attention on current task and accurate environmental feedback. Timing: duration_unknown; summary checklist, no fixed cycle",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-110",
+        "pdf_page": 110,
+        "printed_page": 100,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Check the credibility of messages; accept what can be supported and reject the unsupported.",
+      "Make careful conclusions and decide the desired goal.",
+      "Keep attention on current task and accurate environmental feedback."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; summary checklist, no fixed cycle",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 110,
+      "pdf_end": 110
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Printed checklist is a reference/decision aid rather than a timed training program.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Check the credibility of messages; accept what can be supported and reject the unsupported.",
+      "Make careful conclusions and decide the desired goal.",
+      "Keep attention on current task and accurate environmental feedback."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Practice small decisive choices",
+    "content": "Book structure: For a low-stakes reversible choice such as a restaurant order, decide after an appropriate look at options. Stop changing the choice merely to relieve uncertainty and turn attention to the next step. Timing: no set duration; situational repetition in small choices",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "For a low-stakes reversible choice such as a restaurant order, decide after an appropriate look at options.",
+      "Stop changing the choice merely to relieve uncertainty and turn attention to the next step."
+    ],
+    "timing_as_printed_or_paraphrased": "no set duration; situational repetition in small choices",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 119,
+      "pdf_end": 120
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Do not use for high-risk or irreversible decisions; “pick and buy” is a metaphor of decisiveness, not pressure to spend.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "For a low-stakes reversible choice such as a restaurant order, decide after an appropriate look at options.",
+      "Stop changing the choice merely to relieve uncertainty and turn attention to the next step."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Lock-box mental movie after a decision",
+    "content": "Book structure: After a considered decision, imagine collecting pros and cons into a locked storage box. Picture a dated decision envelope marked completed in a file drawer. Imagine leaving the room and returning attention to the task ahead; after familiarity shorten the movie to a few images. Timing: duration_unknown; immediately after a decision; can shorten after several viewings",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-119",
+        "pdf_page": 119,
+        "printed_page": 109,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "After a considered decision, imagine collecting pros and cons into a locked storage box.",
+      "Picture a dated decision envelope marked completed in a file drawer.",
+      "Imagine leaving the room and returning attention to the task ahead; after familiarity shorten the movie to a few images."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; immediately after a decision; can shorten after several viewings",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 119,
+      "pdf_end": 120
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Explicit mental-training exercise; visualization is a cue, not evidence the decision is irrevocable.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "After a considered decision, imagine collecting pros and cons into a locked storage box.",
+      "Picture a dated decision envelope marked completed in a file drawer.",
+      "Imagine leaving the room and returning attention to the task ahead; after familiarity shorten the movie to a few images."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Return attention to the present",
+    "content": "Book structure: Set aside appropriate planning sessions. During an actual task, attend to what is happening now and postpone unnecessary future-oriented mental rehearsals. Timing: duration_unknown; during ordinary daily activity",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-120",
+        "pdf_page": 120,
+        "printed_page": 110,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Set aside appropriate planning sessions.",
+      "During an actual task, attend to what is happening now and postpone unnecessary future-oriented mental rehearsals."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; during ordinary daily activity",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 120,
+      "pdf_end": 120
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Do not overlook future safety, deadlines or legitimate planning needs.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Set aside appropriate planning sessions.",
+      "During an actual task, attend to what is happening now and postpone unnecessary future-oriented mental rehearsals."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall details after leaving a location",
+    "content": "Book structure: After leaving a restaurant or shop, try to recall as many accurate environmental details as possible. Compare recollection with available observations when feasible. Timing: duration_unknown; after an ordinary visit",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "After leaving a restaurant or shop, try to recall as many accurate environmental details as possible.",
+      "Compare recollection with available observations when feasible."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; after an ordinary visit",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 121,
+      "pdf_end": 121
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Original training exercise. Do not spy on people or interpret memory precision as a diagnostic measure.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "After leaving a restaurant or shop, try to recall as many accurate environmental details as possible.",
+      "Compare recollection with available observations when feasible."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Hourglass one-grain reminder",
+    "content": "Book structure: Place an hourglass in the work area. Add a written reminder “One Grain at a Time”; use it as a cue to work on the immediate task. Timing: duration_unknown; visual reminder whenever noticed",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-123",
+        "pdf_page": 123,
+        "printed_page": 113,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Place an hourglass in the work area.",
+      "Add a written reminder “One Grain at a Time”; use it as a cue to work on the immediate task."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; visual reminder whenever noticed",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 123,
+      "pdf_end": 123
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "In the 3rd prescription, the source does not require a timer duration or hourly intervals.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Place an hourglass in the work area.",
+      "Add a written reminder “One Grain at a Time”; use it as a cue to work on the immediate task."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-006",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Sleep on a stubborn question",
+    "content": "Book structure: After thoughtful work on an unresolved problem, stop forcing an answer. Set the problem aside and, where possible, review it after a night’s sleep. Timing: duration_unknown; after a day of unsuccessful work, then one night or later",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "After thoughtful work on an unresolved problem, stop forcing an answer.",
+      "Set the problem aside and, where possible, review it after a night’s sleep."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; after a day of unsuccessful work, then one night or later",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 124,
+      "pdf_end": 125
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Do not postpone emergencies or required decisions; expected insight is not guaranteed.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "After thoughtful work on an unresolved problem, stop forcing an answer.",
+      "Set the problem aside and, where possible, review it after a night’s sleep."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-007",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Recall relaxed sensation at work",
+    "content": "Book structure: Practice the prior relaxation method in rest as learned in Chapter 4. Stop briefly during the day and remember the sensation in arms, legs, neck, back and face. If helpful, picture oneself reclining and repeat a relaxation cue before resuming. Timing: a moment at a time, several times per day; exact minutes and overall program days not specified",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-124",
+        "pdf_page": 124,
+        "printed_page": 114,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Practice the prior relaxation method in rest as learned in Chapter 4.",
+      "Stop briefly during the day and remember the sensation in arms, legs, neck, back and face.",
+      "If helpful, picture oneself reclining and repeat a relaxation cue before resuming."
+    ],
+    "timing_as_printed_or_paraphrased": "a moment at a time, several times per day; exact minutes and overall program days not specified",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 124,
+      "pdf_end": 125
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Exercise begins printed p114 and continues p115; this is not a new 21- or 30-day regimen.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Practice the prior relaxation method in rest as learned in Chapter 4.",
+      "Stop briefly during the day and remember the sensation in arms, legs, neck, back and face.",
+      "If helpful, picture oneself reclining and repeat a relaxation cue before resuming."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH06-008",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-06",
+    "title": "Single-tasking as an attention prescription",
+    "content": "Book structure: Identify the current task and distinguish it from competing future tasks. Return focus to the current action rather than mentally attempting several simultaneously. Timing: duration_unknown; practice while working",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-121",
+        "pdf_page": 121,
+        "printed_page": 111,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Identify the current task and distinguish it from competing future tasks.",
+      "Return focus to the current action rather than mentally attempting several simultaneously."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice while working",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 121,
+      "pdf_end": 121
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Not a mandate to ignore safety signals, accessibility needs or essential monitoring.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Identify the current task and distinguish it from competing future tasks.",
+      "Return focus to the current action rather than mentally attempting several simultaneously."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH07-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-07",
+    "title": "Rehearse an active response to an obstacle",
+    "content": "Book structure: Identify a real manageable problem and a useful desired outcome. Mentally rehearse responding with measured problem-solving instead of immediate avoidance or surrender. Act on a feasible next step and evaluate actual feedback. Timing: duration_unknown; everyday practice and imagination, no fixed day count",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-134",
+        "pdf_page": 134,
+        "printed_page": 124,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Identify a real manageable problem and a useful desired outcome.",
+      "Mentally rehearse responding with measured problem-solving instead of immediate avoidance or surrender.",
+      "Act on a feasible next step and evaluate actual feedback."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; everyday practice and imagination, no fixed day count",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 134,
+      "pdf_end": 134
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Book uses “aggressively” to mean assertive action; do not interpret as hostility or dangerous confrontation.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Identify a real manageable problem and a useful desired outcome.",
+      "Mentally rehearse responding with measured problem-solving instead of immediate avoidance or surrender.",
+      "Act on a feasible next step and evaluate actual feedback."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH07-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-07",
+    "title": "Milteer’s negative-script interruption",
+    "content": "Book structure: Notice a repetitive global discouraging self-label. Interrupt the statement and propose a plausible specific alternative behavior to try next time. Timing: whenever an unwanted repeated statement recurs; no session length",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-137",
+        "pdf_page": 137,
+        "printed_page": 127,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice a repetitive global discouraging self-label.",
+      "Interrupt the statement and propose a plausible specific alternative behavior to try next time."
+    ],
+    "timing_as_printed_or_paraphrased": "whenever an unwanted repeated statement recurs; no session length",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 137,
+      "pdf_end": 137
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Technique attributed to Lee Milteer in revised edition, not invented by Maltz; false affirmations can increase distress.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Notice a repetitive global discouraging self-label.",
+      "Interrupt the statement and propose a plausible specific alternative behavior to try next time."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH07-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-07",
+    "title": "Lee and Norris symbolic paper disposal",
+    "content": "Book structure: Notice a negative thought and imagine it written and discarded, or place it on ordinary scrap paper and safely dispose of it. Return to a grounded present action rather than treating disposal as literal cure. Timing: duration_unknown; optional illustration, no frequency stated",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-138",
+        "pdf_page": 138,
+        "printed_page": 128,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice a negative thought and imagine it written and discarded, or place it on ordinary scrap paper and safely dispose of it.",
+      "Return to a grounded present action rather than treating disposal as literal cure."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; optional illustration, no frequency stated",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 138,
+      "pdf_end": 138
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Bruce Lee visualization and Chuck Norris physical burning anecdote. PCI does NOT recommend burning paper or use of flame.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Notice a negative thought and imagine it written and discarded, or place it on ordinary scrap paper and safely dispose of it.",
+      "Return to a grounded present action rather than treating disposal as literal cure."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH07-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-07",
+    "title": "Gates’ pleasant-memory rehearsal",
+    "content": "Book structure: Deliberately recall a pleasant or constructive memory and consider a generous or useful intention. Gradually repeat if personally comfortable. Timing: regular practice; the cited Gates passage says gradually lengthen and reflect after a month, not 30 minutes daily",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-140",
+        "pdf_page": 140,
+        "printed_page": 130,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Deliberately recall a pleasant or constructive memory and consider a generous or useful intention.",
+      "Gradually repeat if personally comfortable."
+    ],
+    "timing_as_printed_or_paraphrased": "regular practice; the cited Gates passage says gradually lengthen and reflect after a month, not 30 minutes daily",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 140,
+      "pdf_end": 140
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Attribution: Elmer Gates, quoted by book. The book does not independently prove a month causes character change.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Deliberately recall a pleasant or constructive memory and consider a generous or useful intention.",
+      "Gradually repeat if personally comfortable."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH07-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-07",
+    "title": "Thirty-day shoe-order and daily-intention experiment",
+    "content": "Book structure: Notice which shoe is normally put on first and usual lace-tying motion. For the next 30 days choose the reverse order or another safe small change as a daily reminder. Use the reminder to attempt the 8 listed intentions: cheerfulness, friendliness, tolerance, acting toward a goal, fact/opinion separation, smiling three times, measured calm response, and letting go of unchangeable pessimistic claims. At the end observe any real-life changes without treating the timeline as universal. Timing: 30 days; each morning shoe cue; 3 smiles during each day among other daily intentions",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-142",
+        "pdf_page": 142,
+        "printed_page": 132,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice which shoe is normally put on first and usual lace-tying motion.",
+      "For the next 30 days choose the reverse order or another safe small change as a daily reminder.",
+      "Use the reminder to attempt the 8 listed intentions: cheerfulness, friendliness, tolerance, acting toward a goal, fact/opinion separation, smiling three times, measured calm response, and letting go of unchangeable pessimistic claims.",
+      "At the end observe any real-life changes without treating the timeline as universal."
+    ],
+    "timing_as_printed_or_paraphrased": "30 days; each morning shoe cue; 3 smiles during each day among other daily intentions",
+    "frequency_per_week": null,
+    "program_days": 30,
+    "page_range": {
+      "pdf_start": 142,
+      "pdf_end": 143
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Source exercise spans printed pp132–133. Do not force cheerfulness or ignore actionable risks; accessible adaptations can replace footwear.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Notice which shoe is normally put on first and usual lace-tying motion.",
+      "For the next 30 days choose the reverse order or another safe small change as a daily reminder.",
+      "Use the reminder to attempt the 8 listed intentions: cheerfulness, friendliness, tolerance, acting toward a goal, fact/opinion separation, smiling three times, measured calm response, and letting go of unchangeable pessimistic claims.",
+      "At the end observe any real-life changes without treating the timeline as universal."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Set a worthwhile future project",
+    "content": "Book structure: Identify a personally meaningful goal or project with forward progress possible. Include at least one impersonal goal or cause, chosen voluntarily, alongside personal goals. Timing: duration_unknown; continue to have forward-looking goals",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-147",
+        "pdf_page": 147,
+        "printed_page": 137,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Identify a personally meaningful goal or project with forward progress possible.",
+      "Include at least one impersonal goal or cause, chosen voluntarily, alongside personal goals."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; continue to have forward-looking goals",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 147,
+      "pdf_end": 147
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Purpose and engagement are valuable options; the book’s retirement/mortality claim must not be treated as medical fact.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Identify a personally meaningful goal or project with forward progress possible.",
+      "Include at least one impersonal goal or cause, chosen voluntarily, alongside personal goals."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Seek facts and acknowledge errors",
+    "content": "Book structure: Look for accurate information even when unpleasant. Consider the other person’s perspective; admit correctable mistakes, make repairs, and proceed. Timing: duration_unknown; in ordinary decisions and disagreements",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-149",
+        "pdf_page": 149,
+        "printed_page": 139,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Look for accurate information even when unpleasant.",
+      "Consider the other person’s perspective; admit correctable mistakes, make repairs, and proceed."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; in ordinary decisions and disagreements",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 149,
+      "pdf_end": 149
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Avoid self-attack; accountability and fact-checking are necessary, not optional.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Look for accurate information even when unpleasant.",
+      "Consider the other person’s perspective; admit correctable mistakes, make repairs, and proceed."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Small acts of courage",
+    "content": "Book structure: Choose a safe, feasible matter in which to act more decisively. Accept the possibility of modest error, take action, and use feedback to adjust. Timing: daily little things; no prescribed number of minutes or program days",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-151",
+        "pdf_page": 151,
+        "printed_page": 141,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose a safe, feasible matter in which to act more decisively.",
+      "Accept the possibility of modest error, take action, and use feedback to adjust."
+    ],
+    "timing_as_printed_or_paraphrased": "daily little things; no prescribed number of minutes or program days",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 151,
+      "pdf_end": 151
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Risk should be calibrated; never treat courage as permission for medical, legal or financial recklessness.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Choose a safe, feasible matter in which to act more decisively.",
+      "Accept the possibility of modest error, take action, and use feedback to adjust."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Three-part charity routine",
+    "content": "Book structure: Recognize another person’s dignity and individuality. Pause to consider their feelings, perspective and needs. Behave in a way that communicates their importance. Timing: duration_unknown; recurring interpersonal practice",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-153",
+        "pdf_page": 153,
+        "printed_page": 143,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Recognize another person’s dignity and individuality.",
+      "Pause to consider their feelings, perspective and needs.",
+      "Behave in a way that communicates their importance."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; recurring interpersonal practice",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 153,
+      "pdf_end": 153
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Religious justification appears in book; app need not require users to share it. Maintain boundaries.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Recognize another person’s dignity and individuality.",
+      "Pause to consider their feelings, perspective and needs.",
+      "Behave in a way that communicates their importance."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Esteem by fair comparison and respect",
+    "content": "Book structure: Stop using mismatched comparisons as a global verdict about personal worth. Recognize real strengths and victories while remembering mistakes are specific. Offer ordinary respect to others instead of trying to prove superiority. Timing: duration_unknown; recurring reflection and social practice",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-155",
+        "pdf_page": 155,
+        "printed_page": 145,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Stop using mismatched comparisons as a global verdict about personal worth.",
+      "Recognize real strengths and victories while remembering mistakes are specific.",
+      "Offer ordinary respect to others instead of trying to prove superiority."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; recurring reflection and social practice",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 155,
+      "pdf_end": 155
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "The book contains strong religious framing; no trait or worth score is appropriate.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Stop using mismatched comparisons as a global verdict about personal worth.",
+      "Recognize real strengths and victories while remembering mistakes are specific.",
+      "Offer ordinary respect to others instead of trying to prove superiority."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-006",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Recall concrete successes",
+    "content": "Book structure: Use errors as information and then shift attention toward a verified previous success. Before a new task recall specific successful actions and the effort behind them. Timing: duration_unknown; especially before a novel or difficult task",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-157",
+        "pdf_page": 157,
+        "printed_page": 147,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Use errors as information and then shift attention toward a verified previous success.",
+      "Before a new task recall specific successful actions and the effort behind them."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; especially before a novel or difficult task",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 157,
+      "pdf_end": 157
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Do not erase harmful mistakes or replace instruction and practice with memory imagery.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Use errors as information and then shift attention toward a verified previous success.",
+      "Before a new task recall specific successful actions and the effort behind them."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-007",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-acceptance and imperfection",
+    "content": "Book structure: Acknowledge a mistake and relevant shortcomings without making them a definition of the entire self. Choose a repair or learning step without self-hatred. Timing: duration_unknown; ongoing self-appraisal",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-159",
+        "pdf_page": 159,
+        "printed_page": 149,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Acknowledge a mistake and relevant shortcomings without making them a definition of the entire self.",
+      "Choose a repair or learning step without self-hatred."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; ongoing self-appraisal",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 159,
+      "pdf_end": 159
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Depression, eating disorders or addiction require appropriate care, not self-acceptance exercises alone.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Acknowledge a mistake and relevant shortcomings without making them a definition of the entire self.",
+      "Choose a repair or learning step without self-hatred."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH08-008",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-08",
+    "title": "Leave symbolic bricks in the car",
+    "content": "Book structure: Make a short list of burdens the book presents as unnecessary. If safe and practical, label physical bricks and keep them in a bag in a vehicle. In the morning and evening use the bag as a reminder to refrain from carrying those worries emotionally. Timing: morning departure and evening return; program length not specified",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 02 PyMuPDF full text-page review, extracted page images cross-checked for critical practices; page numbers retain physical PDF and printed offsets",
+      "attribution": "revised composite Maltz/Kennedy/Foundation text; no individual writer inferred unless explicitly attributed"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-19",
+      "change_note": "Stage 02 new record; permanent ID"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-164",
+        "pdf_page": 164,
+        "printed_page": 154,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Make a short list of burdens the book presents as unnecessary.",
+      "If safe and practical, label physical bricks and keep them in a bag in a vehicle.",
+      "In the morning and evening use the bag as a reminder to refrain from carrying those worries emotionally."
+    ],
+    "timing_as_printed_or_paraphrased": "morning departure and evening return; program length not specified",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 164,
+      "pdf_end": 164
+    },
+    "prerequisites": [
+      "voluntary participation",
+      "choose tasks appropriate to safety, resources and circumstances"
+    ],
+    "cautions": [
+      "Original book suggests actual bricks. PCI recommends lighter symbolic cards; do not keep unsecured heavy objects in a vehicle, impair driving or discard actual responsibilities.",
+      "Book prescription only; outcome not independently verified"
+    ],
+    "attribution": "Revised edition composite voice; specifically named outside source where indicated",
+    "steps_structured": [
+      "Make a short list of burdens the book presents as unnecessary.",
+      "If safe and practical, label physical bricks and keep them in a bag in a vehicle.",
+      "In the morning and evening use the bag as a reminder to refrain from carrying those worries emotionally."
+    ],
+    "duration_provenance": "chapter-specific directly inspected printed page",
+    "practice_status": "book_lodged_not_empirically_validated"
+  },
+  {
+    "id": "PCI-AP-CH09-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-09",
+    "title": "Glance at negatives, then refocus",
+    "content": "Book-described practice: Recognize warning signs as feedback rather than identity. Take suitable corrective action. Return primary attention to the objective.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Recognize warning signs as feedback rather than identity.",
+      "Take suitable corrective action.",
+      "Return primary attention to the objective."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; as warning signals arise",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 178,
+      "pdf_end": 179
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Recognize warning signs as feedback rather than identity.",
+      "Take suitable corrective action.",
+      "Return primary attention to the objective."
+    ],
+    "duration_provenance": "PDF page 178 / printed 168; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH09-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-09",
+    "title": "Golf-bunker style negative thinking",
+    "content": "Book-described practice: Notice genuine dangers or unhelpful patterns. Identify what to avoid and orient toward a viable positive target. Do not continue fixating on the warning.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice genuine dangers or unhelpful patterns.",
+      "Identify what to avoid and orient toward a viable positive target.",
+      "Do not continue fixating on the warning."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; whenever a genuine warning occurs",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 188,
+      "pdf_end": 189
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Notice genuine dangers or unhelpful patterns.",
+      "Identify what to avoid and orient toward a viable positive target.",
+      "Do not continue fixating on the warning."
+    ],
+    "duration_provenance": "PDF page 188 / printed 178; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH09-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-09",
+    "title": "End-of-day self-coaching review",
+    "content": "Book-described practice: In a quiet place review the days actions and strengths. Notice any recurring warning signals without self-loathing. Choose a feasible correction or apology only if safe. Recommit to personally important goals.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-188",
+        "pdf_page": 188,
+        "printed_page": 178,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "In a quiet place review the days actions and strengths.",
+      "Notice any recurring warning signals without self-loathing.",
+      "Choose a feasible correction or apology only if safe.",
+      "Recommit to personally important goals."
+    ],
+    "timing_as_printed_or_paraphrased": "A few minutes toward each day’s end; optional midday plus end-of-day",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 188,
+      "pdf_end": 189
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "In a quiet place review the days actions and strengths.",
+      "Notice any recurring warning signals without self-loathing.",
+      "Choose a feasible correction or apology only if safe.",
+      "Recommit to personally important goals."
+    ],
+    "duration_provenance": "PDF page 188 / printed 178; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH10-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-10",
+    "title": "Big and small potato visual reminder",
+    "content": "Book-described practice: Purchase or identify one small and one large potato. Place the contrast where it can be seen. Recall the metaphor of responding from a larger self-view.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-200",
+        "pdf_page": 200,
+        "printed_page": 190,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Purchase or identify one small and one large potato.",
+      "Place the contrast where it can be seen.",
+      "Recall the metaphor of responding from a larger self-view."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; see reminder during ordinary days",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 200,
+      "pdf_end": 201
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Purchase or identify one small and one large potato.",
+      "Place the contrast where it can be seen.",
+      "Recall the metaphor of responding from a larger self-view."
+    ],
+    "duration_provenance": "PDF page 200 / printed 190; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH10-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-10",
+    "title": "Daily relaxation and success diary",
+    "content": "Book-described practice: Take time to relax and destress. Record progress and accomplishments in a private success diary. Create a mental picture helpful during unfair criticism.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-203",
+        "pdf_page": 203,
+        "printed_page": 193,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Take time to relax and destress.",
+      "Record progress and accomplishments in a private success diary.",
+      "Create a mental picture helpful during unfair criticism."
+    ],
+    "timing_as_printed_or_paraphrased": "Each and every day; minutes unspecified",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 203,
+      "pdf_end": 204
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Take time to relax and destress.",
+      "Record progress and accomplishments in a private success diary.",
+      "Create a mental picture helpful during unfair criticism."
+    ],
+    "duration_provenance": "PDF page 203 / printed 193; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH10-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-10",
+    "title": "Therapeutic forgiveness as giving up resentment",
+    "content": "Book-described practice: Examine willingness to release a grievance rather than wield forgiveness as revenge. Distinguish internal release from contacting or trusting the other person.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-205",
+        "pdf_page": 205,
+        "printed_page": 195,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Examine willingness to release a grievance rather than wield forgiveness as revenge.",
+      "Distinguish internal release from contacting or trusting the other person."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; voluntary only; no obligatory forgiveness",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 205,
+      "pdf_end": 206
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Examine willingness to release a grievance rather than wield forgiveness as revenge.",
+      "Distinguish internal release from contacting or trusting the other person."
+    ],
+    "duration_provenance": "PDF page 205 / printed 195; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH10-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-10",
+    "title": "Self-forgiveness instead of permanent condemnation",
+    "content": "Book-described practice: Notice blame, remorse or excessive guilt about previous actions. Separate feasible accountability from global self-judgment.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-207",
+        "pdf_page": 207,
+        "printed_page": 197,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice blame, remorse or excessive guilt about previous actions.",
+      "Separate feasible accountability from global self-judgment."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; context driven",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 207,
+      "pdf_end": 208
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Notice blame, remorse or excessive guilt about previous actions.",
+      "Separate feasible accountability from global self-judgment."
+    ],
+    "duration_provenance": "PDF page 207 / printed 197; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH10-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-10",
+    "title": "21-day forgiveness and self-forgiveness reflection",
+    "content": "Book-described practice: Book asks reader to select 1 or 2 people toward whom resentment is held and work toward forgiveness, including action toward them. Book also asks reader to identify a previous personal mistake and work toward self-forgiveness. PCI adaptation must never compel forgiveness, renewed contact, disclosure or a rigid schedule.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-211",
+        "pdf_page": 211,
+        "printed_page": 201,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Book asks reader to select 1 or 2 people toward whom resentment is held and work toward forgiveness, including action toward them.",
+      "Book also asks reader to identify a previous personal mistake and work toward self-forgiveness.",
+      "PCI adaptation must never compel forgiveness, renewed contact, disclosure or a rigid schedule."
+    ],
+    "timing_as_printed_or_paraphrased": "Original: 30 minutes daily for 21 consecutive days; do not impose outside this Chapter 10 author prescription",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 211,
+      "pdf_end": 212
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Book asks reader to select 1 or 2 people toward whom resentment is held and work toward forgiveness, including action toward them.",
+      "Book also asks reader to identify a previous personal mistake and work toward self-forgiveness.",
+      "PCI adaptation must never compel forgiveness, renewed contact, disclosure or a rigid schedule."
+    ],
+    "duration_provenance": "PDF page 211 / printed 201; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH11-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-11",
+    "title": "Speak spontaneously in a low-stakes setting",
+    "content": "Book-described practice: Try speaking without writing every word in advance. Permit revision after feedback rather than constantly interrupting yourself.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Try speaking without writing every word in advance.",
+      "Permit revision after feedback rather than constantly interrupting yourself."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; when opportunity safely arises",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 232,
+      "pdf_end": 233
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Try speaking without writing every word in advance.",
+      "Permit revision after feedback rather than constantly interrupting yourself."
+    ],
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH11-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-11",
+    "title": "Act and correct ordinary reversible actions",
+    "content": "Book-described practice: Begin a harmless ordinary activity with enough preparation. Use feedback to make adjustments afterward.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Begin a harmless ordinary activity with enough preparation.",
+      "Use feedback to make adjustments afterward."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; no instruction to act recklessly",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 232,
+      "pdf_end": 233
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Begin a harmless ordinary activity with enough preparation.",
+      "Use feedback to make adjustments afterward."
+    ],
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH11-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-11",
+    "title": "Reduce continual self-criticism",
+    "content": "Book-described practice: Observe second-guessing after everyday actions. Interrupt excessive self-reproach and return attention to the task.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-232",
+        "pdf_page": 232,
+        "printed_page": 222,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Observe second-guessing after everyday actions.",
+      "Interrupt excessive self-reproach and return attention to the task."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; during repetitive self-criticism",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 232,
+      "pdf_end": 233
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Observe second-guessing after everyday actions.",
+      "Interrupt excessive self-reproach and return attention to the task."
+    ],
+    "duration_provenance": "PDF page 232 / printed 222; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH11-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-11",
+    "title": "Practice a more audible voice",
+    "content": "Book-described practice: Speak a little louder when appropriate. Keep the tone respectful rather than shouting.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Speak a little louder when appropriate.",
+      "Keep the tone respectful rather than shouting."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice when appropriate",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 233,
+      "pdf_end": 233
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Speak a little louder when appropriate.",
+      "Keep the tone respectful rather than shouting."
+    ],
+    "duration_provenance": "PDF page 233 / printed 223; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH11-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-11",
+    "title": "Specific compliments and affection",
+    "content": "Book-described practice: Offer direct genuine compliments to people who welcome them. Express positive regard in appropriate existing relationships.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-233",
+        "pdf_page": 233,
+        "printed_page": 223,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Offer direct genuine compliments to people who welcome them.",
+      "Express positive regard in appropriate existing relationships."
+    ],
+    "timing_as_printed_or_paraphrased": "At least three compliments each day; chapter also suggests “I love you” to spouse twice daily if married; use consent and cultural sensitivity",
+    "frequency_per_week": 7,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 233,
+      "pdf_end": 233
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Offer direct genuine compliments to people who welcome them.",
+      "Express positive regard in appropriate existing relationships."
+    ],
+    "duration_provenance": "PDF page 233 / printed 223; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Let the nonurgent telephone ring",
+    "content": "Book-described practice: Visualize sitting relaxed as an unimportant phone rings. Recognize that responding is a choice.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-235",
+        "pdf_page": 235,
+        "printed_page": 225,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Visualize sitting relaxed as an unimportant phone rings.",
+      "Recognize that responding is a choice."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; practice only when nonurgent",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 235,
+      "pdf_end": 236
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Visualize sitting relaxed as an unimportant phone rings.",
+      "Recognize that responding is a choice."
+    ],
+    "duration_provenance": "PDF page 235 / printed 225; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Delay a habitual reply",
+    "content": "Book-described practice: When a request is not urgent, delay the immediate automatic response. The book suggests counting slowly to ten when angry and reports Mary S. delaying leaving crowds by two minutes; these are distinct example timings. Check what action is actually appropriate; never delay an urgent safety response.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-238",
+        "pdf_page": 238,
+        "printed_page": 228,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "When a request is not urgent, delay the immediate automatic response.",
+      "The book suggests counting slowly to ten when angry and reports Mary S. delaying leaving crowds by two minutes; these are distinct example timings.",
+      "Check what action is actually appropriate; never delay an urgent safety response."
+    ],
+    "timing_as_printed_or_paraphrased": "Book suggestions: slowly count to ten (about ten seconds) for anger; anecdote reports a two-minute delay for a fear-of-crowds response. Not universal clinical exposure guidance",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 238,
+      "pdf_end": 239
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "When a request is not urgent, delay the immediate automatic response.",
+      "The book suggests counting slowly to ten when angry and reports Mary S. delaying leaving crowds by two minutes; these are distinct example timings.",
+      "Check what action is actually appropriate; never delay an urgent safety response."
+    ],
+    "duration_provenance": "PDF page 238 / printed 228; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Design an imaginary quiet room",
+    "content": "Book-described practice: Create a comfortable internal room with calming details. Mentally enter it as a break from nonurgent stimuli.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-240",
+        "pdf_page": 240,
+        "printed_page": 230,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Create a comfortable internal room with calming details.",
+      "Mentally enter it as a break from nonurgent stimuli."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; use voluntarily",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 240,
+      "pdf_end": 241
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Create a comfortable internal room with calming details.",
+      "Mentally enter it as a break from nonurgent stimuli."
+    ],
+    "duration_provenance": "PDF page 240 / printed 230; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Daily brief mental vacation",
+    "content": "Book-described practice: Schedule a brief restorative quiet interval. Return to the relevant work or ask for help after the break.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-242",
+        "pdf_page": 242,
+        "printed_page": 232,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Schedule a brief restorative quiet interval.",
+      "Return to the relevant work or ask for help after the break."
+    ],
+    "timing_as_printed_or_paraphrased": "Whenever a few spare moments arise; the author states just a very few minutes; no fixed daily minimum specified",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 242,
+      "pdf_end": 243
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Schedule a brief restorative quiet interval.",
+      "Return to the relevant work or ask for help after the break."
+    ],
+    "duration_provenance": "PDF page 242 / printed 232; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator mental reset",
+    "content": "Book-described practice: Imagine clearing an earlier concern from the mental screen. Redirect attention toward the immediate next task.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-246",
+        "pdf_page": 246,
+        "printed_page": 236,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Imagine clearing an earlier concern from the mental screen.",
+      "Redirect attention toward the immediate next task."
+    ],
+    "timing_as_printed_or_paraphrased": "Can occur in a few seconds; exact routine flexible",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 246,
+      "pdf_end": 247
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Imagine clearing an earlier concern from the mental screen.",
+      "Redirect attention toward the immediate next task."
+    ],
+    "duration_provenance": "PDF page 246 / printed 236; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-006",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear-the-calculator prescription and follow-on rehearsal",
+    "content": "Book-described practice: Create your own clearing visual cue. Practice the cue and then mentally picture the next task.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-247",
+        "pdf_page": 247,
+        "printed_page": 237,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Create your own clearing visual cue.",
+      "Practice the cue and then mentally picture the next task."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; repeated practice advised; no universal 40 repetitions",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 247,
+      "pdf_end": 248
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Create your own clearing visual cue.",
+      "Practice the cue and then mentally picture the next task."
+    ],
+    "duration_provenance": "PDF page 247 / printed 237; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH12-007",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-12",
+    "title": "Telephone nonresponse mental training",
+    "content": "Book-described practice: Visualize remaining composed during a ringing phone. Transfer the chosen poise to nonurgent interruptions. Picture handling daily tasks one by one despite distracting cues.",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-251",
+        "pdf_page": 251,
+        "printed_page": 241,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Visualize remaining composed during a ringing phone.",
+      "Transfer the chosen poise to nonurgent interruptions.",
+      "Picture handling daily tasks one by one despite distracting cues."
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown; repeat in everyday suitable situations",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 251,
+      "pdf_end": 252
+    },
+    "prerequisites": [
+      "fully voluntary participation",
+      "safe setting and no urgent hazard"
+    ],
+    "cautions": [
+      "When triggering distress, stop or skip. Do not use instead of clinical assessment or treatment.",
+      "The original advice may require modern ethical adaptation in PCI; no forced forgiveness or exposure."
+    ],
+    "attribution": "Composite Maltz/Kennedy/Foundation revised edition unless editorial note clearly names another speaker",
+    "steps_structured": [
+      "Visualize remaining composed during a ringing phone.",
+      "Transfer the chosen poise to nonurgent interruptions.",
+      "Picture handling daily tasks one by one despite distracting cues."
+    ],
+    "duration_provenance": "PDF page 251 / printed 241; exact timing preserved when explicitly described; unknown otherwise",
+    "practice_status": "book_directed_practice_or_prescription; verified source location; not independently outcome-validated"
+  },
+  {
+    "id": "PCI-AP-CH13-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Prepare, approach and appraise",
+    "content": "Revised-edition described practice, not an independently tested intervention: Rehearse a skill outside a high-stakes event; Frame the event as a challenge linked to a realistic objective; Compare actual risk with perceived stakes",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-255",
+        "pdf_page": 255,
+        "printed_page": 245,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Rehearse a skill outside a high-stakes event",
+      "Frame the event as a challenge linked to a realistic objective",
+      "Compare actual risk with perceived stakes"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 255,
+      "pdf_end": 255
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "No general crisis guarantee",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Rehearse a skill outside a high-stakes event",
+      "Frame the event as a challenge linked to a realistic objective",
+      "Compare actual risk with perceived stakes"
+    ],
+    "duration_provenance": "PDF p.255 / printed p.245; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Safe drill before the emergency",
+    "content": "Revised-edition described practice, not an independently tested intervention: Practice an authorized response in ordinary conditions; Review alternative routes within official procedures",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-257",
+        "pdf_page": 257,
+        "printed_page": 247,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Practice an authorized response in ordinary conditions",
+      "Review alternative routes within official procedures"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 257,
+      "pdf_end": 257
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Never manufacture actual danger or substitute for official safety training",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Practice an authorized response in ordinary conditions",
+      "Review alternative routes within official procedures"
+    ],
+    "duration_provenance": "PDF p.257 / printed p.247; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Private shadow-boxing",
+    "content": "Revised-edition described practice, not an independently tested intervention: Pick one real performance to rehearse; Practice a short sequence without an audience; Use feedback from later real-world performance",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-258",
+        "pdf_page": 258,
+        "printed_page": 248,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Pick one real performance to rehearse",
+      "Practice a short sequence without an audience",
+      "Use feedback from later real-world performance"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 258,
+      "pdf_end": 258
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Historical combat accounts are not practice recommendations",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Pick one real performance to rehearse",
+      "Practice a short sequence without an audience",
+      "Use feedback from later real-world performance"
+    ],
+    "duration_provenance": "PDF p.258 / printed p.248; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Watch without trying to hit",
+    "content": "Revised-edition described practice, not an independently tested intervention: In the cited baseball anecdote, watch ten pitches without swinging; Reintroduce anticipation and finally a gentle hit",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-260",
+        "pdf_page": 260,
+        "printed_page": 250,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "In the cited baseball anecdote, watch ten pitches without swinging",
+      "Reintroduce anticipation and finally a gentle hit"
+    ],
+    "timing_as_printed_or_paraphrased": "ten pitches, anecdote not general protocol",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 260,
+      "pdf_end": 260
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Sport context only and with safe, appropriate supervision",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "In the cited baseball anecdote, watch ten pitches without swinging",
+      "Reintroduce anticipation and finally a gentle hit"
+    ],
+    "duration_provenance": "PDF p.260 / printed p.250; ten pitches, anecdote not general protocol. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Reinterpret mild nerves as excitement",
+    "content": "Revised-edition described practice, not an independently tested intervention: For ordinary pre-performance nerves, note heightened arousal; Orient attention toward a positive, feasible task",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-264",
+        "pdf_page": 264,
+        "printed_page": 254,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "For ordinary pre-performance nerves, note heightened arousal",
+      "Orient attention toward a positive, feasible task"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 264,
+      "pdf_end": 264
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Do not dismiss panic or severe anxiety",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "For ordinary pre-performance nerves, note heightened arousal",
+      "Orient attention toward a positive, feasible task"
+    ],
+    "duration_provenance": "PDF p.264 / printed p.254; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-006",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Assess worst-case realistically",
+    "content": "Revised-edition described practice, not an independently tested intervention: Consider the worst plausible outcome for a manageable worry; Consider recovery and alternatives; Reconnect with proportionate stakes",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-268",
+        "pdf_page": 268,
+        "printed_page": 258,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Consider the worst plausible outcome for a manageable worry",
+      "Consider recovery and alternatives",
+      "Reconnect with proportionate stakes"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 268,
+      "pdf_end": 268
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Avoid minimization of trauma, abuse or danger",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Consider the worst plausible outcome for a manageable worry",
+      "Consider recovery and alternatives",
+      "Reconnect with proportionate stakes"
+    ],
+    "duration_provenance": "PDF p.268 / printed p.258; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH13-007",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-13",
+    "title": "Create hindsight as foresight",
+    "content": "Revised-edition described practice, not an independently tested intervention: Recall modest past worries that later proved manageable; Imagine looking back 3–5 years from now at one current concern; Distinguish likely from catastrophic impact",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-270",
+        "pdf_page": 270,
+        "printed_page": 260,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Recall modest past worries that later proved manageable",
+      "Imagine looking back 3–5 years from now at one current concern",
+      "Distinguish likely from catastrophic impact"
+    ],
+    "timing_as_printed_or_paraphrased": "three, four or five years future perspective; session duration unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 270,
+      "pdf_end": 270
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Source text closing practice; optional and not for urgent danger",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "steps_structured": [
+      "Recall modest past worries that later proved manageable",
+      "Imagine looking back 3–5 years from now at one current concern",
+      "Distinguish likely from catastrophic impact"
+    ],
+    "duration_provenance": "PDF p.270 / printed p.260; three, four or five years future perspective; session duration unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "updated_edition_editor"
+  },
+  {
+    "id": "PCI-AP-CH14-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "Revisit a remembered success",
+    "content": "Revised-edition described practice, not an independently tested intervention: Choose a past completed task; Reconstruct setting, sounds and feelings; Apply one transferable skill to a current task",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-282",
+        "pdf_page": 282,
+        "printed_page": 272,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose a past completed task",
+      "Reconstruct setting, sounds and feelings",
+      "Apply one transferable skill to a current task"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 282,
+      "pdf_end": 282
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Avoid false memory certainty",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Choose a past completed task",
+      "Reconstruct setting, sounds and feelings",
+      "Apply one transferable skill to a current task"
+    ],
+    "duration_provenance": "PDF p.282 / printed p.272; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH14-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "Constructive positive supposing",
+    "content": "Revised-edition described practice, not an independently tested intervention: Outline a desirable plausible outcome; Consider it as a possibility; Rehearse likely actions without demanding certainty",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-283",
+        "pdf_page": 283,
+        "printed_page": 273,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Outline a desirable plausible outcome",
+      "Consider it as a possibility",
+      "Rehearse likely actions without demanding certainty"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 283,
+      "pdf_end": 283
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "No guaranteed outcome",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Outline a desirable plausible outcome",
+      "Consider it as a possibility",
+      "Rehearse likely actions without demanding certainty"
+    ],
+    "duration_provenance": "PDF p.283 / printed p.273; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH14-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "Arrange small attainable wins",
+    "content": "Revised-edition described practice, not an independently tested intervention: Begin with a realistic practice step; Confirm actual completion; Increase difficulty gradually",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-280",
+        "pdf_page": 280,
+        "printed_page": 270,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Begin with a realistic practice step",
+      "Confirm actual completion",
+      "Increase difficulty gradually"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 280,
+      "pdf_end": 280
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Do not avoid essential challenge forever",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Begin with a realistic practice step",
+      "Confirm actual completion",
+      "Increase difficulty gradually"
+    ],
+    "duration_provenance": "PDF p.280 / printed p.270; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH14-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "Substitute a neutral or constructive focus",
+    "content": "Revised-edition described practice, not an independently tested intervention: Notice a worry spiral; Replace repeated negative imagery with a benign alternate focus; Return to appropriate practical problem-solving",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-286",
+        "pdf_page": 286,
+        "printed_page": 276,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Notice a worry spiral",
+      "Replace repeated negative imagery with a benign alternate focus",
+      "Return to appropriate practical problem-solving"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 286,
+      "pdf_end": 286
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Not a clinical anxiety treatment",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Notice a worry spiral",
+      "Replace repeated negative imagery with a benign alternate focus",
+      "Return to appropriate practical problem-solving"
+    ],
+    "duration_provenance": "PDF p.286 / printed p.276; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH14-005",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "Debate an alternative self-interpretation",
+    "content": "Revised-edition described practice, not an independently tested intervention: Examine an inhibiting opinion about yourself; Form a fair opposing interpretation; Seek behavioral evidence for both",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-278",
+        "pdf_page": 278,
+        "printed_page": 268,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Examine an inhibiting opinion about yourself",
+      "Form a fair opposing interpretation",
+      "Seek behavioral evidence for both"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 278,
+      "pdf_end": 278
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Do not force an untrue affirmation",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Examine an inhibiting opinion about yourself",
+      "Form a fair opposing interpretation",
+      "Seek behavioral evidence for both"
+    ],
+    "duration_provenance": "PDF p.278 / printed p.268; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH14-006",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-14",
+    "title": "I am the kind of person affirmation",
+    "content": "Revised-edition described practice, not an independently tested intervention: Choose an action-linked self-description; Repeat it as an aspirational statement; Connect it to daily behavior",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-289",
+        "pdf_page": 289,
+        "printed_page": 279,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose an action-linked self-description",
+      "Repeat it as an aspirational statement",
+      "Connect it to daily behavior"
+    ],
+    "timing_as_printed_or_paraphrased": "until habitual according to book; exact minutes/days unspecified",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 289,
+      "pdf_end": 289
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Book claims habit formation, not verified duration or guarantee",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "steps_structured": [
+      "Choose an action-linked self-description",
+      "Repeat it as an aspirational statement",
+      "Connect it to daily behavior"
+    ],
+    "duration_provenance": "PDF p.289 / printed p.279; until habitual according to book; exact minutes/days unspecified. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "updated_edition_editor"
+  },
+  {
+    "id": "PCI-AP-CH15-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-15",
+    "title": "Maintain a personally meaningful future goal",
+    "content": "Revised-edition described practice, not an independently tested intervention: Select an enjoyable, achievable future-oriented activity; Set a next step and engage with other people if appropriate",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-299",
+        "pdf_page": 299,
+        "printed_page": 289,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Select an enjoyable, achievable future-oriented activity",
+      "Set a next step and engage with other people if appropriate"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 299,
+      "pdf_end": 299
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "No cure or antiaging claim",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Select an enjoyable, achievable future-oriented activity",
+      "Set a next step and engage with other people if appropriate"
+    ],
+    "duration_provenance": "PDF p.299 / printed p.289; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH15-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-15",
+    "title": "Nostalgia for the future",
+    "content": "Revised-edition described practice, not an independently tested intervention: Focus on constructive future experiences instead of exclusively reliving the past; Choose an engaging project or connection",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-301",
+        "pdf_page": 301,
+        "printed_page": 291,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Focus on constructive future experiences instead of exclusively reliving the past",
+      "Choose an engaging project or connection"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 301,
+      "pdf_end": 301
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Do not demand optimism during grief or illness",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Focus on constructive future experiences instead of exclusively reliving the past",
+      "Choose an engaging project or connection"
+    ],
+    "duration_provenance": "PDF p.301 / printed p.291; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH15-003",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-15",
+    "title": "Retire from a job, remain engaged",
+    "content": "Revised-edition described practice, not an independently tested intervention: Consider nonwork interests after career changes; Participate when capacity, access and choice permit",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-302",
+        "pdf_page": 302,
+        "printed_page": 292,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Consider nonwork interests after career changes",
+      "Participate when capacity, access and choice permit"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 302,
+      "pdf_end": 302
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Rest and retirement are valid; do not shame inactivity or disability",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Consider nonwork interests after career changes",
+      "Participate when capacity, access and choice permit"
+    ],
+    "duration_provenance": "PDF p.302 / printed p.292; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH15-004",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-15",
+    "title": "Seek suitable assistance",
+    "content": "Revised-edition described practice, not an independently tested intervention: Consider different supportive resources; Use rational judgment to choose safe, effective options; Ask for help where useful",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-305",
+        "pdf_page": 305,
+        "printed_page": 295,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Consider different supportive resources",
+      "Use rational judgment to choose safe, effective options",
+      "Ask for help where useful"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 305,
+      "pdf_end": 305
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Never substitute spiritual suggestions for medical care",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Composite revised edition; provenance is not individually separable",
+    "steps_structured": [
+      "Consider different supportive resources",
+      "Use rational judgment to choose safe, effective options",
+      "Ask for help where useful"
+    ],
+    "duration_provenance": "PDF p.305 / printed p.295; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "uncertain"
+  },
+  {
+    "id": "PCI-AP-CH16-001",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-16",
+    "title": "Test limiting truths",
+    "content": "Revised-edition described practice, not an independently tested intervention: Choose one inhibiting belief you want to examine; Compare it with observable evidence; Try an appropriate action if safe",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-309",
+        "pdf_page": 309,
+        "printed_page": 299,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose one inhibiting belief you want to examine",
+      "Compare it with observable evidence",
+      "Try an appropriate action if safe"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 309,
+      "pdf_end": 309
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "Avoid interpreting testimonials as promises",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "steps_structured": [
+      "Choose one inhibiting belief you want to examine",
+      "Compare it with observable evidence",
+      "Try an appropriate action if safe"
+    ],
+    "duration_provenance": "PDF p.309 / printed p.299; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "updated_edition_editor"
+  },
+  {
+    "id": "PCI-AP-CH16-002",
+    "type": "author_practice",
+    "chapter_id": "PCI-CH-16",
+    "title": "Act on a concrete goal",
+    "content": "Revised-edition described practice, not an independently tested intervention: Choose a feasible real-world action rather than visualization alone; Perform it if safe; Observe the outcome",
+    "source_type": "author_practice",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage 04: direct review of PDF text per page 253–316; selected first/last page-image spot checks; content cited to actual PDF pages; no external scientific research",
+      "attribution": "Composite revised-edition narrative (Maltz/Kennedy/Foundation); individual authorship uncertain unless the source marks it"
+    },
+    "source_status": "verified_in_pdf",
+    "evidence_status": "book_assertion_only",
+    "content_owner": "source_research",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage04 additive, stable permanent ID; empirical findings not assumed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-316",
+        "pdf_page": 316,
+        "printed_page": 306,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "instructions": [
+      "Choose a feasible real-world action rather than visualization alone",
+      "Perform it if safe",
+      "Observe the outcome"
+    ],
+    "timing_as_printed_or_paraphrased": "duration_unknown",
+    "frequency_per_week": null,
+    "program_days": null,
+    "page_range": {
+      "pdf_start": 316,
+      "pdf_end": 316
+    },
+    "prerequisites": [
+      "Voluntary choice",
+      "Safe, appropriate nonclinical context"
+    ],
+    "cautions": [
+      "The source is general encouragement, not a clinical program",
+      "May skip or stop; no clinical or medical promises; do not force forgiveness, confrontation, exposure or risky equipment use."
+    ],
+    "attribution": "Updated-edition narrator/added exercise attributed conservatively",
+    "steps_structured": [
+      "Choose a feasible real-world action rather than visualization alone",
+      "Perform it if safe",
+      "Observe the outcome"
+    ],
+    "duration_provenance": "PDF p.316 / printed p.306; duration_unknown. Distinguish anecdotal numbers from instructions.",
+    "practice_status": "author/editor-described action; primary source located",
+    "exercise_origin": "updated_edition_editor"
+  }
+]

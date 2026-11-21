@@ -1,0 +1,177 @@
+{
+  "status": "PASS",
+  "passed": 34,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "original knowledge/activity/personalization research files byte-for-byte preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "16 real chapters indexed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "201 canonical concepts indexed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "21 distinct daily curriculum records",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "canonical stage07 curriculum preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "12 structured rehearsal records",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "201 full concept objects preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "32 full stage06 activities preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "16 original branching scenarios preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "109 graph edges preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "16 separate chapter concept files",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concepts full source fields unchanged and IDs preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "activities full source fields unchanged and IDs preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "scenarios full source fields unchanged and IDs preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "relationships full source fields unchanged and IDs preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no duplicate public content IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "concept index resolves to full documents",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source refs contain actual pdf page and printed-page metadata",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "readable evidence/source status present",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "25 Stage07 private stores and DB v2 declared",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "private-store names identical to Stage07 contract",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "user notes written through IndexedDB repository",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "backup envelope compatible with Stage07 v2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no full PDF or private fixture shipped in public",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "runtime public bytes no confidential user profile",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all ten fixed module routes present",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "unknown hash recovery implemented",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "hash routing supports static hosting",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no invented or misleading static user progress; local record creation preserved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source limitations and non-diagnostic framing visible",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile responsive stylesheet with reduced-motion support",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "React 18 and Vite dependencies declared",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Vite base relative for static GitHub Pages",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no forged package-lock generated",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "PCI-SEC-CH01-01",
+    "chapter_id": "PCI-CH-01",
+    "title": "Once Difficult, Now Easy",
+    "pdf_start": 12,
+    "pdf_end": 12,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-01",
+    "original_record_sha256": "473669208c725bb168590b418722f804632c329d4c21fb7e4d173b4d0a4807d3"
+  },
+  {
+    "id": "PCI-SEC-CH01-02",
+    "chapter_id": "PCI-CH-01",
+    "title": "Your Secret Blueprint",
+    "pdf_start": 12,
+    "pdf_end": 13,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-02",
+    "original_record_sha256": "93793f286640aa0a3c0bf41860b3853bf1a3108377a0ecafe38667d52f7b858d"
+  },
+  {
+    "id": "PCI-SEC-CH01-03",
+    "chapter_id": "PCI-CH-01",
+    "title": "The Snap-Back Effect",
+    "pdf_start": 13,
+    "pdf_end": 15,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-03",
+    "original_record_sha256": "80617fe56bd3e08537a7eb5ab72f294576f07af2180cc42fd370464dc41bc33b"
+  },
+  {
+    "id": "PCI-SEC-CH01-04",
+    "chapter_id": "PCI-CH-01",
+    "title": "Success from the Inside Out, Not the Outside In",
+    "pdf_start": 15,
+    "pdf_end": 16,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-04",
+    "original_record_sha256": "c2500c18aeaedebe9eee6f9822dd2a9621166ad7b119044b0075a8c26489a85d"
+  },
+  {
+    "id": "PCI-SEC-CH01-05",
+    "chapter_id": "PCI-CH-01",
+    "title": "A System of Ideas",
+    "pdf_start": 16,
+    "pdf_end": 17,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-05",
+    "original_record_sha256": "06930cc88fc8d4ca19e7e5b5562bc04de2446fbbcc533a067ef960eb208a5553"
+  },
+  {
+    "id": "PCI-SEC-CH01-06",
+    "chapter_id": "PCI-CH-01",
+    "title": "How a Plastic Surgeon Became Interested in Self-Image Psychology",
+    "pdf_start": 17,
+    "pdf_end": 19,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-06",
+    "original_record_sha256": "92098cc2af5f8c328913f6aa824a1264f6db156cf23e1f190c075b1b37e2d05c"
+  },
+  {
+    "id": "PCI-SEC-CH01-07",
+    "chapter_id": "PCI-CH-01",
+    "title": "Scars That Bring Pride Instead of Shame",
+    "pdf_start": 19,
+    "pdf_end": 20,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-07",
+    "original_record_sha256": "f63a7dd82c42018962277887b46811f430b548ba5ce2f270ab14881ec7cd928a"
+  },
+  {
+    "id": "PCI-SEC-CH01-08",
+    "chapter_id": "PCI-CH-01",
+    "title": "The Mystery of Imaginary Ugliness",
+    "pdf_start": 20,
+    "pdf_end": 21,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-08",
+    "original_record_sha256": "6b230da8c37a01e26c9e6dd606615e512a8896875bdee732a5605556871154de"
+  },
+  {
+    "id": "PCI-SEC-CH01-09",
+    "chapter_id": "PCI-CH-01",
+    "title": "Why Are the Rich and Powerful Unhappy?",
+    "pdf_start": 21,
+    "pdf_end": 21,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-09",
+    "original_record_sha256": "7d0837242ba3618411f1bd0d830c7c2ed52cfcd929d589418d6d9cc6cbacecf6"
+  },
+  {
+    "id": "PCI-SEC-CH01-10",
+    "chapter_id": "PCI-CH-01",
+    "title": "The Self-Image: The Real Secret",
+    "pdf_start": 21,
+    "pdf_end": 22,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-10",
+    "original_record_sha256": "ac95de409ee03f3032f60f0df2824d6b5e2a1d15eee5d7b240c09f4719d4bc24"
+  },
+  {
+    "id": "PCI-SEC-CH01-11",
+    "chapter_id": "PCI-CH-01",
+    "title": "I Begin a New Career",
+    "pdf_start": 22,
+    "pdf_end": 23,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-11",
+    "original_record_sha256": "581b382826b6c36f73bcef302d23b122e4ecfd06e5e96b22bb77418ab0038719"
+  },
+  {
+    "id": "PCI-SEC-CH01-12",
+    "chapter_id": "PCI-CH-01",
+    "title": "Your New Program for Liberated Living",
+    "pdf_start": 23,
+    "pdf_end": 24,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-12",
+    "original_record_sha256": "dfcbd2f248e4bffc4a6da9df4696297ec1a6dbeb5848bfeda60a913500307901"
+  },
+  {
+    "id": "PCI-SEC-CH01-13",
+    "chapter_id": "PCI-CH-01",
+    "title": "New Scientific Insights into the Subconscious Mind",
+    "pdf_start": 24,
+    "pdf_end": 28,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-13",
+    "original_record_sha256": "4c32b7d94acd89bef57466a1be025b91acf4d71c6ea94c313a87a228b9269b5b"
+  },
+  {
+    "id": "PCI-SEC-CH01-14",
+    "chapter_id": "PCI-CH-01",
+    "title": "All Those Who Have Benefited from Psycho-Cybernetics",
+    "pdf_start": 28,
+    "pdf_end": 32,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-14",
+    "original_record_sha256": "2fba2c3f4b2d2b29a835840d82e99b09a948224a52bdcb563828d2fccaa74b28"
+  },
+  {
+    "id": "PCI-SEC-CH01-15",
+    "chapter_id": "PCI-CH-01",
+    "title": "But What About Genetics or Natural Talent?",
+    "pdf_start": 32,
+    "pdf_end": 33,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-15",
+    "original_record_sha256": "94aa0696ba83e74e4b23c1461103b7fd7353e8be0e7cb1355eb003b74bda024f"
+  },
+  {
+    "id": "PCI-SEC-CH01-16",
+    "chapter_id": "PCI-CH-01",
+    "title": "Prescription: Role-Model Scrapbooks",
+    "pdf_start": 33,
+    "pdf_end": 34,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-16",
+    "original_record_sha256": "7d63af0d16a47375f131b097ee4501e6faa362edd2d7250d70d8f80a865f46e5"
+  },
+  {
+    "id": "PCI-SEC-CH01-17",
+    "chapter_id": "PCI-CH-01",
+    "title": "Mental Training Exercise: Imagined Mentor",
+    "pdf_start": 34,
+    "pdf_end": 34,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH01-17",
+    "original_record_sha256": "06623d3bbb6dc10ee3ffa8f4579e50ba2404051cb9876de3f338d0e445da101a"
+  },
+  {
+    "id": "PCI-SEC-CH02-01",
+    "chapter_id": "PCI-CH-02",
+    "title": "Your Built-In Guidance System",
+    "pdf_start": 36,
+    "pdf_end": 36,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-01",
+    "original_record_sha256": "46566fb7f2f6828829d5cb5ee0a4cbb2cf518fe3ae038bd8081420b658be9986"
+  },
+  {
+    "id": "PCI-SEC-CH02-02",
+    "chapter_id": "PCI-CH-02",
+    "title": "The Success Instinct in Action",
+    "pdf_start": 36,
+    "pdf_end": 39,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-02",
+    "original_record_sha256": "edb0940d83bc6dfab460231c430cda00a5e2544a651a0defeb5688a23a2a7d65"
+  },
+  {
+    "id": "PCI-SEC-CH02-03",
+    "chapter_id": "PCI-CH-02",
+    "title": "How Your Automatic Success Mechanism Works",
+    "pdf_start": 39,
+    "pdf_end": 40,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-03",
+    "original_record_sha256": "52d95642d9a8b12b1e66682d9ec65cc1ce0e62fa469e766cdf35eca2e5e5861e"
+  },
+  {
+    "id": "PCI-SEC-CH02-04",
+    "chapter_id": "PCI-CH-02",
+    "title": "Understanding the Two General Types of Servo-Mechanisms",
+    "pdf_start": 40,
+    "pdf_end": 43,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-04",
+    "original_record_sha256": "664268f9b21b403c6c6d5d200a0f698e2c0adce10133c1d4378dec2092a24731"
+  },
+  {
+    "id": "PCI-SEC-CH02-05",
+    "chapter_id": "PCI-CH-02",
+    "title": "How Your Brain Finds Answers to Problems",
+    "pdf_start": 43,
+    "pdf_end": 44,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-05",
+    "original_record_sha256": "014315a208871927d8769a919fb9cabc959d8c3e643b8edc76c09590f3fba127"
+  },
+  {
+    "id": "PCI-SEC-CH02-06",
+    "chapter_id": "PCI-CH-02",
+    "title": "A Look at the Automatic Mechanism in Action",
+    "pdf_start": 44,
+    "pdf_end": 44,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-06",
+    "original_record_sha256": "afa531d29b8c6217321b5670dc94bd389f5b85013dce37bc9ab1a8aabdacfeef"
+  },
+  {
+    "id": "PCI-SEC-CH02-07",
+    "chapter_id": "PCI-CH-02",
+    "title": "Science Can Build the Computer but Not the Operator",
+    "pdf_start": 44,
+    "pdf_end": 45,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-07",
+    "original_record_sha256": "302078acdeb3a849f21926179d503e70fb9f34983d601a3ffca85d291a42bc7c"
+  },
+  {
+    "id": "PCI-SEC-CH02-08",
+    "chapter_id": "PCI-CH-02",
+    "title": "Are You Connected to an Infinite Storehouse of Ideas, Knowledge, and Power?",
+    "pdf_start": 45,
+    "pdf_end": 46,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-08",
+    "original_record_sha256": "338f3ed79b53ce2fff597166c51129fe962ebba2bf04855f33845a7880d3948f"
+  },
+  {
+    "id": "PCI-SEC-CH02-09",
+    "chapter_id": "PCI-CH-02",
+    "title": "The Answer Exists Now",
+    "pdf_start": 46,
+    "pdf_end": 48,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-09",
+    "original_record_sha256": "f3b1a631c39f414098523d68200f86114a27197a1f555f559e23529671b17d74"
+  },
+  {
+    "id": "PCI-SEC-CH02-10",
+    "chapter_id": "PCI-CH-02",
+    "title": "You Are No Einstein",
+    "pdf_start": 48,
+    "pdf_end": 49,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-10",
+    "original_record_sha256": "802ad08b053cb8e5725a09a6dd25dbd97aea08afacdcff2fbabb36e457f591a4"
+  },
+  {
+    "id": "PCI-SEC-CH02-11",
+    "chapter_id": "PCI-CH-02",
+    "title": "So What Exactly Is Psycho-Cybernetics?",
+    "pdf_start": 49,
+    "pdf_end": 49,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-11",
+    "original_record_sha256": "b9c87202c5576878e862d67c5d27b4a31799cfab385a54575b731de2c0f7c3ef"
+  },
+  {
+    "id": "PCI-SEC-CH02-12",
+    "chapter_id": "PCI-CH-02",
+    "title": "Get a New Mental Picture of Yourself",
+    "pdf_start": 49,
+    "pdf_end": 50,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-12",
+    "original_record_sha256": "21ab4684a103c72f98d73640829a412752daf82120fa8ff667f423a608485554"
+  },
+  {
+    "id": "PCI-SEC-CH02-13",
+    "chapter_id": "PCI-CH-02",
+    "title": "Prescription: Re-Read Chapter",
+    "pdf_start": 50,
+    "pdf_end": 51,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-13",
+    "original_record_sha256": "a6a1107af29df45362e1390e138fe6be752c285c83d1d3471e0793b08c45a885"
+  },
+  {
+    "id": "PCI-SEC-CH02-14",
+    "chapter_id": "PCI-CH-02",
+    "title": "Mental Training Exercise: Five Principles and Target Image",
+    "pdf_start": 51,
+    "pdf_end": 52,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH02-14",
+    "original_record_sha256": "93db443fa2bf73c645b650b896a29057b029554ecac6c4178f00965cf8abb518"
+  },
+  {
+    "id": "PCI-SEC-CH03-01",
+    "chapter_id": "PCI-CH-03",
+    "title": "Opening Patient Example: Imagined Social Rejection",
+    "pdf_start": 53,
+    "pdf_end": 56,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-01",
+    "original_record_sha256": "3186af7dfcce21c307cc7e88b74e77b739ef9d2d817f9d10eb7a35e29ad74ec6"
+  },
+  {
+    "id": "PCI-SEC-CH03-02",
+    "chapter_id": "PCI-CH-03",
+    "title": "How the Hypnotic Power of Negative Imagination Can Be a Fatal Disease",
+    "pdf_start": 56,
+    "pdf_end": 58,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-02",
+    "original_record_sha256": "f17d2a814e731e31769a82e4d34572cb0270605d0c12ee43f065d0e7136830c6"
+  },
+  {
+    "id": "PCI-SEC-CH03-03",
+    "chapter_id": "PCI-CH-03",
+    "title": "The Secret of Hypnotic Power",
+    "pdf_start": 58,
+    "pdf_end": 59,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-03",
+    "original_record_sha256": "910d553ffd2757966bea6ec0887dcb5eb3e9122e8df4a90d5d8cc7a27ae9325d"
+  },
+  {
+    "id": "PCI-SEC-CH03-04",
+    "chapter_id": "PCI-CH-03",
+    "title": "Truth Determines Action and Behavior",
+    "pdf_start": 59,
+    "pdf_end": 61,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-04",
+    "original_record_sha256": "020989b12b1014eb29f26a1ec33990d00835f518437c48deb4def233b076e8d5"
+  },
+  {
+    "id": "PCI-SEC-CH03-05",
+    "chapter_id": "PCI-CH-03",
+    "title": "Why Not Imagine Yourself Successful?",
+    "pdf_start": 61,
+    "pdf_end": 62,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-05",
+    "original_record_sha256": "318f77d4ee7ef89f16236b84675d2f26d145dd120814e35dd810e37f6f26505a"
+  },
+  {
+    "id": "PCI-SEC-CH03-06",
+    "chapter_id": "PCI-CH-03",
+    "title": "Mental Pictures and Skill Rehearsal",
+    "pdf_start": 62,
+    "pdf_end": 64,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-06",
+    "original_record_sha256": "2879405b10b7b9d29c58f4f416d66f291ba625e6bc2a1732e1011bfb8649518c"
+  },
+  {
+    "id": "PCI-SEC-CH03-07",
+    "chapter_id": "PCI-CH-03",
+    "title": "Mental Pictures Are Powerful Medicine",
+    "pdf_start": 64,
+    "pdf_end": 65,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-07",
+    "original_record_sha256": "009d60b347e1c945c4cef914873430106be3cbb9dd3a027d908133b52b0566e0"
+  },
+  {
+    "id": "PCI-SEC-CH03-08",
+    "chapter_id": "PCI-CH-03",
+    "title": "Mental Pictures Can Help You Sell at a Higher Level",
+    "pdf_start": 65,
+    "pdf_end": 67,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-08",
+    "original_record_sha256": "9a431ad2bf89c5ba4ebfd853f71e9e0aa4f20423589df1120032dae271e65c4b"
+  },
+  {
+    "id": "PCI-SEC-CH03-09",
+    "chapter_id": "PCI-CH-03",
+    "title": "Use Mental Pictures to Get a Better Job",
+    "pdf_start": 67,
+    "pdf_end": 68,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-09",
+    "original_record_sha256": "788a2f6552e846bd2ea593a50d51b1dd66cfbca8821bd8c384915ef83ad66551"
+  },
+  {
+    "id": "PCI-SEC-CH03-10",
+    "chapter_id": "PCI-CH-03",
+    "title": "A Concert Pianist Practices in His Head",
+    "pdf_start": 68,
+    "pdf_end": 68,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-10",
+    "original_record_sha256": "45d6fd5df563eaa5b8e0d5bc2c9eb5035b5318daa342f1d676f6ed0c04af0ad0"
+  },
+  {
+    "id": "PCI-SEC-CH03-11",
+    "chapter_id": "PCI-CH-03",
+    "title": "Imagination Practice Can Lower Your Golf Score",
+    "pdf_start": 68,
+    "pdf_end": 69,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-11",
+    "original_record_sha256": "51f607b7d7facbc9af85206f6ea8450768f39c88cdaffbcf3ea630110a771f85"
+  },
+  {
+    "id": "PCI-SEC-CH03-12",
+    "chapter_id": "PCI-CH-03",
+    "title": "Clearly See the Target",
+    "pdf_start": 69,
+    "pdf_end": 71,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-12",
+    "original_record_sha256": "7cd284cb8672d60f3cc41b3177fc09efedc46bc92454f876734a6c131481e5ce"
+  },
+  {
+    "id": "PCI-SEC-CH03-13",
+    "chapter_id": "PCI-CH-03",
+    "title": "The Real Secret of Mental Picturing",
+    "pdf_start": 71,
+    "pdf_end": 71,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-13",
+    "original_record_sha256": "52795abbbe8e89923f9dd62b63cb0c66632d418bda25daaf27970d2929a5c5f6"
+  },
+  {
+    "id": "PCI-SEC-CH03-14",
+    "chapter_id": "PCI-CH-03",
+    "title": "A Strong Mental Picture Can Pull You Toward Success",
+    "pdf_start": 71,
+    "pdf_end": 72,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-14",
+    "original_record_sha256": "8164a7cd7c0fc42de6122dc1dba6748ab582815a0afc075c54df4a7e5c2c1934"
+  },
+  {
+    "id": "PCI-SEC-CH03-15",
+    "chapter_id": "PCI-CH-03",
+    "title": "Why Mental Picturing Is So Powerful",
+    "pdf_start": 72,
+    "pdf_end": 73,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-15",
+    "original_record_sha256": "beab66a6aac184854d483149f70f07c25ae4cd5ff6ce046e079196f65954f854"
+  },
+  {
+    "id": "PCI-SEC-CH03-16",
+    "chapter_id": "PCI-CH-03",
+    "title": "Finding Your Best Self",
+    "pdf_start": 73,
+    "pdf_end": 74,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-16",
+    "original_record_sha256": "2e174f27bc611274d186cb4801f11730ed1f1d808717845de75107c6bcb08a5d"
+  },
+  {
+    "id": "PCI-SEC-CH03-17",
+    "chapter_id": "PCI-CH-03",
+    "title": "Discover the Truth About Yourself",
+    "pdf_start": 74,
+    "pdf_end": 76,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-17",
+    "original_record_sha256": "8eea81a014c18500c95cffc568654b4a510727f7981fe2b4be193053d8ec8e27"
+  },
+  {
+    "id": "PCI-SEC-CH03-18",
+    "chapter_id": "PCI-CH-03",
+    "title": "The Final Word on Imagination Practice",
+    "pdf_start": 76,
+    "pdf_end": 76,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-18",
+    "original_record_sha256": "2b3f37ceed6ca389d80fb086eeaae416db4c55bc4acad88c06495fd579c265bb"
+  },
+  {
+    "id": "PCI-SEC-CH03-19",
+    "chapter_id": "PCI-CH-03",
+    "title": "Mental Training Exercise: Theater of the Mind",
+    "pdf_start": 76,
+    "pdf_end": 78,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH03-19",
+    "original_record_sha256": "52159517a9ac63e12cf0c232413487ae2bce312fbf94d94b1c20b5814b74825f"
+  },
+  {
+    "id": "PCI-SEC-CH04-01",
+    "chapter_id": "PCI-CH-04",
+    "title": "Opening: Adler Mathematics Example",
+    "pdf_start": 79,
+    "pdf_end": 81,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-01",
+    "original_record_sha256": "92f03996f494a07c3fa636c6ce0bcb7911856aa07a9584f43607d890617eec92"
+  },
+  {
+    "id": "PCI-SEC-CH04-02",
+    "chapter_id": "PCI-CH-04",
+    "title": "The Case of the Hypnotized Salesperson",
+    "pdf_start": 81,
+    "pdf_end": 82,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-02",
+    "original_record_sha256": "b1df6feb89bbb3077cfb8e68611e63d72962156bf8c892bc022fb3848791fa71"
+  },
+  {
+    "id": "PCI-SEC-CH04-03",
+    "chapter_id": "PCI-CH-04",
+    "title": "How a False Belief Aged a Man 20 Years",
+    "pdf_start": 82,
+    "pdf_end": 84,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-03",
+    "original_record_sha256": "0d800a0c1ba9ae02bb31ea0144639b262cbce77b6af7a5f77bb982362223bbec"
+  },
+  {
+    "id": "PCI-SEC-CH04-04",
+    "chapter_id": "PCI-CH-04",
+    "title": "Is Everyone Hypnotized?",
+    "pdf_start": 84,
+    "pdf_end": 86,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-04",
+    "original_record_sha256": "1060bc594db331cb36d69326919ca85254c41f1e0138ed5393a75671fd6aff83"
+  },
+  {
+    "id": "PCI-SEC-CH04-05",
+    "chapter_id": "PCI-CH-04",
+    "title": "You Can Cure Your Inferiority Complex",
+    "pdf_start": 86,
+    "pdf_end": 87,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-05",
+    "original_record_sha256": "dda0ab370a5780c3f6d11c52b19b046b024709088ac2ec23a017260322f1b053"
+  },
+  {
+    "id": "PCI-SEC-CH04-06",
+    "chapter_id": "PCI-CH-04",
+    "title": "Neither a New Nose nor New Shoes Guarantee Success",
+    "pdf_start": 87,
+    "pdf_end": 89,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-06",
+    "original_record_sha256": "6fcc4e2dd4609f22b3a9c5539de373a829b6a72cebbd39dd1866a792b0ce9781"
+  },
+  {
+    "id": "PCI-SEC-CH04-07",
+    "chapter_id": "PCI-CH-04",
+    "title": "How to Use Relaxation to Dehypnotize Yourself",
+    "pdf_start": 89,
+    "pdf_end": 90,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-07",
+    "original_record_sha256": "aca92024b7a7e640b25cfb1ed0d5616e2d7946106cec1fd67d31decb56928bbc"
+  },
+  {
+    "id": "PCI-SEC-CH04-08",
+    "chapter_id": "PCI-CH-04",
+    "title": "Mental Training Exercise: Three Relaxation Images",
+    "pdf_start": 90,
+    "pdf_end": 91,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH04-08",
+    "original_record_sha256": "5fd3fb449d3657cb9db13609c72e944e76d8dc3b865e478e6affb30fea5e272a"
+  },
+  {
+    "id": "PCI-SEC-CH05-01",
+    "chapter_id": "PCI-CH-05",
+    "title": "Chapter opening: rational thinking",
+    "pdf_start": 92,
+    "pdf_end": 93,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-01",
+    "original_record_sha256": "d25729c7513413c2091e34eeb228e12867c35fa2a6e5816e51153512236dcdcc"
+  },
+  {
+    "id": "PCI-SEC-CH05-02",
+    "chapter_id": "PCI-CH-05",
+    "title": "You Can Get Positive Results Now!",
+    "pdf_start": 93,
+    "pdf_end": 94,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-02",
+    "original_record_sha256": "3542661fd2b963b7e8588947f0dd840fb217ee8b8e1847eb3c9192904983de1c"
+  },
+  {
+    "id": "PCI-SEC-CH05-03",
+    "chapter_id": "PCI-CH-05",
+    "title": "How Testing Self-Imposed Limits with Rational Thinking Can Surprise You",
+    "pdf_start": 94,
+    "pdf_end": 94,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-03",
+    "original_record_sha256": "9a71bb321ba8f1e8aae8b89b4ace9ac9e5aa2e59fbd293f7aa6a76f343c73fa5"
+  },
+  {
+    "id": "PCI-SEC-CH05-04",
+    "chapter_id": "PCI-CH-05",
+    "title": "It May Be Perfectly Okay to Let Sleeping Dogs Lie",
+    "pdf_start": 94,
+    "pdf_end": 95,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-04",
+    "original_record_sha256": "f9d527e108c67b688912124cda2a35f354af0dbbbace0a685895d44fe9f68633"
+  },
+  {
+    "id": "PCI-SEC-CH05-05",
+    "chapter_id": "PCI-CH-05",
+    "title": "The Power of “Forgetfulness”",
+    "pdf_start": 95,
+    "pdf_end": 96,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-05",
+    "original_record_sha256": "a6f5c7982d0e1427df673436b8176d4bbf3d40bfcaa587a97dbef6d9fa2cadf2"
+  },
+  {
+    "id": "PCI-SEC-CH05-06",
+    "chapter_id": "PCI-CH-05",
+    "title": "Ignore Past Failures and Forge Ahead",
+    "pdf_start": 96,
+    "pdf_end": 97,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-06",
+    "original_record_sha256": "5de3d5bdafb1272aa99966e6fa63100c4cfa5c475927777d6d23d14e94f2eb23"
+  },
+  {
+    "id": "PCI-SEC-CH05-07",
+    "chapter_id": "PCI-CH-05",
+    "title": "Bertrand Russell’s Method",
+    "pdf_start": 97,
+    "pdf_end": 98,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-07",
+    "original_record_sha256": "44b8639c245b710cc68d76c0d5135482268601766a8ae39fb9eef2bd69c4257b"
+  },
+  {
+    "id": "PCI-SEC-CH05-08",
+    "chapter_id": "PCI-CH-05",
+    "title": "Ideas Are Changed Not by “Will,” but by Other Ideas",
+    "pdf_start": 98,
+    "pdf_end": 99,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-08",
+    "original_record_sha256": "16223d717c5f8f9ba56736afa4979b8fbcd271a1b438fd13abfb8d998177b0cd"
+  },
+  {
+    "id": "PCI-SEC-CH05-09",
+    "chapter_id": "PCI-CH-05",
+    "title": "Two Psychologic Levers You Can Use to Remove Any “Mountain”",
+    "pdf_start": 99,
+    "pdf_end": 101,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-09",
+    "original_record_sha256": "a71577036c323c74efe86a9dc1f576e98b06d0ae113ff3e38547d3a7c78b159e"
+  },
+  {
+    "id": "PCI-SEC-CH05-10",
+    "chapter_id": "PCI-CH-05",
+    "title": "Examine and Reevaluate Your Beliefs",
+    "pdf_start": 101,
+    "pdf_end": 103,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-10",
+    "original_record_sha256": "b8fe780421037037216c680b0be43d1ee6958106d3d994871f9e9b8d10557426"
+  },
+  {
+    "id": "PCI-SEC-CH05-11",
+    "chapter_id": "PCI-CH-05",
+    "title": "The Power of Deep Desire",
+    "pdf_start": 103,
+    "pdf_end": 104,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-11",
+    "original_record_sha256": "7a465a88c2c17bd8b2f0ef18eeb60a594f90516970cadef725311bcadff82dc2"
+  },
+  {
+    "id": "PCI-SEC-CH05-12",
+    "chapter_id": "PCI-CH-05",
+    "title": "What Rational Thought Can and Cannot Do",
+    "pdf_start": 104,
+    "pdf_end": 105,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-12",
+    "original_record_sha256": "6cac311c173047f7154c694b79cfcddb814d1532d2820f9031d69ef2a6854b0d"
+  },
+  {
+    "id": "PCI-SEC-CH05-13",
+    "chapter_id": "PCI-CH-05",
+    "title": "It’s Just a Game",
+    "pdf_start": 105,
+    "pdf_end": 106,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-13",
+    "original_record_sha256": "3881f7375b73dd91e8940d0f01cb72d041b12632691bcf473a2650adfc809193"
+  },
+  {
+    "id": "PCI-SEC-CH05-14",
+    "chapter_id": "PCI-CH-05",
+    "title": "It Ain’t Necessarily So!",
+    "pdf_start": 106,
+    "pdf_end": 107,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-14",
+    "original_record_sha256": "f82872330db7bd73b7badd6f4a28d91b6e22c44a40b315cae01631ecc02e71ed"
+  },
+  {
+    "id": "PCI-SEC-CH05-15",
+    "chapter_id": "PCI-CH-05",
+    "title": "The Problem That Can’t Be Solved Won’t Be Solved",
+    "pdf_start": 107,
+    "pdf_end": 107,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-15",
+    "original_record_sha256": "887b7ba8d1d05c8ecc64af319a9b5f57955f1339c002fed3a6bc09980c614e65"
+  },
+  {
+    "id": "PCI-SEC-CH05-16",
+    "chapter_id": "PCI-CH-05",
+    "title": "Decide What You Want, Not What You Don’t Want",
+    "pdf_start": 107,
+    "pdf_end": 108,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-16",
+    "original_record_sha256": "bc6fe641cf8d5b0636bb56b09183bef9d03ce58d31506f018775385bd6f5ca32"
+  },
+  {
+    "id": "PCI-SEC-CH05-17",
+    "chapter_id": "PCI-CH-05",
+    "title": "Keep Your Eye on the Ball",
+    "pdf_start": 108,
+    "pdf_end": 109,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-17",
+    "original_record_sha256": "57cf6e35fa0a62947167b07ad016597b3af1ef23f144626b5d4954c0d7d9ae16"
+  },
+  {
+    "id": "PCI-SEC-CH05-18",
+    "chapter_id": "PCI-CH-05",
+    "title": "Mental Training Exercises",
+    "pdf_start": 109,
+    "pdf_end": 110,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-18",
+    "original_record_sha256": "0d80f52c4f39feb36b8999dc6f21d87f475c3c3b55b80140a3b30ba6ba984cdf"
+  },
+  {
+    "id": "PCI-SEC-CH05-19",
+    "chapter_id": "PCI-CH-05",
+    "title": "Summary Checklist of the Uses of Rational Thought",
+    "pdf_start": 110,
+    "pdf_end": 110,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH05-19",
+    "original_record_sha256": "7c4e2677714a7e159cd24433a9e084f4114547f14976f3c133de0d679801aef5"
+  },
+  {
+    "id": "PCI-SEC-CH06-01",
+    "chapter_id": "PCI-CH-06",
+    "title": "Chapter opening: stress and relaxation",
+    "pdf_start": 111,
+    "pdf_end": 112,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-01",
+    "original_record_sha256": "2251ca672536193406ea82938422c8309317d501e865f370aef719695b636af3"
+  },
+  {
+    "id": "PCI-SEC-CH06-02",
+    "chapter_id": "PCI-CH-06",
+    "title": "Don’t Be Too Careful",
+    "pdf_start": 112,
+    "pdf_end": 113,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-02",
+    "original_record_sha256": "080ae6b4040ef94293dd5e71b6a07df7d8e37034390253883e812c055773b2a1"
+  },
+  {
+    "id": "PCI-SEC-CH06-03",
+    "chapter_id": "PCI-CH-06",
+    "title": "The Secret of Creative Thinking and Creative Doing",
+    "pdf_start": 113,
+    "pdf_end": 115,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-03",
+    "original_record_sha256": "9eb2eb2f2afd7d25d25ab815a1b589a12735900699b50a5906c641b15aa227ae"
+  },
+  {
+    "id": "PCI-SEC-CH06-04",
+    "chapter_id": "PCI-CH-06",
+    "title": "You Are a “Creative Worker”",
+    "pdf_start": 115,
+    "pdf_end": 115,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-04",
+    "original_record_sha256": "e943daf25849b7cdd63c6821a9e858e535f4161228f8338581ec348efc9bcc60"
+  },
+  {
+    "id": "PCI-SEC-CH06-05",
+    "chapter_id": "PCI-CH-06",
+    "title": "The Secret of “Natural” Behavior and Skill",
+    "pdf_start": 115,
+    "pdf_end": 116,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-05",
+    "original_record_sha256": "1ec69bc6adfb8e4038e1e93422f8ad7030df7b8cc8d62ae9b0b1dbafa6a68dfd"
+  },
+  {
+    "id": "PCI-SEC-CH06-06",
+    "chapter_id": "PCI-CH-06",
+    "title": "Don’t Jam Your Creative Machinery",
+    "pdf_start": 116,
+    "pdf_end": 117,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-06",
+    "original_record_sha256": "52b5a0b5ae9a783b8ea2c867f7256bc3152afbfcb9bab22f8d6bf031e395f602"
+  },
+  {
+    "id": "PCI-SEC-CH06-07",
+    "chapter_id": "PCI-CH-06",
+    "title": "Five Prescriptions for Freeing Your Creative Machinery",
+    "pdf_start": 117,
+    "pdf_end": 117,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-07",
+    "original_record_sha256": "e51cf95f96c4421893f2985a90a2fe4fd04b79cbdeacee47ca6913b8be49ed1b"
+  },
+  {
+    "id": "PCI-SEC-CH06-08",
+    "chapter_id": "PCI-CH-06",
+    "title": "1. Once a decision is made",
+    "pdf_start": 117,
+    "pdf_end": 120,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-08",
+    "original_record_sha256": "efd7c09f3bac7851d5f62efa6baa3819b8e71655403eeb11fe9f4ef1c2e5d3dc"
+  },
+  {
+    "id": "PCI-SEC-CH06-09",
+    "chapter_id": "PCI-CH-06",
+    "title": "2. Focus only on the here and now",
+    "pdf_start": 120,
+    "pdf_end": 121,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-09",
+    "original_record_sha256": "fb81d38c29fc5b24176b52db3bc7265ba53d45ac51a50e48086348637e7c6608"
+  },
+  {
+    "id": "PCI-SEC-CH06-10",
+    "chapter_id": "PCI-CH-06",
+    "title": "3. Do only one thing at a time",
+    "pdf_start": 121,
+    "pdf_end": 122,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-10",
+    "original_record_sha256": "8733d8eae2b7bb6bb9b072f7f6eccfd8308715fb09866a31d40bbc5bf8e9999b"
+  },
+  {
+    "id": "PCI-SEC-CH06-11",
+    "chapter_id": "PCI-CH-06",
+    "title": "The Lesson of the Hourglass",
+    "pdf_start": 122,
+    "pdf_end": 124,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-11",
+    "original_record_sha256": "2c7b4318616735782ecba5334ea587a8bc249803eb0960e7cec8978ba77b76c2"
+  },
+  {
+    "id": "PCI-SEC-CH06-12",
+    "chapter_id": "PCI-CH-06",
+    "title": "4. Sleep on it",
+    "pdf_start": 124,
+    "pdf_end": 124,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-12",
+    "original_record_sha256": "54ed830280ae87193d6958dc880aefd91fe1e57af2a59a4b9aaf466406ca8744"
+  },
+  {
+    "id": "PCI-SEC-CH06-13",
+    "chapter_id": "PCI-CH-06",
+    "title": "5. Relax while you work",
+    "pdf_start": 124,
+    "pdf_end": 125,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-13",
+    "original_record_sha256": "805bad0ab4fd5f0d53d761830cce5507763fbd0e0981d8231bf2039ec44976aa"
+  },
+  {
+    "id": "PCI-SEC-CH06-14",
+    "chapter_id": "PCI-CH-06",
+    "title": "Stressless Success",
+    "pdf_start": 125,
+    "pdf_end": 126,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH06-14",
+    "original_record_sha256": "3e125157a479621b3c2612fbb5ed01020d20a96318355b3f5a4720e24aa01196"
+  },
+  {
+    "id": "PCI-SEC-CH07-01",
+    "chapter_id": "PCI-CH-07",
+    "title": "Chapter opening: the habit of happiness",
+    "pdf_start": 127,
+    "pdf_end": 127,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-01",
+    "original_record_sha256": "45c182832d3ff974f92e489b697f326133947384fb442fffcb1b739075775f45"
+  },
+  {
+    "id": "PCI-SEC-CH07-02",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness Is Good Medicine",
+    "pdf_start": 127,
+    "pdf_end": 128,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-02",
+    "original_record_sha256": "eb98f9a14d9304646e275d92d9d7c4dcdb6f92423412b7f7592909d7029c9bae"
+  },
+  {
+    "id": "PCI-SEC-CH07-03",
+    "chapter_id": "PCI-CH-07",
+    "title": "Common Misconceptions About Happiness",
+    "pdf_start": 128,
+    "pdf_end": 128,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-03",
+    "original_record_sha256": "db2a2c892e70a23858599d25f3c7563d2b131252ba1bae5ec960f6b753d4bd76"
+  },
+  {
+    "id": "PCI-SEC-CH07-04",
+    "chapter_id": "PCI-CH-07",
+    "title": "The Pursuit of Happiness Is Not Selfish",
+    "pdf_start": 128,
+    "pdf_end": 130,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-04",
+    "original_record_sha256": "1931fde2276f3bbe2457d6e03daca4c58e85f3e8b688437df2c37ae22ab5132f"
+  },
+  {
+    "id": "PCI-SEC-CH07-05",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness Lies in the Present, Not in the Future",
+    "pdf_start": 130,
+    "pdf_end": 130,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-05",
+    "original_record_sha256": "b9efeab4c1b9c455ed254c0cd313d6fdaee427c91a5b135d50747d0907405ae0"
+  },
+  {
+    "id": "PCI-SEC-CH07-06",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness Is a Mental Habit Which Can Be Cultivated",
+    "pdf_start": 130,
+    "pdf_end": 131,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-06",
+    "original_record_sha256": "48e0a8849e4db6ad2e47d0ba04abdee5cce95644c1746a1fd41bd8c470c62435"
+  },
+  {
+    "id": "PCI-SEC-CH07-07",
+    "chapter_id": "PCI-CH-07",
+    "title": "Stop Letting Things Push You Around",
+    "pdf_start": 131,
+    "pdf_end": 131,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-07",
+    "original_record_sha256": "4b4cffd26d515e6da89065fe514d9b224b8d61779cbe3c6e177b74e64a3df93e"
+  },
+  {
+    "id": "PCI-SEC-CH07-08",
+    "chapter_id": "PCI-CH-07",
+    "title": "Your Opinion Can Add to Unhappy Events",
+    "pdf_start": 131,
+    "pdf_end": 132,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-08",
+    "original_record_sha256": "f99c9d02fc07d271b95196a88ae06f029e62d89f181df7d3741f8396a8d1c294"
+  },
+  {
+    "id": "PCI-SEC-CH07-09",
+    "chapter_id": "PCI-CH-07",
+    "title": "Happiness versus Unhappiness: Facts versus Opinions",
+    "pdf_start": 132,
+    "pdf_end": 133,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-09",
+    "original_record_sha256": "967794c93748f74aa8a2b6c640916c59c15901b2c27e24ee89f2fa083944c110"
+  },
+  {
+    "id": "PCI-SEC-CH07-10",
+    "chapter_id": "PCI-CH-07",
+    "title": "The Attitude That Makes for Happiness",
+    "pdf_start": 133,
+    "pdf_end": 134,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-10",
+    "original_record_sha256": "b10f0ab3d7269e17465ae86dc1c064fb1644b3e4a0a3700ba28ef1546ac18c72"
+  },
+  {
+    "id": "PCI-SEC-CH07-11",
+    "chapter_id": "PCI-CH-07",
+    "title": "Take Responsibility for Your Own Happiness",
+    "pdf_start": 134,
+    "pdf_end": 135,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-11",
+    "original_record_sha256": "01651a82b89bff75d8ef706f23b28be2136c36f41207fd08e43d361c8131ab1f"
+  },
+  {
+    "id": "PCI-SEC-CH07-12",
+    "chapter_id": "PCI-CH-07",
+    "title": "A Salesman Who Needed Surgery on His Thoughts Rather Than His Nose",
+    "pdf_start": 135,
+    "pdf_end": 137,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-12",
+    "original_record_sha256": "2c7b1b9150b7509d77f01d1a07f569e8b115860893a7e5c555d5564d51220970"
+  },
+  {
+    "id": "PCI-SEC-CH07-13",
+    "chapter_id": "PCI-CH-07",
+    "title": "Pattern Interrupt",
+    "pdf_start": 137,
+    "pdf_end": 138,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-13",
+    "original_record_sha256": "2c88a361f36506361b52a7a3f90325e4c088f4857e3454e3e8595db86dd3378f"
+  },
+  {
+    "id": "PCI-SEC-CH07-14",
+    "chapter_id": "PCI-CH-07",
+    "title": "An Exercise for Canceling Negative Thoughts",
+    "pdf_start": 138,
+    "pdf_end": 138,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-14",
+    "original_record_sha256": "b6f4d2f497a01eb891e87dea439dfc05e35033634958df114f963a034a73fdab"
+  },
+  {
+    "id": "PCI-SEC-CH07-15",
+    "chapter_id": "PCI-CH-07",
+    "title": "To Be Happy, We Must Make a Sacrifice",
+    "pdf_start": 138,
+    "pdf_end": 139,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-15",
+    "original_record_sha256": "f8ad4c56e3e08f50cdfe3baa0b98eeb702091817e30472975e8473d15298fe21"
+  },
+  {
+    "id": "PCI-SEC-CH07-16",
+    "chapter_id": "PCI-CH-07",
+    "title": "A Scientist Tests the Theory of Happiness",
+    "pdf_start": 139,
+    "pdf_end": 140,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-16",
+    "original_record_sha256": "b2e6558ded455eb7befec4f402c3939a6a3354054dcbb0dd9571e5270ae5a222"
+  },
+  {
+    "id": "PCI-SEC-CH07-17",
+    "chapter_id": "PCI-CH-07",
+    "title": "How an Inventor Used “Happy-Thoughts”",
+    "pdf_start": 140,
+    "pdf_end": 141,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-17",
+    "original_record_sha256": "e3522a33449b85c007e6b9c400c2ead09b3050f6a28e0d6878d4c6b4848916c2"
+  },
+  {
+    "id": "PCI-SEC-CH07-18",
+    "chapter_id": "PCI-CH-07",
+    "title": "How to “Install” the Happiness Habit",
+    "pdf_start": 141,
+    "pdf_end": 142,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-18",
+    "original_record_sha256": "976a161c06fa578e97e640ebeb829f81b1a1e740a7b3a99005e38fbc7a898081"
+  },
+  {
+    "id": "PCI-SEC-CH07-19",
+    "chapter_id": "PCI-CH-07",
+    "title": "Mental Training Exercise: 30-day habit cue",
+    "pdf_start": 142,
+    "pdf_end": 143,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH07-19",
+    "original_record_sha256": "737abfe8ffd0f4c75b36a91fcdf15b393406ebf787beeca275d099312ce50a80"
+  },
+  {
+    "id": "PCI-SEC-CH08-01",
+    "chapter_id": "PCI-CH-08",
+    "title": "Chapter opening: success-type personality",
+    "pdf_start": 144,
+    "pdf_end": 145,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-01",
+    "original_record_sha256": "30a5fce850788d1372ea025d9c72f1e433d533664f0643be55bfb2c0a1d81e9e"
+  },
+  {
+    "id": "PCI-SEC-CH08-02",
+    "chapter_id": "PCI-CH-08",
+    "title": "New Roles Require New Self-Images",
+    "pdf_start": 145,
+    "pdf_end": 145,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-02",
+    "original_record_sha256": "f5810faf306a64f0782da647653329c7447cfc9f95b8352639ac3b2b69389566"
+  },
+  {
+    "id": "PCI-SEC-CH08-03",
+    "chapter_id": "PCI-CH-08",
+    "title": "The Picture of Success",
+    "pdf_start": 145,
+    "pdf_end": 146,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-03",
+    "original_record_sha256": "6bc8f022faee56d48cad236f7ac2d55f9db70cabe4406097e22ee0c9a56dc626"
+  },
+  {
+    "id": "PCI-SEC-CH08-04",
+    "chapter_id": "PCI-CH-08",
+    "title": "Sense of Direction",
+    "pdf_start": 146,
+    "pdf_end": 147,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-04",
+    "original_record_sha256": "cb31bc8366be853fd316302a16fd8bd11f61317e63512c1bea95e758107af71c"
+  },
+  {
+    "id": "PCI-SEC-CH08-05",
+    "chapter_id": "PCI-CH-08",
+    "title": "Understanding",
+    "pdf_start": 147,
+    "pdf_end": 149,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-05",
+    "original_record_sha256": "ad90a9b2254e0d0992d9123e97efbb3edb16c630fe5bbccbb17bb52f71c13eba"
+  },
+  {
+    "id": "PCI-SEC-CH08-06",
+    "chapter_id": "PCI-CH-08",
+    "title": "Courage",
+    "pdf_start": 149,
+    "pdf_end": 151,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-06",
+    "original_record_sha256": "bb571054e4ad0982847a966c7cb3282ad0b298cf83433adfbb959f534e6bb41a"
+  },
+  {
+    "id": "PCI-SEC-CH08-07",
+    "chapter_id": "PCI-CH-08",
+    "title": "Charity",
+    "pdf_start": 151,
+    "pdf_end": 153,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-07",
+    "original_record_sha256": "51d971e62e83c4fe59b58fdb011d70b099cc19e8aceaba9beb86a1220fd90b33"
+  },
+  {
+    "id": "PCI-SEC-CH08-08",
+    "chapter_id": "PCI-CH-08",
+    "title": "Esteem",
+    "pdf_start": 153,
+    "pdf_end": 155,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-08",
+    "original_record_sha256": "70aee5a7bd752a0e727f3fac5f899439c77aa37a5f47b3bc00da340ca987be89"
+  },
+  {
+    "id": "PCI-SEC-CH08-09",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-Confidence",
+    "pdf_start": 155,
+    "pdf_end": 157,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-09",
+    "original_record_sha256": "3691a116416a864baed1a11adc856bb1b12103fcf3d36db74f4408fb51f7ffaf"
+  },
+  {
+    "id": "PCI-SEC-CH08-10",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-Acceptance",
+    "pdf_start": 157,
+    "pdf_end": 160,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-10",
+    "original_record_sha256": "31e04bad4c0613c8af8ca5eac99431555cb73f44b1d19acabb7a5345a3206b4c"
+  },
+  {
+    "id": "PCI-SEC-CH08-11",
+    "chapter_id": "PCI-CH-08",
+    "title": "Self-Acceptance versus Self-Rejection",
+    "pdf_start": 160,
+    "pdf_end": 161,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-11",
+    "original_record_sha256": "3139efdd5b191daf881d42d32d046f2a787a94e922f9951ed70f7512105b5702"
+  },
+  {
+    "id": "PCI-SEC-CH08-12",
+    "chapter_id": "PCI-CH-08",
+    "title": "The Secret of AQ: Adversity Quotient",
+    "pdf_start": 161,
+    "pdf_end": 163,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-12",
+    "original_record_sha256": "669866634e8305585878c4a6cd26853e5d4fcefb063091e7c3f8bc0b8da8934d"
+  },
+  {
+    "id": "PCI-SEC-CH08-13",
+    "chapter_id": "PCI-CH-08",
+    "title": "The Fishing Trip from Hell",
+    "pdf_start": 163,
+    "pdf_end": 163,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-13",
+    "original_record_sha256": "467cfac2bc4b12f4300cd8e183edc53bf3756e7495d722c924c917710cc6d2d3"
+  },
+  {
+    "id": "PCI-SEC-CH08-14",
+    "chapter_id": "PCI-CH-08",
+    "title": "A Fable of Unburdening",
+    "pdf_start": 163,
+    "pdf_end": 164,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-14",
+    "original_record_sha256": "84594ce9900643c4f633458ed7fd3a638940ee49ebda5137b698737f43e65b06"
+  },
+  {
+    "id": "PCI-SEC-CH08-15",
+    "chapter_id": "PCI-CH-08",
+    "title": "Mental Training Exercise: the bricks",
+    "pdf_start": 164,
+    "pdf_end": 164,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH08-15",
+    "original_record_sha256": "4300fc5816133625c0aa6d6be52d0a6bd171c1f5fbe4c8e1f54283ab23cf3b1b"
+  },
+  {
+    "id": "PCI-SEC-CH09-01",
+    "chapter_id": "PCI-CH-09",
+    "title": "Chapter opening: pressure gauges and warning lights",
+    "pdf_start": 165,
+    "pdf_end": 166,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-01",
+    "original_record_sha256": "c45c47476a817eae9b5f14d8d72971cffec9fa7840cc4c0a675f82d1332e2894"
+  },
+  {
+    "id": "PCI-SEC-CH09-02",
+    "chapter_id": "PCI-CH-09",
+    "title": "The Picture of Failure",
+    "pdf_start": 166,
+    "pdf_end": 168,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-02",
+    "original_record_sha256": "d6556b5dae5ced3f7ecf7610ee5f5734ce0cdc963495b9ba894400e2acbd3528"
+  },
+  {
+    "id": "PCI-SEC-CH09-03",
+    "chapter_id": "PCI-CH-09",
+    "title": "Frustration",
+    "pdf_start": 168,
+    "pdf_end": 170,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-03",
+    "original_record_sha256": "d17a80b0dc036940900cc16cfb216a2c6b235de24668edc9400b2f4aadef9ae1"
+  },
+  {
+    "id": "PCI-SEC-CH09-04",
+    "chapter_id": "PCI-CH-09",
+    "title": "Aggressiveness",
+    "pdf_start": 170,
+    "pdf_end": 171,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-04",
+    "original_record_sha256": "ec5eb639e13905ed50f8f1302a76e74bb71c5c0a73322065aed918eccdb34793"
+  },
+  {
+    "id": "PCI-SEC-CH09-05",
+    "chapter_id": "PCI-CH-09",
+    "title": "Do Not Lash Out Blindly",
+    "pdf_start": 171,
+    "pdf_end": 173,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-05",
+    "original_record_sha256": "10df5208c955218e428b40d72b4dc6e2777d76298fc5f2ff0cb77955b6422a90"
+  },
+  {
+    "id": "PCI-SEC-CH09-06",
+    "chapter_id": "PCI-CH-09",
+    "title": "Insecurity",
+    "pdf_start": 173,
+    "pdf_end": 176,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-06",
+    "original_record_sha256": "60a912dfdaab7829dca92300e120ac5d66b6b49c44c2092718eef08c9c57e974"
+  },
+  {
+    "id": "PCI-SEC-CH09-07",
+    "chapter_id": "PCI-CH-09",
+    "title": "Loneliness",
+    "pdf_start": 176,
+    "pdf_end": 178,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-07",
+    "original_record_sha256": "510c8aefa9587acf8076ea170bdf081da69ab0010fc1732cc80058c1e3fa082d"
+  },
+  {
+    "id": "PCI-SEC-CH09-08",
+    "chapter_id": "PCI-CH-09",
+    "title": "Uncertainty",
+    "pdf_start": 178,
+    "pdf_end": 181,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-08",
+    "original_record_sha256": "e925be0f903e82c03a3f0f6feff6e0ecfdab88d786e9f13921ab0ae80676498b"
+  },
+  {
+    "id": "PCI-SEC-CH09-09",
+    "chapter_id": "PCI-CH-09",
+    "title": "Resentment",
+    "pdf_start": 181,
+    "pdf_end": 185,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-09",
+    "original_record_sha256": "76e53633484314c3c36b0eb318d44800e88ce151c3d7caee603cde8b6184644f"
+  },
+  {
+    "id": "PCI-SEC-CH09-10",
+    "chapter_id": "PCI-CH-09",
+    "title": "Emptiness",
+    "pdf_start": 185,
+    "pdf_end": 187,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-10",
+    "original_record_sha256": "58b363f69e82b8b5875b515cbdcb63b912f06b4092619d1d979bad726f760209"
+  },
+  {
+    "id": "PCI-SEC-CH09-11",
+    "chapter_id": "PCI-CH-09",
+    "title": "Mental Training Exercises: warning lights",
+    "pdf_start": 187,
+    "pdf_end": 188,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-11",
+    "original_record_sha256": "168eb809000929618ae8b15844c7324d21ae66070e8385e6f501555166fc1ade"
+  },
+  {
+    "id": "PCI-SEC-CH09-12",
+    "chapter_id": "PCI-CH-09",
+    "title": "How to Use Negative Thinking",
+    "pdf_start": 188,
+    "pdf_end": 189,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-12",
+    "original_record_sha256": "0a8d4763585ea18f9aaff94c9cfd057b3231b0c8734509e1efa3d0848dd6fd27"
+  },
+  {
+    "id": "PCI-SEC-CH09-13",
+    "chapter_id": "PCI-CH-09",
+    "title": "Review and reorient goals",
+    "pdf_start": 189,
+    "pdf_end": 189,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH09-13",
+    "original_record_sha256": "6ac39cb9bdaef7282023eefbee867ac867526a8f4ed13b4cca576e488c01e6cb"
+  },
+  {
+    "id": "PCI-SEC-CH10-01",
+    "chapter_id": "PCI-CH-10",
+    "title": "Chapter opening: emotional scar analogy",
+    "pdf_start": 190,
+    "pdf_end": 191,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-01",
+    "original_record_sha256": "8ec0b637c8f78e4fa4b2333a353ecd4cdb98db887e16b037f16c72e711aaeda6"
+  },
+  {
+    "id": "PCI-SEC-CH10-02",
+    "chapter_id": "PCI-CH-10",
+    "title": "What We Can Learn When Nature Needs an Assist",
+    "pdf_start": 191,
+    "pdf_end": 192,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-02",
+    "original_record_sha256": "6635c21767d5a8692953b6eb0c0027233ca33e1749c17b0f0050ce9174b779e0"
+  },
+  {
+    "id": "PCI-SEC-CH10-03",
+    "chapter_id": "PCI-CH-10",
+    "title": "How Emotional Scars Alienate You from Life",
+    "pdf_start": 192,
+    "pdf_end": 194,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-03",
+    "original_record_sha256": "930d7309afd43692e57a7ea660cb90d8ec17402aa0d1897c660a4b5d335e161b"
+  },
+  {
+    "id": "PCI-SEC-CH10-04",
+    "chapter_id": "PCI-CH-10",
+    "title": "Putty Not Plaster",
+    "pdf_start": 194,
+    "pdf_end": 194,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-04",
+    "original_record_sha256": "63f3377dbd0818c37c2e651c0165d7b13c85af41742975282f4cf275e30a5e21"
+  },
+  {
+    "id": "PCI-SEC-CH10-05",
+    "chapter_id": "PCI-CH-10",
+    "title": "Do Not Overprotect Yourself",
+    "pdf_start": 194,
+    "pdf_end": 195,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-05",
+    "original_record_sha256": "b80b275329785e835c9e0f7b39d879af7982465251b7880e6645e75602a26018"
+  },
+  {
+    "id": "PCI-SEC-CH10-06",
+    "chapter_id": "PCI-CH-10",
+    "title": "Do Not Underestimate Emotional Scars",
+    "pdf_start": 195,
+    "pdf_end": 196,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-06",
+    "original_record_sha256": "f30b2236197e3e1c351e14391a191665e23196a4cd42d3bfb68ea004e10d3695"
+  },
+  {
+    "id": "PCI-SEC-CH10-07",
+    "chapter_id": "PCI-CH-10",
+    "title": "Emotional Scars and Juvenile Delinquency",
+    "pdf_start": 196,
+    "pdf_end": 197,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-07",
+    "original_record_sha256": "b9fa05e11e566024ac98206666bd9ba046b6b898eefb76f3753055cbe4e4eea0"
+  },
+  {
+    "id": "PCI-SEC-CH10-08",
+    "chapter_id": "PCI-CH-10",
+    "title": "Can We Prevent Future Scarring?",
+    "pdf_start": 197,
+    "pdf_end": 197,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-08",
+    "original_record_sha256": "5835add7a85c0e0a02d7112803d9b3aa4b93be37b477533815b02a35d8176499"
+  },
+  {
+    "id": "PCI-SEC-CH10-09",
+    "chapter_id": "PCI-CH-10",
+    "title": "Three Prescriptions Against Hurts",
+    "pdf_start": 197,
+    "pdf_end": 198,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-09",
+    "original_record_sha256": "1daca8244758daed85fc896310603b73fa8e8cfa1fad4361a37b022983a346dc"
+  },
+  {
+    "id": "PCI-SEC-CH10-10",
+    "chapter_id": "PCI-CH-10",
+    "title": "Healthy Self-Images Do Not Bruise Easily",
+    "pdf_start": 198,
+    "pdf_end": 199,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-10",
+    "original_record_sha256": "a0947421cb2953ad3fa9e773dece8e3dbfa08744be6a877762fe4d34ae2167eb"
+  },
+  {
+    "id": "PCI-SEC-CH10-11",
+    "chapter_id": "PCI-CH-10",
+    "title": "Do Not Take Things Personally",
+    "pdf_start": 199,
+    "pdf_end": 200,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-11",
+    "original_record_sha256": "a2ef3b12a0ebab6c549e0df49d308bf816067608aeacba57e66bcc13a430b49b"
+  },
+  {
+    "id": "PCI-SEC-CH10-12",
+    "chapter_id": "PCI-CH-10",
+    "title": "Mental Training Exercise: potatoes",
+    "pdf_start": 200,
+    "pdf_end": 200,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-12",
+    "original_record_sha256": "a951eba828d2674731f0ab882dd121b179df14aa6f25bd661741b76a73cae680"
+  },
+  {
+    "id": "PCI-SEC-CH10-13",
+    "chapter_id": "PCI-CH-10",
+    "title": "A Self-Reliant Responsible Attitude",
+    "pdf_start": 200,
+    "pdf_end": 202,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-13",
+    "original_record_sha256": "59032ddfdc5bbc71e005282ae0eecca5d52505b886e68c387c155812b2624f1e"
+  },
+  {
+    "id": "PCI-SEC-CH10-14",
+    "chapter_id": "PCI-CH-10",
+    "title": "Relax Away Emotional Hurts",
+    "pdf_start": 202,
+    "pdf_end": 203,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-14",
+    "original_record_sha256": "067fad87217cd782bd9190d2366c9ffe8913f0c44217427c8eb33b9d0206d0b7"
+  },
+  {
+    "id": "PCI-SEC-CH10-15",
+    "chapter_id": "PCI-CH-10",
+    "title": "Prescription: relax, diary, imagery",
+    "pdf_start": 203,
+    "pdf_end": 203,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-15",
+    "original_record_sha256": "93779e96eb2bd79ed836a59c9db4595e920526068d9d760a1ccbe85a6a35a345"
+  },
+  {
+    "id": "PCI-SEC-CH10-16",
+    "chapter_id": "PCI-CH-10",
+    "title": "How to Remove Old Emotional Scars",
+    "pdf_start": 203,
+    "pdf_end": 204,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-16",
+    "original_record_sha256": "93c3665226b3c1a2f946684cef4c4b2110e8b1316c33ff5c58fb7d82bd4c35b6"
+  },
+  {
+    "id": "PCI-SEC-CH10-17",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgiveness Is a Scalpel",
+    "pdf_start": 204,
+    "pdf_end": 205,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-17",
+    "original_record_sha256": "95efec2c5778e3d753ec370ab2de5fcff92ae3207b3a218372b1621a6a0fb00c"
+  },
+  {
+    "id": "PCI-SEC-CH10-18",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgiveness Is Not a Weapon",
+    "pdf_start": 205,
+    "pdf_end": 207,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-18",
+    "original_record_sha256": "ef0c4e392e03a95808a8750c091d05ce4668433847492eac79d3332b52ef2c54"
+  },
+  {
+    "id": "PCI-SEC-CH10-19",
+    "chapter_id": "PCI-CH-10",
+    "title": "Forgive Yourself as Well as Others",
+    "pdf_start": 207,
+    "pdf_end": 209,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-19",
+    "original_record_sha256": "40e2be43be82cb9dd0dd9990cf8919053f6813a8a245cd4d2ccc0ac692873874"
+  },
+  {
+    "id": "PCI-SEC-CH10-20",
+    "chapter_id": "PCI-CH-10",
+    "title": "Distinguish actions and identity",
+    "pdf_start": 209,
+    "pdf_end": 210,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-20",
+    "original_record_sha256": "52fff72a2cb2f8304407b4d835d858de334dbb8c364982415167e7480a40a53b"
+  },
+  {
+    "id": "PCI-SEC-CH10-21",
+    "chapter_id": "PCI-CH-10",
+    "title": "Who Wants to Be an Oyster?",
+    "pdf_start": 210,
+    "pdf_end": 211,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-21",
+    "original_record_sha256": "b244df0014bc4620de5cdf49a3f3fce057df65ff89dabb6b82e9ff61b3aee6dd"
+  },
+  {
+    "id": "PCI-SEC-CH10-22",
+    "chapter_id": "PCI-CH-10",
+    "title": "Mental Training Exercises",
+    "pdf_start": 211,
+    "pdf_end": 212,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-22",
+    "original_record_sha256": "407dba09c8d51eabd07542887790527b79e83d0521588c04537a27c24e409112"
+  },
+  {
+    "id": "PCI-SEC-CH10-23",
+    "chapter_id": "PCI-CH-10",
+    "title": "Key Ideas for Do-It-Yourself Emotional Surgery",
+    "pdf_start": 212,
+    "pdf_end": 212,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH10-23",
+    "original_record_sha256": "685ef13d2ed3c3ecc1fcb05a16696a66296bcb5746ee5fd449e66ac54e8af976"
+  },
+  {
+    "id": "PCI-SEC-CH11-01",
+    "chapter_id": "PCI-CH-11",
+    "title": "Chapter opening: personality and expression",
+    "pdf_start": 213,
+    "pdf_end": 214,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-01",
+    "original_record_sha256": "3779825ffe5f3f7e821f1244fb1503acb68e937791452abf426469300261b63f"
+  },
+  {
+    "id": "PCI-SEC-CH11-02",
+    "chapter_id": "PCI-CH-11",
+    "title": "Everyone Has a Dynamic Personality",
+    "pdf_start": 214,
+    "pdf_end": 214,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-02",
+    "original_record_sha256": "6186d5949de89b14b3486f3fa4840296b42e7c5e6bb60ae0c381ff5fc36ef8ff"
+  },
+  {
+    "id": "PCI-SEC-CH11-03",
+    "chapter_id": "PCI-CH-11",
+    "title": "Excessive Negative Feedback Equals Inhibition",
+    "pdf_start": 214,
+    "pdf_end": 216,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-03",
+    "original_record_sha256": "904426aa11192326b9df655583487a6bfd0526084ef7ef5981d4cce299720b0d"
+  },
+  {
+    "id": "PCI-SEC-CH11-04",
+    "chapter_id": "PCI-CH-11",
+    "title": "Stuttering as a Demonstration of Inhibition",
+    "pdf_start": 216,
+    "pdf_end": 217,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-04",
+    "original_record_sha256": "0055d4c1784a26ec66df3fd091b2d4ccc7a1f0bf55d2592c0973e3254acce0f3"
+  },
+  {
+    "id": "PCI-SEC-CH11-05",
+    "chapter_id": "PCI-CH-11",
+    "title": "Conscious Self-Criticism Makes You Do Worse",
+    "pdf_start": 217,
+    "pdf_end": 218,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-05",
+    "original_record_sha256": "716d4d3aebe4722efef6f992beb21a6677c34041a7d26ccdb7d5b9aad46fcc62"
+  },
+  {
+    "id": "PCI-SEC-CH11-06",
+    "chapter_id": "PCI-CH-11",
+    "title": "Dale Carnegie, Toastmasters and practice",
+    "pdf_start": 218,
+    "pdf_end": 219,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-06",
+    "original_record_sha256": "009830edf550081305737fe1779fdf830ab494f1ee488024b224ec26240e8085"
+  },
+  {
+    "id": "PCI-SEC-CH11-07",
+    "chapter_id": "PCI-CH-11",
+    "title": "A Sales Manager Cons His Own Salesperson",
+    "pdf_start": 219,
+    "pdf_end": 220,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-07",
+    "original_record_sha256": "0b14512609af4e3f5c9d7a511926cec011c0ae033b7417d7429a66cbca226e6e"
+  },
+  {
+    "id": "PCI-SEC-CH11-08",
+    "chapter_id": "PCI-CH-11",
+    "title": "Excessive Carefulness Leads to Anxiety",
+    "pdf_start": 220,
+    "pdf_end": 221,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-08",
+    "original_record_sha256": "f5c18367cb5a18cb9aa5b0357d1daed2310c771537fde9173ca99f14fdaada9f"
+  },
+  {
+    "id": "PCI-SEC-CH11-09",
+    "chapter_id": "PCI-CH-11",
+    "title": "Self-Consciousness Is Others-Consciousness",
+    "pdf_start": 221,
+    "pdf_end": 222,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-09",
+    "original_record_sha256": "aa586d37359063867cf42dc1d281056cc5f78c5ccb721ea933b901d76c97717b"
+  },
+  {
+    "id": "PCI-SEC-CH11-10",
+    "chapter_id": "PCI-CH-11",
+    "title": "What Others Think Creates Inhibition",
+    "pdf_start": 222,
+    "pdf_end": 223,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-10",
+    "original_record_sha256": "c589b577b4db77932282959c4fb570eb32334c2844249722fba2f85228c21273"
+  },
+  {
+    "id": "PCI-SEC-CH11-11",
+    "chapter_id": "PCI-CH-11",
+    "title": "Poise without excessive negative feedback",
+    "pdf_start": 223,
+    "pdf_end": 225,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-11",
+    "original_record_sha256": "83c9a6abc730bc74f45037dfb29a4fa95f2200b3396681c1c248479d02047e97"
+  },
+  {
+    "id": "PCI-SEC-CH11-12",
+    "chapter_id": "PCI-CH-11",
+    "title": "An Athlete’s Comeback",
+    "pdf_start": 225,
+    "pdf_end": 226,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-12",
+    "original_record_sha256": "94da12061d705ade6db080177111384051e21553b767be85157a282aa59d7fb8"
+  },
+  {
+    "id": "PCI-SEC-CH11-13",
+    "chapter_id": "PCI-CH-11",
+    "title": "What Makes You Think You Can Do That?",
+    "pdf_start": 226,
+    "pdf_end": 227,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-13",
+    "original_record_sha256": "b742a947d82730e8d5e57168ee5dde6870230d007c3f7d1c453bf6fdfac1eae2"
+  },
+  {
+    "id": "PCI-SEC-CH11-14",
+    "chapter_id": "PCI-CH-11",
+    "title": "Your Opinion Matters Most",
+    "pdf_start": 227,
+    "pdf_end": 228,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-14",
+    "original_record_sha256": "7cc8f01c8f1017f10e0be3a321a39b5e55ea16f64cb1df4b382e88b1fe146a59"
+  },
+  {
+    "id": "PCI-SEC-CH11-15",
+    "chapter_id": "PCI-CH-11",
+    "title": "Conscience and learned inhibition",
+    "pdf_start": 228,
+    "pdf_end": 229,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-15",
+    "original_record_sha256": "47d835962d4faf8cb4b97ea531bf0a44c0d7eede2f99d8945be37aa10448a966"
+  },
+  {
+    "id": "PCI-SEC-CH11-16",
+    "chapter_id": "PCI-CH-11",
+    "title": "Self-Expression Is Not a Moral Issue",
+    "pdf_start": 229,
+    "pdf_end": 230,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-16",
+    "original_record_sha256": "f4bc26da66df9e3e837f48b63b873aa9aa0fe3055ed6665424ff3f5cea00c25d"
+  },
+  {
+    "id": "PCI-SEC-CH11-17",
+    "chapter_id": "PCI-CH-11",
+    "title": "Disinhibition: an opposite-direction correction",
+    "pdf_start": 230,
+    "pdf_end": 231,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-17",
+    "original_record_sha256": "06b992b7c573e9bae2d08a6f039467dde6a8013f3e32b66d2c0b17448bccfe7c"
+  },
+  {
+    "id": "PCI-SEC-CH11-18",
+    "chapter_id": "PCI-CH-11",
+    "title": "Straight and Narrow Path Between Both Extremes",
+    "pdf_start": 231,
+    "pdf_end": 232,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-18",
+    "original_record_sha256": "d3ea73fe7081aa6993a813d5c4a835ff0b503d6bad4f798d555d4b3b2890b25f"
+  },
+  {
+    "id": "PCI-SEC-CH11-19",
+    "chapter_id": "PCI-CH-11",
+    "title": "How to Tell Whether You Need Disinhibition",
+    "pdf_start": 232,
+    "pdf_end": 232,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-19",
+    "original_record_sha256": "103ba717c119ec01a43ad0bdffd26bd8f686f318caaa5d8884f870dea8321d09"
+  },
+  {
+    "id": "PCI-SEC-CH11-20",
+    "chapter_id": "PCI-CH-11",
+    "title": "Mental Training Exercises",
+    "pdf_start": 232,
+    "pdf_end": 233,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-20",
+    "original_record_sha256": "b1d3202a8ffda637a0f2429821799e0fed2756786691e4cb40a9930a9e0f4efb"
+  },
+  {
+    "id": "PCI-SEC-CH11-21",
+    "chapter_id": "PCI-CH-11",
+    "title": "Five numbered behavior exercises",
+    "pdf_start": 233,
+    "pdf_end": 233,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH11-21",
+    "original_record_sha256": "5ad6d924766d24105b208b1ff6c9268b8cec3291a006510539c80310e6771f15"
+  },
+  {
+    "id": "PCI-SEC-CH12-01",
+    "chapter_id": "PCI-CH-12",
+    "title": "Chapter opening: tranquilizer analogy",
+    "pdf_start": 234,
+    "pdf_end": 235,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-01",
+    "original_record_sha256": "5c591ef9b529a1b58d55a625bb7fdbe1ad4aa325e1c6f6877777cbf00c7e3067"
+  },
+  {
+    "id": "PCI-SEC-CH12-02",
+    "chapter_id": "PCI-CH-12",
+    "title": "Overresponse Is a Habit",
+    "pdf_start": 235,
+    "pdf_end": 236,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-02",
+    "original_record_sha256": "0685f6aec665018112829fed02102512078b95b2e60691c51765944f0ee68fec"
+  },
+  {
+    "id": "PCI-SEC-CH12-03",
+    "chapter_id": "PCI-CH-12",
+    "title": "How to Condition Yourself for Equanimity",
+    "pdf_start": 236,
+    "pdf_end": 237,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-03",
+    "original_record_sha256": "6872ef40b715b6bc1bed70dd8a9661c8f03ba86bb7debf6da200935a8faf0077"
+  },
+  {
+    "id": "PCI-SEC-CH12-04",
+    "chapter_id": "PCI-CH-12",
+    "title": "How to Extinguish Conditioned Responses",
+    "pdf_start": 237,
+    "pdf_end": 238,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-04",
+    "original_record_sha256": "c2da627c1850a280313b25e71d1921317bd635630a9c5d601ddde4491f0f1024"
+  },
+  {
+    "id": "PCI-SEC-CH12-05",
+    "chapter_id": "PCI-CH-12",
+    "title": "If You Cannot Ignore the Response Delay It",
+    "pdf_start": 238,
+    "pdf_end": 239,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-05",
+    "original_record_sha256": "b1976a31c07de047714b4168fa763ae6600960c041394bf016d4624879d25c04"
+  },
+  {
+    "id": "PCI-SEC-CH12-06",
+    "chapter_id": "PCI-CH-12",
+    "title": "Relaxation Erects a Psychic Screen",
+    "pdf_start": 239,
+    "pdf_end": 239,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-06",
+    "original_record_sha256": "8a6d21719a00fb1600c889fb37b4ffd799d4e84292b0cc2cce568bf1422b7875"
+  },
+  {
+    "id": "PCI-SEC-CH12-07",
+    "chapter_id": "PCI-CH-12",
+    "title": "Learn to Use Pre-Performance Rituals",
+    "pdf_start": 239,
+    "pdf_end": 240,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-07",
+    "original_record_sha256": "cf89fcbe6d85b9d8127803086ce1b491036eab36747df37f08459e949cfa6642"
+  },
+  {
+    "id": "PCI-SEC-CH12-08",
+    "chapter_id": "PCI-CH-12",
+    "title": "Build a Quiet Room in Your Mind",
+    "pdf_start": 240,
+    "pdf_end": 241,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-08",
+    "original_record_sha256": "91f9a9d46588c2b05a0127fd8b240c0215b4973d1e44f6641082bfea7922caf9"
+  },
+  {
+    "id": "PCI-SEC-CH12-09",
+    "chapter_id": "PCI-CH-12",
+    "title": "Your Own Decompression Chamber",
+    "pdf_start": 241,
+    "pdf_end": 242,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-09",
+    "original_record_sha256": "94139171986d2159d50d603f584c5d018b09d99e891042c600661aff12704d89"
+  },
+  {
+    "id": "PCI-SEC-CH12-10",
+    "chapter_id": "PCI-CH-12",
+    "title": "A Little Vacation Every Day",
+    "pdf_start": 242,
+    "pdf_end": 243,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-10",
+    "original_record_sha256": "8d4998b1f3ca943451448f3cbdd7f82d0b260f4a7159c3132875157e4dcf8278"
+  },
+  {
+    "id": "PCI-SEC-CH12-11",
+    "chapter_id": "PCI-CH-12",
+    "title": "You Need a Certain Amount of Escapism",
+    "pdf_start": 243,
+    "pdf_end": 244,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-11",
+    "original_record_sha256": "ab81af21bbc71e0d6f155ed91ed62a83258d4ce80fc8a730f5dfdb35e6f84cdd"
+  },
+  {
+    "id": "PCI-SEC-CH12-12",
+    "chapter_id": "PCI-CH-12",
+    "title": "Clear Your Mechanism Before a New Problem",
+    "pdf_start": 244,
+    "pdf_end": 244,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-12",
+    "original_record_sha256": "04bdad82a51fb4fcc4a9ba4bcbe96fc8afd2b2abd6297fdcf820a9dafe608ed7"
+  },
+  {
+    "id": "PCI-SEC-CH12-13",
+    "chapter_id": "PCI-CH-12",
+    "title": "Insomnia and Emotional Carry-Overs",
+    "pdf_start": 244,
+    "pdf_end": 245,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-13",
+    "original_record_sha256": "77b3fde842e8fbea52db0f1c4370b8bc3701dacc12594f4d86c1e058a885db60"
+  },
+  {
+    "id": "PCI-SEC-CH12-14",
+    "chapter_id": "PCI-CH-12",
+    "title": "Emotional Carry-Over Causes Accidents",
+    "pdf_start": 245,
+    "pdf_end": 245,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-14",
+    "original_record_sha256": "228051807330faf1c821f6e9294c9f4c02cd873da73a43b47959444b14478c9f"
+  },
+  {
+    "id": "PCI-SEC-CH12-15",
+    "chapter_id": "PCI-CH-12",
+    "title": "Carry-Over Is the Opposite of Concentration",
+    "pdf_start": 245,
+    "pdf_end": 246,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-15",
+    "original_record_sha256": "0985107ce0aff528620035cce47baf4498477fe1a16cb7f57b353ba525e5c2f3"
+  },
+  {
+    "id": "PCI-SEC-CH12-16",
+    "chapter_id": "PCI-CH-12",
+    "title": "Create Your Own Quick Distractions Eraser",
+    "pdf_start": 246,
+    "pdf_end": 247,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-16",
+    "original_record_sha256": "6759e6a6f330607068ba84dd63288d2f790873cccc6ccbc3f6e512d712a533c4"
+  },
+  {
+    "id": "PCI-SEC-CH12-17",
+    "chapter_id": "PCI-CH-12",
+    "title": "Prescription: Clear the Calculator",
+    "pdf_start": 247,
+    "pdf_end": 247,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-17",
+    "original_record_sha256": "91301de0ccfb22cf3f730f42f0683c8722ee1cfa713bbd8d9d73d4a04e69d30a"
+  },
+  {
+    "id": "PCI-SEC-CH12-18",
+    "chapter_id": "PCI-CH-12",
+    "title": "Click Off Tension, Click On Performance",
+    "pdf_start": 247,
+    "pdf_end": 248,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-18",
+    "original_record_sha256": "946926edad7daca0c1cc57fc9b8fe5054ec2c3c5ab7496b860a35b48218bf87d"
+  },
+  {
+    "id": "PCI-SEC-CH12-19",
+    "chapter_id": "PCI-CH-12",
+    "title": "Calmness Carries Over Too",
+    "pdf_start": 248,
+    "pdf_end": 249,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-19",
+    "original_record_sha256": "da4320abaafcea3c7bd61828c8d50918cb70750c5ef04424dae06a56559b20b6"
+  },
+  {
+    "id": "PCI-SEC-CH12-20",
+    "chapter_id": "PCI-CH-12",
+    "title": "Build Your Own Psychic Umbrellas",
+    "pdf_start": 249,
+    "pdf_end": 249,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-20",
+    "original_record_sha256": "441eeed346d245ac55d30eaacfe274f63d1b05ea25df95debba458a56b670273"
+  },
+  {
+    "id": "PCI-SEC-CH12-21",
+    "chapter_id": "PCI-CH-12",
+    "title": "Your Emotional Stabilizer",
+    "pdf_start": 249,
+    "pdf_end": 250,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-21",
+    "original_record_sha256": "ed838bf7f28325723b23acf03d74a57dbfb39866a8403e3bf7b31d26fc23123f"
+  },
+  {
+    "id": "PCI-SEC-CH12-22",
+    "chapter_id": "PCI-CH-12",
+    "title": "Stop Fighting Straw Men",
+    "pdf_start": 250,
+    "pdf_end": 251,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-22",
+    "original_record_sha256": "97706d6cc18ec35af391ba8592856092722052274cd94851adc67531a489795a"
+  },
+  {
+    "id": "PCI-SEC-CH12-23",
+    "chapter_id": "PCI-CH-12",
+    "title": "Your First Aid Kit",
+    "pdf_start": 251,
+    "pdf_end": 251,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-23",
+    "original_record_sha256": "ee71537031e6c6d92741020c82c6d5cabe51a3498180767b6d02ac7f5ace8c7a"
+  },
+  {
+    "id": "PCI-SEC-CH12-24",
+    "chapter_id": "PCI-CH-12",
+    "title": "Mental Training Exercise: let telephone ring",
+    "pdf_start": 251,
+    "pdf_end": 252,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-24",
+    "original_record_sha256": "5daa188d37c4395eeac545732e775cd24a67fb2994708b27872f3c215760f878"
+  },
+  {
+    "id": "PCI-SEC-CH12-25",
+    "chapter_id": "PCI-CH-12",
+    "title": "Closing practice continuation",
+    "pdf_start": 252,
+    "pdf_end": 252,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH12-25",
+    "original_record_sha256": "c230931942abee9e7b8076fdff5fdc2ecd9bdd813bce0e3bc8ca5faa9cd39dc5"
+  },
+  {
+    "id": "PCI-SEC-CH13-01",
+    "chapter_id": "PCI-CH-13",
+    "title": "Chapter opening: sports pressure",
+    "pdf_start": 253,
+    "pdf_end": 254,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-01",
+    "original_record_sha256": "9d86e5786b894abd00b672368366c529855bb96f61b376ad9afee3b53fdcfcbe"
+  },
+  {
+    "id": "PCI-SEC-CH13-02",
+    "chapter_id": "PCI-CH-13",
+    "title": "People Who Come into Their Own in a Crisis",
+    "pdf_start": 254,
+    "pdf_end": 255,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-02",
+    "original_record_sha256": "0d0ad45f6b9c6dc74a3ff6965d14f5f9a655651518dd70fb0ea6184c21e5cf75"
+  },
+  {
+    "id": "PCI-SEC-CH13-03",
+    "chapter_id": "PCI-CH-13",
+    "title": "The Secret of the Money Player",
+    "pdf_start": 255,
+    "pdf_end": 255,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-03",
+    "original_record_sha256": "c6c9a798325dfa0a689c44c2469d5cc801fe2643e4172344f121fc9e7ac33e5d"
+  },
+  {
+    "id": "PCI-SEC-CH13-04",
+    "chapter_id": "PCI-CH-13",
+    "title": "Practice Without Pressure",
+    "pdf_start": 255,
+    "pdf_end": 256,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-04",
+    "original_record_sha256": "2d729b680448ea04b003c35893043531641cec82e51d2c3973f688173560eec2"
+  },
+  {
+    "id": "PCI-SEC-CH13-05",
+    "chapter_id": "PCI-CH-13",
+    "title": "Pressure Retards Learning",
+    "pdf_start": 256,
+    "pdf_end": 257,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-05",
+    "original_record_sha256": "618273b827297a31e962e966d6a24cc03a208ef0fff7281199a0170c03401b5f"
+  },
+  {
+    "id": "PCI-SEC-CH13-06",
+    "chapter_id": "PCI-CH-13",
+    "title": "Fire Drills Teach Crisis Conduct in Noncrisis Situation",
+    "pdf_start": 257,
+    "pdf_end": 258,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-06",
+    "original_record_sha256": "0cd160e10a30bf4314e37830b02ad0abd32ee1e5761d5e0d5538e1bc421d57f1"
+  },
+  {
+    "id": "PCI-SEC-CH13-07",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shadow-Boxing for Stability",
+    "pdf_start": 258,
+    "pdf_end": 259,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-07",
+    "original_record_sha256": "2337332fc0c295dc13c0914287f2270a4f0cd5c22e4fc9683e35a8c1137b7468"
+  },
+  {
+    "id": "PCI-SEC-CH13-08",
+    "chapter_id": "PCI-CH-13",
+    "title": "Easy Practice Brings Better Scores",
+    "pdf_start": 259,
+    "pdf_end": 259,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-08",
+    "original_record_sha256": "eeae31fb4a60966ee5024602a9cbac35990a58d4d7a9e460b57aecedbeaff098"
+  },
+  {
+    "id": "PCI-SEC-CH13-09",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shadow-Boxing Turns on Self-Expression",
+    "pdf_start": 259,
+    "pdf_end": 260,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-09",
+    "original_record_sha256": "e290010f89e77bea312f6cf553e4660a50437ee7619d3430ec8fe3ba3be8b4b7"
+  },
+  {
+    "id": "PCI-SEC-CH13-10",
+    "chapter_id": "PCI-CH-13",
+    "title": "Dry-Shooting Is the Secret of Good Marksmanship",
+    "pdf_start": 260,
+    "pdf_end": 260,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-10",
+    "original_record_sha256": "d29f524d12f98a070114d5434b4a3d3da98551bca35b311cc7e99bd71c773920"
+  },
+  {
+    "id": "PCI-SEC-CH13-11",
+    "chapter_id": "PCI-CH-13",
+    "title": "Shadow-Boxing Helps You Hit the Ball",
+    "pdf_start": 260,
+    "pdf_end": 261,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-11",
+    "original_record_sha256": "7b18edf39a8a78601580492d430314cd59ddc6965dbafc470ec76a35d8d801d3"
+  },
+  {
+    "id": "PCI-SEC-CH13-12",
+    "chapter_id": "PCI-CH-13",
+    "title": "The Salesman Who Practiced Not Selling",
+    "pdf_start": 261,
+    "pdf_end": 262,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-12",
+    "original_record_sha256": "a69bf9a1a0ea06d290917b4933278d0588fbbbf1a4ff3d2b70b0dad7f2387e77"
+  },
+  {
+    "id": "PCI-SEC-CH13-13",
+    "chapter_id": "PCI-CH-13",
+    "title": "School principal as goal-based crisis problem solver",
+    "pdf_start": 262,
+    "pdf_end": 264,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-13",
+    "original_record_sha256": "682428d40f551c2648fda66c1667ce964877b87facbe3601ae400d98a56e8a01"
+  },
+  {
+    "id": "PCI-SEC-CH13-14",
+    "chapter_id": "PCI-CH-13",
+    "title": "Do Not Mistake Excitement for Fear",
+    "pdf_start": 264,
+    "pdf_end": 265,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-14",
+    "original_record_sha256": "23213980af9c75fb2de8ca0cdaba132d5e8d3f5dc98f0de18e3fd9417b08648b"
+  },
+  {
+    "id": "PCI-SEC-CH13-15",
+    "chapter_id": "PCI-CH-13",
+    "title": "What Is the Worst That Can Possibly Happen?",
+    "pdf_start": 265,
+    "pdf_end": 267,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-15",
+    "original_record_sha256": "246ded853f794eaa403fba99f6b134ad1555b6957a65d3cea400f812a0f0d2c5"
+  },
+  {
+    "id": "PCI-SEC-CH13-16",
+    "chapter_id": "PCI-CH-13",
+    "title": "Life Is Long",
+    "pdf_start": 267,
+    "pdf_end": 268,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-16",
+    "original_record_sha256": "25e8260633c66f6a89c4ba565f829cb935426aa97f727fa79fa25e72f77625dc"
+  },
+  {
+    "id": "PCI-SEC-CH13-17",
+    "chapter_id": "PCI-CH-13",
+    "title": "The Curtain Will Rise on a Second Act",
+    "pdf_start": 268,
+    "pdf_end": 270,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-17",
+    "original_record_sha256": "e6cd6b6c89618c0b9624dbb0abac7129614e608db86c94e956e52f5645fa1695"
+  },
+  {
+    "id": "PCI-SEC-CH13-18",
+    "chapter_id": "PCI-CH-13",
+    "title": "Mental training: hindsight as foresight",
+    "pdf_start": 270,
+    "pdf_end": 270,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH13-18",
+    "original_record_sha256": "796678ee6c5acd26180227258e6ca53de8d3daf1e628e2ae6994fd6397ea0d95"
+  },
+  {
+    "id": "PCI-SEC-CH14-01",
+    "chapter_id": "PCI-CH-14",
+    "title": "Chapter opening: goal and success mechanism",
+    "pdf_start": 271,
+    "pdf_end": 272,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-01",
+    "original_record_sha256": "09e301742f41466f71de09f01860ee5e6e83fb006eef64f65edc0759fb35c2f4"
+  },
+  {
+    "id": "PCI-SEC-CH14-02",
+    "chapter_id": "PCI-CH-14",
+    "title": "Think in Terms of Possibilities",
+    "pdf_start": 272,
+    "pdf_end": 272,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-02",
+    "original_record_sha256": "e430b5e4ba4044cbf63c1d5b006f9615e1ddb61e7359cea28c5396dc94963a7f"
+  },
+  {
+    "id": "PCI-SEC-CH14-03",
+    "chapter_id": "PCI-CH-14",
+    "title": "Your Nervous System Cannot Tell Real from Imagined Failure",
+    "pdf_start": 272,
+    "pdf_end": 273,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-03",
+    "original_record_sha256": "8f7772cf76992d806eecf253032889841883baf00aeaabb5a0159060473bbaa1"
+  },
+  {
+    "id": "PCI-SEC-CH14-04",
+    "chapter_id": "PCI-CH-14",
+    "title": "Setting Your Machinery for Success",
+    "pdf_start": 273,
+    "pdf_end": 273,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-04",
+    "original_record_sha256": "c12ee5841179c4b6435896c3b156f3bbca1f15497393ad59042ba0bca8affddc"
+  },
+  {
+    "id": "PCI-SEC-CH14-05",
+    "chapter_id": "PCI-CH-14",
+    "title": "How That Winning Feeling Won a Golf Tournament",
+    "pdf_start": 273,
+    "pdf_end": 275,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-05",
+    "original_record_sha256": "fcf8406fbb3e6f45d7ae09a6da213875a2437d5921d25d5a4fc60bc8927c4439"
+  },
+  {
+    "id": "PCI-SEC-CH14-06",
+    "chapter_id": "PCI-CH-14",
+    "title": "J C Penney story and winning identity",
+    "pdf_start": 275,
+    "pdf_end": 276,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-06",
+    "original_record_sha256": "a468577d95c3da0c6f53d1b03c044128b96467175c7a3da399057e703107a7e2"
+  },
+  {
+    "id": "PCI-SEC-CH14-07",
+    "chapter_id": "PCI-CH-14",
+    "title": "Les Giblin future speaking story",
+    "pdf_start": 276,
+    "pdf_end": 277,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-07",
+    "original_record_sha256": "c32e484208f7e91078abaafafe9dd1c446998935471a3e0ef204e4692abc5c60"
+  },
+  {
+    "id": "PCI-SEC-CH14-08",
+    "chapter_id": "PCI-CH-14",
+    "title": "Two Men, Two Different Feelings",
+    "pdf_start": 277,
+    "pdf_end": 278,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-08",
+    "original_record_sha256": "57714e561aebe7125e90a93c12128b802f10f3306b5a679c3c2abef2431ebf4c"
+  },
+  {
+    "id": "PCI-SEC-CH14-09",
+    "chapter_id": "PCI-CH-14",
+    "title": "How Science Explains That Winning Feeling",
+    "pdf_start": 278,
+    "pdf_end": 279,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-09",
+    "original_record_sha256": "9efcd380bf510e840ed68fcb3eb49714a7ecab83a559f4325458b10ff3b407d6"
+  },
+  {
+    "id": "PCI-SEC-CH14-10",
+    "chapter_id": "PCI-CH-14",
+    "title": "How Your Brain Records Success and Failure",
+    "pdf_start": 279,
+    "pdf_end": 280,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-10",
+    "original_record_sha256": "2a39e1b6381e5353a797e047c16573e32c56dc09048cd6a6d4672244dfa273bb"
+  },
+  {
+    "id": "PCI-SEC-CH14-11",
+    "chapter_id": "PCI-CH-14",
+    "title": "Build Success Patterns into Your Gray Matter",
+    "pdf_start": 280,
+    "pdf_end": 282,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-11",
+    "original_record_sha256": "318d11e19dfb9c661b3c7cae9159e3265b2f523591823ec067ab31e186f05fe7"
+  },
+  {
+    "id": "PCI-SEC-CH14-12",
+    "chapter_id": "PCI-CH-14",
+    "title": "How to Play Back Your Own Built-In Success Patterns",
+    "pdf_start": 282,
+    "pdf_end": 282,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-12",
+    "original_record_sha256": "faa95cfb283feb6965181e570c2b670955e198a0e76c2cf9446451bbd6d85d35"
+  },
+  {
+    "id": "PCI-SEC-CH14-13",
+    "chapter_id": "PCI-CH-14",
+    "title": "Positive and Constructive Worry",
+    "pdf_start": 282,
+    "pdf_end": 283,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-13",
+    "original_record_sha256": "05251f105722dba766998f7bdddc7f930663d36b3574cda2a62f18f43a72c036"
+  },
+  {
+    "id": "PCI-SEC-CH14-14",
+    "chapter_id": "PCI-CH-14",
+    "title": "How to Cultivate Faith and Courage",
+    "pdf_start": 283,
+    "pdf_end": 285,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-14",
+    "original_record_sha256": "fecaa88b525ef96e11a4c1356c1bd31cc0ea7435ff487ef4f826e09b6043fa36"
+  },
+  {
+    "id": "PCI-SEC-CH14-15",
+    "chapter_id": "PCI-CH-14",
+    "title": "Overcome Evil with Good",
+    "pdf_start": 285,
+    "pdf_end": 286,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-15",
+    "original_record_sha256": "bf6c3ce925438525fbe68890d9b3095192082a990792e5ae3db23f7f1d2ace18"
+  },
+  {
+    "id": "PCI-SEC-CH14-16",
+    "chapter_id": "PCI-CH-14",
+    "title": "The Substitution Method of Curing Worry",
+    "pdf_start": 286,
+    "pdf_end": 287,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-16",
+    "original_record_sha256": "6e6043df007b1811aadf2ce184fa5cbf8f9bc2122a4f084fca38f2387d8d54b9"
+  },
+  {
+    "id": "PCI-SEC-CH14-17",
+    "chapter_id": "PCI-CH-14",
+    "title": "The Choice Is Up to You",
+    "pdf_start": 287,
+    "pdf_end": 288,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-17",
+    "original_record_sha256": "6eb13d720c327db600f396518243a58ad986d06a6137992fdbe76a267472d95e"
+  },
+  {
+    "id": "PCI-SEC-CH14-18",
+    "chapter_id": "PCI-CH-14",
+    "title": "Old Recordings Can Be Changed",
+    "pdf_start": 288,
+    "pdf_end": 288,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-18",
+    "original_record_sha256": "e771572ffc4eaf96661dd9a24725b3d1f462554f45763144439f600c81c1fd43"
+  },
+  {
+    "id": "PCI-SEC-CH14-19",
+    "chapter_id": "PCI-CH-14",
+    "title": "How We Manufacture Feelings or State",
+    "pdf_start": 288,
+    "pdf_end": 289,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-19",
+    "original_record_sha256": "116ff79d65f713fa91356e80133ef3b172e631e3482a058f3eb58cedd3b83212"
+  },
+  {
+    "id": "PCI-SEC-CH14-20",
+    "chapter_id": "PCI-CH-14",
+    "title": "Mental training: kind-of-person affirmation",
+    "pdf_start": 289,
+    "pdf_end": 289,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH14-20",
+    "original_record_sha256": "5e2f2dce8f08fa83809deaac109741e01f81ced4e95850c51b7dde880030ddc7"
+  },
+  {
+    "id": "PCI-SEC-CH15-01",
+    "chapter_id": "PCI-CH-15",
+    "title": "Chapter opening: youth and life force",
+    "pdf_start": 290,
+    "pdf_end": 290,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-01",
+    "original_record_sha256": "3d05d18db1f5f0bcb30bfd810d031f9a9c16f42e37a9ac62d6305868900084bd"
+  },
+  {
+    "id": "PCI-SEC-CH15-02",
+    "chapter_id": "PCI-CH-15",
+    "title": "Truths That Cannot Yet Be Proven Are Nonetheless Useful",
+    "pdf_start": 290,
+    "pdf_end": 291,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-02",
+    "original_record_sha256": "7660cc26332ebc39eca2326b6dec53829c4c933ffc0d4788ccccf4a0f7483deb"
+  },
+  {
+    "id": "PCI-SEC-CH15-03",
+    "chapter_id": "PCI-CH-15",
+    "title": "Life Force: The Secret of Healing and the Secret of Youth",
+    "pdf_start": 291,
+    "pdf_end": 293,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-03",
+    "original_record_sha256": "db7f3727c7b6de0881a5929b9c025815ea62a101c79f2b0dc42a16eeb0bd88bb"
+  },
+  {
+    "id": "PCI-SEC-CH15-04",
+    "chapter_id": "PCI-CH-15",
+    "title": "Science Discovers the Life Force",
+    "pdf_start": 293,
+    "pdf_end": 294,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-04",
+    "original_record_sha256": "6001e8f0be404a72fd3660dcf3305be617ba369016da1cb9dae1cd05c5731019"
+  },
+  {
+    "id": "PCI-SEC-CH15-05",
+    "chapter_id": "PCI-CH-15",
+    "title": "Is This the Secret of Youth?",
+    "pdf_start": 294,
+    "pdf_end": 294,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-05",
+    "original_record_sha256": "ecbb0051b89d29e2f35f44b53a86499c38b9eb4d9d0fd2784cc01da2ae464f5d"
+  },
+  {
+    "id": "PCI-SEC-CH15-06",
+    "chapter_id": "PCI-CH-15",
+    "title": "Science Search for the Elixir of Youth",
+    "pdf_start": 294,
+    "pdf_end": 295,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-06",
+    "original_record_sha256": "7c1500848439ae6e662ebb3ae720bceaf12f1accbefb203f678247d0581f5012"
+  },
+  {
+    "id": "PCI-SEC-CH15-07",
+    "chapter_id": "PCI-CH-15",
+    "title": "How the Failure Mechanism Injures You",
+    "pdf_start": 295,
+    "pdf_end": 296,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-07",
+    "original_record_sha256": "acbc1b9cc74a7fed94003fabfeb8d647896827894834614c789e2ae88106bae6"
+  },
+  {
+    "id": "PCI-SEC-CH15-08",
+    "chapter_id": "PCI-CH-15",
+    "title": "What Is the Secret of Rapid Healers?",
+    "pdf_start": 296,
+    "pdf_end": 296,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-08",
+    "original_record_sha256": "83ece6b733c29f5bdfb1aff74c957d9369b28a13c12c3cce70a1a68621637dbf"
+  },
+  {
+    "id": "PCI-SEC-CH15-09",
+    "chapter_id": "PCI-CH-15",
+    "title": "Thoughts Bring Organic as Well as Functional Changes",
+    "pdf_start": 296,
+    "pdf_end": 297,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-09",
+    "original_record_sha256": "1c49386ec986d9623f05aaab126a3de130720f88ac7e71d6b894d6b79f7047d6"
+  },
+  {
+    "id": "PCI-SEC-CH15-10",
+    "chapter_id": "PCI-CH-15",
+    "title": "Visible Results from Invisible Medicine",
+    "pdf_start": 297,
+    "pdf_end": 297,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-10",
+    "original_record_sha256": "16e1500fcd1edd82ef10bf306cd4dde3f96a0563fd0ea99e9b744c5b28e6e3d9"
+  },
+  {
+    "id": "PCI-SEC-CH15-11",
+    "chapter_id": "PCI-CH-15",
+    "title": "Do We Sometimes Think Ourselves into Old Age?",
+    "pdf_start": 297,
+    "pdf_end": 298,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-11",
+    "original_record_sha256": "23740b76070a5fbc40ba7ee8ae4c24e25266e83461f0fc8b15616d88c5c2f597"
+  },
+  {
+    "id": "PCI-SEC-CH15-12",
+    "chapter_id": "PCI-CH-15",
+    "title": "Expectation and Engagement Means Life",
+    "pdf_start": 298,
+    "pdf_end": 299,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-12",
+    "original_record_sha256": "a08e37f143bdd51a785cd1a13362d32224103d6fe1ae91587b575b11833d606e"
+  },
+  {
+    "id": "PCI-SEC-CH15-13",
+    "chapter_id": "PCI-CH-15",
+    "title": "Look Forward and Live",
+    "pdf_start": 299,
+    "pdf_end": 300,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-13",
+    "original_record_sha256": "fcfae5ffa114cda98cf6c8f9d81826aaedd7df90b9438ee0ed9bb8ba13daea9d"
+  },
+  {
+    "id": "PCI-SEC-CH15-14",
+    "chapter_id": "PCI-CH-15",
+    "title": "Create a Need for More Life",
+    "pdf_start": 300,
+    "pdf_end": 302,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-14",
+    "original_record_sha256": "b7c66e9c8b1ed87e02e3c97eda828d3f69a39124b7a7d0062f00f1868b278c10"
+  },
+  {
+    "id": "PCI-SEC-CH15-15",
+    "chapter_id": "PCI-CH-15",
+    "title": "Retire from a Job, but Never Retire from Life",
+    "pdf_start": 302,
+    "pdf_end": 303,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-15",
+    "original_record_sha256": "f283f4b9e1128e6f8ac173769cc9200fb54950c3c58e7f51bf606d4a7d834a45"
+  },
+  {
+    "id": "PCI-SEC-CH15-16",
+    "chapter_id": "PCI-CH-15",
+    "title": "Why I Believe in Miracles",
+    "pdf_start": 303,
+    "pdf_end": 304,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-16",
+    "original_record_sha256": "809a712c61295ec8615fe6e24516c0cb7edbbcbd9aea3dcacaa99c3e224b211e"
+  },
+  {
+    "id": "PCI-SEC-CH15-17",
+    "chapter_id": "PCI-CH-15",
+    "title": "Medical Science, Faith, Life, All Come from Same Source",
+    "pdf_start": 304,
+    "pdf_end": 304,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-17",
+    "original_record_sha256": "cf8fea74b7c2c8dae0098463fe9c89081324d44987c2cf1c552e789c0d93b329"
+  },
+  {
+    "id": "PCI-SEC-CH15-18",
+    "chapter_id": "PCI-CH-15",
+    "title": "Do Not Place Limitations on Life",
+    "pdf_start": 304,
+    "pdf_end": 305,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-18",
+    "original_record_sha256": "922641a7c5252ddc89fc26a3735704ac98aec62dfa3c617e59a727a8184d4534"
+  },
+  {
+    "id": "PCI-SEC-CH15-19",
+    "chapter_id": "PCI-CH-15",
+    "title": "The Best Self-Image of All",
+    "pdf_start": 305,
+    "pdf_end": 306,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH15-19",
+    "original_record_sha256": "45800df25346a06c4f413393e181709e2009dcc3a7b8c6bf6a6058f9842c3116"
+  },
+  {
+    "id": "PCI-SEC-CH16-01",
+    "chapter_id": "PCI-CH-16",
+    "title": "The Case of the Least-Likely-to-Succeed Stockbroker",
+    "pdf_start": 307,
+    "pdf_end": 309,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-01",
+    "original_record_sha256": "10c47b651b1f2c396817069a978769cc3ce1068771f2ac97e7aec533b150513f"
+  },
+  {
+    "id": "PCI-SEC-CH16-02",
+    "chapter_id": "PCI-CH-16",
+    "title": "The Case of the Professor’s F",
+    "pdf_start": 309,
+    "pdf_end": 310,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-02",
+    "original_record_sha256": "4f9a31e3f6415356070dbecb5184534fe59d21abdb08989da861b5bdcce6a133"
+  },
+  {
+    "id": "PCI-SEC-CH16-03",
+    "chapter_id": "PCI-CH-16",
+    "title": "The Case of the Alcoholic’s Daughter",
+    "pdf_start": 310,
+    "pdf_end": 311,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-03",
+    "original_record_sha256": "0eecf5d5475da38c516dcbd5a2ec8716567916a2b2d8929a680d8b0203eb7a23"
+  },
+  {
+    "id": "PCI-SEC-CH16-04",
+    "chapter_id": "PCI-CH-16",
+    "title": "The Case of the Rodeo Cowboys",
+    "pdf_start": 311,
+    "pdf_end": 313,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-04",
+    "original_record_sha256": "e8200ea3f7a266037c201f516b97d46e0a21c6c227dfcef8629780cfea117111"
+  },
+  {
+    "id": "PCI-SEC-CH16-05",
+    "chapter_id": "PCI-CH-16",
+    "title": "The Case of the Woman Who Could Not Walk",
+    "pdf_start": 313,
+    "pdf_end": 316,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-05",
+    "original_record_sha256": "e485d0827c26026bca579a37307c125f212f5afc5460110c5c716b7bbf5178b2"
+  },
+  {
+    "id": "PCI-SEC-CH16-06",
+    "chapter_id": "PCI-CH-16",
+    "title": "Visualization without action closing example",
+    "pdf_start": 316,
+    "pdf_end": 316,
+    "source_status": "verified_in_pdf",
+    "origin_id": "PCI-SEC-CH16-06",
+    "original_record_sha256": "ff0596d64818901ef059d7b75fa58c95400c1a0909568371653cb835cd636f94"
+  }
+]

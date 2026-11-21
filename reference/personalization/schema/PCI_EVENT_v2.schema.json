@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCI local event with idempotency and context",
+  "type": "object",
+  "required": [
+    "event_id",
+    "idempotency_key",
+    "event_type",
+    "target_id",
+    "timestamp_iso",
+    "time_zone",
+    "session_id",
+    "schema_version",
+    "privacy_mode",
+    "payload"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    },
+    "idempotency_key": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 200
+    },
+    "event_type": {
+      "enum": [
+        "belief.created",
+        "belief.revised",
+        "goal.created",
+        "goal.updated",
+        "rehearsal.completed",
+        "scenario.completed",
+        "activity.completed",
+        "activity.skipped",
+        "exercise.reviewed",
+        "review.undone",
+        "experiment.outcome_recorded",
+        "journal.saved",
+        "program.day_completed",
+        "program.day_skipped",
+        "program.paused",
+        "program.resumed",
+        "bookmark.saved"
+      ]
+    },
+    "target_id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "timestamp_iso": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "time_zone": {
+      "type": "string",
+      "minLength": 3
+    },
+    "session_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "schema_version": {
+      "const": "2.0.0"
+    },
+    "privacy_mode": {
+      "const": "device_local"
+    },
+    "payload": {
+      "type": "object"
+    },
+    "consent_id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+    }
+  },
+  "additionalProperties": false
+}

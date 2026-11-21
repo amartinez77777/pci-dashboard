@@ -1,0 +1,51 @@
+PSYCHO-CYBERNETICS INTELLIGENCE — v1.1 ENHANCED SOURCE CHECKPOINT
+Version 1.1.0-rc.1 | Status: ENHANCED SOURCE CANDIDATE, NOT PRODUCTION CERTIFIED
+Authoritative input: PCI_GITHUB_BUILD_READY_SOURCE.zip | SHA256 0a2392a94811cc17a3353b3b474f0994aa581c48d9b64d6748a1b275f899af8c
+
+WHAT WAS ACTUALLY IMPLEMENTED
+1) Deterministic Personal Intelligence engine: src/pci-recommendations.ts. Reads existing local snapshots and recommends due Academy reviews, paused/unfinished lessons, incomplete conditioning or rehearsal, pending real observations, saved goals and belief-related optional rehearsal. All suggestions include visible reason codes, rationale, source record identifiers and real module paths. No AI/cloud/hidden scores.
+2) Command Center redesign in src/personal-intelligence.tsx with explicit resume, up to 3 explainable next actions, truthful stored-record metrics, goals with pending observations, Academy due-review access, recent non-sensitive activity and a linked Understand→Reflect→Rehearse→Apply→Observe→Review journey. Empty account remains honest. Recommendations can be disabled with existing on-device preference.
+3) Existing-ID cross-module paths in src/app.tsx, src/feedback.tsx, src/theater.tsx, src/conditioning.tsx, src/academy.tsx, src/vault.tsx, src/personal-labs.tsx. Goal or belief ID can open a voluntary pre-linked private Theater builder; saved goal/iteration can open Feedback; Academy days and review queues deep-link without auto-completing work; matching canonical concept IDs can open existing PCI Conditioning adaptations. No new psychological or book relationships are fabricated.
+4) Explicit, archived links in src/personal-intelligence-model.ts: preserved goal→experiment, scene→session, lesson→practice; added belief→scene, goal→scene, experiment→observed outcome from user-selected saved IDs. Archived scenes now appear in existing private history. Memoized timeline/search avoids rebuilding every record on each keystroke.
+5) Focused home CSS for 375/390/430/tablet/desktop, 44px buttons and reduced motion in public/personal-intelligence.css. No broad redesign.
+6) New source/record tests and in-memory Chromium flows. No book records, 21-day authored lessons, or 25-store schema changed. Existing privacy-sensitive body text is not embedded in recommendation payloads or public data.
+
+SOURCE FILES ADDED
+- src/pci-recommendations.ts
+- tests/v11_personal_intelligence.test.mjs
+- tests/browser_v11.py
+- tests/validate_v11.py
+- audit/v11/INPUT_CONTENT_FINGERPRINTS.json, audit/v11/INTEGRITY_QA.json, audit/v11/BROWSER_QA.json and test matrix
+- V1_1_HANDOFF.txt, README_V1_1.md, V1_1_CHANGELOG.md, V1_1_TEST_MATRIX.json
+CHANGED
+- src/personal-intelligence-model.ts, src/personal-intelligence.tsx, src/feedback.tsx, src/theater.tsx, src/conditioning.tsx, src/academy.tsx, src/app.tsx, src/vault.tsx, src/personal-labs.tsx, public/personal-intelligence.css, package.json, PCI_PROJECT_MANIFEST.json, checksums/inventory.
+UNMODIFIED
+- All 249 frozen source-content, source-reference, research/JSON, schema, ID-registry, issues, privacy storage, and baseline-style files (source fingerprints individually validated). Exactly 1,799 stable ID registry entries. 201 original concept records, 16 chapters, 109 provisional graph relationships, 70 source-practice attributions, 12 authored rehearsal templates, 16 scenarios, 21 authored days and 6 Conditioning protocols. No DB migration: pci-private-v1, version 2, 25 stores.
+
+TEST COMMANDS EXECUTED
+- npm run typecheck: PASS, exit 0.
+- npm run lint: PASS, exit 0 (existing lightweight source lint; not full ESLint).
+- npm run build:offline: PASS, exit 0. React16 compatibility test harness ONLY, not a React18 production build.
+- node --test tests/*.test.mjs: PASS 139/139, exit 0 (includes 9 new repository/recommendation/link/backup/empty-state tests).
+- python tests/browser_v11.py: PASS 82/82 real Chromium in-memory rendering/navigation checks at 375,390,430,768,1440px with React16 compatibility bridge and synthetic IndexedDB. This does NOT verify production React18 or secure-origin IndexedDB durability.
+- python tests/validate_v11.py: PASS 15/15, reads 249 immutable file fingerprints from the supplied input, verifies 1,799 registry IDs and contract/route counts.
+- python scripts/audit_final_research.py: PASS, no broken audited links; remains source-structure/evidence-status verification, NOT independent image recheck of the copyrighted book PDF.
+- npm install --no-audit --no-fund --fetch-retries=0 --fetch-timeout=10000 --prefer-offline: BLOCKED, exit 1, EAI_AGAIN resolving registry.npmjs.org/react; no lockfile created.
+- npm run build: BLOCKED, exit 127, vite: not found AFTER TypeScript passed. DO NOT deploy dist-static/.
+- Native IndexedDB secure-origin reload, HTTPS production journey, iPhone Safari and VoiceOver: NOT TESTED.
+- One historical checkpoint4 byte-fingerprint validator failed at baseline (before v1.1 work) due older input fingerprint requirements. Historical archive-dependent Stage09–12 structural validators require nested rollback ZIPs; omitted from this clean release by request. Their checks are superseded for preserved source data by tests/validate_v11.py and frozen input fingerprints. Do not misreport them as passes in this package.
+
+HOW TO BUILD/DEPLOY VIA GITHUB PAGES
+1) Extract PCI_V1_1_ENHANCED_SOURCE.zip and open its single top-level repository folder.
+2) Upload the contents of that folder (including .github/, index.html, public/, src/, scripts/, tests/, package.json, vite.config.ts) to the root of the GitHub Pages repository's main branch. Do NOT upload the wrapper ZIP into repository root instead of extracting it.
+3) Keep .github/workflows/pci-pages.yml intact. GitHub Actions installs real npm dependencies on Node 22, regenerates offline test assets, runs typecheck/lint/Node/research checks, builds Vite, verifies dist, runs native Chromium smoke tests, and deploys ONLY dist/ if every required gate passes.
+4) A genuine package-lock.json can only be generated after resolving dependencies (npm install); do not fabricate it. The workflow handles absent lockfile.
+5) Once Actions passes, open the actual HTTPS GitHub Pages URL. Test Academy→concept→Conditioning→Archive, goal→Theater→Feedback→Archive, browser refresh and Back, sensitive-data prompts and backup export/import. Test again in iPhone Safari and verify downloaded JSON backups are unencrypted, remain in user control and contain no unwanted sensitive data. Stop release if drafts or saved entries disappear.
+6) Remain at v1.1.0-rc.1 until an actual React18/Vite build and native persistence/mobile checks succeed. Do not label this source archive a production deployment artifact.
+
+CONTINUITY/OPEN RISKS
+- Browser persistence, reload after real origin changes, Safari/VoiceOver, speech and multi-tab collision require real-device tests; synthetic IndexedDB cannot replace them.
+- Source edition PDF not attached here. Claims carry inherited evidence status, not new source-image or scientific validation. The automatic-success mechanism is a book metaphor, not an established discrete brain organ. Exercises are educational PCI adaptations, not treatment or guaranteed 21-day transformation.
+- The old inherited research caveat duplication (201 matching conditions/cautions per-record; 4 variants of common misreadings) remains recorded, not silently overwritten.
+- Optional source-to-practice links are based on explicit matching canonical concept IDs; they are identified as PCI suggestions, not original author prescriptions. Deleting a linked record yields a recoverable missing-record state, not a fabricated association.
+- Build status remains BLOCKED. The small offline compatibility harness can be recreated with npm run build:offline but must never be deployed.

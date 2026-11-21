@@ -1,0 +1,40 @@
+PCI — FINAL PROMPT 4 OF 5 / PERSONAL INTELLIGENCE INTEGRATION
+OUTPUT: PCI_APP_CHECKPOINT_4.zip
+SOURCE: Exact continuation of user-supplied PCI_APP_CHECKPOINT_3(1).zip, no app replacement.
+APP VERSION: 0.12.4 | RESEARCH SCHEMA 1.0.0 | PERSONAL DB pci-private-v1 v2, same 25 stores
+
+DELIVERED
+1) Module 01 / Command Center displays REAL locally saved Academy attempted/skipped days, completed Theater and Conditioning sessions, feedback experiments and actual observations, completed scenarios, saved goals/beliefs, bookmarks, notes/reflections. No seeded user progress and no psychological effectiveness scores. Homepage offers explicit routes to choose a goal or belief and open knowledge. Dynamic deterministic next step includes text explaining why it was offered. User can disable suggestions; preference saved in existing profile_preferences store.
+2) Module 10 / Evolution Archive offers chronological combined local records for notes/reflections, beliefs, goals, rehearsal sessions, conditioning, observations/experiments, scenario progress, and Academy day acknowledgements. Device-only title/tag search, type filters and direct record selection; responsive details and deep links. Sensitive records appear as hidden stubs in normal browsing and are excluded from search; explicit reveal per entry required. Actual user-owned journal notes can be created, edited with revision history, deleted after confirmation and immediately undone. Cross-module records remain editable in their own originating tools, not silently modified by the Archive.
+3) Explicit ID-based relationships only: goals to experiments via experiment.goal_id, scene to rehearsal via session.scene_id, lesson to practice via curriculum.primary_activity_id or optional_rehearsal_id and the persisted session's actual source refs. Missing references safely show no association. A saved Archive item opens and can link back to its module and source concept. Academy, Conditioning, Feedback, Theater and Vault remain present with stable routes.
+4) All 10 routes and the CP1 hash-navigation unsaved-work protection remain intact. Deep links use #/archive/<record UUID> (and #/archive/<run UUID>@<day ID> for Academy day history), #/knowledge/<canonical concept ID>, #/feedback, #/theater, #/conditioning, #/academy, #/scenarios.
+
+CHANGED/ADDED SOURCE
+- NEW src/personal-intelligence-model.ts: typed record selectors, actual metrics, chronological timeline, explicit link derivation, deterministic next steps.
+- NEW src/personal-intelligence-repo.ts: private snapshot query, suggestion preference and local reflection edit/delete/undo, without new stores.
+- NEW src/personal-intelligence.tsx and public/personal-intelligence.css: Command Center and Archive interface, search, privacy controls and responsive components.
+- MODIFIED src/app.tsx: mount new modules and remove misleading future-stage marker on Archive, no route replacement; index.html: load new stylesheet; package.json: version and tests.
+- NEW tests/checkpoint4.test.mjs, tests/browser_checkpoint4.py, tests/validate_checkpoint4.py, audit/checkpoint4/CP3_BASELINE_FINGERPRINTS.json; older in-memory browser harnesses have additive module-order changes needed to load CP4 app.
+- UPDATED PCI_PROJECT_MANIFEST.json and existing PCI_ISSUES.json only with honest CP4 status; NO new canonical research IDs or registry changes; all original 1,799 IDs retained.
+- UPDATED dist-static compatibility harness (React16) and root CHECKSUMS.sha256 / FILE_INVENTORY.json. Tiny inherited rollbacks retained because existing regression validators depend on them. No full historical ZIPs added.
+
+REAL TESTS (see audit/checkpoint4 and command logs)
+- PASS npm run typecheck; npm run lint; npm run build:offline (React16 test harness, NOT Vite production).
+- PASS node --test tests/*.test.mjs: 123/123, including 7 new model/private repo tests for clean start, live metrics, explicit 3-link journey, edit/revisions, delete/undo, sensitive search/export redaction, suggestion preference, and export/import compatibility using synthetic IndexedDB.
+- PASS python tests/browser_checkpoint4.py: 24/24 in-memory Chromium (390px and 1440px) using synthetic IndexedDB. UI exercise includes save/edit/search/delete/undo, canceled navigation preserving draft, actual home count and Vault/Feedback/Scenario/Conditioning/Academy routes. No horizontal overflow at those 2 widths.
+- PASS python tests/browser_checkpoint3.py: 32/32 inherited Academy browser regression with CP4 modules loaded.
+- PASS source-preservation: all declared protected original source/data/schema/reference/contract fingerprints and full original 1,799-ID registry unchanged (see CP4_SOURCE_QA.json).
+- PASS other existing Node/structural validators from CP1, CP2, CP3, Stage 11 and Stage 12.
+- BLOCKED npm run build: TypeScript passes, then vite: not found (exit 127). No valid npm-generated lockfile; do not certify React18/Vite production.
+- NOT_TESTED genuine HTTPS-origin IndexedDB durability after reload, physical iPhone Safari, multi-tab conflict handling, or complete public distribution on GitHub Pages.
+- INCOMPLETE: one inherited Stage12 browser regression timed out during the wider screenshot harness; do not treat it as a pass. The new CP4 browser checks and CP3 regression passed.
+
+KNOWN ISSUES / FINAL PROMPT 5 OWNERSHIP
+- PCI-ISS-ST08-001: official Vite/React18 install/build, reproducible lockfile and deploy verification remain BLOCKED.
+- PCI-ISS-ST10-001: native IndexedDB reload/persistence and Safari/device testing remain NOT_TESTED; verify backup restore, import collisions and cross-tab races before production.
+- Sensitive data is hidden from title/tag search by default, but exported unencrypted backups remain user-controlled and need device caution. Native browser privacy/security review is pending.
+- Archive shows the 120 newest timeline entries with local filtering; no pagination beyond 120 yet. This is a disclosed product limit, not fabricated completeness.
+- Historical research quality and attribution claims remain governed by Stage 05 knowledge integrity status; no new source research conducted.
+- CP4 archive links to existing module interfaces, which may not yet deep-select every external record. It displays exact links and records locally without inventing unsupported module deep-link behavior.
+
+PROMPT 5 INPUT: attach ONLY PCI_APP_CHECKPOINT_4.zip, including HANDOFF_4.txt. It is the entire cumulative source, contracts, tests, fixtures, manifests and static offline test harness.

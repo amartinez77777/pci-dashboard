@@ -1,0 +1,9 @@
+
+> psycho-cybernetics-intelligence@0.8.0 test:browser
+> python tests/browser_smoke.py
+
+{
+  "status": "PASS",
+  "passed": 35,
+  "failed": 0
+}

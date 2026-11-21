@@ -1,0 +1,223 @@
+{
+  "scope": "In-memory Chromium / React16 compatibility, with synthetic IndexedDB facade. NO native-IDB reload persistence or React18/Vite browser claim.",
+  "passed": 43,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "first-launch-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-route-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-optional-skip-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-source-links-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-saved-map-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-history-retained",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "reflection-saved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "reflection-history",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-route-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-source-link-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-created-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-revision-initial-1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-revision-after-update",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-experiment-followup",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "experiment-outcome-stored",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "compare-two-snapshots",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-delete-confirmed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "stage09-vault-regression",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "js-errors-1440",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-route-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-optional-skip-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-source-links-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-saved-map-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-route-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-source-link-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-created-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-revision-initial-390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-belief-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "mobile-self-image-overflow-390",
+      "status": "PASS",
+      "detail": "{'scroll': 390, 'inner': 390}"
+    },
+    {
+      "name": "js-errors-390",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "first-launch-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-route-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-optional-skip-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-source-links-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "self-image-saved-map-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-route-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-source-link-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-created-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "belief-revision-initial-320",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile-belief-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "mobile-self-image-overflow-320",
+      "status": "PASS",
+      "detail": "{'scroll': 320, 'inner': 320}"
+    },
+    {
+      "name": "js-errors-320",
+      "status": "PASS",
+      "detail": "[]"
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,5 @@
+
+> psycho-cybernetics-intelligence@0.12.1 test:stage11:browser
+> python tests/browser_stage11_smoke.py
+
+Stage11 Chromium PASS checks 56 failed 0 exceptions 0

@@ -1,0 +1,54 @@
+PCI — FINAL SOURCE RELEASE CANDIDATE / PROMPT 5 OF 5
+Package: PCI_FINAL_SOURCE.zip | App version: 0.12.5-rc.1 | Status: NOT PRODUCTION CERTIFIED
+Single-book PCI, 10 module routes, all 1,799 IDs preserved, 16 chapters, 201 concepts, 109 provisional same-book edges, 70 book-practice attributions, 12 PCI adaptation rehearsal templates, 16 authored scenarios, 21 authored Academy days, 6 Conditioning protocols.
+
+SOURCE INPUT CONFIRMED
+Opened the exact uploaded PCI_APP_CHECKPOINT_4(1).zip (640 ZIP entries; SHA-256 4b39b333142b4982046eab8dc7ffdef8104d34286ed0599e36dcc87bc03a5d30). Read HANDOFF_4.txt, src/storage.ts, app route code, manifest, IDs and validators. Did not attach/re-verify the copyrighted book PDF this final stage.
+
+ACTUAL CHANGES
+- src/storage.ts: 1 approved targeted hardening. Retry after IndexedDB unavailable; reject malformed import UUIDs/dates/null data, non-string refs, duplicate IDs, oversized backups (>10 MB); preserve v2 record envelope, 25 stores, existing imports and IDs. Original and revised exact SHA-256 in audit/final/STORAGE_CHANGE_CONTROL.json. No schema migration.
+- src/app.tsx: explicit caution before exporting sensitive unencrypted JSON and before importing a file containing sensitive records; correct completed-module navigation labeling and release footer.
+- vite.config.ts: base './' for subpath static hosts and hash routing (configuration NOT yet verified by real Vite build).
+- Updated historical validators narrowly to accept only the documented old/new hash for src/storage.ts; all unrelated research and contract fingerprints retained. See 10 completed structural regression suites, not a silent deletion of checks.
+- scripts/audit_final_research.py: full 201-record, 16 chapter, 21-day, graph and practice reference audit. audit/final/RESEARCH_INTEGRITY_AUDIT.json contains 16 contextual editorial rewriting proposals with source IDs; NONE applied to canonical records because there was no new PDF image verification. Earlier statement that conditions_and_limits were identical across 201 is corrected: they are unique; each is DUPLICATED within its own record in ethical_clinical_cautions. common_misreading has only 4 variants.
+- tests/final_backup_safety.test.mjs: 7 new executed safety tests; tests/browser_final_responsive.py: six-width/10-route in-memory Chromium validation. Unmodified book research content and private DB records were not published.
+- Updated package version and truthful release manifest/issue trace; no new permanent IDs; native iPhone/IndexedDB open issues remain OPEN.
+
+EXACT VERIFIED TEST OUTCOMES
+PASS: npm run typecheck (exit 0).
+PASS: npm run lint (exit 0; lightweight source lint, not full ESLint).
+PASS: npm run build:offline (exit 0; React16 COMPATIBILITY TEST HARNESS ONLY; NOT deployable React18 release).
+PASS: node --test tests/*.test.mjs: 130/130 (including 7 new backup safety tests), exit 0.
+PASS: python tests/browser_final_responsive.py: 114/114 real Chromium rendering checks at 320, 375, 390, 430, 768 and 1440 pixels, with React16 in-memory bridge and SYNTHETIC IndexedDB; no horizontal overflow in checked screens, all 10 routes available.
+PASS: python tests/browser_stage11_smoke.py: 56/56 after correcting the outdated Command Center title matcher; same synthetic browser limitations.
+PASS: 10 inherited structural checks including Stage 08–12 and CP1–4; see audit/final/STRUCTURAL_REGRESSIONS.json.
+PASS: python scripts/audit_final_research.py (0 broken references in audited fields); NOT full text verification against copyrighted PDF.
+BLOCKED: npm install --no-audit --no-fund --fetch-retries=0 --fetch-timeout=12000: exit 1 EAI_AGAIN (registry.npmjs.org). package-lock.json NOT generated.
+BLOCKED: npm run build: exit 127, vite: not found after passing TypeScript. NO production dist/ or deploy ZIP produced.
+NOT TESTED: Native secure-origin IndexedDB persistence/reload; local HTTP server bind refused, so browser never had an actual host origin. NOT TESTED: physical iPhone Safari, VoiceOver, browser speech, multi-tab editing, real HTTPS GitHub Pages deployment.
+PARTIAL: An inherited broad Stage12 browser harness exceeded a bounded runtime; the separate final six-width suite, Stage11 and Node regressions are proven. Three real-user end-to-end journeys are only verified to the limits of synthetic storage, not genuine durable device flows.
+
+RESEARCH CAUTIONS AND OPEN DEBT
+All inherited 201 concept records currently have evidence status book_assertion_only; this is not independent scientific validation. Existing per-concept ethical_clinical_cautions duplicates conditions_and_limits for all 201. Four repeated common_misreading phrases remain. The 16 audit proposals are explicitly DRAFT editorial text, not newly source-certified content. The automatic success mechanism is a book metaphor, not an established discrete brain organ. No treatment, diagnosis, success odds or guaranteed 21-day transformation.
+
+OPEN RELEASE GATES
+1) REAL React18/Vite installation, actual build, lockfile and HTTPS distribution verification remain BLOCKED (PCI-ISS-ST08-001, ST10-002, ST11-001).
+2) Native IndexedDB v2 create/edit/delete, refresh, backup/import, sensitive consent and multi-tab collision checks NOT TESTED (PCI-ISS-ST08-002, ST10-001, ST10-004).
+3) iPhone Safari/VoiceOver, enlarged text, focus and speech NOT TESTED (PCI-ISS-ST08-004, ST11-002).
+4) Source image/page-level recheck, ISBN audit, scientific/evidence review, substantive caution deduplication OPEN (original research issues PCI-ISS-001 and other inherited research issues).
+5) Storage quota, browser eviction and full crash/rollback recovery have not been proven on a real origin. Backups are unencrypted user-controlled JSON and not cloud synchronization.
+
+REAL BUILD/DEPLOY WHEN INTERNET/NPM IS AVAILABLE
+1. Extract this source ZIP. cd PCI_FINAL_SOURCE.
+2. node --version (Node 20+ recommended); npm install --no-audit --no-fund (creates real package-lock.json only after successful resolution).
+3. npm run typecheck && npm run lint && node --test tests/*.test.mjs && npm run build.
+4. Confirm generated dist/index.html and imported scripts/styles/assets, with no source PDF, tests, private JSON, offline vendor, historical references or rollbacks. Inspect the generated dist; do not deploy from dist-static/.
+5. Serve ONLY dist/ on an HTTPS static origin. Hash routes must work under subpath; vite.config.ts base './' is added but UNVERIFIED here.
+6. Run FINAL_MOBILE_10_MINUTE_CHECKLIST.txt on the actual deployed URL. Verify native IndexedDB and backup restore on desktop AND Safari. Stop release if any personal data disappears or navigation silently loses drafts.
+7. Update release gate issues only after the above checks pass. Generate and commit the genuine npm lockfile; consider formal CSP, accessible testing and performance/diagnostic review.
+
+SUPPLIED FILES AND INVENTORY
+- Complete cumulative source, public/ immutable book research assets, reference/ contracts, schema/, tests/, scripts/, offline-vendor and dist-static test harness, tiny inherited test rollbacks (NOT full past archives), manifest, ID registry, issues, checksum inventory, audit/final reports.
+- CHECKSUMS.sha256 covers every packaged payload file except itself and FILE_INVENTORY.json to avoid checksum recursion; FILE_INVENTORY.json records each hashed payload and size.
+- No private user entries, full copyrighted PDF or secrets are intentionally included.
+- PCI_FINAL_DEPLOY.zip is deliberately NOT CREATED: a genuine production build did NOT succeed.

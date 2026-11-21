@@ -1,0 +1,10 @@
+
+> psycho-cybernetics-intelligence@0.12.0 test:stage11:assets
+> python tests/validate_stage11.py
+
+FAIL byte-identical inherited src/personal-labs.tsx 
+{
+  "status": "FAIL",
+  "passed": 44,
+  "failed": 1
+}

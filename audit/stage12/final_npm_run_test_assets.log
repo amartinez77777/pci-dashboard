@@ -1,0 +1,13 @@
+$ npm run test:assets
+
+> psycho-cybernetics-intelligence@0.12.0 test:assets
+> python tests/validate_assets.py
+
+FAIL no invented user scores or seeded personal entries 
+{
+  "status": "FAIL",
+  "passed": 33,
+  "failed": 1
+}
+
+EXIT_CODE=1

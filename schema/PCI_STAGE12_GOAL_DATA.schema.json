@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": true,
+  "title": "User-authored goal record, private goals store",
+  "required": [
+    "feedback_contract_version",
+    "title",
+    "next_action",
+    "revision_history"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "context": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "next_action": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "concept_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "belief_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "practice_id": {
+      "type": "string",
+      "maxLength": 3000
+    },
+    "feedback_contract_version": {
+      "const": "1.0.0"
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

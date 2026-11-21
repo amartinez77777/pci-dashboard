@@ -1,0 +1,90 @@
+{
+  "chapters": {
+    "1": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 0
+    },
+    "2": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 0
+    },
+    "3": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 2
+    },
+    "4": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "5": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "6": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "7": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 0
+    },
+    "8": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "9": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "10": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "11": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 0
+    },
+    "12": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "13": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "14": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    },
+    "15": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 0
+    },
+    "16": {
+      "activities": 2,
+      "scenarios": 1,
+      "rehearsals": 1
+    }
+  },
+  "source_status_by_activity": {
+    "provisional": 32
+  },
+  "action_feedback_activities": 16,
+  "activities_with_observable_choice_or_plan": 32,
+  "scope": "Stage 06 content overlay; does not upgrade research source verification."
+}

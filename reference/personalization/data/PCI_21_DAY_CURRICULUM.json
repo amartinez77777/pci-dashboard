@@ -1,0 +1,1273 @@
+{
+  "id": "PCI-PROG-021",
+  "title": "PCI 21-Day Learning and Practice Path",
+  "origin": "PCI_adaptation",
+  "not_a_clinical_treatment": true,
+  "not_universal_book_21_day_protocol": true,
+  "schema_version": "1.0.0",
+  "advance_policy": {
+    "basis": "completed_or_explicitly_skipped_steps_not_calendar_days",
+    "missed_days": "remain_available; no automatic failure or catch-up backlog",
+    "pause": "preserve current day; can resume later",
+    "restart": "explicit user action; prior history retained separately",
+    "timezone": "store IANA time zone and timestamp with offset; training-day order independent of wall-clock",
+    "short_session": "counts as user-acknowledged participation, not as proof of skill",
+    "intensity": [
+      "gentle",
+      "standard",
+      "extended"
+    ],
+    "streaks": "not used to estimate self-worth or psychological change"
+  },
+  "checkpoint_days": [
+    4,
+    9,
+    15,
+    21
+  ],
+  "days": [
+    {
+      "id": "PCI-DAY-01",
+      "program_id": "PCI-PROG-021",
+      "day_number": 1,
+      "content_version": "1.0.0",
+      "title": "A specific self-description",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-01",
+      "module": "Self-Image Intelligence Lab",
+      "source_exercise_id": "PCI-EDU-CH01-001",
+      "primary_activity_id": "PCI-ACT-CH01-001",
+      "optional_rehearsal_id": "PCI-RH-001",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH01-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-013",
+          "pdf_page": 13,
+          "printed_page": 3,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 8,
+      "daily_task": "Write one identity label, one dated observation, and an exception or unknown. Replace the label with a testable, time-limited sentence.",
+      "reflection_prompt": "What fact is different from the meaning you attached to it?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write a single factual sentence and stop.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "In a low-stakes situation, notice one choice that conflicts with the old label.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-01",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-02",
+      "program_id": "PCI-PROG-021",
+      "day_number": 2,
+      "content_version": "1.0.0",
+      "title": "Set a target and find feedback",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-02",
+      "module": "Success Mechanism & Feedback Lab",
+      "source_exercise_id": "PCI-EDU-CH02-001",
+      "primary_activity_id": "PCI-ACT-CH02-001",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH02-001",
+      "verified_concept_ids": [
+        "PCI-C-CH02-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-041",
+          "pdf_page": 41,
+          "printed_page": 31,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 8,
+      "daily_task": "Name a small concrete target, what feedback would tell you you are on course, and one possible correction.",
+      "reflection_prompt": "How would you recognize useful feedback without calling it a personal failure?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Name only the target and one observable signal.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Attempt one practice repetition and record the observable result.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-02",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-03",
+      "program_id": "PCI-PROG-021",
+      "day_number": 3,
+      "content_version": "1.0.0",
+      "title": "Rehearse then act",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-03",
+      "module": "Theater of the Mind",
+      "source_exercise_id": "PCI-EDU-CH03-002",
+      "primary_activity_id": "PCI-ACT-CH03-002",
+      "optional_rehearsal_id": "PCI-RH-002",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-062",
+          "pdf_page": 62,
+          "printed_page": 52,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 12,
+      "daily_task": "Choose an upcoming low-pressure action, imagine the first 10 seconds including one possible hiccup, then schedule a real practice.",
+      "reflection_prompt": "Which step required real practice beyond imagery?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write 2 bullet points rather than visualizing.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Try the opening aloud once and note a specific adjustment.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-03",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-04",
+      "program_id": "PCI-PROG-021",
+      "day_number": 4,
+      "content_version": "1.0.0",
+      "title": "Inspect an invisible standard",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-04",
+      "module": "Belief Reconstruction Studio",
+      "source_exercise_id": "PCI-EDU-CH04-001",
+      "primary_activity_id": "PCI-ACT-CH04-001",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH04-001",
+      "verified_concept_ids": [
+        "PCI-C-CH04-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-089",
+          "pdf_page": 89,
+          "printed_page": 79,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 8,
+      "daily_task": "Compare one broad belief with an actual standard and two alternative explanations; revise a goal if the standard is unrealistic.",
+      "reflection_prompt": "Does the revised belief reflect evidence and uncertainty?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write the comparison standard only.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Choose a reversible action to test the interpretation.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-04",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": {
+        "questions": [
+          "What did you choose to do, as opposed to what you hoped would happen?",
+          "What observations support revising or keeping one goal?",
+          "Would you prefer a shorter session, a different theme, or a pause?"
+        ],
+        "allow_goal_revision": true,
+        "allow_rest": true,
+        "requires_disclosure": false
+      }
+    },
+    {
+      "id": "PCI-DAY-05",
+      "program_id": "PCI-PROG-021",
+      "day_number": 5,
+      "content_version": "1.0.0",
+      "title": "Make a low-stakes prediction",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-05",
+      "module": "Belief Reconstruction Studio",
+      "source_exercise_id": "PCI-EDU-CH05-002",
+      "primary_activity_id": "PCI-ACT-CH05-002",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH05-001",
+      "verified_concept_ids": [
+        "PCI-C-CH05-001",
+        "PCI-C-CH05-002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-094",
+          "pdf_page": 94,
+          "printed_page": 84,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Write a falsifiable, modest prediction and one safe test; distinguish an observation from your preferred explanation.",
+      "reflection_prompt": "What would count as disconfirming evidence?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write the prediction and a safe observation source.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Perform the low-stakes test or document why you chose not to.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-05",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-06",
+      "program_id": "PCI-PROG-021",
+      "day_number": 6,
+      "content_version": "1.0.0",
+      "title": "Prepare and release overchecking",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-06",
+      "module": "Mental Conditioning Lab",
+      "source_exercise_id": "PCI-EDU-CH06-002",
+      "primary_activity_id": "PCI-ACT-CH06-002",
+      "optional_rehearsal_id": "PCI-RH-005",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH06-001",
+        "PCI-C-CH06-002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-123",
+          "pdf_page": 123,
+          "printed_page": 113,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Prepare a routine task using a short checklist, stop checking after a defined point, and compare performance with the plan.",
+      "reflection_prompt": "When did preparation help, and when did repetition stop adding information?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Use a 1-step checklist with no timer.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Perform the task once; record corrections without a judgment about yourself.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-06",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-07",
+      "program_id": "PCI-PROG-021",
+      "day_number": 7,
+      "content_version": "1.0.0",
+      "title": "Actions and feelings are different",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-07",
+      "module": "Personal Evolution Archive",
+      "source_exercise_id": "PCI-EDU-CH07-002",
+      "primary_activity_id": "PCI-ACT-CH07-002",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH07-001",
+      "verified_concept_ids": [
+        "PCI-C-CH07-001",
+        "PCI-C-CH07-002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-129",
+          "pdf_page": 129,
+          "printed_page": 119,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Plan an ordinary considerate action and separately log whether you completed it and how you felt afterward.",
+      "reflection_prompt": "Can an action be worthwhile even if mood did not improve?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "List one kind action, including a private one.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Complete an optional brief, prosocial action and note only observable details.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-07",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-08",
+      "program_id": "PCI-PROG-021",
+      "day_number": 8,
+      "content_version": "1.0.0",
+      "title": "Translate success words into skills",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-08",
+      "module": "Mental Mastery Academy",
+      "source_exercise_id": "PCI-EDU-CH08-001",
+      "primary_activity_id": "PCI-ACT-CH08-001",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH08-001",
+      "verified_concept_ids": [
+        "PCI-C-CH08-001",
+        "PCI-C-CH08-002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-146",
+          "pdf_page": 146,
+          "printed_page": 136,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 8,
+      "daily_task": "Choose 2 skills from the book’s SUCCESS framing; define one observable behavior for each without reducing yourself to a score.",
+      "reflection_prompt": "Which skill is trainable, and which external factors still matter?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Identify 1 behavior and a way to recognize it.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Try one modest social or task action.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-08",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-09",
+      "program_id": "PCI-PROG-021",
+      "day_number": 9,
+      "content_version": "1.0.0",
+      "title": "Treat a setback as a signal",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-09",
+      "module": "Success Mechanism & Feedback Lab",
+      "source_exercise_id": "PCI-EDU-CH09-002",
+      "primary_activity_id": "PCI-ACT-CH09-002",
+      "optional_rehearsal_id": "PCI-RH-007",
+      "optional_scenario_id": "PCI-SC-CH09-001",
+      "verified_concept_ids": [
+        "PCI-C-CH09-004",
+        "PCI-C-CH09-013"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-188",
+          "pdf_page": 188,
+          "printed_page": 178,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Revisit a small mistake, separate its immediate cost from a permanent identity claim, and propose a correction.",
+      "reflection_prompt": "Would the correction still make sense if the emotional label were removed?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write one corrective action without recounting the mistake.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Test a revised procedure on a safe task.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-09",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": {
+        "questions": [
+          "What did you choose to do, as opposed to what you hoped would happen?",
+          "What observations support revising or keeping one goal?",
+          "Would you prefer a shorter session, a different theme, or a pause?"
+        ],
+        "allow_goal_revision": true,
+        "allow_rest": true,
+        "requires_disclosure": false
+      }
+    },
+    {
+      "id": "PCI-DAY-10",
+      "program_id": "PCI-PROG-021",
+      "day_number": 10,
+      "content_version": "1.0.0",
+      "title": "Boundaries without coercion",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-10",
+      "module": "Self-Image Intelligence Lab",
+      "source_exercise_id": "PCI-EDU-CH10-001",
+      "primary_activity_id": "PCI-ACT-CH10-001",
+      "optional_rehearsal_id": "PCI-RH-008",
+      "optional_scenario_id": "PCI-SC-CH10-001",
+      "verified_concept_ids": [
+        "PCI-C-CH10-001",
+        "PCI-C-CH10-003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-194",
+          "pdf_page": 194,
+          "printed_page": 184,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 8,
+      "daily_task": "Use a fictional or harmless example to distinguish a chosen boundary from generalized withdrawal; no disclosure or forgiveness is required.",
+      "reflection_prompt": "What option respects both your safety and your autonomy?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Choose the fictional-example path or skip.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "If safe, practice a neutral boundary phrase privately; do not contact anyone.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-10",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-11",
+      "program_id": "PCI-PROG-021",
+      "day_number": 11,
+      "content_version": "1.0.0",
+      "title": "Speak without mind-reading",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-11",
+      "module": "Real-Life Scenario Simulator",
+      "source_exercise_id": "PCI-EDU-CH11-002",
+      "primary_activity_id": "PCI-ACT-CH11-002",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH11-001",
+      "verified_concept_ids": [
+        "PCI-C-CH11-004",
+        "PCI-C-CH11-014"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-233",
+          "pdf_page": 233,
+          "printed_page": 223,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Describe a brief group contribution, make one specific statement, and separate actual feedback from assumed judgments.",
+      "reflection_prompt": "What did you actually observe about others’ reactions?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write a single neutral sentence you could say.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Try a low-stakes contribution only if comfortable.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-11",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-12",
+      "program_id": "PCI-PROG-021",
+      "day_number": 12,
+      "content_version": "1.0.0",
+      "title": "Reduce one interruption",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-12",
+      "module": "Mental Conditioning Lab",
+      "source_exercise_id": "PCI-EDU-CH12-002",
+      "primary_activity_id": "PCI-ACT-CH12-002",
+      "optional_rehearsal_id": "PCI-RH-009",
+      "optional_scenario_id": "PCI-SC-CH12-001",
+      "verified_concept_ids": [
+        "PCI-C-CH12-004",
+        "PCI-C-CH12-017"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-246",
+          "pdf_page": 246,
+          "printed_page": 236,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Identify a notification cue, select a reversible focus boundary, and observe whether one short task becomes easier to complete.",
+      "reflection_prompt": "Which interruptions were controllable and which were not?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Silence one nonessential cue for a brief task.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Run a short focus trial without forced breathing or relaxation.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-12",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-13",
+      "program_id": "PCI-PROG-021",
+      "day_number": 13,
+      "content_version": "1.0.0",
+      "title": "Pressure means choices, not destiny",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-13",
+      "module": "Personal Command Center",
+      "source_exercise_id": "PCI-EDU-CH13-002",
+      "primary_activity_id": "PCI-ACT-CH13-002",
+      "optional_rehearsal_id": "PCI-RH-010",
+      "optional_scenario_id": "PCI-SC-CH13-001",
+      "verified_concept_ids": [
+        "PCI-C-CH13-005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-270",
+          "pdf_page": 270,
+          "printed_page": 260,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Map the stakes of a future event, rehearse an obstacle and response, and define what preparation is still needed.",
+      "reflection_prompt": "How did a backup plan change the available choices?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write one obstacle and one safe fallback.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Practice a real subskill in a non-evaluative setting.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-13",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-14",
+      "program_id": "PCI-PROG-021",
+      "day_number": 14,
+      "content_version": "1.0.0",
+      "title": "Reuse one verified small success",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-14",
+      "module": "Mental Mastery Academy",
+      "source_exercise_id": "PCI-EDU-CH14-002",
+      "primary_activity_id": "PCI-ACT-CH14-002",
+      "optional_rehearsal_id": "PCI-RH-011",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH14-005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-289",
+          "pdf_page": 289,
+          "printed_page": 279,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Identify a bounded past success and the specific behaviors that produced it; apply one component to a new task.",
+      "reflection_prompt": "Which part of the past example transfers and which does not?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Name one useful action, not an exaggerated identity claim.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Repeat that action at a realistically smaller scale.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-14",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-15",
+      "program_id": "PCI-PROG-021",
+      "day_number": 15,
+      "content_version": "1.0.0",
+      "title": "Engagement without medical promises",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-15",
+      "module": "Personal Evolution Archive",
+      "source_exercise_id": "PCI-EDU-CH15-002",
+      "primary_activity_id": "PCI-ACT-CH15-002",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH15-001",
+      "verified_concept_ids": [
+        "PCI-C-CH15-005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-306",
+          "pdf_page": 306,
+          "printed_page": 296,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 12,
+      "daily_task": "Choose an enjoyable, accessible activity or contact that serves meaning; avoid claims about lifespan, illness, or healing.",
+      "reflection_prompt": "What was within your control, apart from any health outcome?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write a meaningful, low-demand option and defer it.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Try a brief meaningful action if physically and emotionally comfortable.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-15",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": {
+        "questions": [
+          "What did you choose to do, as opposed to what you hoped would happen?",
+          "What observations support revising or keeping one goal?",
+          "Would you prefer a shorter session, a different theme, or a pause?"
+        ],
+        "allow_goal_revision": true,
+        "allow_rest": true,
+        "requires_disclosure": false
+      }
+    },
+    {
+      "id": "PCI-DAY-16",
+      "program_id": "PCI-PROG-021",
+      "day_number": 16,
+      "content_version": "1.0.0",
+      "title": "Stories are not controlled tests",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-16",
+      "module": "Psycho-Cybernetics Knowledge Vault",
+      "source_exercise_id": "PCI-EDU-CH16-001",
+      "primary_activity_id": "PCI-ACT-CH16-001",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH16-001",
+      "verified_concept_ids": [
+        "PCI-C-CH16-003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-309",
+          "pdf_page": 309,
+          "printed_page": 299,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 8,
+      "daily_task": "Read a book-reported success story through the source dossier; list the claimed outcome, missing counterfactual, and possible alternate causes.",
+      "reflection_prompt": "What can this story support and what can it not establish?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Name one limitation of anecdotal evidence.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Ask for a different kind of evidence before generalizing.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-16",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-17",
+      "program_id": "PCI-PROG-021",
+      "day_number": 17,
+      "content_version": "1.0.0",
+      "title": "Move from label to action",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-01",
+      "module": "Self-Image Intelligence Lab",
+      "source_exercise_id": "PCI-EDU-CH01-002",
+      "primary_activity_id": "PCI-ACT-CH01-002",
+      "optional_rehearsal_id": "PCI-RH-004",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH01-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-014",
+          "pdf_page": 14,
+          "printed_page": 4,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 12,
+      "daily_task": "Revisit Day 1 with a smaller identity-consistent action; compare the old interpretation with an action you can actually count.",
+      "reflection_prompt": "What changed in your observations, independent of self-worth?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Describe only the next action.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Take the voluntary low-stakes action and record whether it occurred.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-17",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-18",
+      "program_id": "PCI-PROG-021",
+      "day_number": 18,
+      "content_version": "1.0.0",
+      "title": "Test a social prediction",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-03",
+      "module": "Real-Life Scenario Simulator",
+      "source_exercise_id": "PCI-EDU-CH03-001",
+      "primary_activity_id": "PCI-ACT-CH03-001",
+      "optional_rehearsal_id": "PCI-RH-003",
+      "optional_scenario_id": "PCI-SC-CH03-001",
+      "verified_concept_ids": [
+        "PCI-C-CH03-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 8,
+      "daily_task": "Choose a fictional or modest social prediction, list observable disconfirming evidence, and explore the scenario’s alternative responses.",
+      "reflection_prompt": "Which outcome remains uncertain even after feedback?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Use the hypothetical branch and write one observation.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "If safe, ask one neutral question during an ordinary interaction.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-18",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-19",
+      "program_id": "PCI-PROG-021",
+      "day_number": 19,
+      "content_version": "1.0.0",
+      "title": "Separate assertion from evidence",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-05",
+      "module": "Belief Reconstruction Studio",
+      "source_exercise_id": "PCI-EDU-CH05-001",
+      "primary_activity_id": "PCI-ACT-CH05-001",
+      "optional_rehearsal_id": null,
+      "optional_scenario_id": "PCI-SC-CH05-001",
+      "verified_concept_ids": [
+        "PCI-C-CH05-001",
+        "PCI-C-CH05-002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-102",
+          "pdf_page": 102,
+          "printed_page": 92,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 8,
+      "daily_task": "Review one non-sensitive belief with at least one alternate explanation and record evidence for and against; no forced positivity.",
+      "reflection_prompt": "Did any conclusion change only because you separated the types of evidence?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Write 1 question rather than a conclusion.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Collect one observable data point without demanding a different feeling.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-19",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-20",
+      "program_id": "PCI-PROG-021",
+      "day_number": 20,
+      "content_version": "1.0.0",
+      "title": "Repair without self-punishment",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-09",
+      "module": "Success Mechanism & Feedback Lab",
+      "source_exercise_id": "PCI-EDU-CH09-001",
+      "primary_activity_id": "PCI-ACT-CH09-001",
+      "optional_rehearsal_id": "PCI-RH-007",
+      "optional_scenario_id": "PCI-SC-CH09-001",
+      "verified_concept_ids": [
+        "PCI-C-CH09-001",
+        "PCI-C-CH09-003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-166",
+          "pdf_page": 166,
+          "printed_page": 156,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "not_assessed",
+      "estimated_minutes": 8,
+      "daily_task": "Separate a warning sign from an identity conclusion and choose a repair action with a clear endpoint.",
+      "reflection_prompt": "Can you name what is still unknown and what the next attempt could test?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Pick a fictional repair action.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Perform one optional simple process improvement.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-20",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": null
+    },
+    {
+      "id": "PCI-DAY-21",
+      "program_id": "PCI-PROG-021",
+      "day_number": 21,
+      "content_version": "1.0.0",
+      "title": "Review what happened, choose next",
+      "origin": "PCI_adaptation",
+      "program_is_book_mandate": false,
+      "chapter_id": "PCI-CH-02",
+      "module": "Personal Command Center",
+      "source_exercise_id": "PCI-EDU-CH02-002",
+      "primary_activity_id": "PCI-ACT-CH02-002",
+      "optional_rehearsal_id": "PCI-RH-012",
+      "optional_scenario_id": null,
+      "verified_concept_ids": [
+        "PCI-C-CH02-001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "PCI-SRC-PDF-042",
+          "pdf_page": 42,
+          "printed_page": 32,
+          "edition_id": "PCI-ED-001",
+          "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+        }
+      ],
+      "source_status": "provisional",
+      "evidence_status": "book_assertion_only",
+      "estimated_minutes": 12,
+      "daily_task": "Review any completed or skipped sessions without grading your character. Choose a continuing goal, next review due, or a break; participation does not prove self-image change.",
+      "reflection_prompt": "What practice was useful, what was neutral, and what should you change?",
+      "short_session": {
+        "estimated_minutes": 3,
+        "instructions": "Record keep/change/stop for one practice.",
+        "completion_equivalent": true
+      },
+      "optional_real_world_experiment": {
+        "description": "Choose a modest next action or intentionally schedule rest.",
+        "may_decline": true,
+        "results_not_guaranteed": true
+      },
+      "completion": {
+        "event_type": "program.day_completed",
+        "target_id": "PCI-DAY-21",
+        "rule": "user_acknowledges primary activity attempted or self-selected short alternative; no emotional or clinical score",
+        "can_skip": true,
+        "can_pause": true,
+        "can_complete_later": true
+      },
+      "safe_options": [
+        "skip_without_penalty",
+        "use_fictional_example",
+        "stop_and_resume_or_end",
+        "no_timer_option"
+      ],
+      "checkpoint": {
+        "questions": [
+          "What did you choose to do, as opposed to what you hoped would happen?",
+          "What observations support revising or keeping one goal?",
+          "Would you prefer a shorter session, a different theme, or a pause?"
+        ],
+        "allow_goal_revision": true,
+        "allow_rest": true,
+        "requires_disclosure": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+import fs from 'node:fs';import {performance} from 'node:perf_hooks';import {searchVault} from '../dist-static/assets/vault-search.js';
+const data=JSON.parse(fs.readFileSync('public/data/vault/search-index.json'));
+const queries=['"self-image as working self-description"','feedback','relaxation','criticism','mental rehearsal','"automatic success"','forgiveness','confidence'];
+const results=[];for(const query of queries){const durations=[];let count=0;for(let i=0;i<80;i++){const t=performance.now();const hit=searchVault(data,query);durations.push(performance.now()-t);count=hit.length}durations.sort((a,b)=>a-b);results.push({query,count,median_ms:Number(durations[39].toFixed(3)),p95_ms:Number(durations[75].toFixed(3))})}
+const out={scope:'Node 22 deterministic 504-record in-memory search, 80 calls per query, machine-local indicative timings, not mobile browser benchmarks',results};fs.writeFileSync('audit/PCI_STAGE09_SEARCH_PROFILE.json',JSON.stringify(out,null,2)+'\n');console.log(JSON.stringify(out,null,2));

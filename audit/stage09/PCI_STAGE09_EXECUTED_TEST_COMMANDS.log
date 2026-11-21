@@ -1,0 +1,258 @@
+
+> psycho-cybernetics-intelligence@0.9.0 lint
+> node scripts/lint-source.mjs
+
+PASS: lightweight safety lint and strict TypeScript typecheck. Not ESLint.
+
+> psycho-cybernetics-intelligence@0.9.0 typecheck
+> tsc --noEmit
+
+
+> psycho-cybernetics-intelligence@0.9.0 test:repo
+> node --test tests/data_repo.test.mjs
+
+TAP version 13
+# Subtest: 16 actual chapters load
+ok 1 - 16 actual chapters load
+  ---
+  duration_ms: 1.800199
+  type: 'test'
+  ...
+# Subtest: 201 concept index records load
+ok 2 - 201 concept index records load
+  ---
+  duration_ms: 1.409979
+  type: 'test'
+  ...
+# Subtest: valid concept resolves its full dossier with page
+ok 3 - valid concept resolves its full dossier with page
+  ---
+  duration_ms: 0.568755
+  type: 'test'
+  ...
+# Subtest: unknown concept resolves null
+ok 4 - unknown concept resolves null
+  ---
+  duration_ms: 0.29851
+  type: 'test'
+  ...
+# Subtest: missing concept in valid chapter resolves null
+ok 5 - missing concept in valid chapter resolves null
+  ---
+  duration_ms: 0.419679
+  type: 'test'
+  ...
+# Subtest: an actual activity resolves its exact source ID
+ok 6 - an actual activity resolves its exact source ID
+  ---
+  duration_ms: 0.551707
+  type: 'test'
+  ...
+# Subtest: word search returns meaningful results
+ok 7 - word search returns meaningful results
+  ---
+  duration_ms: 1.799203
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts returned records
+ok 8 - chapter filter restricts returned records
+  ---
+  duration_ms: 0.323304
+  type: 'test'
+  ...
+# Subtest: all 21 authored days resolve
+ok 9 - all 21 authored days resolve
+  ---
+  duration_ms: 1.20372
+  type: 'test'
+  ...
+# Subtest: all 12 rehearsal template records load
+ok 10 - all 12 rehearsal template records load
+  ---
+  duration_ms: 2.848539
+  type: 'test'
+  ...
+# Subtest: 25 declared IndexedDB stores, v2 schema
+ok 11 - 25 declared IndexedDB stores, v2 schema
+  ---
+  duration_ms: 0.183485
+  type: 'test'
+  ...
+# Subtest: new private record is UUID style, versioned, unseeded
+ok 12 - new private record is UUID style, versioned, unseeded
+  ---
+  duration_ms: 3.625146
+  type: 'test'
+  ...
+# Subtest: sensitive schema metadata without consent is rejected by export guard
+ok 13 - sensitive schema metadata without consent is rejected by export guard
+  ---
+  duration_ms: 0.321474
+  type: 'test'
+  ...
+# Subtest: export guard rejects unsupported envelope version
+ok 14 - export guard rejects unsupported envelope version
+  ---
+  duration_ms: 0.099622
+  type: 'test'
+  ...
+1..14
+# tests 14
+# suites 0
+# pass 14
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 117.41155
+
+> psycho-cybernetics-intelligence@0.9.0 test:assets
+> python tests/validate_assets.py
+
+{
+  "status": "PASS",
+  "passed": 34,
+  "failed": 0
+}
+
+> psycho-cybernetics-intelligence@0.9.0 build:offline
+> node scripts/build-offline.mjs
+
+OFFLINE STATIC BUILD PASS: /mnt/data/pci_stage09_work/PCI_APP_STAGE08_FULL/dist-static (React 16 hooks compatibility test harness, not production Vite)
+
+> psycho-cybernetics-intelligence@0.9.0 test:vault
+> node --test tests/vault_unit.test.mjs
+
+TAP version 13
+# Subtest: research index holds the expected 504 original records
+ok 1 - research index holds the expected 504 original records
+  ---
+  duration_ms: 1.104003
+  type: 'test'
+  ...
+# Subtest: 201 full concept destinations have stable canonical IDs
+ok 2 - 201 full concept destinations have stable canonical IDs
+  ---
+  duration_ms: 0.351617
+  type: 'test'
+  ...
+# Subtest: no source practice is relabeled an author-guided PCI exercise
+ok 3 - no source practice is relabeled an author-guided PCI exercise
+  ---
+  duration_ms: 0.418407
+  type: 'test'
+  ...
+# Subtest: quoted phrases are parsed independently from tokens
+ok 4 - quoted phrases are parsed independently from tokens
+  ---
+  duration_ms: 1.719125
+  type: 'test'
+  ...
+# Subtest: diacritics and non-alphanumeric normalization
+ok 5 - diacritics and non-alphanumeric normalization
+  ---
+  duration_ms: 0.370516
+  type: 'test'
+  ...
+# Subtest: audited exact title returns original concept ID
+ok 6 - audited exact title returns original concept ID
+  ---
+  duration_ms: 19.612122
+  type: 'test'
+  ...
+# Subtest: search by source ID finds exact record
+ok 7 - search by source ID finds exact record
+  ---
+  duration_ms: 24.81221
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts every hit
+ok 8 - chapter filter restricts every hit
+  ---
+  duration_ms: 2.138805
+  type: 'test'
+  ...
+# Subtest: concept-only filter and empty query return 201 records
+ok 9 - concept-only filter and empty query return 201 records
+  ---
+  duration_ms: 7.756581
+  type: 'test'
+  ...
+# Subtest: book practices are separated by origin
+ok 10 - book practices are separated by origin
+  ---
+  duration_ms: 2.177303
+  type: 'test'
+  ...
+# Subtest: evidence-status filter is genuine
+ok 11 - evidence-status filter is genuine
+  ---
+  duration_ms: 17.430589
+  type: 'test'
+  ...
+# Subtest: phrase and chapter mismatch produces an empty result
+ok 12 - phrase and chapter mismatch produces an empty result
+  ---
+  duration_ms: 0.730667
+  type: 'test'
+  ...
+# Subtest: search does not interpret user input as regex or HTML
+ok 13 - search does not interpret user input as regex or HTML
+  ---
+  duration_ms: 18.405208
+  type: 'test'
+  ...
+# Subtest: all 109 graph edges resolve and have rationale and citations
+ok 14 - all 109 graph edges resolve and have rationale and citations
+  ---
+  duration_ms: 0.272661
+  type: 'test'
+  ...
+# Subtest: source-supported neighborhood only loads direct adjacent edges
+ok 15 - source-supported neighborhood only loads direct adjacent edges
+  ---
+  duration_ms: 0.138012
+  type: 'test'
+  ...
+# Subtest: relationship type filter excludes other edge types
+ok 16 - relationship type filter excludes other edge types
+  ---
+  duration_ms: 0.070684
+  type: 'test'
+  ...
+# Subtest: invalid concept has zero source-supported graph edges
+ok 17 - invalid concept has zero source-supported graph edges
+  ---
+  duration_ms: 0.094971
+  type: 'test'
+  ...
+# Subtest: PDF vs printed pagination are distinguishable
+ok 18 - PDF vs printed pagination are distinguishable
+  ---
+  duration_ms: 0.088877
+  type: 'test'
+  ...
+# Subtest: zero recorded personal data in publicly accessible Vault files
+ok 19 - zero recorded personal data in publicly accessible Vault files
+  ---
+  duration_ms: 0.417794
+  type: 'test'
+  ...
+1..19
+# tests 19
+# suites 0
+# pass 19
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 201.348591
+
+> psycho-cybernetics-intelligence@0.9.0 test:vault:assets
+> python tests/validate_vault.py
+
+{"status": "PASS", "passed": 17, "failed": 0}
+
+> psycho-cybernetics-intelligence@0.9.0 test:browser
+> python tests/browser_stage09_smoke.py
+

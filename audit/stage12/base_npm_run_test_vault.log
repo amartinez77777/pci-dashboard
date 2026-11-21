@@ -1,0 +1,128 @@
+
+> psycho-cybernetics-intelligence@0.11.0 test:vault
+> node --test tests/vault_unit.test.mjs
+
+TAP version 13
+# Subtest: research index holds the expected 504 original records
+ok 1 - research index holds the expected 504 original records
+  ---
+  duration_ms: 0.821966
+  type: 'test'
+  ...
+# Subtest: 201 full concept destinations have stable canonical IDs
+ok 2 - 201 full concept destinations have stable canonical IDs
+  ---
+  duration_ms: 0.253133
+  type: 'test'
+  ...
+# Subtest: no source practice is relabeled an author-guided PCI exercise
+ok 3 - no source practice is relabeled an author-guided PCI exercise
+  ---
+  duration_ms: 0.255928
+  type: 'test'
+  ...
+# Subtest: quoted phrases are parsed independently from tokens
+ok 4 - quoted phrases are parsed independently from tokens
+  ---
+  duration_ms: 1.051864
+  type: 'test'
+  ...
+# Subtest: diacritics and non-alphanumeric normalization
+ok 5 - diacritics and non-alphanumeric normalization
+  ---
+  duration_ms: 0.263569
+  type: 'test'
+  ...
+# Subtest: audited exact title returns original concept ID
+ok 6 - audited exact title returns original concept ID
+  ---
+  duration_ms: 13.390731
+  type: 'test'
+  ...
+# Subtest: search by source ID finds exact record
+ok 7 - search by source ID finds exact record
+  ---
+  duration_ms: 17.589615
+  type: 'test'
+  ...
+# Subtest: chapter filter restricts every hit
+ok 8 - chapter filter restricts every hit
+  ---
+  duration_ms: 1.02915
+  type: 'test'
+  ...
+# Subtest: concept-only filter and empty query return 201 records
+ok 9 - concept-only filter and empty query return 201 records
+  ---
+  duration_ms: 5.286455
+  type: 'test'
+  ...
+# Subtest: book practices are separated by origin
+ok 10 - book practices are separated by origin
+  ---
+  duration_ms: 1.23348
+  type: 'test'
+  ...
+# Subtest: evidence-status filter is genuine
+ok 11 - evidence-status filter is genuine
+  ---
+  duration_ms: 7.642726
+  type: 'test'
+  ...
+# Subtest: phrase and chapter mismatch produces an empty result
+ok 12 - phrase and chapter mismatch produces an empty result
+  ---
+  duration_ms: 0.550945
+  type: 'test'
+  ...
+# Subtest: search does not interpret user input as regex or HTML
+ok 13 - search does not interpret user input as regex or HTML
+  ---
+  duration_ms: 12.966095
+  type: 'test'
+  ...
+# Subtest: all 109 graph edges resolve and have rationale and citations
+ok 14 - all 109 graph edges resolve and have rationale and citations
+  ---
+  duration_ms: 0.23732
+  type: 'test'
+  ...
+# Subtest: source-supported neighborhood only loads direct adjacent edges
+ok 15 - source-supported neighborhood only loads direct adjacent edges
+  ---
+  duration_ms: 0.124769
+  type: 'test'
+  ...
+# Subtest: relationship type filter excludes other edge types
+ok 16 - relationship type filter excludes other edge types
+  ---
+  duration_ms: 0.076566
+  type: 'test'
+  ...
+# Subtest: invalid concept has zero source-supported graph edges
+ok 17 - invalid concept has zero source-supported graph edges
+  ---
+  duration_ms: 0.119852
+  type: 'test'
+  ...
+# Subtest: PDF vs printed pagination are distinguishable
+ok 18 - PDF vs printed pagination are distinguishable
+  ---
+  duration_ms: 0.089366
+  type: 'test'
+  ...
+# Subtest: zero recorded personal data in publicly accessible Vault files
+ok 19 - zero recorded personal data in publicly accessible Vault files
+  ---
+  duration_ms: 0.325533
+  type: 'test'
+  ...
+1..19
+# tests 19
+# suites 0
+# pass 19
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 134.380734

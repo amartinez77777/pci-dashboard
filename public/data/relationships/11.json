@@ -1,0 +1,357 @@
+[
+  {
+    "id": "PCI-R-0081",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-11",
+    "title": "Excessive negative feedback as inhibition ↔ Purposeful imagination in design",
+    "content": "Inhibition chapter cautions against treating feedback as incessant conscious control.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-214",
+        "pdf_page": 214,
+        "printed_page": 204,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH11-002",
+    "to_id": "PCI-C-CH02-003",
+    "relationship_type": "qualifies",
+    "rationale": "Inhibition chapter cautions against treating feedback as incessant conscious control.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-214",
+        "pdf_page": 214,
+        "printed_page": 204,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH11-002": {
+        "source_id": "PCI-SRC-PDF-214",
+        "pdf_page": 214,
+        "printed_page": 204,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH02-003": {
+        "source_id": "PCI-SRC-PDF-038",
+        "pdf_page": 38,
+        "printed_page": 28,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0082",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-11",
+    "title": "Self-criticism during performance can disrupt flow ↔ Preparation and execution require different attention",
+    "content": "Reduced performance self-criticism connects to the previous relaxation emphasis.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH11-004",
+    "to_id": "PCI-C-CH06-001",
+    "relationship_type": "complements",
+    "rationale": "Reduced performance self-criticism connects to the previous relaxation emphasis.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH11-004": {
+        "source_id": "PCI-SRC-PDF-217",
+        "pdf_page": 217,
+        "printed_page": 207,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH06-001": {
+        "source_id": "PCI-SRC-PDF-112",
+        "pdf_page": 112,
+        "printed_page": 102,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0083",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-11",
+    "title": "Training environments combine rehearsal and exposure ↔ Everyday courage as calculated action",
+    "content": "Practice opportunities embody courage and action within the earlier success-type model.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-218",
+        "pdf_page": 218,
+        "printed_page": 208,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH11-005",
+    "to_id": "PCI-C-CH08-006",
+    "relationship_type": "complements",
+    "rationale": "Practice opportunities embody courage and action within the earlier success-type model.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-218",
+        "pdf_page": 218,
+        "printed_page": 208,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH11-005": {
+        "source_id": "PCI-SRC-PDF-218",
+        "pdf_page": 218,
+        "printed_page": 208,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH08-006": {
+        "source_id": "PCI-SRC-PDF-150",
+        "pdf_page": 150,
+        "printed_page": 140,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0084",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-11",
+    "title": "Others-consciousness as a form of self-consciousness ↔ Hypnosis and belief-based behavior",
+    "content": "Attention to what others think qualifies the earlier discussion of imagination in social contexts.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH11-008",
+    "to_id": "PCI-C-CH03-004",
+    "relationship_type": "complements",
+    "rationale": "Attention to what others think qualifies the earlier discussion of imagination in social contexts.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH11-008": {
+        "source_id": "PCI-SRC-PDF-222",
+        "pdf_page": 222,
+        "printed_page": 212,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH03-004": {
+        "source_id": "PCI-SRC-PDF-058",
+        "pdf_page": 58,
+        "printed_page": 48,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  },
+  {
+    "id": "PCI-R-0085",
+    "type": "relationship",
+    "chapter_id": "PCI-CH-11",
+    "title": "Disinhibition needs balancing and context ↔ Uncertainty and the impossibility of perfect prediction",
+    "content": "Balanced disinhibition warns against correcting uncertainty through unreflective impulsivity.",
+    "source_type": "PCI_original_adaptation",
+    "provenance": {
+      "edition_id": "PCI-ED-001",
+      "primary_source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b",
+      "extraction": "Stage03 PyMuPDF page-indexed extracted text, selected printed page image review, original page and printed offsets recorded; source passage spot checks in PCI_SOURCE_SPOT_CHECKS_09-12.json",
+      "attribution": "composite revised Maltz/Kennedy/Foundation narrator; editorial or named third-party attributions recorded when identifiable"
+    },
+    "source_status": "provisional",
+    "evidence_status": "not_assessed",
+    "content_owner": "PCI_editorial",
+    "revision": {
+      "version": 1,
+      "schema_version": "1.0.0",
+      "recorded_at": "2026-11-20",
+      "change_note": "Stage 03 additive record, immutable ID; independently scientific evidence not assessed"
+    },
+    "source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-230",
+        "pdf_page": 230,
+        "printed_page": 220,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "from_id": "PCI-C-CH11-013",
+    "to_id": "PCI-C-CH09-010",
+    "relationship_type": "qualifies",
+    "rationale": "Balanced disinhibition warns against correcting uncertainty through unreflective impulsivity.",
+    "supporting_source_refs": [
+      {
+        "source_id": "PCI-SRC-PDF-230",
+        "pdf_page": 230,
+        "printed_page": 220,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    ],
+    "endpoint_source_anchors": {
+      "PCI-C-CH11-013": {
+        "source_id": "PCI-SRC-PDF-230",
+        "pdf_page": 230,
+        "printed_page": 220,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      },
+      "PCI-C-CH09-010": {
+        "source_id": "PCI-SRC-PDF-178",
+        "pdf_page": 178,
+        "printed_page": 168,
+        "edition_id": "PCI-ED-001",
+        "source_sha256": "4dd7a311a21af58aa075176abb48fd60b348c70bb314a2ca09f66383922e7e9b"
+      }
+    },
+    "confidence": "source-grounded conceptual comparison, not scientific proof",
+    "verification_status": "both anchored book passages located; relationship editorial and revisable",
+    "not_a_scientific_inference": true
+  }
+]

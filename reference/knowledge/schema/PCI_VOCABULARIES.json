@@ -1,0 +1,53 @@
+{
+  "source_type": [
+    "book_claim",
+    "attributed_anecdote",
+    "author_practice",
+    "PCI_original_adaptation",
+    "independent_external_evidence",
+    "source_metadata",
+    "architectural_record"
+  ],
+  "source_status": [
+    "verified_in_pdf",
+    "provisional",
+    "not_located",
+    "incomplete"
+  ],
+  "evidence_status": [
+    "book_assertion_only",
+    "corroborated_external",
+    "disputed",
+    "not_assessed"
+  ],
+  "relationship_type": [
+    "supports",
+    "qualifies",
+    "contradicts",
+    "complements",
+    "requires",
+    "alternative_explanation",
+    "ethical_tension"
+  ],
+  "content_owner": [
+    "source_research",
+    "PCI_editorial",
+    "PCI_curriculum",
+    "PCI_engineering",
+    "user_private"
+  ],
+  "coverage_status": [
+    "indexed",
+    "substantive",
+    "partial",
+    "unprocessed"
+  ],
+  "statuses": [
+    "PASS",
+    "FAIL",
+    "PARTIAL",
+    "NOT_TESTED",
+    "BLOCKED"
+  ],
+  "id_policy": "Never recycle, repurpose or renumber an ID; tombstone removals; increment revision on modification."
+}

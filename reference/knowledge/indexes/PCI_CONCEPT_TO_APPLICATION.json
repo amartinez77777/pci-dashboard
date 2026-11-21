@@ -1,0 +1,1208 @@
+{
+  "PCI-C-CH01-001": [
+    {
+      "id": "PCI-APP-CH01-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-002": [
+    {
+      "id": "PCI-APP-CH01-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-003": [
+    {
+      "id": "PCI-APP-CH01-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-004": [
+    {
+      "id": "PCI-APP-CH01-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-005": [
+    {
+      "id": "PCI-APP-CH01-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-006": [
+    {
+      "id": "PCI-APP-CH01-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-007": [
+    {
+      "id": "PCI-APP-CH01-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-008": [
+    {
+      "id": "PCI-APP-CH01-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-009": [
+    {
+      "id": "PCI-APP-CH01-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH01-010": [
+    {
+      "id": "PCI-APP-CH01-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-001": [
+    {
+      "id": "PCI-APP-CH02-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-002": [
+    {
+      "id": "PCI-APP-CH02-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-003": [
+    {
+      "id": "PCI-APP-CH02-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-004": [
+    {
+      "id": "PCI-APP-CH02-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-005": [
+    {
+      "id": "PCI-APP-CH02-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-006": [
+    {
+      "id": "PCI-APP-CH02-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-007": [
+    {
+      "id": "PCI-APP-CH02-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-008": [
+    {
+      "id": "PCI-APP-CH02-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH02-009": [
+    {
+      "id": "PCI-APP-CH02-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-001": [
+    {
+      "id": "PCI-APP-CH03-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-002": [
+    {
+      "id": "PCI-APP-CH03-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-003": [
+    {
+      "id": "PCI-APP-CH03-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-004": [
+    {
+      "id": "PCI-APP-CH03-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-005": [
+    {
+      "id": "PCI-APP-CH03-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-006": [
+    {
+      "id": "PCI-APP-CH03-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-007": [
+    {
+      "id": "PCI-APP-CH03-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-008": [
+    {
+      "id": "PCI-APP-CH03-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-009": [
+    {
+      "id": "PCI-APP-CH03-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-010": [
+    {
+      "id": "PCI-APP-CH03-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH03-011": [
+    {
+      "id": "PCI-APP-CH03-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-001": [
+    {
+      "id": "PCI-APP-CH04-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-002": [
+    {
+      "id": "PCI-APP-CH04-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-003": [
+    {
+      "id": "PCI-APP-CH04-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-004": [
+    {
+      "id": "PCI-APP-CH04-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-005": [
+    {
+      "id": "PCI-APP-CH04-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-006": [
+    {
+      "id": "PCI-APP-CH04-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-007": [
+    {
+      "id": "PCI-APP-CH04-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-008": [
+    {
+      "id": "PCI-APP-CH04-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-009": [
+    {
+      "id": "PCI-APP-CH04-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH04-010": [
+    {
+      "id": "PCI-APP-CH04-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-001": [
+    {
+      "id": "PCI-APP-CH05-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-002": [
+    {
+      "id": "PCI-APP-CH05-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-003": [
+    {
+      "id": "PCI-APP-CH05-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-004": [
+    {
+      "id": "PCI-APP-CH05-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-005": [
+    {
+      "id": "PCI-APP-CH05-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-006": [
+    {
+      "id": "PCI-APP-CH05-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-007": [
+    {
+      "id": "PCI-APP-CH05-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-008": [
+    {
+      "id": "PCI-APP-CH05-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-009": [
+    {
+      "id": "PCI-APP-CH05-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-010": [
+    {
+      "id": "PCI-APP-CH05-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-011": [
+    {
+      "id": "PCI-APP-CH05-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-012": [
+    {
+      "id": "PCI-APP-CH05-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH05-013": [
+    {
+      "id": "PCI-APP-CH05-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-001": [
+    {
+      "id": "PCI-APP-CH06-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-002": [
+    {
+      "id": "PCI-APP-CH06-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-003": [
+    {
+      "id": "PCI-APP-CH06-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-004": [
+    {
+      "id": "PCI-APP-CH06-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-005": [
+    {
+      "id": "PCI-APP-CH06-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-006": [
+    {
+      "id": "PCI-APP-CH06-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-007": [
+    {
+      "id": "PCI-APP-CH06-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-008": [
+    {
+      "id": "PCI-APP-CH06-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-009": [
+    {
+      "id": "PCI-APP-CH06-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-010": [
+    {
+      "id": "PCI-APP-CH06-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-011": [
+    {
+      "id": "PCI-APP-CH06-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH06-012": [
+    {
+      "id": "PCI-APP-CH06-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-001": [
+    {
+      "id": "PCI-APP-CH07-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-002": [
+    {
+      "id": "PCI-APP-CH07-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-003": [
+    {
+      "id": "PCI-APP-CH07-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-004": [
+    {
+      "id": "PCI-APP-CH07-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-005": [
+    {
+      "id": "PCI-APP-CH07-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-006": [
+    {
+      "id": "PCI-APP-CH07-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-007": [
+    {
+      "id": "PCI-APP-CH07-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-008": [
+    {
+      "id": "PCI-APP-CH07-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-009": [
+    {
+      "id": "PCI-APP-CH07-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-010": [
+    {
+      "id": "PCI-APP-CH07-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-011": [
+    {
+      "id": "PCI-APP-CH07-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH07-012": [
+    {
+      "id": "PCI-APP-CH07-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-001": [
+    {
+      "id": "PCI-APP-CH08-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-002": [
+    {
+      "id": "PCI-APP-CH08-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-003": [
+    {
+      "id": "PCI-APP-CH08-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-004": [
+    {
+      "id": "PCI-APP-CH08-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-005": [
+    {
+      "id": "PCI-APP-CH08-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-006": [
+    {
+      "id": "PCI-APP-CH08-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-007": [
+    {
+      "id": "PCI-APP-CH08-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-008": [
+    {
+      "id": "PCI-APP-CH08-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-009": [
+    {
+      "id": "PCI-APP-CH08-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-010": [
+    {
+      "id": "PCI-APP-CH08-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-011": [
+    {
+      "id": "PCI-APP-CH08-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-012": [
+    {
+      "id": "PCI-APP-CH08-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH08-013": [
+    {
+      "id": "PCI-APP-CH08-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-001": [
+    {
+      "id": "PCI-APP-CH09-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-002": [
+    {
+      "id": "PCI-APP-CH09-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-003": [
+    {
+      "id": "PCI-APP-CH09-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-004": [
+    {
+      "id": "PCI-APP-CH09-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-005": [
+    {
+      "id": "PCI-APP-CH09-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-006": [
+    {
+      "id": "PCI-APP-CH09-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-007": [
+    {
+      "id": "PCI-APP-CH09-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-008": [
+    {
+      "id": "PCI-APP-CH09-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-009": [
+    {
+      "id": "PCI-APP-CH09-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-010": [
+    {
+      "id": "PCI-APP-CH09-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-011": [
+    {
+      "id": "PCI-APP-CH09-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-012": [
+    {
+      "id": "PCI-APP-CH09-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH09-013": [
+    {
+      "id": "PCI-APP-CH09-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-001": [
+    {
+      "id": "PCI-APP-CH10-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-002": [
+    {
+      "id": "PCI-APP-CH10-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-003": [
+    {
+      "id": "PCI-APP-CH10-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-004": [
+    {
+      "id": "PCI-APP-CH10-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-005": [
+    {
+      "id": "PCI-APP-CH10-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-006": [
+    {
+      "id": "PCI-APP-CH10-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-007": [
+    {
+      "id": "PCI-APP-CH10-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-008": [
+    {
+      "id": "PCI-APP-CH10-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-009": [
+    {
+      "id": "PCI-APP-CH10-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-010": [
+    {
+      "id": "PCI-APP-CH10-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-011": [
+    {
+      "id": "PCI-APP-CH10-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-012": [
+    {
+      "id": "PCI-APP-CH10-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-013": [
+    {
+      "id": "PCI-APP-CH10-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-014": [
+    {
+      "id": "PCI-APP-CH10-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH10-015": [
+    {
+      "id": "PCI-APP-CH10-015",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-001": [
+    {
+      "id": "PCI-APP-CH11-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-002": [
+    {
+      "id": "PCI-APP-CH11-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-003": [
+    {
+      "id": "PCI-APP-CH11-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-004": [
+    {
+      "id": "PCI-APP-CH11-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-005": [
+    {
+      "id": "PCI-APP-CH11-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-006": [
+    {
+      "id": "PCI-APP-CH11-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-007": [
+    {
+      "id": "PCI-APP-CH11-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-008": [
+    {
+      "id": "PCI-APP-CH11-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-009": [
+    {
+      "id": "PCI-APP-CH11-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-010": [
+    {
+      "id": "PCI-APP-CH11-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-011": [
+    {
+      "id": "PCI-APP-CH11-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-012": [
+    {
+      "id": "PCI-APP-CH11-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-013": [
+    {
+      "id": "PCI-APP-CH11-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH11-014": [
+    {
+      "id": "PCI-APP-CH11-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-001": [
+    {
+      "id": "PCI-APP-CH12-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-002": [
+    {
+      "id": "PCI-APP-CH12-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-003": [
+    {
+      "id": "PCI-APP-CH12-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-004": [
+    {
+      "id": "PCI-APP-CH12-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-005": [
+    {
+      "id": "PCI-APP-CH12-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-006": [
+    {
+      "id": "PCI-APP-CH12-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-007": [
+    {
+      "id": "PCI-APP-CH12-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-008": [
+    {
+      "id": "PCI-APP-CH12-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-009": [
+    {
+      "id": "PCI-APP-CH12-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-010": [
+    {
+      "id": "PCI-APP-CH12-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-011": [
+    {
+      "id": "PCI-APP-CH12-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-012": [
+    {
+      "id": "PCI-APP-CH12-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-013": [
+    {
+      "id": "PCI-APP-CH12-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-014": [
+    {
+      "id": "PCI-APP-CH12-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-015": [
+    {
+      "id": "PCI-APP-CH12-015",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-016": [
+    {
+      "id": "PCI-APP-CH12-016",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH12-017": [
+    {
+      "id": "PCI-APP-CH12-017",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-001": [
+    {
+      "id": "PCI-APP-CH13-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-002": [
+    {
+      "id": "PCI-APP-CH13-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-003": [
+    {
+      "id": "PCI-APP-CH13-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-004": [
+    {
+      "id": "PCI-APP-CH13-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-005": [
+    {
+      "id": "PCI-APP-CH13-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-006": [
+    {
+      "id": "PCI-APP-CH13-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-007": [
+    {
+      "id": "PCI-APP-CH13-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-008": [
+    {
+      "id": "PCI-APP-CH13-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-009": [
+    {
+      "id": "PCI-APP-CH13-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-010": [
+    {
+      "id": "PCI-APP-CH13-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-011": [
+    {
+      "id": "PCI-APP-CH13-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-012": [
+    {
+      "id": "PCI-APP-CH13-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-013": [
+    {
+      "id": "PCI-APP-CH13-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-014": [
+    {
+      "id": "PCI-APP-CH13-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH13-015": [
+    {
+      "id": "PCI-APP-CH13-015",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-001": [
+    {
+      "id": "PCI-APP-CH14-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-002": [
+    {
+      "id": "PCI-APP-CH14-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-003": [
+    {
+      "id": "PCI-APP-CH14-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-004": [
+    {
+      "id": "PCI-APP-CH14-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-005": [
+    {
+      "id": "PCI-APP-CH14-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-006": [
+    {
+      "id": "PCI-APP-CH14-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-007": [
+    {
+      "id": "PCI-APP-CH14-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-008": [
+    {
+      "id": "PCI-APP-CH14-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-009": [
+    {
+      "id": "PCI-APP-CH14-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-010": [
+    {
+      "id": "PCI-APP-CH14-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-011": [
+    {
+      "id": "PCI-APP-CH14-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-012": [
+    {
+      "id": "PCI-APP-CH14-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-013": [
+    {
+      "id": "PCI-APP-CH14-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-014": [
+    {
+      "id": "PCI-APP-CH14-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH14-015": [
+    {
+      "id": "PCI-APP-CH14-015",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-001": [
+    {
+      "id": "PCI-APP-CH15-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-002": [
+    {
+      "id": "PCI-APP-CH15-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-003": [
+    {
+      "id": "PCI-APP-CH15-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-004": [
+    {
+      "id": "PCI-APP-CH15-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-005": [
+    {
+      "id": "PCI-APP-CH15-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-006": [
+    {
+      "id": "PCI-APP-CH15-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-007": [
+    {
+      "id": "PCI-APP-CH15-007",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-008": [
+    {
+      "id": "PCI-APP-CH15-008",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-009": [
+    {
+      "id": "PCI-APP-CH15-009",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-010": [
+    {
+      "id": "PCI-APP-CH15-010",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-011": [
+    {
+      "id": "PCI-APP-CH15-011",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-012": [
+    {
+      "id": "PCI-APP-CH15-012",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-013": [
+    {
+      "id": "PCI-APP-CH15-013",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-014": [
+    {
+      "id": "PCI-APP-CH15-014",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH15-015": [
+    {
+      "id": "PCI-APP-CH15-015",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-001": [
+    {
+      "id": "PCI-APP-CH16-001",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-002": [
+    {
+      "id": "PCI-APP-CH16-002",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-003": [
+    {
+      "id": "PCI-APP-CH16-003",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-004": [
+    {
+      "id": "PCI-APP-CH16-004",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-005": [
+    {
+      "id": "PCI-APP-CH16-005",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-006": [
+    {
+      "id": "PCI-APP-CH16-006",
+      "basis": "explicit_concept_id"
+    }
+  ],
+  "PCI-C-CH16-007": [
+    {
+      "id": "PCI-APP-CH16-007",
+      "basis": "explicit_concept_id"
+    }
+  ]
+}

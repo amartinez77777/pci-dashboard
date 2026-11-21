@@ -1,0 +1,54 @@
+PCI — GITHUB ACTIONS PRODUCTION BUILD / RELEASE UNBLOCKER
+
+STATUS: BUILD CONFIGURATION PREPARED; production is NOT verified or deployed yet.
+Source version inherited: 0.12.5-rc.1. All 10 app modules and canonical book data unchanged.
+
+WHAT HAPPENED
+The provided release source passed original SHA-256 inventory verification, 130/130 Node tests,
+TypeScript typecheck, and lightweight lint. npm install still fails with EAI_AGAIN
+registry.npmjs.org in this ChatGPT environment. Therefore no authentic Vite dist/ exists yet.
+
+WHAT THIS PACKAGE ADDS
+1. .github/workflows/pci-pages.yml: GitHub-hosted build and conditional Pages deployment.
+2. scripts/verify-production-dist.mjs: validates true React18/Vite build output and public assets.
+3. tests/native_production_smoke.py: real Chromium/browser-origin IndexedDB reload test.
+4. .gitignore: excludes backups, PDFs, secrets, and generated build output.
+Original application files/research/tests untouched, except for these added support files.
+
+HOW TO USE (DESKTOP IS EASIEST)
+1. Create an EMPTY GitHub repository for PCI (prefer private if your account supports the desired Pages setup).
+2. Extract this ZIP. The folder called PCI_GITHUB_RELEASE_READY is the repository root.
+   Upload/push the CONTENTS of that folder, including the hidden .github directory, into your repo.
+   Do NOT upload the ZIP file alone: GitHub Actions needs the source files in a repository.
+3. In the GitHub repository, go to Settings > Pages > Build and deployment > Source
+   and select 'GitHub Actions'. (If Pages is unavailable for a private repo on your plan,
+   choose an appropriate repo/hosting arrangement before publishing anything.)
+4. Use a 'main' branch; the workflow also supports 'master'. Push the files.
+5. In the repository Actions tab, find 'PCI — verify React/Vite and publish GitHub Pages'.
+   Look at the specific failing step if the run turns red. DO NOT CLAIM A SITE IS DEPLOYED
+   if any install, build, static verification or native Chromium step fails.
+6. If green, find your Pages URL under Settings > Pages / Actions deployment output.
+7. Download the 'pci-react18-production-build' Actions artifact and save its generated
+   package-lock.json BACK into the repository root. Commit it for reproducible future npm ci builds.
+8. On your iPhone, open the deployed HTTPS URL (not a ZIP or file:// URL).
+   Follow FINAL_MOBILE_10_MINUTE_CHECKLIST.txt from the source release. Verify create/save,
+   reload, export and import, browser backgrounding, and Safari privacy/accessibility.
+9. Only after those tests pass should you mark PCI production verified.
+
+IMPORTANT SAFETY AND LIMITATIONS
+- Only built dist/ is deployed. The CI SOURCE repo also contains historical test material and
+  may be public if you create a public GitHub repository. Never add personal backup JSON, passwords,
+  medical notes, client data, or the copyrighted book PDF to the repository.
+- Pages may serve publicly even when backed by a private repository; inspect your own settings.
+- Personal PCI entries remain in the browser IndexedDB, NOT synchronized across devices.
+- The native browser CI test verifies app rendering and a temporary IndexedDB v2 record after reload.
+  It does NOT prove backup/import UI, Safari iPhone, VoiceOver, multi-tab collision handling or
+  scientific validation of book claims. These remain manually testable release gates.
+- Source research still has 201 caution-field duplications and only 4 distinct misreading
+  templates; technical deployment does NOT resolve that editorial/research work.
+
+IF THE ACTION FAILS
+Copy the EXACT red step and error log back into ChatGPT. Do not retry big 5-stage prompts.
+Failures after dependency download can reveal new code defects that require focused patches.
+
+Original deployment checklist preserved in DEPLOYMENT.md.

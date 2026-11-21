@@ -1,0 +1,1 @@
+Vendored offline React UMD runtime: React 16.0.0 and ReactDOM 16.0.1, MIT license. Original sources include copyright and MIT notices. This runtime is a temporary dependency fallback; upgrade and retest before a public production release.

@@ -1,0 +1,21 @@
+const assert=require('node:assert/strict');
+const privacy=require('../dist/impl/pci-private.js');
+const goal={id:'11111111-2222-4333-8444-555555555555',store:'goals',created_at:'2026-11-20T10:00:00-08:00',updated_at:'2026-11-20T10:00:00-08:00',owner:'user',privacy_mode:'device_local',schema_version:'2.0.0',data:{title:'SYNTHETIC GOAL',status:'active'},refs:[],sensitive:false};
+const sensitive={...goal,id:'11111111-2222-4333-8444-666666666666',sensitive:true,consent_id:'11111111-2222-4333-8444-777777777777'};
+(async()=>{
+ let checks=0;const count=(b)=>{assert.ok(b);checks++;};
+ const redacted=privacy.buildPrivateBackup({goals:[goal,sensitive]},'America/Los_Angeles',goal.created_at);
+ count(redacted.records.goals.length===1);
+ count(redacted.metadata.export_mode==='redacted');
+ count(redacted.records.goals[0].data.title==='SYNTHETIC GOAL');
+ const full=privacy.buildPrivateBackup({goals:[goal,sensitive]},'America/Los_Angeles',goal.created_at,true);
+ count(full.records.goals.length===2);
+ const digest=await privacy.checksumPrivateBackup(redacted);count(/^[0-9a-f]{64}$/.test(digest));
+ redacted.checksum_sha256=digest;
+ count(await privacy.verifyPrivateBackupChecksum(redacted));
+ redacted.records.goals[0].data.title='TAMPERED SYNTHETIC RECORD';
+ count(!(await privacy.verifyPrivateBackupChecksum(redacted)));
+ count(privacy.dryRunImport(full).status==='VALID');
+ count(privacy.dryRunImport({...full,version:4}).status==='REJECT');
+ console.log(JSON.stringify({status:'PASS',passed:checks,failed:0}));
+})().catch(e=>{console.error(e);process.exit(1)});

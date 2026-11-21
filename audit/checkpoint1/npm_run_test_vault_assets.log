@@ -1,0 +1,5 @@
+
+> psycho-cybernetics-intelligence@0.12.0 test:vault:assets
+> python tests/validate_vault.py
+
+{"status": "PASS", "passed": 17, "failed": 0}

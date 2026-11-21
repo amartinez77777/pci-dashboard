@@ -1,0 +1,14 @@
+{
+  "path": "src/storage.ts",
+  "before_checkpoint4_sha256": "7d59ab136285f9fdde14d4c85c82b866f4b7da1b1b6c39a70ef4e8fd679b4be5",
+  "after_hardening_sha256": "d32c8ffdd7c49154038837bb60ad59754f7466ed2262e98e4b6c99c7ada78dc1",
+  "authorization": "Final Prompt 5 privacy/import restoration hardening; does not modify IndexedDB stores, DB_VERSION, record envelope format, public research or registered identifiers",
+  "changes": [
+    "Retry after initial IndexedDB-unavailable rejection",
+    "Reject malformed UUID, timestamps, null data, non-string refs, duplicate IDs",
+    "10 MB importer size limit; explicit consent for sensitive restore and export in Settings"
+  ],
+  "schema_migration": "NONE; pci-private-v1 v2 and same 25 stores",
+  "original_source_file_bytes_preserved_in_input_archive": true,
+  "tests": "tests/final_backup_safety.test.mjs plus full Node regression"
+}
